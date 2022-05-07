@@ -52,7 +52,7 @@ public abstract class BaseIcon : ComponentBase
     protected override void BuildRenderTree(RenderTreeBuilder builder)
     {
         builder.OpenElement(sequence: 1, elementName: "img");
-        builder.AddAttribute(sequence: 2, name: "src", value: $"bootstrap-icons/{IconSource}.svg");
+        builder.AddAttribute(sequence: 2, name: "src", value: $"_content/BlazorBootstrapIcons/images/bootstrap-icons/{IconSource}.svg");
         builder.AddAttribute(sequence: 3, name: "width", value: Size);
         builder.AddAttribute(sequence: 4, name: "height", value: Size);
         builder.AddAttribute(sequence: 5, name: "loading", value: "lazy");
