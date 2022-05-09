@@ -39,6 +39,6 @@
     #>
 <# foreach(var name in namePairDictionary) { #>
 
-<#=name.Key#>Icon ![<#=name.Key#>Icon](images/bootstrap-icons/bootstrap-icons.svg#<#=name.Value#>)
+<#=name.Key#>Icon ![<#=name.Key#>Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#<#=name.Value#>)
 <#
 } #>

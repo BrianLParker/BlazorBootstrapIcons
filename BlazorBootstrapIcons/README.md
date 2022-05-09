@@ -1,3366 +1,3366 @@
 ﻿
-OneTwoThreeIcon ![OneTwoThreeIcon](images/bootstrap-icons/bootstrap-icons.svg#123)
+OneTwoThreeIcon ![OneTwoThreeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#123)
 
-AlarmFillIcon ![AlarmFillIcon](images/bootstrap-icons/bootstrap-icons.svg#alarm-fill)
+AlarmFillIcon ![AlarmFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alarm-fill)
 
-AlarmIcon ![AlarmIcon](images/bootstrap-icons/bootstrap-icons.svg#alarm)
+AlarmIcon ![AlarmIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alarm)
 
-AlignBottomIcon ![AlignBottomIcon](images/bootstrap-icons/bootstrap-icons.svg#align-bottom)
+AlignBottomIcon ![AlignBottomIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-bottom)
 
-AlignCenterIcon ![AlignCenterIcon](images/bootstrap-icons/bootstrap-icons.svg#align-center)
+AlignCenterIcon ![AlignCenterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-center)
 
-AlignEndIcon ![AlignEndIcon](images/bootstrap-icons/bootstrap-icons.svg#align-end)
+AlignEndIcon ![AlignEndIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-end)
 
-AlignMiddleIcon ![AlignMiddleIcon](images/bootstrap-icons/bootstrap-icons.svg#align-middle)
+AlignMiddleIcon ![AlignMiddleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-middle)
 
-AlignStartIcon ![AlignStartIcon](images/bootstrap-icons/bootstrap-icons.svg#align-start)
+AlignStartIcon ![AlignStartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-start)
 
-AlignTopIcon ![AlignTopIcon](images/bootstrap-icons/bootstrap-icons.svg#align-top)
+AlignTopIcon ![AlignTopIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-top)
 
-AltIcon ![AltIcon](images/bootstrap-icons/bootstrap-icons.svg#alt)
+AltIcon ![AltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alt)
 
-AppIndicatorIcon ![AppIndicatorIcon](images/bootstrap-icons/bootstrap-icons.svg#app-indicator)
+AppIndicatorIcon ![AppIndicatorIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#app-indicator)
 
-AppIcon ![AppIcon](images/bootstrap-icons/bootstrap-icons.svg#app)
+AppIcon ![AppIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#app)
 
-ArchiveFillIcon ![ArchiveFillIcon](images/bootstrap-icons/bootstrap-icons.svg#archive-fill)
+ArchiveFillIcon ![ArchiveFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#archive-fill)
 
-ArchiveIcon ![ArchiveIcon](images/bootstrap-icons/bootstrap-icons.svg#archive)
+ArchiveIcon ![ArchiveIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#archive)
 
-Arrow90degDownIcon ![Arrow90degDownIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-down)
+Arrow90degDownIcon ![Arrow90degDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-down)
 
-Arrow90degLeftIcon ![Arrow90degLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-left)
+Arrow90degLeftIcon ![Arrow90degLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-left)
 
-Arrow90degRightIcon ![Arrow90degRightIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-right)
+Arrow90degRightIcon ![Arrow90degRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-right)
 
-Arrow90degUpIcon ![Arrow90degUpIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-up)
+Arrow90degUpIcon ![Arrow90degUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-up)
 
-ArrowBarDownIcon ![ArrowBarDownIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-down)
+ArrowBarDownIcon ![ArrowBarDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-down)
 
-ArrowBarLeftIcon ![ArrowBarLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-left)
+ArrowBarLeftIcon ![ArrowBarLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-left)
 
-ArrowBarRightIcon ![ArrowBarRightIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-right)
+ArrowBarRightIcon ![ArrowBarRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-right)
 
-ArrowBarUpIcon ![ArrowBarUpIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-up)
+ArrowBarUpIcon ![ArrowBarUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-up)
 
-ArrowClockwiseIcon ![ArrowClockwiseIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-clockwise)
+ArrowClockwiseIcon ![ArrowClockwiseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-clockwise)
 
-ArrowCounterclockwiseIcon ![ArrowCounterclockwiseIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-counterclockwise)
+ArrowCounterclockwiseIcon ![ArrowCounterclockwiseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-counterclockwise)
 
-ArrowDownCircleFillIcon ![ArrowDownCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle-fill)
+ArrowDownCircleFillIcon ![ArrowDownCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle-fill)
 
-ArrowDownCircleIcon ![ArrowDownCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle)
+ArrowDownCircleIcon ![ArrowDownCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle)
 
-ArrowDownLeftCircleFillIcon ![ArrowDownLeftCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle-fill)
+ArrowDownLeftCircleFillIcon ![ArrowDownLeftCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle-fill)
 
-ArrowDownLeftCircleIcon ![ArrowDownLeftCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle)
+ArrowDownLeftCircleIcon ![ArrowDownLeftCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle)
 
-ArrowDownLeftSquareFillIcon ![ArrowDownLeftSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square-fill)
+ArrowDownLeftSquareFillIcon ![ArrowDownLeftSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square-fill)
 
-ArrowDownLeftSquareIcon ![ArrowDownLeftSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square)
+ArrowDownLeftSquareIcon ![ArrowDownLeftSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square)
 
-ArrowDownLeftIcon ![ArrowDownLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left)
+ArrowDownLeftIcon ![ArrowDownLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left)
 
-ArrowDownRightCircleFillIcon ![ArrowDownRightCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle-fill)
+ArrowDownRightCircleFillIcon ![ArrowDownRightCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle-fill)
 
-ArrowDownRightCircleIcon ![ArrowDownRightCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle)
+ArrowDownRightCircleIcon ![ArrowDownRightCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle)
 
-ArrowDownRightSquareFillIcon ![ArrowDownRightSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square-fill)
+ArrowDownRightSquareFillIcon ![ArrowDownRightSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square-fill)
 
-ArrowDownRightSquareIcon ![ArrowDownRightSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square)
+ArrowDownRightSquareIcon ![ArrowDownRightSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square)
 
-ArrowDownRightIcon ![ArrowDownRightIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right)
+ArrowDownRightIcon ![ArrowDownRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right)
 
-ArrowDownShortIcon ![ArrowDownShortIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-short)
+ArrowDownShortIcon ![ArrowDownShortIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-short)
 
-ArrowDownSquareFillIcon ![ArrowDownSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-square-fill)
+ArrowDownSquareFillIcon ![ArrowDownSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-square-fill)
 
-ArrowDownSquareIcon ![ArrowDownSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-square)
+ArrowDownSquareIcon ![ArrowDownSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-square)
 
-ArrowDownUpIcon ![ArrowDownUpIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down-up)
+ArrowDownUpIcon ![ArrowDownUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-up)
 
-ArrowDownIcon ![ArrowDownIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-down)
+ArrowDownIcon ![ArrowDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down)
 
-ArrowLeftCircleFillIcon ![ArrowLeftCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle-fill)
+ArrowLeftCircleFillIcon ![ArrowLeftCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle-fill)
 
-ArrowLeftCircleIcon ![ArrowLeftCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle)
+ArrowLeftCircleIcon ![ArrowLeftCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle)
 
-ArrowLeftRightIcon ![ArrowLeftRightIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-left-right)
+ArrowLeftRightIcon ![ArrowLeftRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-right)
 
-ArrowLeftShortIcon ![ArrowLeftShortIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-left-short)
+ArrowLeftShortIcon ![ArrowLeftShortIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-short)
 
-ArrowLeftSquareFillIcon ![ArrowLeftSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-left-square-fill)
+ArrowLeftSquareFillIcon ![ArrowLeftSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-square-fill)
 
-ArrowLeftSquareIcon ![ArrowLeftSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-left-square)
+ArrowLeftSquareIcon ![ArrowLeftSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-square)
 
-ArrowLeftIcon ![ArrowLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-left)
+ArrowLeftIcon ![ArrowLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left)
 
-ArrowRepeatIcon ![ArrowRepeatIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-repeat)
+ArrowRepeatIcon ![ArrowRepeatIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-repeat)
 
-ArrowReturnLeftIcon ![ArrowReturnLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-return-left)
+ArrowReturnLeftIcon ![ArrowReturnLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-return-left)
 
-ArrowReturnRightIcon ![ArrowReturnRightIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-return-right)
+ArrowReturnRightIcon ![ArrowReturnRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-return-right)
 
-ArrowRightCircleFillIcon ![ArrowRightCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle-fill)
+ArrowRightCircleFillIcon ![ArrowRightCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle-fill)
 
-ArrowRightCircleIcon ![ArrowRightCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle)
+ArrowRightCircleIcon ![ArrowRightCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle)
 
-ArrowRightShortIcon ![ArrowRightShortIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-right-short)
+ArrowRightShortIcon ![ArrowRightShortIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-short)
 
-ArrowRightSquareFillIcon ![ArrowRightSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-right-square-fill)
+ArrowRightSquareFillIcon ![ArrowRightSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-square-fill)
 
-ArrowRightSquareIcon ![ArrowRightSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-right-square)
+ArrowRightSquareIcon ![ArrowRightSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-square)
 
-ArrowRightIcon ![ArrowRightIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-right)
+ArrowRightIcon ![ArrowRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right)
 
-ArrowUpCircleFillIcon ![ArrowUpCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle-fill)
+ArrowUpCircleFillIcon ![ArrowUpCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle-fill)
 
-ArrowUpCircleIcon ![ArrowUpCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle)
+ArrowUpCircleIcon ![ArrowUpCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle)
 
-ArrowUpLeftCircleFillIcon ![ArrowUpLeftCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle-fill)
+ArrowUpLeftCircleFillIcon ![ArrowUpLeftCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle-fill)
 
-ArrowUpLeftCircleIcon ![ArrowUpLeftCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle)
+ArrowUpLeftCircleIcon ![ArrowUpLeftCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle)
 
-ArrowUpLeftSquareFillIcon ![ArrowUpLeftSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square-fill)
+ArrowUpLeftSquareFillIcon ![ArrowUpLeftSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square-fill)
 
-ArrowUpLeftSquareIcon ![ArrowUpLeftSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square)
+ArrowUpLeftSquareIcon ![ArrowUpLeftSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square)
 
-ArrowUpLeftIcon ![ArrowUpLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left)
+ArrowUpLeftIcon ![ArrowUpLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left)
 
-ArrowUpRightCircleFillIcon ![ArrowUpRightCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle-fill)
+ArrowUpRightCircleFillIcon ![ArrowUpRightCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle-fill)
 
-ArrowUpRightCircleIcon ![ArrowUpRightCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle)
+ArrowUpRightCircleIcon ![ArrowUpRightCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle)
 
-ArrowUpRightSquareFillIcon ![ArrowUpRightSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square-fill)
+ArrowUpRightSquareFillIcon ![ArrowUpRightSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square-fill)
 
-ArrowUpRightSquareIcon ![ArrowUpRightSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square)
+ArrowUpRightSquareIcon ![ArrowUpRightSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square)
 
-ArrowUpRightIcon ![ArrowUpRightIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right)
+ArrowUpRightIcon ![ArrowUpRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right)
 
-ArrowUpShortIcon ![ArrowUpShortIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-short)
+ArrowUpShortIcon ![ArrowUpShortIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-short)
 
-ArrowUpSquareFillIcon ![ArrowUpSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-square-fill)
+ArrowUpSquareFillIcon ![ArrowUpSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-square-fill)
 
-ArrowUpSquareIcon ![ArrowUpSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up-square)
+ArrowUpSquareIcon ![ArrowUpSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-square)
 
-ArrowUpIcon ![ArrowUpIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-up)
+ArrowUpIcon ![ArrowUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up)
 
-ArrowsAngleContractIcon ![ArrowsAngleContractIcon](images/bootstrap-icons/bootstrap-icons.svg#arrows-angle-contract)
+ArrowsAngleContractIcon ![ArrowsAngleContractIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-angle-contract)
 
-ArrowsAngleExpandIcon ![ArrowsAngleExpandIcon](images/bootstrap-icons/bootstrap-icons.svg#arrows-angle-expand)
+ArrowsAngleExpandIcon ![ArrowsAngleExpandIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-angle-expand)
 
-ArrowsCollapseIcon ![ArrowsCollapseIcon](images/bootstrap-icons/bootstrap-icons.svg#arrows-collapse)
+ArrowsCollapseIcon ![ArrowsCollapseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-collapse)
 
-ArrowsExpandIcon ![ArrowsExpandIcon](images/bootstrap-icons/bootstrap-icons.svg#arrows-expand)
+ArrowsExpandIcon ![ArrowsExpandIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-expand)
 
-ArrowsFullscreenIcon ![ArrowsFullscreenIcon](images/bootstrap-icons/bootstrap-icons.svg#arrows-fullscreen)
+ArrowsFullscreenIcon ![ArrowsFullscreenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-fullscreen)
 
-ArrowsMoveIcon ![ArrowsMoveIcon](images/bootstrap-icons/bootstrap-icons.svg#arrows-move)
+ArrowsMoveIcon ![ArrowsMoveIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-move)
 
-AspectRatioFillIcon ![AspectRatioFillIcon](images/bootstrap-icons/bootstrap-icons.svg#aspect-ratio-fill)
+AspectRatioFillIcon ![AspectRatioFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#aspect-ratio-fill)
 
-AspectRatioIcon ![AspectRatioIcon](images/bootstrap-icons/bootstrap-icons.svg#aspect-ratio)
+AspectRatioIcon ![AspectRatioIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#aspect-ratio)
 
-AsteriskIcon ![AsteriskIcon](images/bootstrap-icons/bootstrap-icons.svg#asterisk)
+AsteriskIcon ![AsteriskIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#asterisk)
 
-AtIcon ![AtIcon](images/bootstrap-icons/bootstrap-icons.svg#at)
+AtIcon ![AtIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#at)
 
-AwardFillIcon ![AwardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#award-fill)
+AwardFillIcon ![AwardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#award-fill)
 
-AwardIcon ![AwardIcon](images/bootstrap-icons/bootstrap-icons.svg#award)
+AwardIcon ![AwardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#award)
 
-BackIcon ![BackIcon](images/bootstrap-icons/bootstrap-icons.svg#back)
+BackIcon ![BackIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#back)
 
-BackspaceFillIcon ![BackspaceFillIcon](images/bootstrap-icons/bootstrap-icons.svg#backspace-fill)
+BackspaceFillIcon ![BackspaceFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-fill)
 
-BackspaceReverseFillIcon ![BackspaceReverseFillIcon](images/bootstrap-icons/bootstrap-icons.svg#backspace-reverse-fill)
+BackspaceReverseFillIcon ![BackspaceReverseFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-reverse-fill)
 
-BackspaceReverseIcon ![BackspaceReverseIcon](images/bootstrap-icons/bootstrap-icons.svg#backspace-reverse)
+BackspaceReverseIcon ![BackspaceReverseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-reverse)
 
-BackspaceIcon ![BackspaceIcon](images/bootstrap-icons/bootstrap-icons.svg#backspace)
+BackspaceIcon ![BackspaceIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace)
 
-Badge3dFillIcon ![Badge3dFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-3d-fill)
+Badge3dFillIcon ![Badge3dFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-3d-fill)
 
-Badge3dIcon ![Badge3dIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-3d)
+Badge3dIcon ![Badge3dIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-3d)
 
-Badge4kFillIcon ![Badge4kFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-4k-fill)
+Badge4kFillIcon ![Badge4kFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-4k-fill)
 
-Badge4kIcon ![Badge4kIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-4k)
+Badge4kIcon ![Badge4kIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-4k)
 
-Badge8kFillIcon ![Badge8kFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-8k-fill)
+Badge8kFillIcon ![Badge8kFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-8k-fill)
 
-Badge8kIcon ![Badge8kIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-8k)
+Badge8kIcon ![Badge8kIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-8k)
 
-BadgeAdFillIcon ![BadgeAdFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-ad-fill)
+BadgeAdFillIcon ![BadgeAdFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ad-fill)
 
-BadgeAdIcon ![BadgeAdIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-ad)
+BadgeAdIcon ![BadgeAdIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ad)
 
-BadgeArFillIcon ![BadgeArFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-ar-fill)
+BadgeArFillIcon ![BadgeArFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ar-fill)
 
-BadgeArIcon ![BadgeArIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-ar)
+BadgeArIcon ![BadgeArIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ar)
 
-BadgeCcFillIcon ![BadgeCcFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-cc-fill)
+BadgeCcFillIcon ![BadgeCcFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-cc-fill)
 
-BadgeCcIcon ![BadgeCcIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-cc)
+BadgeCcIcon ![BadgeCcIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-cc)
 
-BadgeHdFillIcon ![BadgeHdFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-hd-fill)
+BadgeHdFillIcon ![BadgeHdFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-hd-fill)
 
-BadgeHdIcon ![BadgeHdIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-hd)
+BadgeHdIcon ![BadgeHdIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-hd)
 
-BadgeTmFillIcon ![BadgeTmFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-tm-fill)
+BadgeTmFillIcon ![BadgeTmFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-tm-fill)
 
-BadgeTmIcon ![BadgeTmIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-tm)
+BadgeTmIcon ![BadgeTmIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-tm)
 
-BadgeVoFillIcon ![BadgeVoFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-vo-fill)
+BadgeVoFillIcon ![BadgeVoFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vo-fill)
 
-BadgeVoIcon ![BadgeVoIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-vo)
+BadgeVoIcon ![BadgeVoIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vo)
 
-BadgeVrFillIcon ![BadgeVrFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-vr-fill)
+BadgeVrFillIcon ![BadgeVrFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vr-fill)
 
-BadgeVrIcon ![BadgeVrIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-vr)
+BadgeVrIcon ![BadgeVrIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vr)
 
-BadgeWcFillIcon ![BadgeWcFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-wc-fill)
+BadgeWcFillIcon ![BadgeWcFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-wc-fill)
 
-BadgeWcIcon ![BadgeWcIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-wc)
+BadgeWcIcon ![BadgeWcIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-wc)
 
-BagCheckFillIcon ![BagCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-check-fill)
+BagCheckFillIcon ![BagCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-check-fill)
 
-BagCheckIcon ![BagCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-check)
+BagCheckIcon ![BagCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-check)
 
-BagDashFillIcon ![BagDashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-dash-fill)
+BagDashFillIcon ![BagDashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-dash-fill)
 
-BagDashIcon ![BagDashIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-dash)
+BagDashIcon ![BagDashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-dash)
 
-BagFillIcon ![BagFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-fill)
+BagFillIcon ![BagFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-fill)
 
-BagPlusFillIcon ![BagPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-plus-fill)
+BagPlusFillIcon ![BagPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-plus-fill)
 
-BagPlusIcon ![BagPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-plus)
+BagPlusIcon ![BagPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-plus)
 
-BagXFillIcon ![BagXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-x-fill)
+BagXFillIcon ![BagXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-x-fill)
 
-BagXIcon ![BagXIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-x)
+BagXIcon ![BagXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-x)
 
-BagIcon ![BagIcon](images/bootstrap-icons/bootstrap-icons.svg#bag)
+BagIcon ![BagIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag)
 
-BarChartFillIcon ![BarChartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bar-chart-fill)
+BarChartFillIcon ![BarChartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-fill)
 
-BarChartLineFillIcon ![BarChartLineFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bar-chart-line-fill)
+BarChartLineFillIcon ![BarChartLineFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-line-fill)
 
-BarChartLineIcon ![BarChartLineIcon](images/bootstrap-icons/bootstrap-icons.svg#bar-chart-line)
+BarChartLineIcon ![BarChartLineIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-line)
 
-BarChartStepsIcon ![BarChartStepsIcon](images/bootstrap-icons/bootstrap-icons.svg#bar-chart-steps)
+BarChartStepsIcon ![BarChartStepsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-steps)
 
-BarChartIcon ![BarChartIcon](images/bootstrap-icons/bootstrap-icons.svg#bar-chart)
+BarChartIcon ![BarChartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart)
 
-BasketFillIcon ![BasketFillIcon](images/bootstrap-icons/bootstrap-icons.svg#basket-fill)
+BasketFillIcon ![BasketFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket-fill)
 
-BasketIcon ![BasketIcon](images/bootstrap-icons/bootstrap-icons.svg#basket)
+BasketIcon ![BasketIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket)
 
-Basket2FillIcon ![Basket2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#basket2-fill)
+Basket2FillIcon ![Basket2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket2-fill)
 
-Basket2Icon ![Basket2Icon](images/bootstrap-icons/bootstrap-icons.svg#basket2)
+Basket2Icon ![Basket2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket2)
 
-Basket3FillIcon ![Basket3FillIcon](images/bootstrap-icons/bootstrap-icons.svg#basket3-fill)
+Basket3FillIcon ![Basket3FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket3-fill)
 
-Basket3Icon ![Basket3Icon](images/bootstrap-icons/bootstrap-icons.svg#basket3)
+Basket3Icon ![Basket3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket3)
 
-BatteryChargingIcon ![BatteryChargingIcon](images/bootstrap-icons/bootstrap-icons.svg#battery-charging)
+BatteryChargingIcon ![BatteryChargingIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-charging)
 
-BatteryFullIcon ![BatteryFullIcon](images/bootstrap-icons/bootstrap-icons.svg#battery-full)
+BatteryFullIcon ![BatteryFullIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-full)
 
-BatteryHalfIcon ![BatteryHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#battery-half)
+BatteryHalfIcon ![BatteryHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-half)
 
-BatteryIcon ![BatteryIcon](images/bootstrap-icons/bootstrap-icons.svg#battery)
+BatteryIcon ![BatteryIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery)
 
-BellFillIcon ![BellFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bell-fill)
+BellFillIcon ![BellFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-fill)
 
-BellIcon ![BellIcon](images/bootstrap-icons/bootstrap-icons.svg#bell)
+BellIcon ![BellIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell)
 
-BezierIcon ![BezierIcon](images/bootstrap-icons/bootstrap-icons.svg#bezier)
+BezierIcon ![BezierIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bezier)
 
-Bezier2Icon ![Bezier2Icon](images/bootstrap-icons/bootstrap-icons.svg#bezier2)
+Bezier2Icon ![Bezier2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bezier2)
 
-BicycleIcon ![BicycleIcon](images/bootstrap-icons/bootstrap-icons.svg#bicycle)
+BicycleIcon ![BicycleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bicycle)
 
-BinocularsFillIcon ![BinocularsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#binoculars-fill)
+BinocularsFillIcon ![BinocularsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#binoculars-fill)
 
-BinocularsIcon ![BinocularsIcon](images/bootstrap-icons/bootstrap-icons.svg#binoculars)
+BinocularsIcon ![BinocularsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#binoculars)
 
-BlockquoteLeftIcon ![BlockquoteLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#blockquote-left)
+BlockquoteLeftIcon ![BlockquoteLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#blockquote-left)
 
-BlockquoteRightIcon ![BlockquoteRightIcon](images/bootstrap-icons/bootstrap-icons.svg#blockquote-right)
+BlockquoteRightIcon ![BlockquoteRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#blockquote-right)
 
-BookFillIcon ![BookFillIcon](images/bootstrap-icons/bootstrap-icons.svg#book-fill)
+BookFillIcon ![BookFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book-fill)
 
-BookHalfIcon ![BookHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#book-half)
+BookHalfIcon ![BookHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book-half)
 
-BookIcon ![BookIcon](images/bootstrap-icons/bootstrap-icons.svg#book)
+BookIcon ![BookIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book)
 
-BookmarkCheckFillIcon ![BookmarkCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-check-fill)
+BookmarkCheckFillIcon ![BookmarkCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-check-fill)
 
-BookmarkCheckIcon ![BookmarkCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-check)
+BookmarkCheckIcon ![BookmarkCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-check)
 
-BookmarkDashFillIcon ![BookmarkDashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-dash-fill)
+BookmarkDashFillIcon ![BookmarkDashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-dash-fill)
 
-BookmarkDashIcon ![BookmarkDashIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-dash)
+BookmarkDashIcon ![BookmarkDashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-dash)
 
-BookmarkFillIcon ![BookmarkFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-fill)
+BookmarkFillIcon ![BookmarkFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-fill)
 
-BookmarkHeartFillIcon ![BookmarkHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-heart-fill)
+BookmarkHeartFillIcon ![BookmarkHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-heart-fill)
 
-BookmarkHeartIcon ![BookmarkHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-heart)
+BookmarkHeartIcon ![BookmarkHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-heart)
 
-BookmarkPlusFillIcon ![BookmarkPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-plus-fill)
+BookmarkPlusFillIcon ![BookmarkPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-plus-fill)
 
-BookmarkPlusIcon ![BookmarkPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-plus)
+BookmarkPlusIcon ![BookmarkPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-plus)
 
-BookmarkStarFillIcon ![BookmarkStarFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-star-fill)
+BookmarkStarFillIcon ![BookmarkStarFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-star-fill)
 
-BookmarkStarIcon ![BookmarkStarIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-star)
+BookmarkStarIcon ![BookmarkStarIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-star)
 
-BookmarkXFillIcon ![BookmarkXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-x-fill)
+BookmarkXFillIcon ![BookmarkXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-x-fill)
 
-BookmarkXIcon ![BookmarkXIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark-x)
+BookmarkXIcon ![BookmarkXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-x)
 
-BookmarkIcon ![BookmarkIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmark)
+BookmarkIcon ![BookmarkIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark)
 
-BookmarksFillIcon ![BookmarksFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmarks-fill)
+BookmarksFillIcon ![BookmarksFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmarks-fill)
 
-BookmarksIcon ![BookmarksIcon](images/bootstrap-icons/bootstrap-icons.svg#bookmarks)
+BookmarksIcon ![BookmarksIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmarks)
 
-BookshelfIcon ![BookshelfIcon](images/bootstrap-icons/bootstrap-icons.svg#bookshelf)
+BookshelfIcon ![BookshelfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookshelf)
 
-BootstrapFillIcon ![BootstrapFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bootstrap-fill)
+BootstrapFillIcon ![BootstrapFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap-fill)
 
-BootstrapRebootIcon ![BootstrapRebootIcon](images/bootstrap-icons/bootstrap-icons.svg#bootstrap-reboot)
+BootstrapRebootIcon ![BootstrapRebootIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap-reboot)
 
-BootstrapIcon ![BootstrapIcon](images/bootstrap-icons/bootstrap-icons.svg#bootstrap)
+BootstrapIcon ![BootstrapIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap)
 
-BorderAllIcon ![BorderAllIcon](images/bootstrap-icons/bootstrap-icons.svg#border-all)
+BorderAllIcon ![BorderAllIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-all)
 
-BorderBottomIcon ![BorderBottomIcon](images/bootstrap-icons/bootstrap-icons.svg#border-bottom)
+BorderBottomIcon ![BorderBottomIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-bottom)
 
-BorderCenterIcon ![BorderCenterIcon](images/bootstrap-icons/bootstrap-icons.svg#border-center)
+BorderCenterIcon ![BorderCenterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-center)
 
-BorderInnerIcon ![BorderInnerIcon](images/bootstrap-icons/bootstrap-icons.svg#border-inner)
+BorderInnerIcon ![BorderInnerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-inner)
 
-BorderLeftIcon ![BorderLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#border-left)
+BorderLeftIcon ![BorderLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-left)
 
-BorderMiddleIcon ![BorderMiddleIcon](images/bootstrap-icons/bootstrap-icons.svg#border-middle)
+BorderMiddleIcon ![BorderMiddleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-middle)
 
-BorderOuterIcon ![BorderOuterIcon](images/bootstrap-icons/bootstrap-icons.svg#border-outer)
+BorderOuterIcon ![BorderOuterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-outer)
 
-BorderRightIcon ![BorderRightIcon](images/bootstrap-icons/bootstrap-icons.svg#border-right)
+BorderRightIcon ![BorderRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-right)
 
-BorderStyleIcon ![BorderStyleIcon](images/bootstrap-icons/bootstrap-icons.svg#border-style)
+BorderStyleIcon ![BorderStyleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-style)
 
-BorderTopIcon ![BorderTopIcon](images/bootstrap-icons/bootstrap-icons.svg#border-top)
+BorderTopIcon ![BorderTopIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-top)
 
-BorderWidthIcon ![BorderWidthIcon](images/bootstrap-icons/bootstrap-icons.svg#border-width)
+BorderWidthIcon ![BorderWidthIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-width)
 
-BorderIcon ![BorderIcon](images/bootstrap-icons/bootstrap-icons.svg#border)
+BorderIcon ![BorderIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border)
 
-BoundingBoxCirclesIcon ![BoundingBoxCirclesIcon](images/bootstrap-icons/bootstrap-icons.svg#bounding-box-circles)
+BoundingBoxCirclesIcon ![BoundingBoxCirclesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bounding-box-circles)
 
-BoundingBoxIcon ![BoundingBoxIcon](images/bootstrap-icons/bootstrap-icons.svg#bounding-box)
+BoundingBoxIcon ![BoundingBoxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bounding-box)
 
-BoxArrowDownLeftIcon ![BoxArrowDownLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-left)
+BoxArrowDownLeftIcon ![BoxArrowDownLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-left)
 
-BoxArrowDownRightIcon ![BoxArrowDownRightIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-right)
+BoxArrowDownRightIcon ![BoxArrowDownRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-right)
 
-BoxArrowDownIcon ![BoxArrowDownIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down)
+BoxArrowDownIcon ![BoxArrowDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down)
 
-BoxArrowInDownLeftIcon ![BoxArrowInDownLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-left)
+BoxArrowInDownLeftIcon ![BoxArrowInDownLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-left)
 
-BoxArrowInDownRightIcon ![BoxArrowInDownRightIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-right)
+BoxArrowInDownRightIcon ![BoxArrowInDownRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-right)
 
-BoxArrowInDownIcon ![BoxArrowInDownIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down)
+BoxArrowInDownIcon ![BoxArrowInDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down)
 
-BoxArrowInLeftIcon ![BoxArrowInLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-left)
+BoxArrowInLeftIcon ![BoxArrowInLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-left)
 
-BoxArrowInRightIcon ![BoxArrowInRightIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-right)
+BoxArrowInRightIcon ![BoxArrowInRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-right)
 
-BoxArrowInUpLeftIcon ![BoxArrowInUpLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-left)
+BoxArrowInUpLeftIcon ![BoxArrowInUpLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-left)
 
-BoxArrowInUpRightIcon ![BoxArrowInUpRightIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-right)
+BoxArrowInUpRightIcon ![BoxArrowInUpRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-right)
 
-BoxArrowInUpIcon ![BoxArrowInUpIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up)
+BoxArrowInUpIcon ![BoxArrowInUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up)
 
-BoxArrowLeftIcon ![BoxArrowLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-left)
+BoxArrowLeftIcon ![BoxArrowLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-left)
 
-BoxArrowRightIcon ![BoxArrowRightIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-right)
+BoxArrowRightIcon ![BoxArrowRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-right)
 
-BoxArrowUpLeftIcon ![BoxArrowUpLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-left)
+BoxArrowUpLeftIcon ![BoxArrowUpLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-left)
 
-BoxArrowUpRightIcon ![BoxArrowUpRightIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-right)
+BoxArrowUpRightIcon ![BoxArrowUpRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-right)
 
-BoxArrowUpIcon ![BoxArrowUpIcon](images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up)
+BoxArrowUpIcon ![BoxArrowUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up)
 
-BoxSeamIcon ![BoxSeamIcon](images/bootstrap-icons/bootstrap-icons.svg#box-seam)
+BoxSeamIcon ![BoxSeamIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-seam)
 
-BoxIcon ![BoxIcon](images/bootstrap-icons/bootstrap-icons.svg#box)
+BoxIcon ![BoxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box)
 
-BracesIcon ![BracesIcon](images/bootstrap-icons/bootstrap-icons.svg#braces)
+BracesIcon ![BracesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#braces)
 
-BricksIcon ![BricksIcon](images/bootstrap-icons/bootstrap-icons.svg#bricks)
+BricksIcon ![BricksIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bricks)
 
-BriefcaseFillIcon ![BriefcaseFillIcon](images/bootstrap-icons/bootstrap-icons.svg#briefcase-fill)
+BriefcaseFillIcon ![BriefcaseFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#briefcase-fill)
 
-BriefcaseIcon ![BriefcaseIcon](images/bootstrap-icons/bootstrap-icons.svg#briefcase)
+BriefcaseIcon ![BriefcaseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#briefcase)
 
-BrightnessAltHighFillIcon ![BrightnessAltHighFillIcon](images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high-fill)
+BrightnessAltHighFillIcon ![BrightnessAltHighFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high-fill)
 
-BrightnessAltHighIcon ![BrightnessAltHighIcon](images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high)
+BrightnessAltHighIcon ![BrightnessAltHighIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high)
 
-BrightnessAltLowFillIcon ![BrightnessAltLowFillIcon](images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low-fill)
+BrightnessAltLowFillIcon ![BrightnessAltLowFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low-fill)
 
-BrightnessAltLowIcon ![BrightnessAltLowIcon](images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low)
+BrightnessAltLowIcon ![BrightnessAltLowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low)
 
-BrightnessHighFillIcon ![BrightnessHighFillIcon](images/bootstrap-icons/bootstrap-icons.svg#brightness-high-fill)
+BrightnessHighFillIcon ![BrightnessHighFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-high-fill)
 
-BrightnessHighIcon ![BrightnessHighIcon](images/bootstrap-icons/bootstrap-icons.svg#brightness-high)
+BrightnessHighIcon ![BrightnessHighIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-high)
 
-BrightnessLowFillIcon ![BrightnessLowFillIcon](images/bootstrap-icons/bootstrap-icons.svg#brightness-low-fill)
+BrightnessLowFillIcon ![BrightnessLowFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-low-fill)
 
-BrightnessLowIcon ![BrightnessLowIcon](images/bootstrap-icons/bootstrap-icons.svg#brightness-low)
+BrightnessLowIcon ![BrightnessLowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-low)
 
-BroadcastPinIcon ![BroadcastPinIcon](images/bootstrap-icons/bootstrap-icons.svg#broadcast-pin)
+BroadcastPinIcon ![BroadcastPinIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#broadcast-pin)
 
-BroadcastIcon ![BroadcastIcon](images/bootstrap-icons/bootstrap-icons.svg#broadcast)
+BroadcastIcon ![BroadcastIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#broadcast)
 
-BrushFillIcon ![BrushFillIcon](images/bootstrap-icons/bootstrap-icons.svg#brush-fill)
+BrushFillIcon ![BrushFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brush-fill)
 
-BrushIcon ![BrushIcon](images/bootstrap-icons/bootstrap-icons.svg#brush)
+BrushIcon ![BrushIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brush)
 
-BucketFillIcon ![BucketFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bucket-fill)
+BucketFillIcon ![BucketFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bucket-fill)
 
-BucketIcon ![BucketIcon](images/bootstrap-icons/bootstrap-icons.svg#bucket)
+BucketIcon ![BucketIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bucket)
 
-BugFillIcon ![BugFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bug-fill)
+BugFillIcon ![BugFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bug-fill)
 
-BugIcon ![BugIcon](images/bootstrap-icons/bootstrap-icons.svg#bug)
+BugIcon ![BugIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bug)
 
-BuildingIcon ![BuildingIcon](images/bootstrap-icons/bootstrap-icons.svg#building)
+BuildingIcon ![BuildingIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#building)
 
-BullseyeIcon ![BullseyeIcon](images/bootstrap-icons/bootstrap-icons.svg#bullseye)
+BullseyeIcon ![BullseyeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bullseye)
 
-CalculatorFillIcon ![CalculatorFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calculator-fill)
+CalculatorFillIcon ![CalculatorFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calculator-fill)
 
-CalculatorIcon ![CalculatorIcon](images/bootstrap-icons/bootstrap-icons.svg#calculator)
+CalculatorIcon ![CalculatorIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calculator)
 
-CalendarCheckFillIcon ![CalendarCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-check-fill)
+CalendarCheckFillIcon ![CalendarCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-check-fill)
 
-CalendarCheckIcon ![CalendarCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-check)
+CalendarCheckIcon ![CalendarCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-check)
 
-CalendarDateFillIcon ![CalendarDateFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-date-fill)
+CalendarDateFillIcon ![CalendarDateFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-date-fill)
 
-CalendarDateIcon ![CalendarDateIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-date)
+CalendarDateIcon ![CalendarDateIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-date)
 
-CalendarDayFillIcon ![CalendarDayFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-day-fill)
+CalendarDayFillIcon ![CalendarDayFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-day-fill)
 
-CalendarDayIcon ![CalendarDayIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-day)
+CalendarDayIcon ![CalendarDayIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-day)
 
-CalendarEventFillIcon ![CalendarEventFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-event-fill)
+CalendarEventFillIcon ![CalendarEventFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-event-fill)
 
-CalendarEventIcon ![CalendarEventIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-event)
+CalendarEventIcon ![CalendarEventIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-event)
 
-CalendarFillIcon ![CalendarFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-fill)
+CalendarFillIcon ![CalendarFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-fill)
 
-CalendarMinusFillIcon ![CalendarMinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-minus-fill)
+CalendarMinusFillIcon ![CalendarMinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-minus-fill)
 
-CalendarMinusIcon ![CalendarMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-minus)
+CalendarMinusIcon ![CalendarMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-minus)
 
-CalendarMonthFillIcon ![CalendarMonthFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-month-fill)
+CalendarMonthFillIcon ![CalendarMonthFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-month-fill)
 
-CalendarMonthIcon ![CalendarMonthIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-month)
+CalendarMonthIcon ![CalendarMonthIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-month)
 
-CalendarPlusFillIcon ![CalendarPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-plus-fill)
+CalendarPlusFillIcon ![CalendarPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-plus-fill)
 
-CalendarPlusIcon ![CalendarPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-plus)
+CalendarPlusIcon ![CalendarPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-plus)
 
-CalendarRangeFillIcon ![CalendarRangeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-range-fill)
+CalendarRangeFillIcon ![CalendarRangeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-range-fill)
 
-CalendarRangeIcon ![CalendarRangeIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-range)
+CalendarRangeIcon ![CalendarRangeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-range)
 
-CalendarWeekFillIcon ![CalendarWeekFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-week-fill)
+CalendarWeekFillIcon ![CalendarWeekFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-week-fill)
 
-CalendarWeekIcon ![CalendarWeekIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-week)
+CalendarWeekIcon ![CalendarWeekIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-week)
 
-CalendarXFillIcon ![CalendarXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-x-fill)
+CalendarXFillIcon ![CalendarXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-x-fill)
 
-CalendarXIcon ![CalendarXIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-x)
+CalendarXIcon ![CalendarXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-x)
 
-CalendarIcon ![CalendarIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar)
+CalendarIcon ![CalendarIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar)
 
-Calendar2CheckFillIcon ![Calendar2CheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-check-fill)
+Calendar2CheckFillIcon ![Calendar2CheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-check-fill)
 
-Calendar2CheckIcon ![Calendar2CheckIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-check)
+Calendar2CheckIcon ![Calendar2CheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-check)
 
-Calendar2DateFillIcon ![Calendar2DateFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-date-fill)
+Calendar2DateFillIcon ![Calendar2DateFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-date-fill)
 
-Calendar2DateIcon ![Calendar2DateIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-date)
+Calendar2DateIcon ![Calendar2DateIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-date)
 
-Calendar2DayFillIcon ![Calendar2DayFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-day-fill)
+Calendar2DayFillIcon ![Calendar2DayFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-day-fill)
 
-Calendar2DayIcon ![Calendar2DayIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-day)
+Calendar2DayIcon ![Calendar2DayIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-day)
 
-Calendar2EventFillIcon ![Calendar2EventFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-event-fill)
+Calendar2EventFillIcon ![Calendar2EventFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-event-fill)
 
-Calendar2EventIcon ![Calendar2EventIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-event)
+Calendar2EventIcon ![Calendar2EventIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-event)
 
-Calendar2FillIcon ![Calendar2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-fill)
+Calendar2FillIcon ![Calendar2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-fill)
 
-Calendar2MinusFillIcon ![Calendar2MinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-minus-fill)
+Calendar2MinusFillIcon ![Calendar2MinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-minus-fill)
 
-Calendar2MinusIcon ![Calendar2MinusIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-minus)
+Calendar2MinusIcon ![Calendar2MinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-minus)
 
-Calendar2MonthFillIcon ![Calendar2MonthFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-month-fill)
+Calendar2MonthFillIcon ![Calendar2MonthFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-month-fill)
 
-Calendar2MonthIcon ![Calendar2MonthIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-month)
+Calendar2MonthIcon ![Calendar2MonthIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-month)
 
-Calendar2PlusFillIcon ![Calendar2PlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-plus-fill)
+Calendar2PlusFillIcon ![Calendar2PlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-plus-fill)
 
-Calendar2PlusIcon ![Calendar2PlusIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-plus)
+Calendar2PlusIcon ![Calendar2PlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-plus)
 
-Calendar2RangeFillIcon ![Calendar2RangeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-range-fill)
+Calendar2RangeFillIcon ![Calendar2RangeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-range-fill)
 
-Calendar2RangeIcon ![Calendar2RangeIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-range)
+Calendar2RangeIcon ![Calendar2RangeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-range)
 
-Calendar2WeekFillIcon ![Calendar2WeekFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-week-fill)
+Calendar2WeekFillIcon ![Calendar2WeekFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-week-fill)
 
-Calendar2WeekIcon ![Calendar2WeekIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-week)
+Calendar2WeekIcon ![Calendar2WeekIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-week)
 
-Calendar2XFillIcon ![Calendar2XFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-x-fill)
+Calendar2XFillIcon ![Calendar2XFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-x-fill)
 
-Calendar2XIcon ![Calendar2XIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-x)
+Calendar2XIcon ![Calendar2XIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-x)
 
-Calendar2Icon ![Calendar2Icon](images/bootstrap-icons/bootstrap-icons.svg#calendar2)
+Calendar2Icon ![Calendar2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2)
 
-Calendar3EventFillIcon ![Calendar3EventFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar3-event-fill)
+Calendar3EventFillIcon ![Calendar3EventFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-event-fill)
 
-Calendar3EventIcon ![Calendar3EventIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar3-event)
+Calendar3EventIcon ![Calendar3EventIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-event)
 
-Calendar3FillIcon ![Calendar3FillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar3-fill)
+Calendar3FillIcon ![Calendar3FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-fill)
 
-Calendar3RangeFillIcon ![Calendar3RangeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar3-range-fill)
+Calendar3RangeFillIcon ![Calendar3RangeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-range-fill)
 
-Calendar3RangeIcon ![Calendar3RangeIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar3-range)
+Calendar3RangeIcon ![Calendar3RangeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-range)
 
-Calendar3WeekFillIcon ![Calendar3WeekFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar3-week-fill)
+Calendar3WeekFillIcon ![Calendar3WeekFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-week-fill)
 
-Calendar3WeekIcon ![Calendar3WeekIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar3-week)
+Calendar3WeekIcon ![Calendar3WeekIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-week)
 
-Calendar3Icon ![Calendar3Icon](images/bootstrap-icons/bootstrap-icons.svg#calendar3)
+Calendar3Icon ![Calendar3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3)
 
-Calendar4EventIcon ![Calendar4EventIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar4-event)
+Calendar4EventIcon ![Calendar4EventIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-event)
 
-Calendar4RangeIcon ![Calendar4RangeIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar4-range)
+Calendar4RangeIcon ![Calendar4RangeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-range)
 
-Calendar4WeekIcon ![Calendar4WeekIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar4-week)
+Calendar4WeekIcon ![Calendar4WeekIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-week)
 
-Calendar4Icon ![Calendar4Icon](images/bootstrap-icons/bootstrap-icons.svg#calendar4)
+Calendar4Icon ![Calendar4Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4)
 
-CameraFillIcon ![CameraFillIcon](images/bootstrap-icons/bootstrap-icons.svg#camera-fill)
+CameraFillIcon ![CameraFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-fill)
 
-CameraReelsFillIcon ![CameraReelsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#camera-reels-fill)
+CameraReelsFillIcon ![CameraReelsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-reels-fill)
 
-CameraReelsIcon ![CameraReelsIcon](images/bootstrap-icons/bootstrap-icons.svg#camera-reels)
+CameraReelsIcon ![CameraReelsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-reels)
 
-CameraVideoFillIcon ![CameraVideoFillIcon](images/bootstrap-icons/bootstrap-icons.svg#camera-video-fill)
+CameraVideoFillIcon ![CameraVideoFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-fill)
 
-CameraVideoOffFillIcon ![CameraVideoOffFillIcon](images/bootstrap-icons/bootstrap-icons.svg#camera-video-off-fill)
+CameraVideoOffFillIcon ![CameraVideoOffFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-off-fill)
 
-CameraVideoOffIcon ![CameraVideoOffIcon](images/bootstrap-icons/bootstrap-icons.svg#camera-video-off)
+CameraVideoOffIcon ![CameraVideoOffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-off)
 
-CameraVideoIcon ![CameraVideoIcon](images/bootstrap-icons/bootstrap-icons.svg#camera-video)
+CameraVideoIcon ![CameraVideoIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video)
 
-CameraIcon ![CameraIcon](images/bootstrap-icons/bootstrap-icons.svg#camera)
+CameraIcon ![CameraIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera)
 
-Camera2Icon ![Camera2Icon](images/bootstrap-icons/bootstrap-icons.svg#camera2)
+Camera2Icon ![Camera2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera2)
 
-CapslockFillIcon ![CapslockFillIcon](images/bootstrap-icons/bootstrap-icons.svg#capslock-fill)
+CapslockFillIcon ![CapslockFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#capslock-fill)
 
-CapslockIcon ![CapslockIcon](images/bootstrap-icons/bootstrap-icons.svg#capslock)
+CapslockIcon ![CapslockIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#capslock)
 
-CardChecklistIcon ![CardChecklistIcon](images/bootstrap-icons/bootstrap-icons.svg#card-checklist)
+CardChecklistIcon ![CardChecklistIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-checklist)
 
-CardHeadingIcon ![CardHeadingIcon](images/bootstrap-icons/bootstrap-icons.svg#card-heading)
+CardHeadingIcon ![CardHeadingIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-heading)
 
-CardImageIcon ![CardImageIcon](images/bootstrap-icons/bootstrap-icons.svg#card-image)
+CardImageIcon ![CardImageIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-image)
 
-CardListIcon ![CardListIcon](images/bootstrap-icons/bootstrap-icons.svg#card-list)
+CardListIcon ![CardListIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-list)
 
-CardTextIcon ![CardTextIcon](images/bootstrap-icons/bootstrap-icons.svg#card-text)
+CardTextIcon ![CardTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-text)
 
-CaretDownFillIcon ![CaretDownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-down-fill)
+CaretDownFillIcon ![CaretDownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-fill)
 
-CaretDownSquareFillIcon ![CaretDownSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-down-square-fill)
+CaretDownSquareFillIcon ![CaretDownSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-square-fill)
 
-CaretDownSquareIcon ![CaretDownSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-down-square)
+CaretDownSquareIcon ![CaretDownSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-square)
 
-CaretDownIcon ![CaretDownIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-down)
+CaretDownIcon ![CaretDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down)
 
-CaretLeftFillIcon ![CaretLeftFillIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-left-fill)
+CaretLeftFillIcon ![CaretLeftFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-fill)
 
-CaretLeftSquareFillIcon ![CaretLeftSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-left-square-fill)
+CaretLeftSquareFillIcon ![CaretLeftSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-square-fill)
 
-CaretLeftSquareIcon ![CaretLeftSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-left-square)
+CaretLeftSquareIcon ![CaretLeftSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-square)
 
-CaretLeftIcon ![CaretLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-left)
+CaretLeftIcon ![CaretLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left)
 
-CaretRightFillIcon ![CaretRightFillIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-right-fill)
+CaretRightFillIcon ![CaretRightFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-fill)
 
-CaretRightSquareFillIcon ![CaretRightSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-right-square-fill)
+CaretRightSquareFillIcon ![CaretRightSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-square-fill)
 
-CaretRightSquareIcon ![CaretRightSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-right-square)
+CaretRightSquareIcon ![CaretRightSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-square)
 
-CaretRightIcon ![CaretRightIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-right)
+CaretRightIcon ![CaretRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right)
 
-CaretUpFillIcon ![CaretUpFillIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-up-fill)
+CaretUpFillIcon ![CaretUpFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-fill)
 
-CaretUpSquareFillIcon ![CaretUpSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-up-square-fill)
+CaretUpSquareFillIcon ![CaretUpSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-square-fill)
 
-CaretUpSquareIcon ![CaretUpSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-up-square)
+CaretUpSquareIcon ![CaretUpSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-square)
 
-CaretUpIcon ![CaretUpIcon](images/bootstrap-icons/bootstrap-icons.svg#caret-up)
+CaretUpIcon ![CaretUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up)
 
-CartCheckFillIcon ![CartCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-check-fill)
+CartCheckFillIcon ![CartCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-check-fill)
 
-CartCheckIcon ![CartCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-check)
+CartCheckIcon ![CartCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-check)
 
-CartDashFillIcon ![CartDashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-dash-fill)
+CartDashFillIcon ![CartDashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-dash-fill)
 
-CartDashIcon ![CartDashIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-dash)
+CartDashIcon ![CartDashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-dash)
 
-CartFillIcon ![CartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-fill)
+CartFillIcon ![CartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-fill)
 
-CartPlusFillIcon ![CartPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-plus-fill)
+CartPlusFillIcon ![CartPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-plus-fill)
 
-CartPlusIcon ![CartPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-plus)
+CartPlusIcon ![CartPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-plus)
 
-CartXFillIcon ![CartXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-x-fill)
+CartXFillIcon ![CartXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-x-fill)
 
-CartXIcon ![CartXIcon](images/bootstrap-icons/bootstrap-icons.svg#cart-x)
+CartXIcon ![CartXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-x)
 
-CartIcon ![CartIcon](images/bootstrap-icons/bootstrap-icons.svg#cart)
+CartIcon ![CartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart)
 
-Cart2Icon ![Cart2Icon](images/bootstrap-icons/bootstrap-icons.svg#cart2)
+Cart2Icon ![Cart2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart2)
 
-Cart3Icon ![Cart3Icon](images/bootstrap-icons/bootstrap-icons.svg#cart3)
+Cart3Icon ![Cart3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart3)
 
-Cart4Icon ![Cart4Icon](images/bootstrap-icons/bootstrap-icons.svg#cart4)
+Cart4Icon ![Cart4Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart4)
 
-CashStackIcon ![CashStackIcon](images/bootstrap-icons/bootstrap-icons.svg#cash-stack)
+CashStackIcon ![CashStackIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash-stack)
 
-CashIcon ![CashIcon](images/bootstrap-icons/bootstrap-icons.svg#cash)
+CashIcon ![CashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash)
 
-CastIcon ![CastIcon](images/bootstrap-icons/bootstrap-icons.svg#cast)
+CastIcon ![CastIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cast)
 
-ChatDotsFillIcon ![ChatDotsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-dots-fill)
+ChatDotsFillIcon ![ChatDotsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-dots-fill)
 
-ChatDotsIcon ![ChatDotsIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-dots)
+ChatDotsIcon ![ChatDotsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-dots)
 
-ChatFillIcon ![ChatFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-fill)
+ChatFillIcon ![ChatFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-fill)
 
-ChatLeftDotsFillIcon ![ChatLeftDotsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-dots-fill)
+ChatLeftDotsFillIcon ![ChatLeftDotsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-dots-fill)
 
-ChatLeftDotsIcon ![ChatLeftDotsIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-dots)
+ChatLeftDotsIcon ![ChatLeftDotsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-dots)
 
-ChatLeftFillIcon ![ChatLeftFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-fill)
+ChatLeftFillIcon ![ChatLeftFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-fill)
 
-ChatLeftQuoteFillIcon ![ChatLeftQuoteFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-quote-fill)
+ChatLeftQuoteFillIcon ![ChatLeftQuoteFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-quote-fill)
 
-ChatLeftQuoteIcon ![ChatLeftQuoteIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-quote)
+ChatLeftQuoteIcon ![ChatLeftQuoteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-quote)
 
-ChatLeftTextFillIcon ![ChatLeftTextFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-text-fill)
+ChatLeftTextFillIcon ![ChatLeftTextFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-text-fill)
 
-ChatLeftTextIcon ![ChatLeftTextIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-text)
+ChatLeftTextIcon ![ChatLeftTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-text)
 
-ChatLeftIcon ![ChatLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left)
+ChatLeftIcon ![ChatLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left)
 
-ChatQuoteFillIcon ![ChatQuoteFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-quote-fill)
+ChatQuoteFillIcon ![ChatQuoteFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-quote-fill)
 
-ChatQuoteIcon ![ChatQuoteIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-quote)
+ChatQuoteIcon ![ChatQuoteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-quote)
 
-ChatRightDotsFillIcon ![ChatRightDotsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-dots-fill)
+ChatRightDotsFillIcon ![ChatRightDotsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-dots-fill)
 
-ChatRightDotsIcon ![ChatRightDotsIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-dots)
+ChatRightDotsIcon ![ChatRightDotsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-dots)
 
-ChatRightFillIcon ![ChatRightFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-fill)
+ChatRightFillIcon ![ChatRightFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-fill)
 
-ChatRightQuoteFillIcon ![ChatRightQuoteFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-quote-fill)
+ChatRightQuoteFillIcon ![ChatRightQuoteFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-quote-fill)
 
-ChatRightQuoteIcon ![ChatRightQuoteIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-quote)
+ChatRightQuoteIcon ![ChatRightQuoteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-quote)
 
-ChatRightTextFillIcon ![ChatRightTextFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-text-fill)
+ChatRightTextFillIcon ![ChatRightTextFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-text-fill)
 
-ChatRightTextIcon ![ChatRightTextIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-text)
+ChatRightTextIcon ![ChatRightTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-text)
 
-ChatRightIcon ![ChatRightIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right)
+ChatRightIcon ![ChatRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right)
 
-ChatSquareDotsFillIcon ![ChatSquareDotsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-dots-fill)
+ChatSquareDotsFillIcon ![ChatSquareDotsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-dots-fill)
 
-ChatSquareDotsIcon ![ChatSquareDotsIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-dots)
+ChatSquareDotsIcon ![ChatSquareDotsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-dots)
 
-ChatSquareFillIcon ![ChatSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-fill)
+ChatSquareFillIcon ![ChatSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-fill)
 
-ChatSquareQuoteFillIcon ![ChatSquareQuoteFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-quote-fill)
+ChatSquareQuoteFillIcon ![ChatSquareQuoteFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-quote-fill)
 
-ChatSquareQuoteIcon ![ChatSquareQuoteIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-quote)
+ChatSquareQuoteIcon ![ChatSquareQuoteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-quote)
 
-ChatSquareTextFillIcon ![ChatSquareTextFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-text-fill)
+ChatSquareTextFillIcon ![ChatSquareTextFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-text-fill)
 
-ChatSquareTextIcon ![ChatSquareTextIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-text)
+ChatSquareTextIcon ![ChatSquareTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-text)
 
-ChatSquareIcon ![ChatSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square)
+ChatSquareIcon ![ChatSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square)
 
-ChatTextFillIcon ![ChatTextFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-text-fill)
+ChatTextFillIcon ![ChatTextFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-text-fill)
 
-ChatTextIcon ![ChatTextIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-text)
+ChatTextIcon ![ChatTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-text)
 
-ChatIcon ![ChatIcon](images/bootstrap-icons/bootstrap-icons.svg#chat)
+ChatIcon ![ChatIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat)
 
-CheckAllIcon ![CheckAllIcon](images/bootstrap-icons/bootstrap-icons.svg#check-all)
+CheckAllIcon ![CheckAllIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-all)
 
-CheckCircleFillIcon ![CheckCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#check-circle-fill)
+CheckCircleFillIcon ![CheckCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-circle-fill)
 
-CheckCircleIcon ![CheckCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#check-circle)
+CheckCircleIcon ![CheckCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-circle)
 
-CheckSquareFillIcon ![CheckSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#check-square-fill)
+CheckSquareFillIcon ![CheckSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-square-fill)
 
-CheckSquareIcon ![CheckSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#check-square)
+CheckSquareIcon ![CheckSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-square)
 
-CheckIcon ![CheckIcon](images/bootstrap-icons/bootstrap-icons.svg#check)
+CheckIcon ![CheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check)
 
-Check2AllIcon ![Check2AllIcon](images/bootstrap-icons/bootstrap-icons.svg#check2-all)
+Check2AllIcon ![Check2AllIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-all)
 
-Check2CircleIcon ![Check2CircleIcon](images/bootstrap-icons/bootstrap-icons.svg#check2-circle)
+Check2CircleIcon ![Check2CircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-circle)
 
-Check2SquareIcon ![Check2SquareIcon](images/bootstrap-icons/bootstrap-icons.svg#check2-square)
+Check2SquareIcon ![Check2SquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-square)
 
-Check2Icon ![Check2Icon](images/bootstrap-icons/bootstrap-icons.svg#check2)
+Check2Icon ![Check2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2)
 
-ChevronBarContractIcon ![ChevronBarContractIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-contract)
+ChevronBarContractIcon ![ChevronBarContractIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-contract)
 
-ChevronBarDownIcon ![ChevronBarDownIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-down)
+ChevronBarDownIcon ![ChevronBarDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-down)
 
-ChevronBarExpandIcon ![ChevronBarExpandIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-expand)
+ChevronBarExpandIcon ![ChevronBarExpandIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-expand)
 
-ChevronBarLeftIcon ![ChevronBarLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-left)
+ChevronBarLeftIcon ![ChevronBarLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-left)
 
-ChevronBarRightIcon ![ChevronBarRightIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-right)
+ChevronBarRightIcon ![ChevronBarRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-right)
 
-ChevronBarUpIcon ![ChevronBarUpIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-up)
+ChevronBarUpIcon ![ChevronBarUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-up)
 
-ChevronCompactDownIcon ![ChevronCompactDownIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-down)
+ChevronCompactDownIcon ![ChevronCompactDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-down)
 
-ChevronCompactLeftIcon ![ChevronCompactLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-left)
+ChevronCompactLeftIcon ![ChevronCompactLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-left)
 
-ChevronCompactRightIcon ![ChevronCompactRightIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-right)
+ChevronCompactRightIcon ![ChevronCompactRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-right)
 
-ChevronCompactUpIcon ![ChevronCompactUpIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-up)
+ChevronCompactUpIcon ![ChevronCompactUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-up)
 
-ChevronContractIcon ![ChevronContractIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-contract)
+ChevronContractIcon ![ChevronContractIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-contract)
 
-ChevronDoubleDownIcon ![ChevronDoubleDownIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-double-down)
+ChevronDoubleDownIcon ![ChevronDoubleDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-down)
 
-ChevronDoubleLeftIcon ![ChevronDoubleLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-double-left)
+ChevronDoubleLeftIcon ![ChevronDoubleLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-left)
 
-ChevronDoubleRightIcon ![ChevronDoubleRightIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-double-right)
+ChevronDoubleRightIcon ![ChevronDoubleRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-right)
 
-ChevronDoubleUpIcon ![ChevronDoubleUpIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-double-up)
+ChevronDoubleUpIcon ![ChevronDoubleUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-up)
 
-ChevronDownIcon ![ChevronDownIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-down)
+ChevronDownIcon ![ChevronDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-down)
 
-ChevronExpandIcon ![ChevronExpandIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-expand)
+ChevronExpandIcon ![ChevronExpandIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-expand)
 
-ChevronLeftIcon ![ChevronLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-left)
+ChevronLeftIcon ![ChevronLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-left)
 
-ChevronRightIcon ![ChevronRightIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-right)
+ChevronRightIcon ![ChevronRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-right)
 
-ChevronUpIcon ![ChevronUpIcon](images/bootstrap-icons/bootstrap-icons.svg#chevron-up)
+ChevronUpIcon ![ChevronUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-up)
 
-CircleFillIcon ![CircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#circle-fill)
+CircleFillIcon ![CircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-fill)
 
-CircleHalfIcon ![CircleHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#circle-half)
+CircleHalfIcon ![CircleHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-half)
 
-CircleSquareIcon ![CircleSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#circle-square)
+CircleSquareIcon ![CircleSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-square)
 
-CircleIcon ![CircleIcon](images/bootstrap-icons/bootstrap-icons.svg#circle)
+CircleIcon ![CircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle)
 
-ClipboardCheckIcon ![ClipboardCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-check)
+ClipboardCheckIcon ![ClipboardCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-check)
 
-ClipboardDataIcon ![ClipboardDataIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-data)
+ClipboardDataIcon ![ClipboardDataIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-data)
 
-ClipboardMinusIcon ![ClipboardMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-minus)
+ClipboardMinusIcon ![ClipboardMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-minus)
 
-ClipboardPlusIcon ![ClipboardPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-plus)
+ClipboardPlusIcon ![ClipboardPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-plus)
 
-ClipboardXIcon ![ClipboardXIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-x)
+ClipboardXIcon ![ClipboardXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-x)
 
-ClipboardIcon ![ClipboardIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard)
+ClipboardIcon ![ClipboardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard)
 
-ClockFillIcon ![ClockFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clock-fill)
+ClockFillIcon ![ClockFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock-fill)
 
-ClockHistoryIcon ![ClockHistoryIcon](images/bootstrap-icons/bootstrap-icons.svg#clock-history)
+ClockHistoryIcon ![ClockHistoryIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock-history)
 
-ClockIcon ![ClockIcon](images/bootstrap-icons/bootstrap-icons.svg#clock)
+ClockIcon ![ClockIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock)
 
-CloudArrowDownFillIcon ![CloudArrowDownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down-fill)
+CloudArrowDownFillIcon ![CloudArrowDownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down-fill)
 
-CloudArrowDownIcon ![CloudArrowDownIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down)
+CloudArrowDownIcon ![CloudArrowDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down)
 
-CloudArrowUpFillIcon ![CloudArrowUpFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up-fill)
+CloudArrowUpFillIcon ![CloudArrowUpFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up-fill)
 
-CloudArrowUpIcon ![CloudArrowUpIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up)
+CloudArrowUpIcon ![CloudArrowUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up)
 
-CloudCheckFillIcon ![CloudCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-check-fill)
+CloudCheckFillIcon ![CloudCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-check-fill)
 
-CloudCheckIcon ![CloudCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-check)
+CloudCheckIcon ![CloudCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-check)
 
-CloudDownloadFillIcon ![CloudDownloadFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-download-fill)
+CloudDownloadFillIcon ![CloudDownloadFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-download-fill)
 
-CloudDownloadIcon ![CloudDownloadIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-download)
+CloudDownloadIcon ![CloudDownloadIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-download)
 
-CloudDrizzleFillIcon ![CloudDrizzleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-drizzle-fill)
+CloudDrizzleFillIcon ![CloudDrizzleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-drizzle-fill)
 
-CloudDrizzleIcon ![CloudDrizzleIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-drizzle)
+CloudDrizzleIcon ![CloudDrizzleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-drizzle)
 
-CloudFillIcon ![CloudFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-fill)
+CloudFillIcon ![CloudFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fill)
 
-CloudFogFillIcon ![CloudFogFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-fog-fill)
+CloudFogFillIcon ![CloudFogFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog-fill)
 
-CloudFogIcon ![CloudFogIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-fog)
+CloudFogIcon ![CloudFogIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog)
 
-CloudFog2FillIcon ![CloudFog2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-fog2-fill)
+CloudFog2FillIcon ![CloudFog2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog2-fill)
 
-CloudFog2Icon ![CloudFog2Icon](images/bootstrap-icons/bootstrap-icons.svg#cloud-fog2)
+CloudFog2Icon ![CloudFog2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog2)
 
-CloudHailFillIcon ![CloudHailFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-hail-fill)
+CloudHailFillIcon ![CloudHailFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-hail-fill)
 
-CloudHailIcon ![CloudHailIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-hail)
+CloudHailIcon ![CloudHailIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-hail)
 
-CloudHaze1Icon ![CloudHaze1Icon](images/bootstrap-icons/bootstrap-icons.svg#cloud-haze-1)
+CloudHaze1Icon ![CloudHaze1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze-1)
 
-CloudHazeFillIcon ![CloudHazeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-haze-fill)
+CloudHazeFillIcon ![CloudHazeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze-fill)
 
-CloudHazeIcon ![CloudHazeIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-haze)
+CloudHazeIcon ![CloudHazeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze)
 
-CloudHaze2FillIcon ![CloudHaze2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-haze2-fill)
+CloudHaze2FillIcon ![CloudHaze2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze2-fill)
 
-CloudLightningFillIcon ![CloudLightningFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-fill)
+CloudLightningFillIcon ![CloudLightningFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-fill)
 
-CloudLightningRainFillIcon ![CloudLightningRainFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-rain-fill)
+CloudLightningRainFillIcon ![CloudLightningRainFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-rain-fill)
 
-CloudLightningRainIcon ![CloudLightningRainIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-rain)
+CloudLightningRainIcon ![CloudLightningRainIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-rain)
 
-CloudLightningIcon ![CloudLightningIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning)
+CloudLightningIcon ![CloudLightningIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning)
 
-CloudMinusFillIcon ![CloudMinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-minus-fill)
+CloudMinusFillIcon ![CloudMinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-minus-fill)
 
-CloudMinusIcon ![CloudMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-minus)
+CloudMinusIcon ![CloudMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-minus)
 
-CloudMoonFillIcon ![CloudMoonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-moon-fill)
+CloudMoonFillIcon ![CloudMoonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-moon-fill)
 
-CloudMoonIcon ![CloudMoonIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-moon)
+CloudMoonIcon ![CloudMoonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-moon)
 
-CloudPlusFillIcon ![CloudPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-plus-fill)
+CloudPlusFillIcon ![CloudPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-plus-fill)
 
-CloudPlusIcon ![CloudPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-plus)
+CloudPlusIcon ![CloudPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-plus)
 
-CloudRainFillIcon ![CloudRainFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-fill)
+CloudRainFillIcon ![CloudRainFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-fill)
 
-CloudRainHeavyFillIcon ![CloudRainHeavyFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-heavy-fill)
+CloudRainHeavyFillIcon ![CloudRainHeavyFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-heavy-fill)
 
-CloudRainHeavyIcon ![CloudRainHeavyIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-heavy)
+CloudRainHeavyIcon ![CloudRainHeavyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-heavy)
 
-CloudRainIcon ![CloudRainIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-rain)
+CloudRainIcon ![CloudRainIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain)
 
-CloudSlashFillIcon ![CloudSlashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-slash-fill)
+CloudSlashFillIcon ![CloudSlashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-slash-fill)
 
-CloudSlashIcon ![CloudSlashIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-slash)
+CloudSlashIcon ![CloudSlashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-slash)
 
-CloudSleetFillIcon ![CloudSleetFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-sleet-fill)
+CloudSleetFillIcon ![CloudSleetFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sleet-fill)
 
-CloudSleetIcon ![CloudSleetIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-sleet)
+CloudSleetIcon ![CloudSleetIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sleet)
 
-CloudSnowFillIcon ![CloudSnowFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-snow-fill)
+CloudSnowFillIcon ![CloudSnowFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-snow-fill)
 
-CloudSnowIcon ![CloudSnowIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-snow)
+CloudSnowIcon ![CloudSnowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-snow)
 
-CloudSunFillIcon ![CloudSunFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-sun-fill)
+CloudSunFillIcon ![CloudSunFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sun-fill)
 
-CloudSunIcon ![CloudSunIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-sun)
+CloudSunIcon ![CloudSunIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sun)
 
-CloudUploadFillIcon ![CloudUploadFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-upload-fill)
+CloudUploadFillIcon ![CloudUploadFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-upload-fill)
 
-CloudUploadIcon ![CloudUploadIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud-upload)
+CloudUploadIcon ![CloudUploadIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-upload)
 
-CloudIcon ![CloudIcon](images/bootstrap-icons/bootstrap-icons.svg#cloud)
+CloudIcon ![CloudIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud)
 
-CloudsFillIcon ![CloudsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clouds-fill)
+CloudsFillIcon ![CloudsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clouds-fill)
 
-CloudsIcon ![CloudsIcon](images/bootstrap-icons/bootstrap-icons.svg#clouds)
+CloudsIcon ![CloudsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clouds)
 
-CloudyFillIcon ![CloudyFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cloudy-fill)
+CloudyFillIcon ![CloudyFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloudy-fill)
 
-CloudyIcon ![CloudyIcon](images/bootstrap-icons/bootstrap-icons.svg#cloudy)
+CloudyIcon ![CloudyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloudy)
 
-CodeSlashIcon ![CodeSlashIcon](images/bootstrap-icons/bootstrap-icons.svg#code-slash)
+CodeSlashIcon ![CodeSlashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code-slash)
 
-CodeSquareIcon ![CodeSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#code-square)
+CodeSquareIcon ![CodeSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code-square)
 
-CodeIcon ![CodeIcon](images/bootstrap-icons/bootstrap-icons.svg#code)
+CodeIcon ![CodeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code)
 
-CollectionFillIcon ![CollectionFillIcon](images/bootstrap-icons/bootstrap-icons.svg#collection-fill)
+CollectionFillIcon ![CollectionFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-fill)
 
-CollectionPlayFillIcon ![CollectionPlayFillIcon](images/bootstrap-icons/bootstrap-icons.svg#collection-play-fill)
+CollectionPlayFillIcon ![CollectionPlayFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-play-fill)
 
-CollectionPlayIcon ![CollectionPlayIcon](images/bootstrap-icons/bootstrap-icons.svg#collection-play)
+CollectionPlayIcon ![CollectionPlayIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-play)
 
-CollectionIcon ![CollectionIcon](images/bootstrap-icons/bootstrap-icons.svg#collection)
+CollectionIcon ![CollectionIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection)
 
-ColumnsGapIcon ![ColumnsGapIcon](images/bootstrap-icons/bootstrap-icons.svg#columns-gap)
+ColumnsGapIcon ![ColumnsGapIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#columns-gap)
 
-ColumnsIcon ![ColumnsIcon](images/bootstrap-icons/bootstrap-icons.svg#columns)
+ColumnsIcon ![ColumnsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#columns)
 
-CommandIcon ![CommandIcon](images/bootstrap-icons/bootstrap-icons.svg#command)
+CommandIcon ![CommandIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#command)
 
-CompassFillIcon ![CompassFillIcon](images/bootstrap-icons/bootstrap-icons.svg#compass-fill)
+CompassFillIcon ![CompassFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#compass-fill)
 
-CompassIcon ![CompassIcon](images/bootstrap-icons/bootstrap-icons.svg#compass)
+CompassIcon ![CompassIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#compass)
 
-ConeStripedIcon ![ConeStripedIcon](images/bootstrap-icons/bootstrap-icons.svg#cone-striped)
+ConeStripedIcon ![ConeStripedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cone-striped)
 
-ConeIcon ![ConeIcon](images/bootstrap-icons/bootstrap-icons.svg#cone)
+ConeIcon ![ConeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cone)
 
-ControllerIcon ![ControllerIcon](images/bootstrap-icons/bootstrap-icons.svg#controller)
+ControllerIcon ![ControllerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#controller)
 
-CpuFillIcon ![CpuFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cpu-fill)
+CpuFillIcon ![CpuFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cpu-fill)
 
-CpuIcon ![CpuIcon](images/bootstrap-icons/bootstrap-icons.svg#cpu)
+CpuIcon ![CpuIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cpu)
 
-CreditCard2BackFillIcon ![CreditCard2BackFillIcon](images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back-fill)
+CreditCard2BackFillIcon ![CreditCard2BackFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back-fill)
 
-CreditCard2BackIcon ![CreditCard2BackIcon](images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back)
+CreditCard2BackIcon ![CreditCard2BackIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back)
 
-CreditCard2FrontFillIcon ![CreditCard2FrontFillIcon](images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front-fill)
+CreditCard2FrontFillIcon ![CreditCard2FrontFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front-fill)
 
-CreditCard2FrontIcon ![CreditCard2FrontIcon](images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front)
+CreditCard2FrontIcon ![CreditCard2FrontIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front)
 
-CreditCardFillIcon ![CreditCardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#credit-card-fill)
+CreditCardFillIcon ![CreditCardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-fill)
 
-CreditCardIcon ![CreditCardIcon](images/bootstrap-icons/bootstrap-icons.svg#credit-card)
+CreditCardIcon ![CreditCardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card)
 
-CropIcon ![CropIcon](images/bootstrap-icons/bootstrap-icons.svg#crop)
+CropIcon ![CropIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#crop)
 
-CupFillIcon ![CupFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cup-fill)
+CupFillIcon ![CupFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup-fill)
 
-CupStrawIcon ![CupStrawIcon](images/bootstrap-icons/bootstrap-icons.svg#cup-straw)
+CupStrawIcon ![CupStrawIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup-straw)
 
-CupIcon ![CupIcon](images/bootstrap-icons/bootstrap-icons.svg#cup)
+CupIcon ![CupIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup)
 
-CursorFillIcon ![CursorFillIcon](images/bootstrap-icons/bootstrap-icons.svg#cursor-fill)
+CursorFillIcon ![CursorFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor-fill)
 
-CursorTextIcon ![CursorTextIcon](images/bootstrap-icons/bootstrap-icons.svg#cursor-text)
+CursorTextIcon ![CursorTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor-text)
 
-CursorIcon ![CursorIcon](images/bootstrap-icons/bootstrap-icons.svg#cursor)
+CursorIcon ![CursorIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor)
 
-DashCircleDottedIcon ![DashCircleDottedIcon](images/bootstrap-icons/bootstrap-icons.svg#dash-circle-dotted)
+DashCircleDottedIcon ![DashCircleDottedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle-dotted)
 
-DashCircleFillIcon ![DashCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#dash-circle-fill)
+DashCircleFillIcon ![DashCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle-fill)
 
-DashCircleIcon ![DashCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#dash-circle)
+DashCircleIcon ![DashCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle)
 
-DashSquareDottedIcon ![DashSquareDottedIcon](images/bootstrap-icons/bootstrap-icons.svg#dash-square-dotted)
+DashSquareDottedIcon ![DashSquareDottedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square-dotted)
 
-DashSquareFillIcon ![DashSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#dash-square-fill)
+DashSquareFillIcon ![DashSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square-fill)
 
-DashSquareIcon ![DashSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#dash-square)
+DashSquareIcon ![DashSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square)
 
-DashIcon ![DashIcon](images/bootstrap-icons/bootstrap-icons.svg#dash)
+DashIcon ![DashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash)
 
-Diagram2FillIcon ![Diagram2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#diagram-2-fill)
+Diagram2FillIcon ![Diagram2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-2-fill)
 
-Diagram2Icon ![Diagram2Icon](images/bootstrap-icons/bootstrap-icons.svg#diagram-2)
+Diagram2Icon ![Diagram2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-2)
 
-Diagram3FillIcon ![Diagram3FillIcon](images/bootstrap-icons/bootstrap-icons.svg#diagram-3-fill)
+Diagram3FillIcon ![Diagram3FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-3-fill)
 
-Diagram3Icon ![Diagram3Icon](images/bootstrap-icons/bootstrap-icons.svg#diagram-3)
+Diagram3Icon ![Diagram3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-3)
 
-DiamondFillIcon ![DiamondFillIcon](images/bootstrap-icons/bootstrap-icons.svg#diamond-fill)
+DiamondFillIcon ![DiamondFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond-fill)
 
-DiamondHalfIcon ![DiamondHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#diamond-half)
+DiamondHalfIcon ![DiamondHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond-half)
 
-DiamondIcon ![DiamondIcon](images/bootstrap-icons/bootstrap-icons.svg#diamond)
+DiamondIcon ![DiamondIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond)
 
-Dice1FillIcon ![Dice1FillIcon](images/bootstrap-icons/bootstrap-icons.svg#dice-1-fill)
+Dice1FillIcon ![Dice1FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-1-fill)
 
-Dice1Icon ![Dice1Icon](images/bootstrap-icons/bootstrap-icons.svg#dice-1)
+Dice1Icon ![Dice1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-1)
 
-Dice2FillIcon ![Dice2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#dice-2-fill)
+Dice2FillIcon ![Dice2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-2-fill)
 
-Dice2Icon ![Dice2Icon](images/bootstrap-icons/bootstrap-icons.svg#dice-2)
+Dice2Icon ![Dice2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-2)
 
-Dice3FillIcon ![Dice3FillIcon](images/bootstrap-icons/bootstrap-icons.svg#dice-3-fill)
+Dice3FillIcon ![Dice3FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-3-fill)
 
-Dice3Icon ![Dice3Icon](images/bootstrap-icons/bootstrap-icons.svg#dice-3)
+Dice3Icon ![Dice3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-3)
 
-Dice4FillIcon ![Dice4FillIcon](images/bootstrap-icons/bootstrap-icons.svg#dice-4-fill)
+Dice4FillIcon ![Dice4FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-4-fill)
 
-Dice4Icon ![Dice4Icon](images/bootstrap-icons/bootstrap-icons.svg#dice-4)
+Dice4Icon ![Dice4Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-4)
 
-Dice5FillIcon ![Dice5FillIcon](images/bootstrap-icons/bootstrap-icons.svg#dice-5-fill)
+Dice5FillIcon ![Dice5FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-5-fill)
 
-Dice5Icon ![Dice5Icon](images/bootstrap-icons/bootstrap-icons.svg#dice-5)
+Dice5Icon ![Dice5Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-5)
 
-Dice6FillIcon ![Dice6FillIcon](images/bootstrap-icons/bootstrap-icons.svg#dice-6-fill)
+Dice6FillIcon ![Dice6FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-6-fill)
 
-Dice6Icon ![Dice6Icon](images/bootstrap-icons/bootstrap-icons.svg#dice-6)
+Dice6Icon ![Dice6Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-6)
 
-DiscFillIcon ![DiscFillIcon](images/bootstrap-icons/bootstrap-icons.svg#disc-fill)
+DiscFillIcon ![DiscFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#disc-fill)
 
-DiscIcon ![DiscIcon](images/bootstrap-icons/bootstrap-icons.svg#disc)
+DiscIcon ![DiscIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#disc)
 
-DiscordIcon ![DiscordIcon](images/bootstrap-icons/bootstrap-icons.svg#discord)
+DiscordIcon ![DiscordIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#discord)
 
-DisplayFillIcon ![DisplayFillIcon](images/bootstrap-icons/bootstrap-icons.svg#display-fill)
+DisplayFillIcon ![DisplayFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#display-fill)
 
-DisplayIcon ![DisplayIcon](images/bootstrap-icons/bootstrap-icons.svg#display)
+DisplayIcon ![DisplayIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#display)
 
-DistributeHorizontalIcon ![DistributeHorizontalIcon](images/bootstrap-icons/bootstrap-icons.svg#distribute-horizontal)
+DistributeHorizontalIcon ![DistributeHorizontalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#distribute-horizontal)
 
-DistributeVerticalIcon ![DistributeVerticalIcon](images/bootstrap-icons/bootstrap-icons.svg#distribute-vertical)
+DistributeVerticalIcon ![DistributeVerticalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#distribute-vertical)
 
-DoorClosedFillIcon ![DoorClosedFillIcon](images/bootstrap-icons/bootstrap-icons.svg#door-closed-fill)
+DoorClosedFillIcon ![DoorClosedFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-closed-fill)
 
-DoorClosedIcon ![DoorClosedIcon](images/bootstrap-icons/bootstrap-icons.svg#door-closed)
+DoorClosedIcon ![DoorClosedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-closed)
 
-DoorOpenFillIcon ![DoorOpenFillIcon](images/bootstrap-icons/bootstrap-icons.svg#door-open-fill)
+DoorOpenFillIcon ![DoorOpenFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-open-fill)
 
-DoorOpenIcon ![DoorOpenIcon](images/bootstrap-icons/bootstrap-icons.svg#door-open)
+DoorOpenIcon ![DoorOpenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-open)
 
-DotIcon ![DotIcon](images/bootstrap-icons/bootstrap-icons.svg#dot)
+DotIcon ![DotIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dot)
 
-DownloadIcon ![DownloadIcon](images/bootstrap-icons/bootstrap-icons.svg#download)
+DownloadIcon ![DownloadIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#download)
 
-DropletFillIcon ![DropletFillIcon](images/bootstrap-icons/bootstrap-icons.svg#droplet-fill)
+DropletFillIcon ![DropletFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet-fill)
 
-DropletHalfIcon ![DropletHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#droplet-half)
+DropletHalfIcon ![DropletHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet-half)
 
-DropletIcon ![DropletIcon](images/bootstrap-icons/bootstrap-icons.svg#droplet)
+DropletIcon ![DropletIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet)
 
-EarbudsIcon ![EarbudsIcon](images/bootstrap-icons/bootstrap-icons.svg#earbuds)
+EarbudsIcon ![EarbudsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#earbuds)
 
-EaselFillIcon ![EaselFillIcon](images/bootstrap-icons/bootstrap-icons.svg#easel-fill)
+EaselFillIcon ![EaselFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel-fill)
 
-EaselIcon ![EaselIcon](images/bootstrap-icons/bootstrap-icons.svg#easel)
+EaselIcon ![EaselIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel)
 
-EggFillIcon ![EggFillIcon](images/bootstrap-icons/bootstrap-icons.svg#egg-fill)
+EggFillIcon ![EggFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg-fill)
 
-EggFriedIcon ![EggFriedIcon](images/bootstrap-icons/bootstrap-icons.svg#egg-fried)
+EggFriedIcon ![EggFriedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg-fried)
 
-EggIcon ![EggIcon](images/bootstrap-icons/bootstrap-icons.svg#egg)
+EggIcon ![EggIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg)
 
-EjectFillIcon ![EjectFillIcon](images/bootstrap-icons/bootstrap-icons.svg#eject-fill)
+EjectFillIcon ![EjectFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eject-fill)
 
-EjectIcon ![EjectIcon](images/bootstrap-icons/bootstrap-icons.svg#eject)
+EjectIcon ![EjectIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eject)
 
-EmojiAngryFillIcon ![EmojiAngryFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-angry-fill)
+EmojiAngryFillIcon ![EmojiAngryFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-angry-fill)
 
-EmojiAngryIcon ![EmojiAngryIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-angry)
+EmojiAngryIcon ![EmojiAngryIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-angry)
 
-EmojiDizzyFillIcon ![EmojiDizzyFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy-fill)
+EmojiDizzyFillIcon ![EmojiDizzyFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy-fill)
 
-EmojiDizzyIcon ![EmojiDizzyIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy)
+EmojiDizzyIcon ![EmojiDizzyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy)
 
-EmojiExpressionlessFillIcon ![EmojiExpressionlessFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless-fill)
+EmojiExpressionlessFillIcon ![EmojiExpressionlessFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless-fill)
 
-EmojiExpressionlessIcon ![EmojiExpressionlessIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless)
+EmojiExpressionlessIcon ![EmojiExpressionlessIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless)
 
-EmojiFrownFillIcon ![EmojiFrownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-frown-fill)
+EmojiFrownFillIcon ![EmojiFrownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-frown-fill)
 
-EmojiFrownIcon ![EmojiFrownIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-frown)
+EmojiFrownIcon ![EmojiFrownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-frown)
 
-EmojiHeartEyesFillIcon ![EmojiHeartEyesFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-heart-eyes-fill)
+EmojiHeartEyesFillIcon ![EmojiHeartEyesFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-heart-eyes-fill)
 
-EmojiHeartEyesIcon ![EmojiHeartEyesIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-heart-eyes)
+EmojiHeartEyesIcon ![EmojiHeartEyesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-heart-eyes)
 
-EmojiLaughingFillIcon ![EmojiLaughingFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-laughing-fill)
+EmojiLaughingFillIcon ![EmojiLaughingFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-laughing-fill)
 
-EmojiLaughingIcon ![EmojiLaughingIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-laughing)
+EmojiLaughingIcon ![EmojiLaughingIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-laughing)
 
-EmojiNeutralFillIcon ![EmojiNeutralFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-neutral-fill)
+EmojiNeutralFillIcon ![EmojiNeutralFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-neutral-fill)
 
-EmojiNeutralIcon ![EmojiNeutralIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-neutral)
+EmojiNeutralIcon ![EmojiNeutralIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-neutral)
 
-EmojiSmileFillIcon ![EmojiSmileFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-fill)
+EmojiSmileFillIcon ![EmojiSmileFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-fill)
 
-EmojiSmileUpsideDownFillIcon ![EmojiSmileUpsideDownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down-fill)
+EmojiSmileUpsideDownFillIcon ![EmojiSmileUpsideDownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down-fill)
 
-EmojiSmileUpsideDownIcon ![EmojiSmileUpsideDownIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down)
+EmojiSmileUpsideDownIcon ![EmojiSmileUpsideDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down)
 
-EmojiSmileIcon ![EmojiSmileIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-smile)
+EmojiSmileIcon ![EmojiSmileIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile)
 
-EmojiSunglassesFillIcon ![EmojiSunglassesFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses-fill)
+EmojiSunglassesFillIcon ![EmojiSunglassesFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses-fill)
 
-EmojiSunglassesIcon ![EmojiSunglassesIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses)
+EmojiSunglassesIcon ![EmojiSunglassesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses)
 
-EmojiWinkFillIcon ![EmojiWinkFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-wink-fill)
+EmojiWinkFillIcon ![EmojiWinkFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-wink-fill)
 
-EmojiWinkIcon ![EmojiWinkIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-wink)
+EmojiWinkIcon ![EmojiWinkIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-wink)
 
-EnvelopeFillIcon ![EnvelopeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-fill)
+EnvelopeFillIcon ![EnvelopeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-fill)
 
-EnvelopeOpenFillIcon ![EnvelopeOpenFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-open-fill)
+EnvelopeOpenFillIcon ![EnvelopeOpenFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-fill)
 
-EnvelopeOpenIcon ![EnvelopeOpenIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-open)
+EnvelopeOpenIcon ![EnvelopeOpenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open)
 
-EnvelopeIcon ![EnvelopeIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope)
+EnvelopeIcon ![EnvelopeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope)
 
-EraserFillIcon ![EraserFillIcon](images/bootstrap-icons/bootstrap-icons.svg#eraser-fill)
+EraserFillIcon ![EraserFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eraser-fill)
 
-EraserIcon ![EraserIcon](images/bootstrap-icons/bootstrap-icons.svg#eraser)
+EraserIcon ![EraserIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eraser)
 
-ExclamationCircleFillIcon ![ExclamationCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle-fill)
+ExclamationCircleFillIcon ![ExclamationCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle-fill)
 
-ExclamationCircleIcon ![ExclamationCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle)
+ExclamationCircleIcon ![ExclamationCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle)
 
-ExclamationDiamondFillIcon ![ExclamationDiamondFillIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond-fill)
+ExclamationDiamondFillIcon ![ExclamationDiamondFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond-fill)
 
-ExclamationDiamondIcon ![ExclamationDiamondIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond)
+ExclamationDiamondIcon ![ExclamationDiamondIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond)
 
-ExclamationOctagonFillIcon ![ExclamationOctagonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon-fill)
+ExclamationOctagonFillIcon ![ExclamationOctagonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon-fill)
 
-ExclamationOctagonIcon ![ExclamationOctagonIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon)
+ExclamationOctagonIcon ![ExclamationOctagonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon)
 
-ExclamationSquareFillIcon ![ExclamationSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-square-fill)
+ExclamationSquareFillIcon ![ExclamationSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-square-fill)
 
-ExclamationSquareIcon ![ExclamationSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-square)
+ExclamationSquareIcon ![ExclamationSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-square)
 
-ExclamationTriangleFillIcon ![ExclamationTriangleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle-fill)
+ExclamationTriangleFillIcon ![ExclamationTriangleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle-fill)
 
-ExclamationTriangleIcon ![ExclamationTriangleIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle)
+ExclamationTriangleIcon ![ExclamationTriangleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle)
 
-ExclamationIcon ![ExclamationIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation)
+ExclamationIcon ![ExclamationIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation)
 
-ExcludeIcon ![ExcludeIcon](images/bootstrap-icons/bootstrap-icons.svg#exclude)
+ExcludeIcon ![ExcludeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclude)
 
-EyeFillIcon ![EyeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#eye-fill)
+EyeFillIcon ![EyeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-fill)
 
-EyeSlashFillIcon ![EyeSlashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#eye-slash-fill)
+EyeSlashFillIcon ![EyeSlashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-slash-fill)
 
-EyeSlashIcon ![EyeSlashIcon](images/bootstrap-icons/bootstrap-icons.svg#eye-slash)
+EyeSlashIcon ![EyeSlashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-slash)
 
-EyeIcon ![EyeIcon](images/bootstrap-icons/bootstrap-icons.svg#eye)
+EyeIcon ![EyeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye)
 
-EyedropperIcon ![EyedropperIcon](images/bootstrap-icons/bootstrap-icons.svg#eyedropper)
+EyedropperIcon ![EyedropperIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eyedropper)
 
-EyeglassesIcon ![EyeglassesIcon](images/bootstrap-icons/bootstrap-icons.svg#eyeglasses)
+EyeglassesIcon ![EyeglassesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eyeglasses)
 
-FacebookIcon ![FacebookIcon](images/bootstrap-icons/bootstrap-icons.svg#facebook)
+FacebookIcon ![FacebookIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#facebook)
 
-FileArrowDownFillIcon ![FileArrowDownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-arrow-down-fill)
+FileArrowDownFillIcon ![FileArrowDownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-down-fill)
 
-FileArrowDownIcon ![FileArrowDownIcon](images/bootstrap-icons/bootstrap-icons.svg#file-arrow-down)
+FileArrowDownIcon ![FileArrowDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-down)
 
-FileArrowUpFillIcon ![FileArrowUpFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-arrow-up-fill)
+FileArrowUpFillIcon ![FileArrowUpFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-up-fill)
 
-FileArrowUpIcon ![FileArrowUpIcon](images/bootstrap-icons/bootstrap-icons.svg#file-arrow-up)
+FileArrowUpIcon ![FileArrowUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-up)
 
-FileBarGraphFillIcon ![FileBarGraphFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-bar-graph-fill)
+FileBarGraphFillIcon ![FileBarGraphFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-bar-graph-fill)
 
-FileBarGraphIcon ![FileBarGraphIcon](images/bootstrap-icons/bootstrap-icons.svg#file-bar-graph)
+FileBarGraphIcon ![FileBarGraphIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-bar-graph)
 
-FileBinaryFillIcon ![FileBinaryFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-binary-fill)
+FileBinaryFillIcon ![FileBinaryFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-binary-fill)
 
-FileBinaryIcon ![FileBinaryIcon](images/bootstrap-icons/bootstrap-icons.svg#file-binary)
+FileBinaryIcon ![FileBinaryIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-binary)
 
-FileBreakFillIcon ![FileBreakFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-break-fill)
+FileBreakFillIcon ![FileBreakFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-break-fill)
 
-FileBreakIcon ![FileBreakIcon](images/bootstrap-icons/bootstrap-icons.svg#file-break)
+FileBreakIcon ![FileBreakIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-break)
 
-FileCheckFillIcon ![FileCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-check-fill)
+FileCheckFillIcon ![FileCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-check-fill)
 
-FileCheckIcon ![FileCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#file-check)
+FileCheckIcon ![FileCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-check)
 
-FileCodeFillIcon ![FileCodeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-code-fill)
+FileCodeFillIcon ![FileCodeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-code-fill)
 
-FileCodeIcon ![FileCodeIcon](images/bootstrap-icons/bootstrap-icons.svg#file-code)
+FileCodeIcon ![FileCodeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-code)
 
-FileDiffFillIcon ![FileDiffFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-diff-fill)
+FileDiffFillIcon ![FileDiffFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-diff-fill)
 
-FileDiffIcon ![FileDiffIcon](images/bootstrap-icons/bootstrap-icons.svg#file-diff)
+FileDiffIcon ![FileDiffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-diff)
 
-FileEarmarkArrowDownFillIcon ![FileEarmarkArrowDownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down-fill)
+FileEarmarkArrowDownFillIcon ![FileEarmarkArrowDownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down-fill)
 
-FileEarmarkArrowDownIcon ![FileEarmarkArrowDownIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down)
+FileEarmarkArrowDownIcon ![FileEarmarkArrowDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down)
 
-FileEarmarkArrowUpFillIcon ![FileEarmarkArrowUpFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up-fill)
+FileEarmarkArrowUpFillIcon ![FileEarmarkArrowUpFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up-fill)
 
-FileEarmarkArrowUpIcon ![FileEarmarkArrowUpIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up)
+FileEarmarkArrowUpIcon ![FileEarmarkArrowUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up)
 
-FileEarmarkBarGraphFillIcon ![FileEarmarkBarGraphFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-bar-graph-fill)
+FileEarmarkBarGraphFillIcon ![FileEarmarkBarGraphFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-bar-graph-fill)
 
-FileEarmarkBarGraphIcon ![FileEarmarkBarGraphIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-bar-graph)
+FileEarmarkBarGraphIcon ![FileEarmarkBarGraphIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-bar-graph)
 
-FileEarmarkBinaryFillIcon ![FileEarmarkBinaryFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary-fill)
+FileEarmarkBinaryFillIcon ![FileEarmarkBinaryFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary-fill)
 
-FileEarmarkBinaryIcon ![FileEarmarkBinaryIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary)
+FileEarmarkBinaryIcon ![FileEarmarkBinaryIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary)
 
-FileEarmarkBreakFillIcon ![FileEarmarkBreakFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-break-fill)
+FileEarmarkBreakFillIcon ![FileEarmarkBreakFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-break-fill)
 
-FileEarmarkBreakIcon ![FileEarmarkBreakIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-break)
+FileEarmarkBreakIcon ![FileEarmarkBreakIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-break)
 
-FileEarmarkCheckFillIcon ![FileEarmarkCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-check-fill)
+FileEarmarkCheckFillIcon ![FileEarmarkCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-check-fill)
 
-FileEarmarkCheckIcon ![FileEarmarkCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-check)
+FileEarmarkCheckIcon ![FileEarmarkCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-check)
 
-FileEarmarkCodeFillIcon ![FileEarmarkCodeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-code-fill)
+FileEarmarkCodeFillIcon ![FileEarmarkCodeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-code-fill)
 
-FileEarmarkCodeIcon ![FileEarmarkCodeIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-code)
+FileEarmarkCodeIcon ![FileEarmarkCodeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-code)
 
-FileEarmarkDiffFillIcon ![FileEarmarkDiffFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff-fill)
+FileEarmarkDiffFillIcon ![FileEarmarkDiffFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff-fill)
 
-FileEarmarkDiffIcon ![FileEarmarkDiffIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff)
+FileEarmarkDiffIcon ![FileEarmarkDiffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff)
 
-FileEarmarkEaselFillIcon ![FileEarmarkEaselFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-easel-fill)
+FileEarmarkEaselFillIcon ![FileEarmarkEaselFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-easel-fill)
 
-FileEarmarkEaselIcon ![FileEarmarkEaselIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-easel)
+FileEarmarkEaselIcon ![FileEarmarkEaselIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-easel)
 
-FileEarmarkExcelFillIcon ![FileEarmarkExcelFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-excel-fill)
+FileEarmarkExcelFillIcon ![FileEarmarkExcelFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-excel-fill)
 
-FileEarmarkExcelIcon ![FileEarmarkExcelIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-excel)
+FileEarmarkExcelIcon ![FileEarmarkExcelIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-excel)
 
-FileEarmarkFillIcon ![FileEarmarkFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-fill)
+FileEarmarkFillIcon ![FileEarmarkFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-fill)
 
-FileEarmarkFontFillIcon ![FileEarmarkFontFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-font-fill)
+FileEarmarkFontFillIcon ![FileEarmarkFontFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-font-fill)
 
-FileEarmarkFontIcon ![FileEarmarkFontIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-font)
+FileEarmarkFontIcon ![FileEarmarkFontIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-font)
 
-FileEarmarkImageFillIcon ![FileEarmarkImageFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-image-fill)
+FileEarmarkImageFillIcon ![FileEarmarkImageFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-image-fill)
 
-FileEarmarkImageIcon ![FileEarmarkImageIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-image)
+FileEarmarkImageIcon ![FileEarmarkImageIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-image)
 
-FileEarmarkLockFillIcon ![FileEarmarkLockFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock-fill)
+FileEarmarkLockFillIcon ![FileEarmarkLockFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock-fill)
 
-FileEarmarkLockIcon ![FileEarmarkLockIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock)
+FileEarmarkLockIcon ![FileEarmarkLockIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock)
 
-FileEarmarkLock2FillIcon ![FileEarmarkLock2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock2-fill)
+FileEarmarkLock2FillIcon ![FileEarmarkLock2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock2-fill)
 
-FileEarmarkLock2Icon ![FileEarmarkLock2Icon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock2)
+FileEarmarkLock2Icon ![FileEarmarkLock2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock2)
 
-FileEarmarkMedicalFillIcon ![FileEarmarkMedicalFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical-fill)
+FileEarmarkMedicalFillIcon ![FileEarmarkMedicalFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical-fill)
 
-FileEarmarkMedicalIcon ![FileEarmarkMedicalIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical)
+FileEarmarkMedicalIcon ![FileEarmarkMedicalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical)
 
-FileEarmarkMinusFillIcon ![FileEarmarkMinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus-fill)
+FileEarmarkMinusFillIcon ![FileEarmarkMinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus-fill)
 
-FileEarmarkMinusIcon ![FileEarmarkMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus)
+FileEarmarkMinusIcon ![FileEarmarkMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus)
 
-FileEarmarkMusicFillIcon ![FileEarmarkMusicFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-music-fill)
+FileEarmarkMusicFillIcon ![FileEarmarkMusicFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-music-fill)
 
-FileEarmarkMusicIcon ![FileEarmarkMusicIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-music)
+FileEarmarkMusicIcon ![FileEarmarkMusicIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-music)
 
-FileEarmarkPersonFillIcon ![FileEarmarkPersonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-person-fill)
+FileEarmarkPersonFillIcon ![FileEarmarkPersonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-person-fill)
 
-FileEarmarkPersonIcon ![FileEarmarkPersonIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-person)
+FileEarmarkPersonIcon ![FileEarmarkPersonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-person)
 
-FileEarmarkPlayFillIcon ![FileEarmarkPlayFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-play-fill)
+FileEarmarkPlayFillIcon ![FileEarmarkPlayFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-play-fill)
 
-FileEarmarkPlayIcon ![FileEarmarkPlayIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-play)
+FileEarmarkPlayIcon ![FileEarmarkPlayIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-play)
 
-FileEarmarkPlusFillIcon ![FileEarmarkPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus-fill)
+FileEarmarkPlusFillIcon ![FileEarmarkPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus-fill)
 
-FileEarmarkPlusIcon ![FileEarmarkPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus)
+FileEarmarkPlusIcon ![FileEarmarkPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus)
 
-FileEarmarkPostFillIcon ![FileEarmarkPostFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-post-fill)
+FileEarmarkPostFillIcon ![FileEarmarkPostFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-post-fill)
 
-FileEarmarkPostIcon ![FileEarmarkPostIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-post)
+FileEarmarkPostIcon ![FileEarmarkPostIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-post)
 
-FileEarmarkPptFillIcon ![FileEarmarkPptFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ppt-fill)
+FileEarmarkPptFillIcon ![FileEarmarkPptFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ppt-fill)
 
-FileEarmarkPptIcon ![FileEarmarkPptIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ppt)
+FileEarmarkPptIcon ![FileEarmarkPptIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ppt)
 
-FileEarmarkRichtextFillIcon ![FileEarmarkRichtextFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-richtext-fill)
+FileEarmarkRichtextFillIcon ![FileEarmarkRichtextFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-richtext-fill)
 
-FileEarmarkRichtextIcon ![FileEarmarkRichtextIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-richtext)
+FileEarmarkRichtextIcon ![FileEarmarkRichtextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-richtext)
 
-FileEarmarkRuledFillIcon ![FileEarmarkRuledFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled-fill)
+FileEarmarkRuledFillIcon ![FileEarmarkRuledFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled-fill)
 
-FileEarmarkRuledIcon ![FileEarmarkRuledIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled)
+FileEarmarkRuledIcon ![FileEarmarkRuledIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled)
 
-FileEarmarkSlidesFillIcon ![FileEarmarkSlidesFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-slides-fill)
+FileEarmarkSlidesFillIcon ![FileEarmarkSlidesFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-slides-fill)
 
-FileEarmarkSlidesIcon ![FileEarmarkSlidesIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-slides)
+FileEarmarkSlidesIcon ![FileEarmarkSlidesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-slides)
 
-FileEarmarkSpreadsheetFillIcon ![FileEarmarkSpreadsheetFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet-fill)
+FileEarmarkSpreadsheetFillIcon ![FileEarmarkSpreadsheetFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet-fill)
 
-FileEarmarkSpreadsheetIcon ![FileEarmarkSpreadsheetIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet)
+FileEarmarkSpreadsheetIcon ![FileEarmarkSpreadsheetIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet)
 
-FileEarmarkTextFillIcon ![FileEarmarkTextFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-text-fill)
+FileEarmarkTextFillIcon ![FileEarmarkTextFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-text-fill)
 
-FileEarmarkTextIcon ![FileEarmarkTextIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-text)
+FileEarmarkTextIcon ![FileEarmarkTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-text)
 
-FileEarmarkWordFillIcon ![FileEarmarkWordFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-word-fill)
+FileEarmarkWordFillIcon ![FileEarmarkWordFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-word-fill)
 
-FileEarmarkWordIcon ![FileEarmarkWordIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-word)
+FileEarmarkWordIcon ![FileEarmarkWordIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-word)
 
-FileEarmarkXFillIcon ![FileEarmarkXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-x-fill)
+FileEarmarkXFillIcon ![FileEarmarkXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-x-fill)
 
-FileEarmarkXIcon ![FileEarmarkXIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-x)
+FileEarmarkXIcon ![FileEarmarkXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-x)
 
-FileEarmarkZipFillIcon ![FileEarmarkZipFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip-fill)
+FileEarmarkZipFillIcon ![FileEarmarkZipFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip-fill)
 
-FileEarmarkZipIcon ![FileEarmarkZipIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip)
+FileEarmarkZipIcon ![FileEarmarkZipIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip)
 
-FileEarmarkIcon ![FileEarmarkIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark)
+FileEarmarkIcon ![FileEarmarkIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark)
 
-FileEaselFillIcon ![FileEaselFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-easel-fill)
+FileEaselFillIcon ![FileEaselFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-easel-fill)
 
-FileEaselIcon ![FileEaselIcon](images/bootstrap-icons/bootstrap-icons.svg#file-easel)
+FileEaselIcon ![FileEaselIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-easel)
 
-FileExcelFillIcon ![FileExcelFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-excel-fill)
+FileExcelFillIcon ![FileExcelFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-excel-fill)
 
-FileExcelIcon ![FileExcelIcon](images/bootstrap-icons/bootstrap-icons.svg#file-excel)
+FileExcelIcon ![FileExcelIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-excel)
 
-FileFillIcon ![FileFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-fill)
+FileFillIcon ![FileFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-fill)
 
-FileFontFillIcon ![FileFontFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-font-fill)
+FileFontFillIcon ![FileFontFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-font-fill)
 
-FileFontIcon ![FileFontIcon](images/bootstrap-icons/bootstrap-icons.svg#file-font)
+FileFontIcon ![FileFontIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-font)
 
-FileImageFillIcon ![FileImageFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-image-fill)
+FileImageFillIcon ![FileImageFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-image-fill)
 
-FileImageIcon ![FileImageIcon](images/bootstrap-icons/bootstrap-icons.svg#file-image)
+FileImageIcon ![FileImageIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-image)
 
-FileLockFillIcon ![FileLockFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-lock-fill)
+FileLockFillIcon ![FileLockFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock-fill)
 
-FileLockIcon ![FileLockIcon](images/bootstrap-icons/bootstrap-icons.svg#file-lock)
+FileLockIcon ![FileLockIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock)
 
-FileLock2FillIcon ![FileLock2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-lock2-fill)
+FileLock2FillIcon ![FileLock2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock2-fill)
 
-FileLock2Icon ![FileLock2Icon](images/bootstrap-icons/bootstrap-icons.svg#file-lock2)
+FileLock2Icon ![FileLock2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock2)
 
-FileMedicalFillIcon ![FileMedicalFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-medical-fill)
+FileMedicalFillIcon ![FileMedicalFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-medical-fill)
 
-FileMedicalIcon ![FileMedicalIcon](images/bootstrap-icons/bootstrap-icons.svg#file-medical)
+FileMedicalIcon ![FileMedicalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-medical)
 
-FileMinusFillIcon ![FileMinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-minus-fill)
+FileMinusFillIcon ![FileMinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-minus-fill)
 
-FileMinusIcon ![FileMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#file-minus)
+FileMinusIcon ![FileMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-minus)
 
-FileMusicFillIcon ![FileMusicFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-music-fill)
+FileMusicFillIcon ![FileMusicFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-music-fill)
 
-FileMusicIcon ![FileMusicIcon](images/bootstrap-icons/bootstrap-icons.svg#file-music)
+FileMusicIcon ![FileMusicIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-music)
 
-FilePersonFillIcon ![FilePersonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-person-fill)
+FilePersonFillIcon ![FilePersonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-person-fill)
 
-FilePersonIcon ![FilePersonIcon](images/bootstrap-icons/bootstrap-icons.svg#file-person)
+FilePersonIcon ![FilePersonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-person)
 
-FilePlayFillIcon ![FilePlayFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-play-fill)
+FilePlayFillIcon ![FilePlayFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-play-fill)
 
-FilePlayIcon ![FilePlayIcon](images/bootstrap-icons/bootstrap-icons.svg#file-play)
+FilePlayIcon ![FilePlayIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-play)
 
-FilePlusFillIcon ![FilePlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-plus-fill)
+FilePlusFillIcon ![FilePlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-plus-fill)
 
-FilePlusIcon ![FilePlusIcon](images/bootstrap-icons/bootstrap-icons.svg#file-plus)
+FilePlusIcon ![FilePlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-plus)
 
-FilePostFillIcon ![FilePostFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-post-fill)
+FilePostFillIcon ![FilePostFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-post-fill)
 
-FilePostIcon ![FilePostIcon](images/bootstrap-icons/bootstrap-icons.svg#file-post)
+FilePostIcon ![FilePostIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-post)
 
-FilePptFillIcon ![FilePptFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-ppt-fill)
+FilePptFillIcon ![FilePptFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ppt-fill)
 
-FilePptIcon ![FilePptIcon](images/bootstrap-icons/bootstrap-icons.svg#file-ppt)
+FilePptIcon ![FilePptIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ppt)
 
-FileRichtextFillIcon ![FileRichtextFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-richtext-fill)
+FileRichtextFillIcon ![FileRichtextFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-richtext-fill)
 
-FileRichtextIcon ![FileRichtextIcon](images/bootstrap-icons/bootstrap-icons.svg#file-richtext)
+FileRichtextIcon ![FileRichtextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-richtext)
 
-FileRuledFillIcon ![FileRuledFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-ruled-fill)
+FileRuledFillIcon ![FileRuledFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ruled-fill)
 
-FileRuledIcon ![FileRuledIcon](images/bootstrap-icons/bootstrap-icons.svg#file-ruled)
+FileRuledIcon ![FileRuledIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ruled)
 
-FileSlidesFillIcon ![FileSlidesFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-slides-fill)
+FileSlidesFillIcon ![FileSlidesFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-slides-fill)
 
-FileSlidesIcon ![FileSlidesIcon](images/bootstrap-icons/bootstrap-icons.svg#file-slides)
+FileSlidesIcon ![FileSlidesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-slides)
 
-FileSpreadsheetFillIcon ![FileSpreadsheetFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet-fill)
+FileSpreadsheetFillIcon ![FileSpreadsheetFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet-fill)
 
-FileSpreadsheetIcon ![FileSpreadsheetIcon](images/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet)
+FileSpreadsheetIcon ![FileSpreadsheetIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet)
 
-FileTextFillIcon ![FileTextFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-text-fill)
+FileTextFillIcon ![FileTextFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-text-fill)
 
-FileTextIcon ![FileTextIcon](images/bootstrap-icons/bootstrap-icons.svg#file-text)
+FileTextIcon ![FileTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-text)
 
-FileWordFillIcon ![FileWordFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-word-fill)
+FileWordFillIcon ![FileWordFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-word-fill)
 
-FileWordIcon ![FileWordIcon](images/bootstrap-icons/bootstrap-icons.svg#file-word)
+FileWordIcon ![FileWordIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-word)
 
-FileXFillIcon ![FileXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-x-fill)
+FileXFillIcon ![FileXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-x-fill)
 
-FileXIcon ![FileXIcon](images/bootstrap-icons/bootstrap-icons.svg#file-x)
+FileXIcon ![FileXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-x)
 
-FileZipFillIcon ![FileZipFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-zip-fill)
+FileZipFillIcon ![FileZipFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-zip-fill)
 
-FileZipIcon ![FileZipIcon](images/bootstrap-icons/bootstrap-icons.svg#file-zip)
+FileZipIcon ![FileZipIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-zip)
 
-FileIcon ![FileIcon](images/bootstrap-icons/bootstrap-icons.svg#file)
+FileIcon ![FileIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file)
 
-FilesAltIcon ![FilesAltIcon](images/bootstrap-icons/bootstrap-icons.svg#files-alt)
+FilesAltIcon ![FilesAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#files-alt)
 
-FilesIcon ![FilesIcon](images/bootstrap-icons/bootstrap-icons.svg#files)
+FilesIcon ![FilesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#files)
 
-FilmIcon ![FilmIcon](images/bootstrap-icons/bootstrap-icons.svg#film)
+FilmIcon ![FilmIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#film)
 
-FilterCircleFillIcon ![FilterCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#filter-circle-fill)
+FilterCircleFillIcon ![FilterCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-circle-fill)
 
-FilterCircleIcon ![FilterCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#filter-circle)
+FilterCircleIcon ![FilterCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-circle)
 
-FilterLeftIcon ![FilterLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#filter-left)
+FilterLeftIcon ![FilterLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-left)
 
-FilterRightIcon ![FilterRightIcon](images/bootstrap-icons/bootstrap-icons.svg#filter-right)
+FilterRightIcon ![FilterRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-right)
 
-FilterSquareFillIcon ![FilterSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#filter-square-fill)
+FilterSquareFillIcon ![FilterSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-square-fill)
 
-FilterSquareIcon ![FilterSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#filter-square)
+FilterSquareIcon ![FilterSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-square)
 
-FilterIcon ![FilterIcon](images/bootstrap-icons/bootstrap-icons.svg#filter)
+FilterIcon ![FilterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter)
 
-FlagFillIcon ![FlagFillIcon](images/bootstrap-icons/bootstrap-icons.svg#flag-fill)
+FlagFillIcon ![FlagFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flag-fill)
 
-FlagIcon ![FlagIcon](images/bootstrap-icons/bootstrap-icons.svg#flag)
+FlagIcon ![FlagIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flag)
 
-Flower1Icon ![Flower1Icon](images/bootstrap-icons/bootstrap-icons.svg#flower1)
+Flower1Icon ![Flower1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower1)
 
-Flower2Icon ![Flower2Icon](images/bootstrap-icons/bootstrap-icons.svg#flower2)
+Flower2Icon ![Flower2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower2)
 
-Flower3Icon ![Flower3Icon](images/bootstrap-icons/bootstrap-icons.svg#flower3)
+Flower3Icon ![Flower3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower3)
 
-FolderCheckIcon ![FolderCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#folder-check)
+FolderCheckIcon ![FolderCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-check)
 
-FolderFillIcon ![FolderFillIcon](images/bootstrap-icons/bootstrap-icons.svg#folder-fill)
+FolderFillIcon ![FolderFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-fill)
 
-FolderMinusIcon ![FolderMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#folder-minus)
+FolderMinusIcon ![FolderMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-minus)
 
-FolderPlusIcon ![FolderPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#folder-plus)
+FolderPlusIcon ![FolderPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-plus)
 
-FolderSymlinkFillIcon ![FolderSymlinkFillIcon](images/bootstrap-icons/bootstrap-icons.svg#folder-symlink-fill)
+FolderSymlinkFillIcon ![FolderSymlinkFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-symlink-fill)
 
-FolderSymlinkIcon ![FolderSymlinkIcon](images/bootstrap-icons/bootstrap-icons.svg#folder-symlink)
+FolderSymlinkIcon ![FolderSymlinkIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-symlink)
 
-FolderXIcon ![FolderXIcon](images/bootstrap-icons/bootstrap-icons.svg#folder-x)
+FolderXIcon ![FolderXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-x)
 
-FolderIcon ![FolderIcon](images/bootstrap-icons/bootstrap-icons.svg#folder)
+FolderIcon ![FolderIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder)
 
-Folder2OpenIcon ![Folder2OpenIcon](images/bootstrap-icons/bootstrap-icons.svg#folder2-open)
+Folder2OpenIcon ![Folder2OpenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder2-open)
 
-Folder2Icon ![Folder2Icon](images/bootstrap-icons/bootstrap-icons.svg#folder2)
+Folder2Icon ![Folder2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder2)
 
-FontsIcon ![FontsIcon](images/bootstrap-icons/bootstrap-icons.svg#fonts)
+FontsIcon ![FontsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fonts)
 
-ForwardFillIcon ![ForwardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#forward-fill)
+ForwardFillIcon ![ForwardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#forward-fill)
 
-ForwardIcon ![ForwardIcon](images/bootstrap-icons/bootstrap-icons.svg#forward)
+ForwardIcon ![ForwardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#forward)
 
-FrontIcon ![FrontIcon](images/bootstrap-icons/bootstrap-icons.svg#front)
+FrontIcon ![FrontIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#front)
 
-FullscreenExitIcon ![FullscreenExitIcon](images/bootstrap-icons/bootstrap-icons.svg#fullscreen-exit)
+FullscreenExitIcon ![FullscreenExitIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fullscreen-exit)
 
-FullscreenIcon ![FullscreenIcon](images/bootstrap-icons/bootstrap-icons.svg#fullscreen)
+FullscreenIcon ![FullscreenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fullscreen)
 
-FunnelFillIcon ![FunnelFillIcon](images/bootstrap-icons/bootstrap-icons.svg#funnel-fill)
+FunnelFillIcon ![FunnelFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#funnel-fill)
 
-FunnelIcon ![FunnelIcon](images/bootstrap-icons/bootstrap-icons.svg#funnel)
+FunnelIcon ![FunnelIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#funnel)
 
-GearFillIcon ![GearFillIcon](images/bootstrap-icons/bootstrap-icons.svg#gear-fill)
+GearFillIcon ![GearFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-fill)
 
-GearWideConnectedIcon ![GearWideConnectedIcon](images/bootstrap-icons/bootstrap-icons.svg#gear-wide-connected)
+GearWideConnectedIcon ![GearWideConnectedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-wide-connected)
 
-GearWideIcon ![GearWideIcon](images/bootstrap-icons/bootstrap-icons.svg#gear-wide)
+GearWideIcon ![GearWideIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-wide)
 
-GearIcon ![GearIcon](images/bootstrap-icons/bootstrap-icons.svg#gear)
+GearIcon ![GearIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear)
 
-GemIcon ![GemIcon](images/bootstrap-icons/bootstrap-icons.svg#gem)
+GemIcon ![GemIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gem)
 
-GeoAltFillIcon ![GeoAltFillIcon](images/bootstrap-icons/bootstrap-icons.svg#geo-alt-fill)
+GeoAltFillIcon ![GeoAltFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-alt-fill)
 
-GeoAltIcon ![GeoAltIcon](images/bootstrap-icons/bootstrap-icons.svg#geo-alt)
+GeoAltIcon ![GeoAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-alt)
 
-GeoFillIcon ![GeoFillIcon](images/bootstrap-icons/bootstrap-icons.svg#geo-fill)
+GeoFillIcon ![GeoFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-fill)
 
-GeoIcon ![GeoIcon](images/bootstrap-icons/bootstrap-icons.svg#geo)
+GeoIcon ![GeoIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo)
 
-GiftFillIcon ![GiftFillIcon](images/bootstrap-icons/bootstrap-icons.svg#gift-fill)
+GiftFillIcon ![GiftFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gift-fill)
 
-GiftIcon ![GiftIcon](images/bootstrap-icons/bootstrap-icons.svg#gift)
+GiftIcon ![GiftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gift)
 
-GithubIcon ![GithubIcon](images/bootstrap-icons/bootstrap-icons.svg#github)
+GithubIcon ![GithubIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#github)
 
-GlobeIcon ![GlobeIcon](images/bootstrap-icons/bootstrap-icons.svg#globe)
+GlobeIcon ![GlobeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#globe)
 
-Globe2Icon ![Globe2Icon](images/bootstrap-icons/bootstrap-icons.svg#globe2)
+Globe2Icon ![Globe2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#globe2)
 
-GoogleIcon ![GoogleIcon](images/bootstrap-icons/bootstrap-icons.svg#google)
+GoogleIcon ![GoogleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#google)
 
-GraphDownIcon ![GraphDownIcon](images/bootstrap-icons/bootstrap-icons.svg#graph-down)
+GraphDownIcon ![GraphDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-down)
 
-GraphUpIcon ![GraphUpIcon](images/bootstrap-icons/bootstrap-icons.svg#graph-up)
+GraphUpIcon ![GraphUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-up)
 
-Grid1x2FillIcon ![Grid1x2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#grid-1x2-fill)
+Grid1x2FillIcon ![Grid1x2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-1x2-fill)
 
-Grid1x2Icon ![Grid1x2Icon](images/bootstrap-icons/bootstrap-icons.svg#grid-1x2)
+Grid1x2Icon ![Grid1x2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-1x2)
 
-Grid3x2GapFillIcon ![Grid3x2GapFillIcon](images/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap-fill)
+Grid3x2GapFillIcon ![Grid3x2GapFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap-fill)
 
-Grid3x2GapIcon ![Grid3x2GapIcon](images/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap)
+Grid3x2GapIcon ![Grid3x2GapIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap)
 
-Grid3x2Icon ![Grid3x2Icon](images/bootstrap-icons/bootstrap-icons.svg#grid-3x2)
+Grid3x2Icon ![Grid3x2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2)
 
-Grid3x3GapFillIcon ![Grid3x3GapFillIcon](images/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap-fill)
+Grid3x3GapFillIcon ![Grid3x3GapFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap-fill)
 
-Grid3x3GapIcon ![Grid3x3GapIcon](images/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap)
+Grid3x3GapIcon ![Grid3x3GapIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap)
 
-Grid3x3Icon ![Grid3x3Icon](images/bootstrap-icons/bootstrap-icons.svg#grid-3x3)
+Grid3x3Icon ![Grid3x3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3)
 
-GridFillIcon ![GridFillIcon](images/bootstrap-icons/bootstrap-icons.svg#grid-fill)
+GridFillIcon ![GridFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-fill)
 
-GridIcon ![GridIcon](images/bootstrap-icons/bootstrap-icons.svg#grid)
+GridIcon ![GridIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid)
 
-GripHorizontalIcon ![GripHorizontalIcon](images/bootstrap-icons/bootstrap-icons.svg#grip-horizontal)
+GripHorizontalIcon ![GripHorizontalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grip-horizontal)
 
-GripVerticalIcon ![GripVerticalIcon](images/bootstrap-icons/bootstrap-icons.svg#grip-vertical)
+GripVerticalIcon ![GripVerticalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grip-vertical)
 
-HammerIcon ![HammerIcon](images/bootstrap-icons/bootstrap-icons.svg#hammer)
+HammerIcon ![HammerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hammer)
 
-HandIndexFillIcon ![HandIndexFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hand-index-fill)
+HandIndexFillIcon ![HandIndexFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-fill)
 
-HandIndexThumbFillIcon ![HandIndexThumbFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb-fill)
+HandIndexThumbFillIcon ![HandIndexThumbFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb-fill)
 
-HandIndexThumbIcon ![HandIndexThumbIcon](images/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb)
+HandIndexThumbIcon ![HandIndexThumbIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb)
 
-HandIndexIcon ![HandIndexIcon](images/bootstrap-icons/bootstrap-icons.svg#hand-index)
+HandIndexIcon ![HandIndexIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index)
 
-HandThumbsDownFillIcon ![HandThumbsDownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down-fill)
+HandThumbsDownFillIcon ![HandThumbsDownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down-fill)
 
-HandThumbsDownIcon ![HandThumbsDownIcon](images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down)
+HandThumbsDownIcon ![HandThumbsDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down)
 
-HandThumbsUpFillIcon ![HandThumbsUpFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up-fill)
+HandThumbsUpFillIcon ![HandThumbsUpFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up-fill)
 
-HandThumbsUpIcon ![HandThumbsUpIcon](images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up)
+HandThumbsUpIcon ![HandThumbsUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up)
 
-HandbagFillIcon ![HandbagFillIcon](images/bootstrap-icons/bootstrap-icons.svg#handbag-fill)
+HandbagFillIcon ![HandbagFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#handbag-fill)
 
-HandbagIcon ![HandbagIcon](images/bootstrap-icons/bootstrap-icons.svg#handbag)
+HandbagIcon ![HandbagIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#handbag)
 
-HashIcon ![HashIcon](images/bootstrap-icons/bootstrap-icons.svg#hash)
+HashIcon ![HashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hash)
 
-HddFillIcon ![HddFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hdd-fill)
+HddFillIcon ![HddFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-fill)
 
-HddNetworkFillIcon ![HddNetworkFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hdd-network-fill)
+HddNetworkFillIcon ![HddNetworkFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-network-fill)
 
-HddNetworkIcon ![HddNetworkIcon](images/bootstrap-icons/bootstrap-icons.svg#hdd-network)
+HddNetworkIcon ![HddNetworkIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-network)
 
-HddRackFillIcon ![HddRackFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hdd-rack-fill)
+HddRackFillIcon ![HddRackFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-rack-fill)
 
-HddRackIcon ![HddRackIcon](images/bootstrap-icons/bootstrap-icons.svg#hdd-rack)
+HddRackIcon ![HddRackIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-rack)
 
-HddStackFillIcon ![HddStackFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hdd-stack-fill)
+HddStackFillIcon ![HddStackFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-stack-fill)
 
-HddStackIcon ![HddStackIcon](images/bootstrap-icons/bootstrap-icons.svg#hdd-stack)
+HddStackIcon ![HddStackIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-stack)
 
-HddIcon ![HddIcon](images/bootstrap-icons/bootstrap-icons.svg#hdd)
+HddIcon ![HddIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd)
 
-HeadphonesIcon ![HeadphonesIcon](images/bootstrap-icons/bootstrap-icons.svg#headphones)
+HeadphonesIcon ![HeadphonesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headphones)
 
-HeadsetIcon ![HeadsetIcon](images/bootstrap-icons/bootstrap-icons.svg#headset)
+HeadsetIcon ![HeadsetIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headset)
 
-HeartFillIcon ![HeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#heart-fill)
+HeartFillIcon ![HeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-fill)
 
-HeartHalfIcon ![HeartHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#heart-half)
+HeartHalfIcon ![HeartHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-half)
 
-HeartIcon ![HeartIcon](images/bootstrap-icons/bootstrap-icons.svg#heart)
+HeartIcon ![HeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart)
 
-HeptagonFillIcon ![HeptagonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#heptagon-fill)
+HeptagonFillIcon ![HeptagonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon-fill)
 
-HeptagonHalfIcon ![HeptagonHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#heptagon-half)
+HeptagonHalfIcon ![HeptagonHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon-half)
 
-HeptagonIcon ![HeptagonIcon](images/bootstrap-icons/bootstrap-icons.svg#heptagon)
+HeptagonIcon ![HeptagonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon)
 
-HexagonFillIcon ![HexagonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hexagon-fill)
+HexagonFillIcon ![HexagonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon-fill)
 
-HexagonHalfIcon ![HexagonHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#hexagon-half)
+HexagonHalfIcon ![HexagonHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon-half)
 
-HexagonIcon ![HexagonIcon](images/bootstrap-icons/bootstrap-icons.svg#hexagon)
+HexagonIcon ![HexagonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon)
 
-HourglassBottomIcon ![HourglassBottomIcon](images/bootstrap-icons/bootstrap-icons.svg#hourglass-bottom)
+HourglassBottomIcon ![HourglassBottomIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-bottom)
 
-HourglassSplitIcon ![HourglassSplitIcon](images/bootstrap-icons/bootstrap-icons.svg#hourglass-split)
+HourglassSplitIcon ![HourglassSplitIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-split)
 
-HourglassTopIcon ![HourglassTopIcon](images/bootstrap-icons/bootstrap-icons.svg#hourglass-top)
+HourglassTopIcon ![HourglassTopIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-top)
 
-HourglassIcon ![HourglassIcon](images/bootstrap-icons/bootstrap-icons.svg#hourglass)
+HourglassIcon ![HourglassIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass)
 
-HouseDoorFillIcon ![HouseDoorFillIcon](images/bootstrap-icons/bootstrap-icons.svg#house-door-fill)
+HouseDoorFillIcon ![HouseDoorFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-door-fill)
 
-HouseDoorIcon ![HouseDoorIcon](images/bootstrap-icons/bootstrap-icons.svg#house-door)
+HouseDoorIcon ![HouseDoorIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-door)
 
-HouseFillIcon ![HouseFillIcon](images/bootstrap-icons/bootstrap-icons.svg#house-fill)
+HouseFillIcon ![HouseFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-fill)
 
-HouseIcon ![HouseIcon](images/bootstrap-icons/bootstrap-icons.svg#house)
+HouseIcon ![HouseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house)
 
-HrIcon ![HrIcon](images/bootstrap-icons/bootstrap-icons.svg#hr)
+HrIcon ![HrIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hr)
 
-HurricaneIcon ![HurricaneIcon](images/bootstrap-icons/bootstrap-icons.svg#hurricane)
+HurricaneIcon ![HurricaneIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hurricane)
 
-ImageAltIcon ![ImageAltIcon](images/bootstrap-icons/bootstrap-icons.svg#image-alt)
+ImageAltIcon ![ImageAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image-alt)
 
-ImageFillIcon ![ImageFillIcon](images/bootstrap-icons/bootstrap-icons.svg#image-fill)
+ImageFillIcon ![ImageFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image-fill)
 
-ImageIcon ![ImageIcon](images/bootstrap-icons/bootstrap-icons.svg#image)
+ImageIcon ![ImageIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image)
 
-ImagesIcon ![ImagesIcon](images/bootstrap-icons/bootstrap-icons.svg#images)
+ImagesIcon ![ImagesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#images)
 
-InboxFillIcon ![InboxFillIcon](images/bootstrap-icons/bootstrap-icons.svg#inbox-fill)
+InboxFillIcon ![InboxFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inbox-fill)
 
-InboxIcon ![InboxIcon](images/bootstrap-icons/bootstrap-icons.svg#inbox)
+InboxIcon ![InboxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inbox)
 
-InboxesFillIcon ![InboxesFillIcon](images/bootstrap-icons/bootstrap-icons.svg#inboxes-fill)
+InboxesFillIcon ![InboxesFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inboxes-fill)
 
-InboxesIcon ![InboxesIcon](images/bootstrap-icons/bootstrap-icons.svg#inboxes)
+InboxesIcon ![InboxesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inboxes)
 
-InfoCircleFillIcon ![InfoCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#info-circle-fill)
+InfoCircleFillIcon ![InfoCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-circle-fill)
 
-InfoCircleIcon ![InfoCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#info-circle)
+InfoCircleIcon ![InfoCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-circle)
 
-InfoSquareFillIcon ![InfoSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#info-square-fill)
+InfoSquareFillIcon ![InfoSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-square-fill)
 
-InfoSquareIcon ![InfoSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#info-square)
+InfoSquareIcon ![InfoSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-square)
 
-InfoIcon ![InfoIcon](images/bootstrap-icons/bootstrap-icons.svg#info)
+InfoIcon ![InfoIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info)
 
-InputCursorTextIcon ![InputCursorTextIcon](images/bootstrap-icons/bootstrap-icons.svg#input-cursor-text)
+InputCursorTextIcon ![InputCursorTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#input-cursor-text)
 
-InputCursorIcon ![InputCursorIcon](images/bootstrap-icons/bootstrap-icons.svg#input-cursor)
+InputCursorIcon ![InputCursorIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#input-cursor)
 
-InstagramIcon ![InstagramIcon](images/bootstrap-icons/bootstrap-icons.svg#instagram)
+InstagramIcon ![InstagramIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#instagram)
 
-IntersectIcon ![IntersectIcon](images/bootstrap-icons/bootstrap-icons.svg#intersect)
+IntersectIcon ![IntersectIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#intersect)
 
-JournalAlbumIcon ![JournalAlbumIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-album)
+JournalAlbumIcon ![JournalAlbumIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-album)
 
-JournalArrowDownIcon ![JournalArrowDownIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-arrow-down)
+JournalArrowDownIcon ![JournalArrowDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-arrow-down)
 
-JournalArrowUpIcon ![JournalArrowUpIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-arrow-up)
+JournalArrowUpIcon ![JournalArrowUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-arrow-up)
 
-JournalBookmarkFillIcon ![JournalBookmarkFillIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-bookmark-fill)
+JournalBookmarkFillIcon ![JournalBookmarkFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-bookmark-fill)
 
-JournalBookmarkIcon ![JournalBookmarkIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-bookmark)
+JournalBookmarkIcon ![JournalBookmarkIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-bookmark)
 
-JournalCheckIcon ![JournalCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-check)
+JournalCheckIcon ![JournalCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-check)
 
-JournalCodeIcon ![JournalCodeIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-code)
+JournalCodeIcon ![JournalCodeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-code)
 
-JournalMedicalIcon ![JournalMedicalIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-medical)
+JournalMedicalIcon ![JournalMedicalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-medical)
 
-JournalMinusIcon ![JournalMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-minus)
+JournalMinusIcon ![JournalMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-minus)
 
-JournalPlusIcon ![JournalPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-plus)
+JournalPlusIcon ![JournalPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-plus)
 
-JournalRichtextIcon ![JournalRichtextIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-richtext)
+JournalRichtextIcon ![JournalRichtextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-richtext)
 
-JournalTextIcon ![JournalTextIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-text)
+JournalTextIcon ![JournalTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-text)
 
-JournalXIcon ![JournalXIcon](images/bootstrap-icons/bootstrap-icons.svg#journal-x)
+JournalXIcon ![JournalXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-x)
 
-JournalIcon ![JournalIcon](images/bootstrap-icons/bootstrap-icons.svg#journal)
+JournalIcon ![JournalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal)
 
-JournalsIcon ![JournalsIcon](images/bootstrap-icons/bootstrap-icons.svg#journals)
+JournalsIcon ![JournalsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journals)
 
-JoystickIcon ![JoystickIcon](images/bootstrap-icons/bootstrap-icons.svg#joystick)
+JoystickIcon ![JoystickIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#joystick)
 
-JustifyLeftIcon ![JustifyLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#justify-left)
+JustifyLeftIcon ![JustifyLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify-left)
 
-JustifyRightIcon ![JustifyRightIcon](images/bootstrap-icons/bootstrap-icons.svg#justify-right)
+JustifyRightIcon ![JustifyRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify-right)
 
-JustifyIcon ![JustifyIcon](images/bootstrap-icons/bootstrap-icons.svg#justify)
+JustifyIcon ![JustifyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify)
 
-KanbanFillIcon ![KanbanFillIcon](images/bootstrap-icons/bootstrap-icons.svg#kanban-fill)
+KanbanFillIcon ![KanbanFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#kanban-fill)
 
-KanbanIcon ![KanbanIcon](images/bootstrap-icons/bootstrap-icons.svg#kanban)
+KanbanIcon ![KanbanIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#kanban)
 
-KeyFillIcon ![KeyFillIcon](images/bootstrap-icons/bootstrap-icons.svg#key-fill)
+KeyFillIcon ![KeyFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#key-fill)
 
-KeyIcon ![KeyIcon](images/bootstrap-icons/bootstrap-icons.svg#key)
+KeyIcon ![KeyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#key)
 
-KeyboardFillIcon ![KeyboardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#keyboard-fill)
+KeyboardFillIcon ![KeyboardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#keyboard-fill)
 
-KeyboardIcon ![KeyboardIcon](images/bootstrap-icons/bootstrap-icons.svg#keyboard)
+KeyboardIcon ![KeyboardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#keyboard)
 
-LadderIcon ![LadderIcon](images/bootstrap-icons/bootstrap-icons.svg#ladder)
+LadderIcon ![LadderIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ladder)
 
-LampFillIcon ![LampFillIcon](images/bootstrap-icons/bootstrap-icons.svg#lamp-fill)
+LampFillIcon ![LampFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lamp-fill)
 
-LampIcon ![LampIcon](images/bootstrap-icons/bootstrap-icons.svg#lamp)
+LampIcon ![LampIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lamp)
 
-LaptopFillIcon ![LaptopFillIcon](images/bootstrap-icons/bootstrap-icons.svg#laptop-fill)
+LaptopFillIcon ![LaptopFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#laptop-fill)
 
-LaptopIcon ![LaptopIcon](images/bootstrap-icons/bootstrap-icons.svg#laptop)
+LaptopIcon ![LaptopIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#laptop)
 
-LayerBackwardIcon ![LayerBackwardIcon](images/bootstrap-icons/bootstrap-icons.svg#layer-backward)
+LayerBackwardIcon ![LayerBackwardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layer-backward)
 
-LayerForwardIcon ![LayerForwardIcon](images/bootstrap-icons/bootstrap-icons.svg#layer-forward)
+LayerForwardIcon ![LayerForwardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layer-forward)
 
-LayersFillIcon ![LayersFillIcon](images/bootstrap-icons/bootstrap-icons.svg#layers-fill)
+LayersFillIcon ![LayersFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers-fill)
 
-LayersHalfIcon ![LayersHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#layers-half)
+LayersHalfIcon ![LayersHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers-half)
 
-LayersIcon ![LayersIcon](images/bootstrap-icons/bootstrap-icons.svg#layers)
+LayersIcon ![LayersIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers)
 
-LayoutSidebarInsetReverseIcon ![LayoutSidebarInsetReverseIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset-reverse)
+LayoutSidebarInsetReverseIcon ![LayoutSidebarInsetReverseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset-reverse)
 
-LayoutSidebarInsetIcon ![LayoutSidebarInsetIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset)
+LayoutSidebarInsetIcon ![LayoutSidebarInsetIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset)
 
-LayoutSidebarReverseIcon ![LayoutSidebarReverseIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-reverse)
+LayoutSidebarReverseIcon ![LayoutSidebarReverseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-reverse)
 
-LayoutSidebarIcon ![LayoutSidebarIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar)
+LayoutSidebarIcon ![LayoutSidebarIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar)
 
-LayoutSplitIcon ![LayoutSplitIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-split)
+LayoutSplitIcon ![LayoutSplitIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-split)
 
-LayoutTextSidebarReverseIcon ![LayoutTextSidebarReverseIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar-reverse)
+LayoutTextSidebarReverseIcon ![LayoutTextSidebarReverseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar-reverse)
 
-LayoutTextSidebarIcon ![LayoutTextSidebarIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar)
+LayoutTextSidebarIcon ![LayoutTextSidebarIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar)
 
-LayoutTextWindowReverseIcon ![LayoutTextWindowReverseIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-text-window-reverse)
+LayoutTextWindowReverseIcon ![LayoutTextWindowReverseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-window-reverse)
 
-LayoutTextWindowIcon ![LayoutTextWindowIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-text-window)
+LayoutTextWindowIcon ![LayoutTextWindowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-window)
 
-LayoutThreeColumnsIcon ![LayoutThreeColumnsIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-three-columns)
+LayoutThreeColumnsIcon ![LayoutThreeColumnsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-three-columns)
 
-LayoutWtfIcon ![LayoutWtfIcon](images/bootstrap-icons/bootstrap-icons.svg#layout-wtf)
+LayoutWtfIcon ![LayoutWtfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-wtf)
 
-LifePreserverIcon ![LifePreserverIcon](images/bootstrap-icons/bootstrap-icons.svg#life-preserver)
+LifePreserverIcon ![LifePreserverIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#life-preserver)
 
-LightbulbFillIcon ![LightbulbFillIcon](images/bootstrap-icons/bootstrap-icons.svg#lightbulb-fill)
+LightbulbFillIcon ![LightbulbFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-fill)
 
-LightbulbOffFillIcon ![LightbulbOffFillIcon](images/bootstrap-icons/bootstrap-icons.svg#lightbulb-off-fill)
+LightbulbOffFillIcon ![LightbulbOffFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-off-fill)
 
-LightbulbOffIcon ![LightbulbOffIcon](images/bootstrap-icons/bootstrap-icons.svg#lightbulb-off)
+LightbulbOffIcon ![LightbulbOffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-off)
 
-LightbulbIcon ![LightbulbIcon](images/bootstrap-icons/bootstrap-icons.svg#lightbulb)
+LightbulbIcon ![LightbulbIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb)
 
-LightningChargeFillIcon ![LightningChargeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#lightning-charge-fill)
+LightningChargeFillIcon ![LightningChargeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-charge-fill)
 
-LightningChargeIcon ![LightningChargeIcon](images/bootstrap-icons/bootstrap-icons.svg#lightning-charge)
+LightningChargeIcon ![LightningChargeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-charge)
 
-LightningFillIcon ![LightningFillIcon](images/bootstrap-icons/bootstrap-icons.svg#lightning-fill)
+LightningFillIcon ![LightningFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-fill)
 
-LightningIcon ![LightningIcon](images/bootstrap-icons/bootstrap-icons.svg#lightning)
+LightningIcon ![LightningIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning)
 
-Link45degIcon ![Link45degIcon](images/bootstrap-icons/bootstrap-icons.svg#link-45deg)
+Link45degIcon ![Link45degIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#link-45deg)
 
-LinkIcon ![LinkIcon](images/bootstrap-icons/bootstrap-icons.svg#link)
+LinkIcon ![LinkIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#link)
 
-LinkedinIcon ![LinkedinIcon](images/bootstrap-icons/bootstrap-icons.svg#linkedin)
+LinkedinIcon ![LinkedinIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#linkedin)
 
-ListCheckIcon ![ListCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#list-check)
+ListCheckIcon ![ListCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-check)
 
-ListNestedIcon ![ListNestedIcon](images/bootstrap-icons/bootstrap-icons.svg#list-nested)
+ListNestedIcon ![ListNestedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-nested)
 
-ListOlIcon ![ListOlIcon](images/bootstrap-icons/bootstrap-icons.svg#list-ol)
+ListOlIcon ![ListOlIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-ol)
 
-ListStarsIcon ![ListStarsIcon](images/bootstrap-icons/bootstrap-icons.svg#list-stars)
+ListStarsIcon ![ListStarsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-stars)
 
-ListTaskIcon ![ListTaskIcon](images/bootstrap-icons/bootstrap-icons.svg#list-task)
+ListTaskIcon ![ListTaskIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-task)
 
-ListUlIcon ![ListUlIcon](images/bootstrap-icons/bootstrap-icons.svg#list-ul)
+ListUlIcon ![ListUlIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-ul)
 
-ListIcon ![ListIcon](images/bootstrap-icons/bootstrap-icons.svg#list)
+ListIcon ![ListIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list)
 
-LockFillIcon ![LockFillIcon](images/bootstrap-icons/bootstrap-icons.svg#lock-fill)
+LockFillIcon ![LockFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lock-fill)
 
-LockIcon ![LockIcon](images/bootstrap-icons/bootstrap-icons.svg#lock)
+LockIcon ![LockIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lock)
 
-MailboxIcon ![MailboxIcon](images/bootstrap-icons/bootstrap-icons.svg#mailbox)
+MailboxIcon ![MailboxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mailbox)
 
-Mailbox2Icon ![Mailbox2Icon](images/bootstrap-icons/bootstrap-icons.svg#mailbox2)
+Mailbox2Icon ![Mailbox2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mailbox2)
 
-MapFillIcon ![MapFillIcon](images/bootstrap-icons/bootstrap-icons.svg#map-fill)
+MapFillIcon ![MapFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#map-fill)
 
-MapIcon ![MapIcon](images/bootstrap-icons/bootstrap-icons.svg#map)
+MapIcon ![MapIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#map)
 
-MarkdownFillIcon ![MarkdownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#markdown-fill)
+MarkdownFillIcon ![MarkdownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#markdown-fill)
 
-MarkdownIcon ![MarkdownIcon](images/bootstrap-icons/bootstrap-icons.svg#markdown)
+MarkdownIcon ![MarkdownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#markdown)
 
-MaskIcon ![MaskIcon](images/bootstrap-icons/bootstrap-icons.svg#mask)
+MaskIcon ![MaskIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mask)
 
-MegaphoneFillIcon ![MegaphoneFillIcon](images/bootstrap-icons/bootstrap-icons.svg#megaphone-fill)
+MegaphoneFillIcon ![MegaphoneFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#megaphone-fill)
 
-MegaphoneIcon ![MegaphoneIcon](images/bootstrap-icons/bootstrap-icons.svg#megaphone)
+MegaphoneIcon ![MegaphoneIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#megaphone)
 
-MenuAppFillIcon ![MenuAppFillIcon](images/bootstrap-icons/bootstrap-icons.svg#menu-app-fill)
+MenuAppFillIcon ![MenuAppFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-app-fill)
 
-MenuAppIcon ![MenuAppIcon](images/bootstrap-icons/bootstrap-icons.svg#menu-app)
+MenuAppIcon ![MenuAppIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-app)
 
-MenuButtonFillIcon ![MenuButtonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#menu-button-fill)
+MenuButtonFillIcon ![MenuButtonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-fill)
 
-MenuButtonWideFillIcon ![MenuButtonWideFillIcon](images/bootstrap-icons/bootstrap-icons.svg#menu-button-wide-fill)
+MenuButtonWideFillIcon ![MenuButtonWideFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-wide-fill)
 
-MenuButtonWideIcon ![MenuButtonWideIcon](images/bootstrap-icons/bootstrap-icons.svg#menu-button-wide)
+MenuButtonWideIcon ![MenuButtonWideIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-wide)
 
-MenuButtonIcon ![MenuButtonIcon](images/bootstrap-icons/bootstrap-icons.svg#menu-button)
+MenuButtonIcon ![MenuButtonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button)
 
-MenuDownIcon ![MenuDownIcon](images/bootstrap-icons/bootstrap-icons.svg#menu-down)
+MenuDownIcon ![MenuDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-down)
 
-MenuUpIcon ![MenuUpIcon](images/bootstrap-icons/bootstrap-icons.svg#menu-up)
+MenuUpIcon ![MenuUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-up)
 
-MicFillIcon ![MicFillIcon](images/bootstrap-icons/bootstrap-icons.svg#mic-fill)
+MicFillIcon ![MicFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-fill)
 
-MicMuteFillIcon ![MicMuteFillIcon](images/bootstrap-icons/bootstrap-icons.svg#mic-mute-fill)
+MicMuteFillIcon ![MicMuteFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-mute-fill)
 
-MicMuteIcon ![MicMuteIcon](images/bootstrap-icons/bootstrap-icons.svg#mic-mute)
+MicMuteIcon ![MicMuteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-mute)
 
-MicIcon ![MicIcon](images/bootstrap-icons/bootstrap-icons.svg#mic)
+MicIcon ![MicIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic)
 
-MinecartLoadedIcon ![MinecartLoadedIcon](images/bootstrap-icons/bootstrap-icons.svg#minecart-loaded)
+MinecartLoadedIcon ![MinecartLoadedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#minecart-loaded)
 
-MinecartIcon ![MinecartIcon](images/bootstrap-icons/bootstrap-icons.svg#minecart)
+MinecartIcon ![MinecartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#minecart)
 
-MoistureIcon ![MoistureIcon](images/bootstrap-icons/bootstrap-icons.svg#moisture)
+MoistureIcon ![MoistureIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moisture)
 
-MoonFillIcon ![MoonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#moon-fill)
+MoonFillIcon ![MoonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-fill)
 
-MoonStarsFillIcon ![MoonStarsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#moon-stars-fill)
+MoonStarsFillIcon ![MoonStarsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-stars-fill)
 
-MoonStarsIcon ![MoonStarsIcon](images/bootstrap-icons/bootstrap-icons.svg#moon-stars)
+MoonStarsIcon ![MoonStarsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-stars)
 
-MoonIcon ![MoonIcon](images/bootstrap-icons/bootstrap-icons.svg#moon)
+MoonIcon ![MoonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon)
 
-MouseFillIcon ![MouseFillIcon](images/bootstrap-icons/bootstrap-icons.svg#mouse-fill)
+MouseFillIcon ![MouseFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse-fill)
 
-MouseIcon ![MouseIcon](images/bootstrap-icons/bootstrap-icons.svg#mouse)
+MouseIcon ![MouseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse)
 
-Mouse2FillIcon ![Mouse2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#mouse2-fill)
+Mouse2FillIcon ![Mouse2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse2-fill)
 
-Mouse2Icon ![Mouse2Icon](images/bootstrap-icons/bootstrap-icons.svg#mouse2)
+Mouse2Icon ![Mouse2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse2)
 
-Mouse3FillIcon ![Mouse3FillIcon](images/bootstrap-icons/bootstrap-icons.svg#mouse3-fill)
+Mouse3FillIcon ![Mouse3FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse3-fill)
 
-Mouse3Icon ![Mouse3Icon](images/bootstrap-icons/bootstrap-icons.svg#mouse3)
+Mouse3Icon ![Mouse3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse3)
 
-MusicNoteBeamedIcon ![MusicNoteBeamedIcon](images/bootstrap-icons/bootstrap-icons.svg#music-note-beamed)
+MusicNoteBeamedIcon ![MusicNoteBeamedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note-beamed)
 
-MusicNoteListIcon ![MusicNoteListIcon](images/bootstrap-icons/bootstrap-icons.svg#music-note-list)
+MusicNoteListIcon ![MusicNoteListIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note-list)
 
-MusicNoteIcon ![MusicNoteIcon](images/bootstrap-icons/bootstrap-icons.svg#music-note)
+MusicNoteIcon ![MusicNoteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note)
 
-MusicPlayerFillIcon ![MusicPlayerFillIcon](images/bootstrap-icons/bootstrap-icons.svg#music-player-fill)
+MusicPlayerFillIcon ![MusicPlayerFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-player-fill)
 
-MusicPlayerIcon ![MusicPlayerIcon](images/bootstrap-icons/bootstrap-icons.svg#music-player)
+MusicPlayerIcon ![MusicPlayerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-player)
 
-NewspaperIcon ![NewspaperIcon](images/bootstrap-icons/bootstrap-icons.svg#newspaper)
+NewspaperIcon ![NewspaperIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#newspaper)
 
-NodeMinusFillIcon ![NodeMinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#node-minus-fill)
+NodeMinusFillIcon ![NodeMinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-minus-fill)
 
-NodeMinusIcon ![NodeMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#node-minus)
+NodeMinusIcon ![NodeMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-minus)
 
-NodePlusFillIcon ![NodePlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#node-plus-fill)
+NodePlusFillIcon ![NodePlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-plus-fill)
 
-NodePlusIcon ![NodePlusIcon](images/bootstrap-icons/bootstrap-icons.svg#node-plus)
+NodePlusIcon ![NodePlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-plus)
 
-NutFillIcon ![NutFillIcon](images/bootstrap-icons/bootstrap-icons.svg#nut-fill)
+NutFillIcon ![NutFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nut-fill)
 
-NutIcon ![NutIcon](images/bootstrap-icons/bootstrap-icons.svg#nut)
+NutIcon ![NutIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nut)
 
-OctagonFillIcon ![OctagonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#octagon-fill)
+OctagonFillIcon ![OctagonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon-fill)
 
-OctagonHalfIcon ![OctagonHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#octagon-half)
+OctagonHalfIcon ![OctagonHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon-half)
 
-OctagonIcon ![OctagonIcon](images/bootstrap-icons/bootstrap-icons.svg#octagon)
+OctagonIcon ![OctagonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon)
 
-OptionIcon ![OptionIcon](images/bootstrap-icons/bootstrap-icons.svg#option)
+OptionIcon ![OptionIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#option)
 
-OutletIcon ![OutletIcon](images/bootstrap-icons/bootstrap-icons.svg#outlet)
+OutletIcon ![OutletIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#outlet)
 
-PaintBucketIcon ![PaintBucketIcon](images/bootstrap-icons/bootstrap-icons.svg#paint-bucket)
+PaintBucketIcon ![PaintBucketIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paint-bucket)
 
-PaletteFillIcon ![PaletteFillIcon](images/bootstrap-icons/bootstrap-icons.svg#palette-fill)
+PaletteFillIcon ![PaletteFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette-fill)
 
-PaletteIcon ![PaletteIcon](images/bootstrap-icons/bootstrap-icons.svg#palette)
+PaletteIcon ![PaletteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette)
 
-Palette2Icon ![Palette2Icon](images/bootstrap-icons/bootstrap-icons.svg#palette2)
+Palette2Icon ![Palette2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette2)
 
-PaperclipIcon ![PaperclipIcon](images/bootstrap-icons/bootstrap-icons.svg#paperclip)
+PaperclipIcon ![PaperclipIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paperclip)
 
-ParagraphIcon ![ParagraphIcon](images/bootstrap-icons/bootstrap-icons.svg#paragraph)
+ParagraphIcon ![ParagraphIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paragraph)
 
-PatchCheckFillIcon ![PatchCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-check-fill)
+PatchCheckFillIcon ![PatchCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-check-fill)
 
-PatchCheckIcon ![PatchCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-check)
+PatchCheckIcon ![PatchCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-check)
 
-PatchExclamationFillIcon ![PatchExclamationFillIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-exclamation-fill)
+PatchExclamationFillIcon ![PatchExclamationFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-exclamation-fill)
 
-PatchExclamationIcon ![PatchExclamationIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-exclamation)
+PatchExclamationIcon ![PatchExclamationIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-exclamation)
 
-PatchMinusFillIcon ![PatchMinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-minus-fill)
+PatchMinusFillIcon ![PatchMinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-minus-fill)
 
-PatchMinusIcon ![PatchMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-minus)
+PatchMinusIcon ![PatchMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-minus)
 
-PatchPlusFillIcon ![PatchPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-plus-fill)
+PatchPlusFillIcon ![PatchPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-plus-fill)
 
-PatchPlusIcon ![PatchPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-plus)
+PatchPlusIcon ![PatchPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-plus)
 
-PatchQuestionFillIcon ![PatchQuestionFillIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-question-fill)
+PatchQuestionFillIcon ![PatchQuestionFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-question-fill)
 
-PatchQuestionIcon ![PatchQuestionIcon](images/bootstrap-icons/bootstrap-icons.svg#patch-question)
+PatchQuestionIcon ![PatchQuestionIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-question)
 
-PauseBtnFillIcon ![PauseBtnFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pause-btn-fill)
+PauseBtnFillIcon ![PauseBtnFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-btn-fill)
 
-PauseBtnIcon ![PauseBtnIcon](images/bootstrap-icons/bootstrap-icons.svg#pause-btn)
+PauseBtnIcon ![PauseBtnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-btn)
 
-PauseCircleFillIcon ![PauseCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pause-circle-fill)
+PauseCircleFillIcon ![PauseCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-circle-fill)
 
-PauseCircleIcon ![PauseCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#pause-circle)
+PauseCircleIcon ![PauseCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-circle)
 
-PauseFillIcon ![PauseFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pause-fill)
+PauseFillIcon ![PauseFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-fill)
 
-PauseIcon ![PauseIcon](images/bootstrap-icons/bootstrap-icons.svg#pause)
+PauseIcon ![PauseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause)
 
-PeaceFillIcon ![PeaceFillIcon](images/bootstrap-icons/bootstrap-icons.svg#peace-fill)
+PeaceFillIcon ![PeaceFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#peace-fill)
 
-PeaceIcon ![PeaceIcon](images/bootstrap-icons/bootstrap-icons.svg#peace)
+PeaceIcon ![PeaceIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#peace)
 
-PenFillIcon ![PenFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pen-fill)
+PenFillIcon ![PenFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pen-fill)
 
-PenIcon ![PenIcon](images/bootstrap-icons/bootstrap-icons.svg#pen)
+PenIcon ![PenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pen)
 
-PencilFillIcon ![PencilFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pencil-fill)
+PencilFillIcon ![PencilFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil-fill)
 
-PencilSquareIcon ![PencilSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#pencil-square)
+PencilSquareIcon ![PencilSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil-square)
 
-PencilIcon ![PencilIcon](images/bootstrap-icons/bootstrap-icons.svg#pencil)
+PencilIcon ![PencilIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil)
 
-PentagonFillIcon ![PentagonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pentagon-fill)
+PentagonFillIcon ![PentagonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon-fill)
 
-PentagonHalfIcon ![PentagonHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#pentagon-half)
+PentagonHalfIcon ![PentagonHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon-half)
 
-PentagonIcon ![PentagonIcon](images/bootstrap-icons/bootstrap-icons.svg#pentagon)
+PentagonIcon ![PentagonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon)
 
-PeopleFillIcon ![PeopleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#people-fill)
+PeopleFillIcon ![PeopleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#people-fill)
 
-PeopleIcon ![PeopleIcon](images/bootstrap-icons/bootstrap-icons.svg#people)
+PeopleIcon ![PeopleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#people)
 
-PercentIcon ![PercentIcon](images/bootstrap-icons/bootstrap-icons.svg#percent)
+PercentIcon ![PercentIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#percent)
 
-PersonBadgeFillIcon ![PersonBadgeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#person-badge-fill)
+PersonBadgeFillIcon ![PersonBadgeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-badge-fill)
 
-PersonBadgeIcon ![PersonBadgeIcon](images/bootstrap-icons/bootstrap-icons.svg#person-badge)
+PersonBadgeIcon ![PersonBadgeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-badge)
 
-PersonBoundingBoxIcon ![PersonBoundingBoxIcon](images/bootstrap-icons/bootstrap-icons.svg#person-bounding-box)
+PersonBoundingBoxIcon ![PersonBoundingBoxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-bounding-box)
 
-PersonCheckFillIcon ![PersonCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#person-check-fill)
+PersonCheckFillIcon ![PersonCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-check-fill)
 
-PersonCheckIcon ![PersonCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#person-check)
+PersonCheckIcon ![PersonCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-check)
 
-PersonCircleIcon ![PersonCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#person-circle)
+PersonCircleIcon ![PersonCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-circle)
 
-PersonDashFillIcon ![PersonDashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#person-dash-fill)
+PersonDashFillIcon ![PersonDashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-dash-fill)
 
-PersonDashIcon ![PersonDashIcon](images/bootstrap-icons/bootstrap-icons.svg#person-dash)
+PersonDashIcon ![PersonDashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-dash)
 
-PersonFillIcon ![PersonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#person-fill)
+PersonFillIcon ![PersonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-fill)
 
-PersonLinesFillIcon ![PersonLinesFillIcon](images/bootstrap-icons/bootstrap-icons.svg#person-lines-fill)
+PersonLinesFillIcon ![PersonLinesFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-lines-fill)
 
-PersonPlusFillIcon ![PersonPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#person-plus-fill)
+PersonPlusFillIcon ![PersonPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-plus-fill)
 
-PersonPlusIcon ![PersonPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#person-plus)
+PersonPlusIcon ![PersonPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-plus)
 
-PersonSquareIcon ![PersonSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#person-square)
+PersonSquareIcon ![PersonSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-square)
 
-PersonXFillIcon ![PersonXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#person-x-fill)
+PersonXFillIcon ![PersonXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-x-fill)
 
-PersonXIcon ![PersonXIcon](images/bootstrap-icons/bootstrap-icons.svg#person-x)
+PersonXIcon ![PersonXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-x)
 
-PersonIcon ![PersonIcon](images/bootstrap-icons/bootstrap-icons.svg#person)
+PersonIcon ![PersonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person)
 
-PhoneFillIcon ![PhoneFillIcon](images/bootstrap-icons/bootstrap-icons.svg#phone-fill)
+PhoneFillIcon ![PhoneFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-fill)
 
-PhoneLandscapeFillIcon ![PhoneLandscapeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#phone-landscape-fill)
+PhoneLandscapeFillIcon ![PhoneLandscapeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-landscape-fill)
 
-PhoneLandscapeIcon ![PhoneLandscapeIcon](images/bootstrap-icons/bootstrap-icons.svg#phone-landscape)
+PhoneLandscapeIcon ![PhoneLandscapeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-landscape)
 
-PhoneVibrateFillIcon ![PhoneVibrateFillIcon](images/bootstrap-icons/bootstrap-icons.svg#phone-vibrate-fill)
+PhoneVibrateFillIcon ![PhoneVibrateFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-vibrate-fill)
 
-PhoneVibrateIcon ![PhoneVibrateIcon](images/bootstrap-icons/bootstrap-icons.svg#phone-vibrate)
+PhoneVibrateIcon ![PhoneVibrateIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-vibrate)
 
-PhoneIcon ![PhoneIcon](images/bootstrap-icons/bootstrap-icons.svg#phone)
+PhoneIcon ![PhoneIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone)
 
-PieChartFillIcon ![PieChartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pie-chart-fill)
+PieChartFillIcon ![PieChartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pie-chart-fill)
 
-PieChartIcon ![PieChartIcon](images/bootstrap-icons/bootstrap-icons.svg#pie-chart)
+PieChartIcon ![PieChartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pie-chart)
 
-PinAngleFillIcon ![PinAngleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pin-angle-fill)
+PinAngleFillIcon ![PinAngleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-angle-fill)
 
-PinAngleIcon ![PinAngleIcon](images/bootstrap-icons/bootstrap-icons.svg#pin-angle)
+PinAngleIcon ![PinAngleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-angle)
 
-PinFillIcon ![PinFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pin-fill)
+PinFillIcon ![PinFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-fill)
 
-PinIcon ![PinIcon](images/bootstrap-icons/bootstrap-icons.svg#pin)
+PinIcon ![PinIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin)
 
-PipFillIcon ![PipFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pip-fill)
+PipFillIcon ![PipFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pip-fill)
 
-PipIcon ![PipIcon](images/bootstrap-icons/bootstrap-icons.svg#pip)
+PipIcon ![PipIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pip)
 
-PlayBtnFillIcon ![PlayBtnFillIcon](images/bootstrap-icons/bootstrap-icons.svg#play-btn-fill)
+PlayBtnFillIcon ![PlayBtnFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-btn-fill)
 
-PlayBtnIcon ![PlayBtnIcon](images/bootstrap-icons/bootstrap-icons.svg#play-btn)
+PlayBtnIcon ![PlayBtnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-btn)
 
-PlayCircleFillIcon ![PlayCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#play-circle-fill)
+PlayCircleFillIcon ![PlayCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-circle-fill)
 
-PlayCircleIcon ![PlayCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#play-circle)
+PlayCircleIcon ![PlayCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-circle)
 
-PlayFillIcon ![PlayFillIcon](images/bootstrap-icons/bootstrap-icons.svg#play-fill)
+PlayFillIcon ![PlayFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-fill)
 
-PlayIcon ![PlayIcon](images/bootstrap-icons/bootstrap-icons.svg#play)
+PlayIcon ![PlayIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play)
 
-PlugFillIcon ![PlugFillIcon](images/bootstrap-icons/bootstrap-icons.svg#plug-fill)
+PlugFillIcon ![PlugFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plug-fill)
 
-PlugIcon ![PlugIcon](images/bootstrap-icons/bootstrap-icons.svg#plug)
+PlugIcon ![PlugIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plug)
 
-PlusCircleDottedIcon ![PlusCircleDottedIcon](images/bootstrap-icons/bootstrap-icons.svg#plus-circle-dotted)
+PlusCircleDottedIcon ![PlusCircleDottedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle-dotted)
 
-PlusCircleFillIcon ![PlusCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#plus-circle-fill)
+PlusCircleFillIcon ![PlusCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle-fill)
 
-PlusCircleIcon ![PlusCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#plus-circle)
+PlusCircleIcon ![PlusCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle)
 
-PlusSquareDottedIcon ![PlusSquareDottedIcon](images/bootstrap-icons/bootstrap-icons.svg#plus-square-dotted)
+PlusSquareDottedIcon ![PlusSquareDottedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square-dotted)
 
-PlusSquareFillIcon ![PlusSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#plus-square-fill)
+PlusSquareFillIcon ![PlusSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square-fill)
 
-PlusSquareIcon ![PlusSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#plus-square)
+PlusSquareIcon ![PlusSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square)
 
-PlusIcon ![PlusIcon](images/bootstrap-icons/bootstrap-icons.svg#plus)
+PlusIcon ![PlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus)
 
-PowerIcon ![PowerIcon](images/bootstrap-icons/bootstrap-icons.svg#power)
+PowerIcon ![PowerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#power)
 
-PrinterFillIcon ![PrinterFillIcon](images/bootstrap-icons/bootstrap-icons.svg#printer-fill)
+PrinterFillIcon ![PrinterFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#printer-fill)
 
-PrinterIcon ![PrinterIcon](images/bootstrap-icons/bootstrap-icons.svg#printer)
+PrinterIcon ![PrinterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#printer)
 
-PuzzleFillIcon ![PuzzleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#puzzle-fill)
+PuzzleFillIcon ![PuzzleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#puzzle-fill)
 
-PuzzleIcon ![PuzzleIcon](images/bootstrap-icons/bootstrap-icons.svg#puzzle)
+PuzzleIcon ![PuzzleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#puzzle)
 
-QuestionCircleFillIcon ![QuestionCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#question-circle-fill)
+QuestionCircleFillIcon ![QuestionCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-circle-fill)
 
-QuestionCircleIcon ![QuestionCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#question-circle)
+QuestionCircleIcon ![QuestionCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-circle)
 
-QuestionDiamondFillIcon ![QuestionDiamondFillIcon](images/bootstrap-icons/bootstrap-icons.svg#question-diamond-fill)
+QuestionDiamondFillIcon ![QuestionDiamondFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-diamond-fill)
 
-QuestionDiamondIcon ![QuestionDiamondIcon](images/bootstrap-icons/bootstrap-icons.svg#question-diamond)
+QuestionDiamondIcon ![QuestionDiamondIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-diamond)
 
-QuestionOctagonFillIcon ![QuestionOctagonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#question-octagon-fill)
+QuestionOctagonFillIcon ![QuestionOctagonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-octagon-fill)
 
-QuestionOctagonIcon ![QuestionOctagonIcon](images/bootstrap-icons/bootstrap-icons.svg#question-octagon)
+QuestionOctagonIcon ![QuestionOctagonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-octagon)
 
-QuestionSquareFillIcon ![QuestionSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#question-square-fill)
+QuestionSquareFillIcon ![QuestionSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-square-fill)
 
-QuestionSquareIcon ![QuestionSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#question-square)
+QuestionSquareIcon ![QuestionSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-square)
 
-QuestionIcon ![QuestionIcon](images/bootstrap-icons/bootstrap-icons.svg#question)
+QuestionIcon ![QuestionIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question)
 
-RainbowIcon ![RainbowIcon](images/bootstrap-icons/bootstrap-icons.svg#rainbow)
+RainbowIcon ![RainbowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rainbow)
 
-ReceiptCutoffIcon ![ReceiptCutoffIcon](images/bootstrap-icons/bootstrap-icons.svg#receipt-cutoff)
+ReceiptCutoffIcon ![ReceiptCutoffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#receipt-cutoff)
 
-ReceiptIcon ![ReceiptIcon](images/bootstrap-icons/bootstrap-icons.svg#receipt)
+ReceiptIcon ![ReceiptIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#receipt)
 
-Reception0Icon ![Reception0Icon](images/bootstrap-icons/bootstrap-icons.svg#reception-0)
+Reception0Icon ![Reception0Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-0)
 
-Reception1Icon ![Reception1Icon](images/bootstrap-icons/bootstrap-icons.svg#reception-1)
+Reception1Icon ![Reception1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-1)
 
-Reception2Icon ![Reception2Icon](images/bootstrap-icons/bootstrap-icons.svg#reception-2)
+Reception2Icon ![Reception2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-2)
 
-Reception3Icon ![Reception3Icon](images/bootstrap-icons/bootstrap-icons.svg#reception-3)
+Reception3Icon ![Reception3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-3)
 
-Reception4Icon ![Reception4Icon](images/bootstrap-icons/bootstrap-icons.svg#reception-4)
+Reception4Icon ![Reception4Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-4)
 
-RecordBtnFillIcon ![RecordBtnFillIcon](images/bootstrap-icons/bootstrap-icons.svg#record-btn-fill)
+RecordBtnFillIcon ![RecordBtnFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-btn-fill)
 
-RecordBtnIcon ![RecordBtnIcon](images/bootstrap-icons/bootstrap-icons.svg#record-btn)
+RecordBtnIcon ![RecordBtnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-btn)
 
-RecordCircleFillIcon ![RecordCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#record-circle-fill)
+RecordCircleFillIcon ![RecordCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-circle-fill)
 
-RecordCircleIcon ![RecordCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#record-circle)
+RecordCircleIcon ![RecordCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-circle)
 
-RecordFillIcon ![RecordFillIcon](images/bootstrap-icons/bootstrap-icons.svg#record-fill)
+RecordFillIcon ![RecordFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-fill)
 
-RecordIcon ![RecordIcon](images/bootstrap-icons/bootstrap-icons.svg#record)
+RecordIcon ![RecordIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record)
 
-Record2FillIcon ![Record2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#record2-fill)
+Record2FillIcon ![Record2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record2-fill)
 
-Record2Icon ![Record2Icon](images/bootstrap-icons/bootstrap-icons.svg#record2)
+Record2Icon ![Record2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record2)
 
-ReplyAllFillIcon ![ReplyAllFillIcon](images/bootstrap-icons/bootstrap-icons.svg#reply-all-fill)
+ReplyAllFillIcon ![ReplyAllFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-all-fill)
 
-ReplyAllIcon ![ReplyAllIcon](images/bootstrap-icons/bootstrap-icons.svg#reply-all)
+ReplyAllIcon ![ReplyAllIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-all)
 
-ReplyFillIcon ![ReplyFillIcon](images/bootstrap-icons/bootstrap-icons.svg#reply-fill)
+ReplyFillIcon ![ReplyFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-fill)
 
-ReplyIcon ![ReplyIcon](images/bootstrap-icons/bootstrap-icons.svg#reply)
+ReplyIcon ![ReplyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply)
 
-RssFillIcon ![RssFillIcon](images/bootstrap-icons/bootstrap-icons.svg#rss-fill)
+RssFillIcon ![RssFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rss-fill)
 
-RssIcon ![RssIcon](images/bootstrap-icons/bootstrap-icons.svg#rss)
+RssIcon ![RssIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rss)
 
-RulersIcon ![RulersIcon](images/bootstrap-icons/bootstrap-icons.svg#rulers)
+RulersIcon ![RulersIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rulers)
 
-SaveFillIcon ![SaveFillIcon](images/bootstrap-icons/bootstrap-icons.svg#save-fill)
+SaveFillIcon ![SaveFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save-fill)
 
-SaveIcon ![SaveIcon](images/bootstrap-icons/bootstrap-icons.svg#save)
+SaveIcon ![SaveIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save)
 
-Save2FillIcon ![Save2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#save2-fill)
+Save2FillIcon ![Save2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save2-fill)
 
-Save2Icon ![Save2Icon](images/bootstrap-icons/bootstrap-icons.svg#save2)
+Save2Icon ![Save2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save2)
 
-ScissorsIcon ![ScissorsIcon](images/bootstrap-icons/bootstrap-icons.svg#scissors)
+ScissorsIcon ![ScissorsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#scissors)
 
-ScrewdriverIcon ![ScrewdriverIcon](images/bootstrap-icons/bootstrap-icons.svg#screwdriver)
+ScrewdriverIcon ![ScrewdriverIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#screwdriver)
 
-SearchIcon ![SearchIcon](images/bootstrap-icons/bootstrap-icons.svg#search)
+SearchIcon ![SearchIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search)
 
-SegmentedNavIcon ![SegmentedNavIcon](images/bootstrap-icons/bootstrap-icons.svg#segmented-nav)
+SegmentedNavIcon ![SegmentedNavIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#segmented-nav)
 
-ServerIcon ![ServerIcon](images/bootstrap-icons/bootstrap-icons.svg#server)
+ServerIcon ![ServerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#server)
 
-ShareFillIcon ![ShareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#share-fill)
+ShareFillIcon ![ShareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#share-fill)
 
-ShareIcon ![ShareIcon](images/bootstrap-icons/bootstrap-icons.svg#share)
+ShareIcon ![ShareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#share)
 
-ShieldCheckIcon ![ShieldCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-check)
+ShieldCheckIcon ![ShieldCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-check)
 
-ShieldExclamationIcon ![ShieldExclamationIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-exclamation)
+ShieldExclamationIcon ![ShieldExclamationIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-exclamation)
 
-ShieldFillCheckIcon ![ShieldFillCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-fill-check)
+ShieldFillCheckIcon ![ShieldFillCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-check)
 
-ShieldFillExclamationIcon ![ShieldFillExclamationIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-fill-exclamation)
+ShieldFillExclamationIcon ![ShieldFillExclamationIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-exclamation)
 
-ShieldFillMinusIcon ![ShieldFillMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-fill-minus)
+ShieldFillMinusIcon ![ShieldFillMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-minus)
 
-ShieldFillPlusIcon ![ShieldFillPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-fill-plus)
+ShieldFillPlusIcon ![ShieldFillPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-plus)
 
-ShieldFillXIcon ![ShieldFillXIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-fill-x)
+ShieldFillXIcon ![ShieldFillXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-x)
 
-ShieldFillIcon ![ShieldFillIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-fill)
+ShieldFillIcon ![ShieldFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill)
 
-ShieldLockFillIcon ![ShieldLockFillIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-lock-fill)
+ShieldLockFillIcon ![ShieldLockFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-lock-fill)
 
-ShieldLockIcon ![ShieldLockIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-lock)
+ShieldLockIcon ![ShieldLockIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-lock)
 
-ShieldMinusIcon ![ShieldMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-minus)
+ShieldMinusIcon ![ShieldMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-minus)
 
-ShieldPlusIcon ![ShieldPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-plus)
+ShieldPlusIcon ![ShieldPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-plus)
 
-ShieldShadedIcon ![ShieldShadedIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-shaded)
+ShieldShadedIcon ![ShieldShadedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-shaded)
 
-ShieldSlashFillIcon ![ShieldSlashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-slash-fill)
+ShieldSlashFillIcon ![ShieldSlashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-slash-fill)
 
-ShieldSlashIcon ![ShieldSlashIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-slash)
+ShieldSlashIcon ![ShieldSlashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-slash)
 
-ShieldXIcon ![ShieldXIcon](images/bootstrap-icons/bootstrap-icons.svg#shield-x)
+ShieldXIcon ![ShieldXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-x)
 
-ShieldIcon ![ShieldIcon](images/bootstrap-icons/bootstrap-icons.svg#shield)
+ShieldIcon ![ShieldIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield)
 
-ShiftFillIcon ![ShiftFillIcon](images/bootstrap-icons/bootstrap-icons.svg#shift-fill)
+ShiftFillIcon ![ShiftFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shift-fill)
 
-ShiftIcon ![ShiftIcon](images/bootstrap-icons/bootstrap-icons.svg#shift)
+ShiftIcon ![ShiftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shift)
 
-ShopWindowIcon ![ShopWindowIcon](images/bootstrap-icons/bootstrap-icons.svg#shop-window)
+ShopWindowIcon ![ShopWindowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shop-window)
 
-ShopIcon ![ShopIcon](images/bootstrap-icons/bootstrap-icons.svg#shop)
+ShopIcon ![ShopIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shop)
 
-ShuffleIcon ![ShuffleIcon](images/bootstrap-icons/bootstrap-icons.svg#shuffle)
+ShuffleIcon ![ShuffleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shuffle)
 
-Signpost2FillIcon ![Signpost2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#signpost-2-fill)
+Signpost2FillIcon ![Signpost2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-2-fill)
 
-Signpost2Icon ![Signpost2Icon](images/bootstrap-icons/bootstrap-icons.svg#signpost-2)
+Signpost2Icon ![Signpost2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-2)
 
-SignpostFillIcon ![SignpostFillIcon](images/bootstrap-icons/bootstrap-icons.svg#signpost-fill)
+SignpostFillIcon ![SignpostFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-fill)
 
-SignpostSplitFillIcon ![SignpostSplitFillIcon](images/bootstrap-icons/bootstrap-icons.svg#signpost-split-fill)
+SignpostSplitFillIcon ![SignpostSplitFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-split-fill)
 
-SignpostSplitIcon ![SignpostSplitIcon](images/bootstrap-icons/bootstrap-icons.svg#signpost-split)
+SignpostSplitIcon ![SignpostSplitIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-split)
 
-SignpostIcon ![SignpostIcon](images/bootstrap-icons/bootstrap-icons.svg#signpost)
+SignpostIcon ![SignpostIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost)
 
-SimFillIcon ![SimFillIcon](images/bootstrap-icons/bootstrap-icons.svg#sim-fill)
+SimFillIcon ![SimFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sim-fill)
 
-SimIcon ![SimIcon](images/bootstrap-icons/bootstrap-icons.svg#sim)
+SimIcon ![SimIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sim)
 
-SkipBackwardBtnFillIcon ![SkipBackwardBtnFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-backward-btn-fill)
+SkipBackwardBtnFillIcon ![SkipBackwardBtnFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-btn-fill)
 
-SkipBackwardBtnIcon ![SkipBackwardBtnIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-backward-btn)
+SkipBackwardBtnIcon ![SkipBackwardBtnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-btn)
 
-SkipBackwardCircleFillIcon ![SkipBackwardCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-backward-circle-fill)
+SkipBackwardCircleFillIcon ![SkipBackwardCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-circle-fill)
 
-SkipBackwardCircleIcon ![SkipBackwardCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-backward-circle)
+SkipBackwardCircleIcon ![SkipBackwardCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-circle)
 
-SkipBackwardFillIcon ![SkipBackwardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-backward-fill)
+SkipBackwardFillIcon ![SkipBackwardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-fill)
 
-SkipBackwardIcon ![SkipBackwardIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-backward)
+SkipBackwardIcon ![SkipBackwardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward)
 
-SkipEndBtnFillIcon ![SkipEndBtnFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-end-btn-fill)
+SkipEndBtnFillIcon ![SkipEndBtnFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-btn-fill)
 
-SkipEndBtnIcon ![SkipEndBtnIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-end-btn)
+SkipEndBtnIcon ![SkipEndBtnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-btn)
 
-SkipEndCircleFillIcon ![SkipEndCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-end-circle-fill)
+SkipEndCircleFillIcon ![SkipEndCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-circle-fill)
 
-SkipEndCircleIcon ![SkipEndCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-end-circle)
+SkipEndCircleIcon ![SkipEndCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-circle)
 
-SkipEndFillIcon ![SkipEndFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-end-fill)
+SkipEndFillIcon ![SkipEndFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-fill)
 
-SkipEndIcon ![SkipEndIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-end)
+SkipEndIcon ![SkipEndIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end)
 
-SkipForwardBtnFillIcon ![SkipForwardBtnFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-forward-btn-fill)
+SkipForwardBtnFillIcon ![SkipForwardBtnFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-btn-fill)
 
-SkipForwardBtnIcon ![SkipForwardBtnIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-forward-btn)
+SkipForwardBtnIcon ![SkipForwardBtnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-btn)
 
-SkipForwardCircleFillIcon ![SkipForwardCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-forward-circle-fill)
+SkipForwardCircleFillIcon ![SkipForwardCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-circle-fill)
 
-SkipForwardCircleIcon ![SkipForwardCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-forward-circle)
+SkipForwardCircleIcon ![SkipForwardCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-circle)
 
-SkipForwardFillIcon ![SkipForwardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-forward-fill)
+SkipForwardFillIcon ![SkipForwardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-fill)
 
-SkipForwardIcon ![SkipForwardIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-forward)
+SkipForwardIcon ![SkipForwardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward)
 
-SkipStartBtnFillIcon ![SkipStartBtnFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-start-btn-fill)
+SkipStartBtnFillIcon ![SkipStartBtnFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-btn-fill)
 
-SkipStartBtnIcon ![SkipStartBtnIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-start-btn)
+SkipStartBtnIcon ![SkipStartBtnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-btn)
 
-SkipStartCircleFillIcon ![SkipStartCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-start-circle-fill)
+SkipStartCircleFillIcon ![SkipStartCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-circle-fill)
 
-SkipStartCircleIcon ![SkipStartCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-start-circle)
+SkipStartCircleIcon ![SkipStartCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-circle)
 
-SkipStartFillIcon ![SkipStartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-start-fill)
+SkipStartFillIcon ![SkipStartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-fill)
 
-SkipStartIcon ![SkipStartIcon](images/bootstrap-icons/bootstrap-icons.svg#skip-start)
+SkipStartIcon ![SkipStartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start)
 
-SlackIcon ![SlackIcon](images/bootstrap-icons/bootstrap-icons.svg#slack)
+SlackIcon ![SlackIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slack)
 
-SlashCircleFillIcon ![SlashCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#slash-circle-fill)
+SlashCircleFillIcon ![SlashCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-circle-fill)
 
-SlashCircleIcon ![SlashCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#slash-circle)
+SlashCircleIcon ![SlashCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-circle)
 
-SlashSquareFillIcon ![SlashSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#slash-square-fill)
+SlashSquareFillIcon ![SlashSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-square-fill)
 
-SlashSquareIcon ![SlashSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#slash-square)
+SlashSquareIcon ![SlashSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-square)
 
-SlashIcon ![SlashIcon](images/bootstrap-icons/bootstrap-icons.svg#slash)
+SlashIcon ![SlashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash)
 
-SlidersIcon ![SlidersIcon](images/bootstrap-icons/bootstrap-icons.svg#sliders)
+SlidersIcon ![SlidersIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders)
 
-SmartwatchIcon ![SmartwatchIcon](images/bootstrap-icons/bootstrap-icons.svg#smartwatch)
+SmartwatchIcon ![SmartwatchIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#smartwatch)
 
-SnowIcon ![SnowIcon](images/bootstrap-icons/bootstrap-icons.svg#snow)
+SnowIcon ![SnowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow)
 
-Snow2Icon ![Snow2Icon](images/bootstrap-icons/bootstrap-icons.svg#snow2)
+Snow2Icon ![Snow2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow2)
 
-Snow3Icon ![Snow3Icon](images/bootstrap-icons/bootstrap-icons.svg#snow3)
+Snow3Icon ![Snow3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow3)
 
-SortAlphaDownAltIcon ![SortAlphaDownAltIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down-alt)
+SortAlphaDownAltIcon ![SortAlphaDownAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down-alt)
 
-SortAlphaDownIcon ![SortAlphaDownIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down)
+SortAlphaDownIcon ![SortAlphaDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down)
 
-SortAlphaUpAltIcon ![SortAlphaUpAltIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up-alt)
+SortAlphaUpAltIcon ![SortAlphaUpAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up-alt)
 
-SortAlphaUpIcon ![SortAlphaUpIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up)
+SortAlphaUpIcon ![SortAlphaUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up)
 
-SortDownAltIcon ![SortDownAltIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-down-alt)
+SortDownAltIcon ![SortDownAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-down-alt)
 
-SortDownIcon ![SortDownIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-down)
+SortDownIcon ![SortDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-down)
 
-SortNumericDownAltIcon ![SortNumericDownAltIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down-alt)
+SortNumericDownAltIcon ![SortNumericDownAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down-alt)
 
-SortNumericDownIcon ![SortNumericDownIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down)
+SortNumericDownIcon ![SortNumericDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down)
 
-SortNumericUpAltIcon ![SortNumericUpAltIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up-alt)
+SortNumericUpAltIcon ![SortNumericUpAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up-alt)
 
-SortNumericUpIcon ![SortNumericUpIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up)
+SortNumericUpIcon ![SortNumericUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up)
 
-SortUpAltIcon ![SortUpAltIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-up-alt)
+SortUpAltIcon ![SortUpAltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-up-alt)
 
-SortUpIcon ![SortUpIcon](images/bootstrap-icons/bootstrap-icons.svg#sort-up)
+SortUpIcon ![SortUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-up)
 
-SoundwaveIcon ![SoundwaveIcon](images/bootstrap-icons/bootstrap-icons.svg#soundwave)
+SoundwaveIcon ![SoundwaveIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#soundwave)
 
-SpeakerFillIcon ![SpeakerFillIcon](images/bootstrap-icons/bootstrap-icons.svg#speaker-fill)
+SpeakerFillIcon ![SpeakerFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speaker-fill)
 
-SpeakerIcon ![SpeakerIcon](images/bootstrap-icons/bootstrap-icons.svg#speaker)
+SpeakerIcon ![SpeakerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speaker)
 
-SpeedometerIcon ![SpeedometerIcon](images/bootstrap-icons/bootstrap-icons.svg#speedometer)
+SpeedometerIcon ![SpeedometerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speedometer)
 
-Speedometer2Icon ![Speedometer2Icon](images/bootstrap-icons/bootstrap-icons.svg#speedometer2)
+Speedometer2Icon ![Speedometer2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speedometer2)
 
-SpellcheckIcon ![SpellcheckIcon](images/bootstrap-icons/bootstrap-icons.svg#spellcheck)
+SpellcheckIcon ![SpellcheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#spellcheck)
 
-SquareFillIcon ![SquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#square-fill)
+SquareFillIcon ![SquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square-fill)
 
-SquareHalfIcon ![SquareHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#square-half)
+SquareHalfIcon ![SquareHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square-half)
 
-SquareIcon ![SquareIcon](images/bootstrap-icons/bootstrap-icons.svg#square)
+SquareIcon ![SquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square)
 
-StackIcon ![StackIcon](images/bootstrap-icons/bootstrap-icons.svg#stack)
+StackIcon ![StackIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stack)
 
-StarFillIcon ![StarFillIcon](images/bootstrap-icons/bootstrap-icons.svg#star-fill)
+StarFillIcon ![StarFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star-fill)
 
-StarHalfIcon ![StarHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#star-half)
+StarHalfIcon ![StarHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star-half)
 
-StarIcon ![StarIcon](images/bootstrap-icons/bootstrap-icons.svg#star)
+StarIcon ![StarIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star)
 
-StarsIcon ![StarsIcon](images/bootstrap-icons/bootstrap-icons.svg#stars)
+StarsIcon ![StarsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stars)
 
-StickiesFillIcon ![StickiesFillIcon](images/bootstrap-icons/bootstrap-icons.svg#stickies-fill)
+StickiesFillIcon ![StickiesFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stickies-fill)
 
-StickiesIcon ![StickiesIcon](images/bootstrap-icons/bootstrap-icons.svg#stickies)
+StickiesIcon ![StickiesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stickies)
 
-StickyFillIcon ![StickyFillIcon](images/bootstrap-icons/bootstrap-icons.svg#sticky-fill)
+StickyFillIcon ![StickyFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sticky-fill)
 
-StickyIcon ![StickyIcon](images/bootstrap-icons/bootstrap-icons.svg#sticky)
+StickyIcon ![StickyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sticky)
 
-StopBtnFillIcon ![StopBtnFillIcon](images/bootstrap-icons/bootstrap-icons.svg#stop-btn-fill)
+StopBtnFillIcon ![StopBtnFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-btn-fill)
 
-StopBtnIcon ![StopBtnIcon](images/bootstrap-icons/bootstrap-icons.svg#stop-btn)
+StopBtnIcon ![StopBtnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-btn)
 
-StopCircleFillIcon ![StopCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#stop-circle-fill)
+StopCircleFillIcon ![StopCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-circle-fill)
 
-StopCircleIcon ![StopCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#stop-circle)
+StopCircleIcon ![StopCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-circle)
 
-StopFillIcon ![StopFillIcon](images/bootstrap-icons/bootstrap-icons.svg#stop-fill)
+StopFillIcon ![StopFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-fill)
 
-StopIcon ![StopIcon](images/bootstrap-icons/bootstrap-icons.svg#stop)
+StopIcon ![StopIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop)
 
-StoplightsFillIcon ![StoplightsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#stoplights-fill)
+StoplightsFillIcon ![StoplightsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stoplights-fill)
 
-StoplightsIcon ![StoplightsIcon](images/bootstrap-icons/bootstrap-icons.svg#stoplights)
+StoplightsIcon ![StoplightsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stoplights)
 
-StopwatchFillIcon ![StopwatchFillIcon](images/bootstrap-icons/bootstrap-icons.svg#stopwatch-fill)
+StopwatchFillIcon ![StopwatchFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stopwatch-fill)
 
-StopwatchIcon ![StopwatchIcon](images/bootstrap-icons/bootstrap-icons.svg#stopwatch)
+StopwatchIcon ![StopwatchIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stopwatch)
 
-SubtractIcon ![SubtractIcon](images/bootstrap-icons/bootstrap-icons.svg#subtract)
+SubtractIcon ![SubtractIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#subtract)
 
-SuitClubFillIcon ![SuitClubFillIcon](images/bootstrap-icons/bootstrap-icons.svg#suit-club-fill)
+SuitClubFillIcon ![SuitClubFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-club-fill)
 
-SuitClubIcon ![SuitClubIcon](images/bootstrap-icons/bootstrap-icons.svg#suit-club)
+SuitClubIcon ![SuitClubIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-club)
 
-SuitDiamondFillIcon ![SuitDiamondFillIcon](images/bootstrap-icons/bootstrap-icons.svg#suit-diamond-fill)
+SuitDiamondFillIcon ![SuitDiamondFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-diamond-fill)
 
-SuitDiamondIcon ![SuitDiamondIcon](images/bootstrap-icons/bootstrap-icons.svg#suit-diamond)
+SuitDiamondIcon ![SuitDiamondIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-diamond)
 
-SuitHeartFillIcon ![SuitHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#suit-heart-fill)
+SuitHeartFillIcon ![SuitHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-heart-fill)
 
-SuitHeartIcon ![SuitHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#suit-heart)
+SuitHeartIcon ![SuitHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-heart)
 
-SuitSpadeFillIcon ![SuitSpadeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#suit-spade-fill)
+SuitSpadeFillIcon ![SuitSpadeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-spade-fill)
 
-SuitSpadeIcon ![SuitSpadeIcon](images/bootstrap-icons/bootstrap-icons.svg#suit-spade)
+SuitSpadeIcon ![SuitSpadeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-spade)
 
-SunFillIcon ![SunFillIcon](images/bootstrap-icons/bootstrap-icons.svg#sun-fill)
+SunFillIcon ![SunFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sun-fill)
 
-SunIcon ![SunIcon](images/bootstrap-icons/bootstrap-icons.svg#sun)
+SunIcon ![SunIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sun)
 
-SunglassesIcon ![SunglassesIcon](images/bootstrap-icons/bootstrap-icons.svg#sunglasses)
+SunglassesIcon ![SunglassesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunglasses)
 
-SunriseFillIcon ![SunriseFillIcon](images/bootstrap-icons/bootstrap-icons.svg#sunrise-fill)
+SunriseFillIcon ![SunriseFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunrise-fill)
 
-SunriseIcon ![SunriseIcon](images/bootstrap-icons/bootstrap-icons.svg#sunrise)
+SunriseIcon ![SunriseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunrise)
 
-SunsetFillIcon ![SunsetFillIcon](images/bootstrap-icons/bootstrap-icons.svg#sunset-fill)
+SunsetFillIcon ![SunsetFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunset-fill)
 
-SunsetIcon ![SunsetIcon](images/bootstrap-icons/bootstrap-icons.svg#sunset)
+SunsetIcon ![SunsetIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunset)
 
-SymmetryHorizontalIcon ![SymmetryHorizontalIcon](images/bootstrap-icons/bootstrap-icons.svg#symmetry-horizontal)
+SymmetryHorizontalIcon ![SymmetryHorizontalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#symmetry-horizontal)
 
-SymmetryVerticalIcon ![SymmetryVerticalIcon](images/bootstrap-icons/bootstrap-icons.svg#symmetry-vertical)
+SymmetryVerticalIcon ![SymmetryVerticalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#symmetry-vertical)
 
-TableIcon ![TableIcon](images/bootstrap-icons/bootstrap-icons.svg#table)
+TableIcon ![TableIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#table)
 
-TabletFillIcon ![TabletFillIcon](images/bootstrap-icons/bootstrap-icons.svg#tablet-fill)
+TabletFillIcon ![TabletFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-fill)
 
-TabletLandscapeFillIcon ![TabletLandscapeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#tablet-landscape-fill)
+TabletLandscapeFillIcon ![TabletLandscapeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-landscape-fill)
 
-TabletLandscapeIcon ![TabletLandscapeIcon](images/bootstrap-icons/bootstrap-icons.svg#tablet-landscape)
+TabletLandscapeIcon ![TabletLandscapeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-landscape)
 
-TabletIcon ![TabletIcon](images/bootstrap-icons/bootstrap-icons.svg#tablet)
+TabletIcon ![TabletIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet)
 
-TagFillIcon ![TagFillIcon](images/bootstrap-icons/bootstrap-icons.svg#tag-fill)
+TagFillIcon ![TagFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tag-fill)
 
-TagIcon ![TagIcon](images/bootstrap-icons/bootstrap-icons.svg#tag)
+TagIcon ![TagIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tag)
 
-TagsFillIcon ![TagsFillIcon](images/bootstrap-icons/bootstrap-icons.svg#tags-fill)
+TagsFillIcon ![TagsFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tags-fill)
 
-TagsIcon ![TagsIcon](images/bootstrap-icons/bootstrap-icons.svg#tags)
+TagsIcon ![TagsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tags)
 
-TelegramIcon ![TelegramIcon](images/bootstrap-icons/bootstrap-icons.svg#telegram)
+TelegramIcon ![TelegramIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telegram)
 
-TelephoneFillIcon ![TelephoneFillIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-fill)
+TelephoneFillIcon ![TelephoneFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-fill)
 
-TelephoneForwardFillIcon ![TelephoneForwardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-forward-fill)
+TelephoneForwardFillIcon ![TelephoneForwardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-forward-fill)
 
-TelephoneForwardIcon ![TelephoneForwardIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-forward)
+TelephoneForwardIcon ![TelephoneForwardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-forward)
 
-TelephoneInboundFillIcon ![TelephoneInboundFillIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-inbound-fill)
+TelephoneInboundFillIcon ![TelephoneInboundFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-inbound-fill)
 
-TelephoneInboundIcon ![TelephoneInboundIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-inbound)
+TelephoneInboundIcon ![TelephoneInboundIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-inbound)
 
-TelephoneMinusFillIcon ![TelephoneMinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-minus-fill)
+TelephoneMinusFillIcon ![TelephoneMinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-minus-fill)
 
-TelephoneMinusIcon ![TelephoneMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-minus)
+TelephoneMinusIcon ![TelephoneMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-minus)
 
-TelephoneOutboundFillIcon ![TelephoneOutboundFillIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-outbound-fill)
+TelephoneOutboundFillIcon ![TelephoneOutboundFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-outbound-fill)
 
-TelephoneOutboundIcon ![TelephoneOutboundIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-outbound)
+TelephoneOutboundIcon ![TelephoneOutboundIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-outbound)
 
-TelephonePlusFillIcon ![TelephonePlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-plus-fill)
+TelephonePlusFillIcon ![TelephonePlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-plus-fill)
 
-TelephonePlusIcon ![TelephonePlusIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-plus)
+TelephonePlusIcon ![TelephonePlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-plus)
 
-TelephoneXFillIcon ![TelephoneXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-x-fill)
+TelephoneXFillIcon ![TelephoneXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-x-fill)
 
-TelephoneXIcon ![TelephoneXIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone-x)
+TelephoneXIcon ![TelephoneXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-x)
 
-TelephoneIcon ![TelephoneIcon](images/bootstrap-icons/bootstrap-icons.svg#telephone)
+TelephoneIcon ![TelephoneIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone)
 
-TerminalFillIcon ![TerminalFillIcon](images/bootstrap-icons/bootstrap-icons.svg#terminal-fill)
+TerminalFillIcon ![TerminalFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-fill)
 
-TerminalIcon ![TerminalIcon](images/bootstrap-icons/bootstrap-icons.svg#terminal)
+TerminalIcon ![TerminalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal)
 
-TextCenterIcon ![TextCenterIcon](images/bootstrap-icons/bootstrap-icons.svg#text-center)
+TextCenterIcon ![TextCenterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-center)
 
-TextIndentLeftIcon ![TextIndentLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#text-indent-left)
+TextIndentLeftIcon ![TextIndentLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-indent-left)
 
-TextIndentRightIcon ![TextIndentRightIcon](images/bootstrap-icons/bootstrap-icons.svg#text-indent-right)
+TextIndentRightIcon ![TextIndentRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-indent-right)
 
-TextLeftIcon ![TextLeftIcon](images/bootstrap-icons/bootstrap-icons.svg#text-left)
+TextLeftIcon ![TextLeftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-left)
 
-TextParagraphIcon ![TextParagraphIcon](images/bootstrap-icons/bootstrap-icons.svg#text-paragraph)
+TextParagraphIcon ![TextParagraphIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-paragraph)
 
-TextRightIcon ![TextRightIcon](images/bootstrap-icons/bootstrap-icons.svg#text-right)
+TextRightIcon ![TextRightIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-right)
 
-TextareaResizeIcon ![TextareaResizeIcon](images/bootstrap-icons/bootstrap-icons.svg#textarea-resize)
+TextareaResizeIcon ![TextareaResizeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea-resize)
 
-TextareaTIcon ![TextareaTIcon](images/bootstrap-icons/bootstrap-icons.svg#textarea-t)
+TextareaTIcon ![TextareaTIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea-t)
 
-TextareaIcon ![TextareaIcon](images/bootstrap-icons/bootstrap-icons.svg#textarea)
+TextareaIcon ![TextareaIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea)
 
-ThermometerHalfIcon ![ThermometerHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#thermometer-half)
+ThermometerHalfIcon ![ThermometerHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-half)
 
-ThermometerHighIcon ![ThermometerHighIcon](images/bootstrap-icons/bootstrap-icons.svg#thermometer-high)
+ThermometerHighIcon ![ThermometerHighIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-high)
 
-ThermometerLowIcon ![ThermometerLowIcon](images/bootstrap-icons/bootstrap-icons.svg#thermometer-low)
+ThermometerLowIcon ![ThermometerLowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-low)
 
-ThermometerSnowIcon ![ThermometerSnowIcon](images/bootstrap-icons/bootstrap-icons.svg#thermometer-snow)
+ThermometerSnowIcon ![ThermometerSnowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-snow)
 
-ThermometerSunIcon ![ThermometerSunIcon](images/bootstrap-icons/bootstrap-icons.svg#thermometer-sun)
+ThermometerSunIcon ![ThermometerSunIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-sun)
 
-ThermometerIcon ![ThermometerIcon](images/bootstrap-icons/bootstrap-icons.svg#thermometer)
+ThermometerIcon ![ThermometerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer)
 
-ThreeDotsVerticalIcon ![ThreeDotsVerticalIcon](images/bootstrap-icons/bootstrap-icons.svg#three-dots-vertical)
+ThreeDotsVerticalIcon ![ThreeDotsVerticalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#three-dots-vertical)
 
-ThreeDotsIcon ![ThreeDotsIcon](images/bootstrap-icons/bootstrap-icons.svg#three-dots)
+ThreeDotsIcon ![ThreeDotsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#three-dots)
 
-ToggleOffIcon ![ToggleOffIcon](images/bootstrap-icons/bootstrap-icons.svg#toggle-off)
+ToggleOffIcon ![ToggleOffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle-off)
 
-ToggleOnIcon ![ToggleOnIcon](images/bootstrap-icons/bootstrap-icons.svg#toggle-on)
+ToggleOnIcon ![ToggleOnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle-on)
 
-Toggle2OffIcon ![Toggle2OffIcon](images/bootstrap-icons/bootstrap-icons.svg#toggle2-off)
+Toggle2OffIcon ![Toggle2OffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle2-off)
 
-Toggle2OnIcon ![Toggle2OnIcon](images/bootstrap-icons/bootstrap-icons.svg#toggle2-on)
+Toggle2OnIcon ![Toggle2OnIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle2-on)
 
-TogglesIcon ![TogglesIcon](images/bootstrap-icons/bootstrap-icons.svg#toggles)
+TogglesIcon ![TogglesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggles)
 
-Toggles2Icon ![Toggles2Icon](images/bootstrap-icons/bootstrap-icons.svg#toggles2)
+Toggles2Icon ![Toggles2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggles2)
 
-ToolsIcon ![ToolsIcon](images/bootstrap-icons/bootstrap-icons.svg#tools)
+ToolsIcon ![ToolsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tools)
 
-TornadoIcon ![TornadoIcon](images/bootstrap-icons/bootstrap-icons.svg#tornado)
+TornadoIcon ![TornadoIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tornado)
 
-TrashFillIcon ![TrashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#trash-fill)
+TrashFillIcon ![TrashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash-fill)
 
-TrashIcon ![TrashIcon](images/bootstrap-icons/bootstrap-icons.svg#trash)
+TrashIcon ![TrashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash)
 
-Trash2FillIcon ![Trash2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#trash2-fill)
+Trash2FillIcon ![Trash2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash2-fill)
 
-Trash2Icon ![Trash2Icon](images/bootstrap-icons/bootstrap-icons.svg#trash2)
+Trash2Icon ![Trash2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash2)
 
-TreeFillIcon ![TreeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#tree-fill)
+TreeFillIcon ![TreeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tree-fill)
 
-TreeIcon ![TreeIcon](images/bootstrap-icons/bootstrap-icons.svg#tree)
+TreeIcon ![TreeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tree)
 
-TriangleFillIcon ![TriangleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#triangle-fill)
+TriangleFillIcon ![TriangleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle-fill)
 
-TriangleHalfIcon ![TriangleHalfIcon](images/bootstrap-icons/bootstrap-icons.svg#triangle-half)
+TriangleHalfIcon ![TriangleHalfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle-half)
 
-TriangleIcon ![TriangleIcon](images/bootstrap-icons/bootstrap-icons.svg#triangle)
+TriangleIcon ![TriangleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle)
 
-TrophyFillIcon ![TrophyFillIcon](images/bootstrap-icons/bootstrap-icons.svg#trophy-fill)
+TrophyFillIcon ![TrophyFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trophy-fill)
 
-TrophyIcon ![TrophyIcon](images/bootstrap-icons/bootstrap-icons.svg#trophy)
+TrophyIcon ![TrophyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trophy)
 
-TropicalStormIcon ![TropicalStormIcon](images/bootstrap-icons/bootstrap-icons.svg#tropical-storm)
+TropicalStormIcon ![TropicalStormIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tropical-storm)
 
-TruckFlatbedIcon ![TruckFlatbedIcon](images/bootstrap-icons/bootstrap-icons.svg#truck-flatbed)
+TruckFlatbedIcon ![TruckFlatbedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#truck-flatbed)
 
-TruckIcon ![TruckIcon](images/bootstrap-icons/bootstrap-icons.svg#truck)
+TruckIcon ![TruckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#truck)
 
-TsunamiIcon ![TsunamiIcon](images/bootstrap-icons/bootstrap-icons.svg#tsunami)
+TsunamiIcon ![TsunamiIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tsunami)
 
-TvFillIcon ![TvFillIcon](images/bootstrap-icons/bootstrap-icons.svg#tv-fill)
+TvFillIcon ![TvFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tv-fill)
 
-TvIcon ![TvIcon](images/bootstrap-icons/bootstrap-icons.svg#tv)
+TvIcon ![TvIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tv)
 
-TwitchIcon ![TwitchIcon](images/bootstrap-icons/bootstrap-icons.svg#twitch)
+TwitchIcon ![TwitchIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#twitch)
 
-TwitterIcon ![TwitterIcon](images/bootstrap-icons/bootstrap-icons.svg#twitter)
+TwitterIcon ![TwitterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#twitter)
 
-TypeBoldIcon ![TypeBoldIcon](images/bootstrap-icons/bootstrap-icons.svg#type-bold)
+TypeBoldIcon ![TypeBoldIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-bold)
 
-TypeH1Icon ![TypeH1Icon](images/bootstrap-icons/bootstrap-icons.svg#type-h1)
+TypeH1Icon ![TypeH1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h1)
 
-TypeH2Icon ![TypeH2Icon](images/bootstrap-icons/bootstrap-icons.svg#type-h2)
+TypeH2Icon ![TypeH2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h2)
 
-TypeH3Icon ![TypeH3Icon](images/bootstrap-icons/bootstrap-icons.svg#type-h3)
+TypeH3Icon ![TypeH3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h3)
 
-TypeItalicIcon ![TypeItalicIcon](images/bootstrap-icons/bootstrap-icons.svg#type-italic)
+TypeItalicIcon ![TypeItalicIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-italic)
 
-TypeStrikethroughIcon ![TypeStrikethroughIcon](images/bootstrap-icons/bootstrap-icons.svg#type-strikethrough)
+TypeStrikethroughIcon ![TypeStrikethroughIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-strikethrough)
 
-TypeUnderlineIcon ![TypeUnderlineIcon](images/bootstrap-icons/bootstrap-icons.svg#type-underline)
+TypeUnderlineIcon ![TypeUnderlineIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-underline)
 
-TypeIcon ![TypeIcon](images/bootstrap-icons/bootstrap-icons.svg#type)
+TypeIcon ![TypeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type)
 
-UiChecksGridIcon ![UiChecksGridIcon](images/bootstrap-icons/bootstrap-icons.svg#ui-checks-grid)
+UiChecksGridIcon ![UiChecksGridIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-checks-grid)
 
-UiChecksIcon ![UiChecksIcon](images/bootstrap-icons/bootstrap-icons.svg#ui-checks)
+UiChecksIcon ![UiChecksIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-checks)
 
-UiRadiosGridIcon ![UiRadiosGridIcon](images/bootstrap-icons/bootstrap-icons.svg#ui-radios-grid)
+UiRadiosGridIcon ![UiRadiosGridIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-radios-grid)
 
-UiRadiosIcon ![UiRadiosIcon](images/bootstrap-icons/bootstrap-icons.svg#ui-radios)
+UiRadiosIcon ![UiRadiosIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-radios)
 
-UmbrellaFillIcon ![UmbrellaFillIcon](images/bootstrap-icons/bootstrap-icons.svg#umbrella-fill)
+UmbrellaFillIcon ![UmbrellaFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#umbrella-fill)
 
-UmbrellaIcon ![UmbrellaIcon](images/bootstrap-icons/bootstrap-icons.svg#umbrella)
+UmbrellaIcon ![UmbrellaIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#umbrella)
 
-UnionIcon ![UnionIcon](images/bootstrap-icons/bootstrap-icons.svg#union)
+UnionIcon ![UnionIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#union)
 
-UnlockFillIcon ![UnlockFillIcon](images/bootstrap-icons/bootstrap-icons.svg#unlock-fill)
+UnlockFillIcon ![UnlockFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#unlock-fill)
 
-UnlockIcon ![UnlockIcon](images/bootstrap-icons/bootstrap-icons.svg#unlock)
+UnlockIcon ![UnlockIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#unlock)
 
-UpcScanIcon ![UpcScanIcon](images/bootstrap-icons/bootstrap-icons.svg#upc-scan)
+UpcScanIcon ![UpcScanIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upc-scan)
 
-UpcIcon ![UpcIcon](images/bootstrap-icons/bootstrap-icons.svg#upc)
+UpcIcon ![UpcIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upc)
 
-UploadIcon ![UploadIcon](images/bootstrap-icons/bootstrap-icons.svg#upload)
+UploadIcon ![UploadIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upload)
 
-VectorPenIcon ![VectorPenIcon](images/bootstrap-icons/bootstrap-icons.svg#vector-pen)
+VectorPenIcon ![VectorPenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vector-pen)
 
-ViewListIcon ![ViewListIcon](images/bootstrap-icons/bootstrap-icons.svg#view-list)
+ViewListIcon ![ViewListIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#view-list)
 
-ViewStackedIcon ![ViewStackedIcon](images/bootstrap-icons/bootstrap-icons.svg#view-stacked)
+ViewStackedIcon ![ViewStackedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#view-stacked)
 
-VinylFillIcon ![VinylFillIcon](images/bootstrap-icons/bootstrap-icons.svg#vinyl-fill)
+VinylFillIcon ![VinylFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vinyl-fill)
 
-VinylIcon ![VinylIcon](images/bootstrap-icons/bootstrap-icons.svg#vinyl)
+VinylIcon ![VinylIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vinyl)
 
-VoicemailIcon ![VoicemailIcon](images/bootstrap-icons/bootstrap-icons.svg#voicemail)
+VoicemailIcon ![VoicemailIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#voicemail)
 
-VolumeDownFillIcon ![VolumeDownFillIcon](images/bootstrap-icons/bootstrap-icons.svg#volume-down-fill)
+VolumeDownFillIcon ![VolumeDownFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-down-fill)
 
-VolumeDownIcon ![VolumeDownIcon](images/bootstrap-icons/bootstrap-icons.svg#volume-down)
+VolumeDownIcon ![VolumeDownIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-down)
 
-VolumeMuteFillIcon ![VolumeMuteFillIcon](images/bootstrap-icons/bootstrap-icons.svg#volume-mute-fill)
+VolumeMuteFillIcon ![VolumeMuteFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-mute-fill)
 
-VolumeMuteIcon ![VolumeMuteIcon](images/bootstrap-icons/bootstrap-icons.svg#volume-mute)
+VolumeMuteIcon ![VolumeMuteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-mute)
 
-VolumeOffFillIcon ![VolumeOffFillIcon](images/bootstrap-icons/bootstrap-icons.svg#volume-off-fill)
+VolumeOffFillIcon ![VolumeOffFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-off-fill)
 
-VolumeOffIcon ![VolumeOffIcon](images/bootstrap-icons/bootstrap-icons.svg#volume-off)
+VolumeOffIcon ![VolumeOffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-off)
 
-VolumeUpFillIcon ![VolumeUpFillIcon](images/bootstrap-icons/bootstrap-icons.svg#volume-up-fill)
+VolumeUpFillIcon ![VolumeUpFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-up-fill)
 
-VolumeUpIcon ![VolumeUpIcon](images/bootstrap-icons/bootstrap-icons.svg#volume-up)
+VolumeUpIcon ![VolumeUpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-up)
 
-VrIcon ![VrIcon](images/bootstrap-icons/bootstrap-icons.svg#vr)
+VrIcon ![VrIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vr)
 
-WalletFillIcon ![WalletFillIcon](images/bootstrap-icons/bootstrap-icons.svg#wallet-fill)
+WalletFillIcon ![WalletFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet-fill)
 
-WalletIcon ![WalletIcon](images/bootstrap-icons/bootstrap-icons.svg#wallet)
+WalletIcon ![WalletIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet)
 
-Wallet2Icon ![Wallet2Icon](images/bootstrap-icons/bootstrap-icons.svg#wallet2)
+Wallet2Icon ![Wallet2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet2)
 
-WatchIcon ![WatchIcon](images/bootstrap-icons/bootstrap-icons.svg#watch)
+WatchIcon ![WatchIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#watch)
 
-WaterIcon ![WaterIcon](images/bootstrap-icons/bootstrap-icons.svg#water)
+WaterIcon ![WaterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#water)
 
-WhatsappIcon ![WhatsappIcon](images/bootstrap-icons/bootstrap-icons.svg#whatsapp)
+WhatsappIcon ![WhatsappIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#whatsapp)
 
-Wifi1Icon ![Wifi1Icon](images/bootstrap-icons/bootstrap-icons.svg#wifi-1)
+Wifi1Icon ![Wifi1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-1)
 
-Wifi2Icon ![Wifi2Icon](images/bootstrap-icons/bootstrap-icons.svg#wifi-2)
+Wifi2Icon ![Wifi2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-2)
 
-WifiOffIcon ![WifiOffIcon](images/bootstrap-icons/bootstrap-icons.svg#wifi-off)
+WifiOffIcon ![WifiOffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-off)
 
-WifiIcon ![WifiIcon](images/bootstrap-icons/bootstrap-icons.svg#wifi)
+WifiIcon ![WifiIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi)
 
-WindIcon ![WindIcon](images/bootstrap-icons/bootstrap-icons.svg#wind)
+WindIcon ![WindIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wind)
 
-WindowDockIcon ![WindowDockIcon](images/bootstrap-icons/bootstrap-icons.svg#window-dock)
+WindowDockIcon ![WindowDockIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-dock)
 
-WindowSidebarIcon ![WindowSidebarIcon](images/bootstrap-icons/bootstrap-icons.svg#window-sidebar)
+WindowSidebarIcon ![WindowSidebarIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-sidebar)
 
-WindowIcon ![WindowIcon](images/bootstrap-icons/bootstrap-icons.svg#window)
+WindowIcon ![WindowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window)
 
-WrenchIcon ![WrenchIcon](images/bootstrap-icons/bootstrap-icons.svg#wrench)
+WrenchIcon ![WrenchIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench)
 
-XCircleFillIcon ![XCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#x-circle-fill)
+XCircleFillIcon ![XCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-circle-fill)
 
-XCircleIcon ![XCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#x-circle)
+XCircleIcon ![XCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-circle)
 
-XDiamondFillIcon ![XDiamondFillIcon](images/bootstrap-icons/bootstrap-icons.svg#x-diamond-fill)
+XDiamondFillIcon ![XDiamondFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-diamond-fill)
 
-XDiamondIcon ![XDiamondIcon](images/bootstrap-icons/bootstrap-icons.svg#x-diamond)
+XDiamondIcon ![XDiamondIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-diamond)
 
-XOctagonFillIcon ![XOctagonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#x-octagon-fill)
+XOctagonFillIcon ![XOctagonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-octagon-fill)
 
-XOctagonIcon ![XOctagonIcon](images/bootstrap-icons/bootstrap-icons.svg#x-octagon)
+XOctagonIcon ![XOctagonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-octagon)
 
-XSquareFillIcon ![XSquareFillIcon](images/bootstrap-icons/bootstrap-icons.svg#x-square-fill)
+XSquareFillIcon ![XSquareFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-square-fill)
 
-XSquareIcon ![XSquareIcon](images/bootstrap-icons/bootstrap-icons.svg#x-square)
+XSquareIcon ![XSquareIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-square)
 
-XIcon ![XIcon](images/bootstrap-icons/bootstrap-icons.svg#x)
+XIcon ![XIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x)
 
-YoutubeIcon ![YoutubeIcon](images/bootstrap-icons/bootstrap-icons.svg#youtube)
+YoutubeIcon ![YoutubeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#youtube)
 
-ZoomInIcon ![ZoomInIcon](images/bootstrap-icons/bootstrap-icons.svg#zoom-in)
+ZoomInIcon ![ZoomInIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#zoom-in)
 
-ZoomOutIcon ![ZoomOutIcon](images/bootstrap-icons/bootstrap-icons.svg#zoom-out)
+ZoomOutIcon ![ZoomOutIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#zoom-out)
 
-BankIcon ![BankIcon](images/bootstrap-icons/bootstrap-icons.svg#bank)
+BankIcon ![BankIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bank)
 
-Bank2Icon ![Bank2Icon](images/bootstrap-icons/bootstrap-icons.svg#bank2)
+Bank2Icon ![Bank2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bank2)
 
-BellSlashFillIcon ![BellSlashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bell-slash-fill)
+BellSlashFillIcon ![BellSlashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-slash-fill)
 
-BellSlashIcon ![BellSlashIcon](images/bootstrap-icons/bootstrap-icons.svg#bell-slash)
+BellSlashIcon ![BellSlashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-slash)
 
-CashCoinIcon ![CashCoinIcon](images/bootstrap-icons/bootstrap-icons.svg#cash-coin)
+CashCoinIcon ![CashCoinIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash-coin)
 
-CheckLgIcon ![CheckLgIcon](images/bootstrap-icons/bootstrap-icons.svg#check-lg)
+CheckLgIcon ![CheckLgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-lg)
 
-CoinIcon ![CoinIcon](images/bootstrap-icons/bootstrap-icons.svg#coin)
+CoinIcon ![CoinIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#coin)
 
-CurrencyBitcoinIcon ![CurrencyBitcoinIcon](images/bootstrap-icons/bootstrap-icons.svg#currency-bitcoin)
+CurrencyBitcoinIcon ![CurrencyBitcoinIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-bitcoin)
 
-CurrencyDollarIcon ![CurrencyDollarIcon](images/bootstrap-icons/bootstrap-icons.svg#currency-dollar)
+CurrencyDollarIcon ![CurrencyDollarIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-dollar)
 
-CurrencyEuroIcon ![CurrencyEuroIcon](images/bootstrap-icons/bootstrap-icons.svg#currency-euro)
+CurrencyEuroIcon ![CurrencyEuroIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-euro)
 
-CurrencyExchangeIcon ![CurrencyExchangeIcon](images/bootstrap-icons/bootstrap-icons.svg#currency-exchange)
+CurrencyExchangeIcon ![CurrencyExchangeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-exchange)
 
-CurrencyPoundIcon ![CurrencyPoundIcon](images/bootstrap-icons/bootstrap-icons.svg#currency-pound)
+CurrencyPoundIcon ![CurrencyPoundIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-pound)
 
-CurrencyYenIcon ![CurrencyYenIcon](images/bootstrap-icons/bootstrap-icons.svg#currency-yen)
+CurrencyYenIcon ![CurrencyYenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-yen)
 
-DashLgIcon ![DashLgIcon](images/bootstrap-icons/bootstrap-icons.svg#dash-lg)
+DashLgIcon ![DashLgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-lg)
 
-ExclamationLgIcon ![ExclamationLgIcon](images/bootstrap-icons/bootstrap-icons.svg#exclamation-lg)
+ExclamationLgIcon ![ExclamationLgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-lg)
 
-FileEarmarkPdfFillIcon ![FileEarmarkPdfFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-pdf-fill)
+FileEarmarkPdfFillIcon ![FileEarmarkPdfFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-pdf-fill)
 
-FileEarmarkPdfIcon ![FileEarmarkPdfIcon](images/bootstrap-icons/bootstrap-icons.svg#file-earmark-pdf)
+FileEarmarkPdfIcon ![FileEarmarkPdfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-pdf)
 
-FilePdfFillIcon ![FilePdfFillIcon](images/bootstrap-icons/bootstrap-icons.svg#file-pdf-fill)
+FilePdfFillIcon ![FilePdfFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-pdf-fill)
 
-FilePdfIcon ![FilePdfIcon](images/bootstrap-icons/bootstrap-icons.svg#file-pdf)
+FilePdfIcon ![FilePdfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-pdf)
 
-GenderAmbiguousIcon ![GenderAmbiguousIcon](images/bootstrap-icons/bootstrap-icons.svg#gender-ambiguous)
+GenderAmbiguousIcon ![GenderAmbiguousIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-ambiguous)
 
-GenderFemaleIcon ![GenderFemaleIcon](images/bootstrap-icons/bootstrap-icons.svg#gender-female)
+GenderFemaleIcon ![GenderFemaleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-female)
 
-GenderMaleIcon ![GenderMaleIcon](images/bootstrap-icons/bootstrap-icons.svg#gender-male)
+GenderMaleIcon ![GenderMaleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-male)
 
-GenderTransIcon ![GenderTransIcon](images/bootstrap-icons/bootstrap-icons.svg#gender-trans)
+GenderTransIcon ![GenderTransIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-trans)
 
-HeadsetVrIcon ![HeadsetVrIcon](images/bootstrap-icons/bootstrap-icons.svg#headset-vr)
+HeadsetVrIcon ![HeadsetVrIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headset-vr)
 
-InfoLgIcon ![InfoLgIcon](images/bootstrap-icons/bootstrap-icons.svg#info-lg)
+InfoLgIcon ![InfoLgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-lg)
 
-MastodonIcon ![MastodonIcon](images/bootstrap-icons/bootstrap-icons.svg#mastodon)
+MastodonIcon ![MastodonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mastodon)
 
-MessengerIcon ![MessengerIcon](images/bootstrap-icons/bootstrap-icons.svg#messenger)
+MessengerIcon ![MessengerIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#messenger)
 
-PiggyBankFillIcon ![PiggyBankFillIcon](images/bootstrap-icons/bootstrap-icons.svg#piggy-bank-fill)
+PiggyBankFillIcon ![PiggyBankFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#piggy-bank-fill)
 
-PiggyBankIcon ![PiggyBankIcon](images/bootstrap-icons/bootstrap-icons.svg#piggy-bank)
+PiggyBankIcon ![PiggyBankIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#piggy-bank)
 
-PinMapFillIcon ![PinMapFillIcon](images/bootstrap-icons/bootstrap-icons.svg#pin-map-fill)
+PinMapFillIcon ![PinMapFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-map-fill)
 
-PinMapIcon ![PinMapIcon](images/bootstrap-icons/bootstrap-icons.svg#pin-map)
+PinMapIcon ![PinMapIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-map)
 
-PlusLgIcon ![PlusLgIcon](images/bootstrap-icons/bootstrap-icons.svg#plus-lg)
+PlusLgIcon ![PlusLgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-lg)
 
-QuestionLgIcon ![QuestionLgIcon](images/bootstrap-icons/bootstrap-icons.svg#question-lg)
+QuestionLgIcon ![QuestionLgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-lg)
 
-RecycleIcon ![RecycleIcon](images/bootstrap-icons/bootstrap-icons.svg#recycle)
+RecycleIcon ![RecycleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#recycle)
 
-RedditIcon ![RedditIcon](images/bootstrap-icons/bootstrap-icons.svg#reddit)
+RedditIcon ![RedditIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reddit)
 
-SafeFillIcon ![SafeFillIcon](images/bootstrap-icons/bootstrap-icons.svg#safe-fill)
+SafeFillIcon ![SafeFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe-fill)
 
-Safe2FillIcon ![Safe2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#safe2-fill)
+Safe2FillIcon ![Safe2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe2-fill)
 
-Safe2Icon ![Safe2Icon](images/bootstrap-icons/bootstrap-icons.svg#safe2)
+Safe2Icon ![Safe2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe2)
 
-SdCardFillIcon ![SdCardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#sd-card-fill)
+SdCardFillIcon ![SdCardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sd-card-fill)
 
-SdCardIcon ![SdCardIcon](images/bootstrap-icons/bootstrap-icons.svg#sd-card)
+SdCardIcon ![SdCardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sd-card)
 
-SkypeIcon ![SkypeIcon](images/bootstrap-icons/bootstrap-icons.svg#skype)
+SkypeIcon ![SkypeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skype)
 
-SlashLgIcon ![SlashLgIcon](images/bootstrap-icons/bootstrap-icons.svg#slash-lg)
+SlashLgIcon ![SlashLgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-lg)
 
-TranslateIcon ![TranslateIcon](images/bootstrap-icons/bootstrap-icons.svg#translate)
+TranslateIcon ![TranslateIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#translate)
 
-XLgIcon ![XLgIcon](images/bootstrap-icons/bootstrap-icons.svg#x-lg)
+XLgIcon ![XLgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-lg)
 
-SafeIcon ![SafeIcon](images/bootstrap-icons/bootstrap-icons.svg#safe)
+SafeIcon ![SafeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe)
 
-AppleIcon ![AppleIcon](images/bootstrap-icons/bootstrap-icons.svg#apple)
+AppleIcon ![AppleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#apple)
 
-MicrosoftIcon ![MicrosoftIcon](images/bootstrap-icons/bootstrap-icons.svg#microsoft)
+MicrosoftIcon ![MicrosoftIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#microsoft)
 
-WindowsIcon ![WindowsIcon](images/bootstrap-icons/bootstrap-icons.svg#windows)
+WindowsIcon ![WindowsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#windows)
 
-BehanceIcon ![BehanceIcon](images/bootstrap-icons/bootstrap-icons.svg#behance)
+BehanceIcon ![BehanceIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#behance)
 
-DribbbleIcon ![DribbbleIcon](images/bootstrap-icons/bootstrap-icons.svg#dribbble)
+DribbbleIcon ![DribbbleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dribbble)
 
-LineIcon ![LineIcon](images/bootstrap-icons/bootstrap-icons.svg#line)
+LineIcon ![LineIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#line)
 
-MediumIcon ![MediumIcon](images/bootstrap-icons/bootstrap-icons.svg#medium)
+MediumIcon ![MediumIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#medium)
 
-PaypalIcon ![PaypalIcon](images/bootstrap-icons/bootstrap-icons.svg#paypal)
+PaypalIcon ![PaypalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paypal)
 
-PinterestIcon ![PinterestIcon](images/bootstrap-icons/bootstrap-icons.svg#pinterest)
+PinterestIcon ![PinterestIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pinterest)
 
-SignalIcon ![SignalIcon](images/bootstrap-icons/bootstrap-icons.svg#signal)
+SignalIcon ![SignalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signal)
 
-SnapchatIcon ![SnapchatIcon](images/bootstrap-icons/bootstrap-icons.svg#snapchat)
+SnapchatIcon ![SnapchatIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snapchat)
 
-SpotifyIcon ![SpotifyIcon](images/bootstrap-icons/bootstrap-icons.svg#spotify)
+SpotifyIcon ![SpotifyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#spotify)
 
-StackOverflowIcon ![StackOverflowIcon](images/bootstrap-icons/bootstrap-icons.svg#stack-overflow)
+StackOverflowIcon ![StackOverflowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stack-overflow)
 
-StravaIcon ![StravaIcon](images/bootstrap-icons/bootstrap-icons.svg#strava)
+StravaIcon ![StravaIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#strava)
 
-WordpressIcon ![WordpressIcon](images/bootstrap-icons/bootstrap-icons.svg#wordpress)
+WordpressIcon ![WordpressIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wordpress)
 
-VimeoIcon ![VimeoIcon](images/bootstrap-icons/bootstrap-icons.svg#vimeo)
+VimeoIcon ![VimeoIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vimeo)
 
-ActivityIcon ![ActivityIcon](images/bootstrap-icons/bootstrap-icons.svg#activity)
+ActivityIcon ![ActivityIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#activity)
 
-Easel2FillIcon ![Easel2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#easel2-fill)
+Easel2FillIcon ![Easel2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel2-fill)
 
-Easel2Icon ![Easel2Icon](images/bootstrap-icons/bootstrap-icons.svg#easel2)
+Easel2Icon ![Easel2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel2)
 
-Easel3FillIcon ![Easel3FillIcon](images/bootstrap-icons/bootstrap-icons.svg#easel3-fill)
+Easel3FillIcon ![Easel3FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel3-fill)
 
-Easel3Icon ![Easel3Icon](images/bootstrap-icons/bootstrap-icons.svg#easel3)
+Easel3Icon ![Easel3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel3)
 
-FanIcon ![FanIcon](images/bootstrap-icons/bootstrap-icons.svg#fan)
+FanIcon ![FanIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fan)
 
-FingerprintIcon ![FingerprintIcon](images/bootstrap-icons/bootstrap-icons.svg#fingerprint)
+FingerprintIcon ![FingerprintIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fingerprint)
 
-GraphDownArrowIcon ![GraphDownArrowIcon](images/bootstrap-icons/bootstrap-icons.svg#graph-down-arrow)
+GraphDownArrowIcon ![GraphDownArrowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-down-arrow)
 
-GraphUpArrowIcon ![GraphUpArrowIcon](images/bootstrap-icons/bootstrap-icons.svg#graph-up-arrow)
+GraphUpArrowIcon ![GraphUpArrowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-up-arrow)
 
-HypnotizeIcon ![HypnotizeIcon](images/bootstrap-icons/bootstrap-icons.svg#hypnotize)
+HypnotizeIcon ![HypnotizeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hypnotize)
 
-MagicIcon ![MagicIcon](images/bootstrap-icons/bootstrap-icons.svg#magic)
+MagicIcon ![MagicIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magic)
 
-PersonRolodexIcon ![PersonRolodexIcon](images/bootstrap-icons/bootstrap-icons.svg#person-rolodex)
+PersonRolodexIcon ![PersonRolodexIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-rolodex)
 
-PersonVideoIcon ![PersonVideoIcon](images/bootstrap-icons/bootstrap-icons.svg#person-video)
+PersonVideoIcon ![PersonVideoIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video)
 
-PersonVideo2Icon ![PersonVideo2Icon](images/bootstrap-icons/bootstrap-icons.svg#person-video2)
+PersonVideo2Icon ![PersonVideo2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video2)
 
-PersonVideo3Icon ![PersonVideo3Icon](images/bootstrap-icons/bootstrap-icons.svg#person-video3)
+PersonVideo3Icon ![PersonVideo3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video3)
 
-PersonWorkspaceIcon ![PersonWorkspaceIcon](images/bootstrap-icons/bootstrap-icons.svg#person-workspace)
+PersonWorkspaceIcon ![PersonWorkspaceIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-workspace)
 
-RadioactiveIcon ![RadioactiveIcon](images/bootstrap-icons/bootstrap-icons.svg#radioactive)
+RadioactiveIcon ![RadioactiveIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#radioactive)
 
-WebcamFillIcon ![WebcamFillIcon](images/bootstrap-icons/bootstrap-icons.svg#webcam-fill)
+WebcamFillIcon ![WebcamFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#webcam-fill)
 
-WebcamIcon ![WebcamIcon](images/bootstrap-icons/bootstrap-icons.svg#webcam)
+WebcamIcon ![WebcamIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#webcam)
 
-YinYangIcon ![YinYangIcon](images/bootstrap-icons/bootstrap-icons.svg#yin-yang)
+YinYangIcon ![YinYangIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#yin-yang)
 
-BandaidFillIcon ![BandaidFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bandaid-fill)
+BandaidFillIcon ![BandaidFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bandaid-fill)
 
-BandaidIcon ![BandaidIcon](images/bootstrap-icons/bootstrap-icons.svg#bandaid)
+BandaidIcon ![BandaidIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bandaid)
 
-BluetoothIcon ![BluetoothIcon](images/bootstrap-icons/bootstrap-icons.svg#bluetooth)
+BluetoothIcon ![BluetoothIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bluetooth)
 
-BodyTextIcon ![BodyTextIcon](images/bootstrap-icons/bootstrap-icons.svg#body-text)
+BodyTextIcon ![BodyTextIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#body-text)
 
-BoomboxIcon ![BoomboxIcon](images/bootstrap-icons/bootstrap-icons.svg#boombox)
+BoomboxIcon ![BoomboxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boombox)
 
-BoxesIcon ![BoxesIcon](images/bootstrap-icons/bootstrap-icons.svg#boxes)
+BoxesIcon ![BoxesIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boxes)
 
-DpadFillIcon ![DpadFillIcon](images/bootstrap-icons/bootstrap-icons.svg#dpad-fill)
+DpadFillIcon ![DpadFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dpad-fill)
 
-DpadIcon ![DpadIcon](images/bootstrap-icons/bootstrap-icons.svg#dpad)
+DpadIcon ![DpadIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dpad)
 
-EarFillIcon ![EarFillIcon](images/bootstrap-icons/bootstrap-icons.svg#ear-fill)
+EarFillIcon ![EarFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ear-fill)
 
-EarIcon ![EarIcon](images/bootstrap-icons/bootstrap-icons.svg#ear)
+EarIcon ![EarIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ear)
 
-EnvelopeCheck1Icon ![EnvelopeCheck1Icon](images/bootstrap-icons/bootstrap-icons.svg#envelope-check-1)
+EnvelopeCheck1Icon ![EnvelopeCheck1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check-1)
 
-EnvelopeCheckFillIcon ![EnvelopeCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-check-fill)
+EnvelopeCheckFillIcon ![EnvelopeCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check-fill)
 
-EnvelopeCheckIcon ![EnvelopeCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-check)
+EnvelopeCheckIcon ![EnvelopeCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check)
 
-EnvelopeDash1Icon ![EnvelopeDash1Icon](images/bootstrap-icons/bootstrap-icons.svg#envelope-dash-1)
+EnvelopeDash1Icon ![EnvelopeDash1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash-1)
 
-EnvelopeDashFillIcon ![EnvelopeDashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-dash-fill)
+EnvelopeDashFillIcon ![EnvelopeDashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash-fill)
 
-EnvelopeDashIcon ![EnvelopeDashIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-dash)
+EnvelopeDashIcon ![EnvelopeDashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash)
 
-EnvelopeExclamation1Icon ![EnvelopeExclamation1Icon](images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation-1)
+EnvelopeExclamation1Icon ![EnvelopeExclamation1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation-1)
 
-EnvelopeExclamationFillIcon ![EnvelopeExclamationFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation-fill)
+EnvelopeExclamationFillIcon ![EnvelopeExclamationFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation-fill)
 
-EnvelopeExclamationIcon ![EnvelopeExclamationIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation)
+EnvelopeExclamationIcon ![EnvelopeExclamationIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation)
 
-EnvelopePlusFillIcon ![EnvelopePlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-plus-fill)
+EnvelopePlusFillIcon ![EnvelopePlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-plus-fill)
 
-EnvelopePlusIcon ![EnvelopePlusIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-plus)
+EnvelopePlusIcon ![EnvelopePlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-plus)
 
-EnvelopeSlash1Icon ![EnvelopeSlash1Icon](images/bootstrap-icons/bootstrap-icons.svg#envelope-slash-1)
+EnvelopeSlash1Icon ![EnvelopeSlash1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash-1)
 
-EnvelopeSlashFillIcon ![EnvelopeSlashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-slash-fill)
+EnvelopeSlashFillIcon ![EnvelopeSlashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash-fill)
 
-EnvelopeSlashIcon ![EnvelopeSlashIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-slash)
+EnvelopeSlashIcon ![EnvelopeSlashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash)
 
-EnvelopeX1Icon ![EnvelopeX1Icon](images/bootstrap-icons/bootstrap-icons.svg#envelope-x-1)
+EnvelopeX1Icon ![EnvelopeX1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x-1)
 
-EnvelopeXFillIcon ![EnvelopeXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-x-fill)
+EnvelopeXFillIcon ![EnvelopeXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x-fill)
 
-EnvelopeXIcon ![EnvelopeXIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-x)
+EnvelopeXIcon ![EnvelopeXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x)
 
-ExplicitFillIcon ![ExplicitFillIcon](images/bootstrap-icons/bootstrap-icons.svg#explicit-fill)
+ExplicitFillIcon ![ExplicitFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#explicit-fill)
 
-ExplicitIcon ![ExplicitIcon](images/bootstrap-icons/bootstrap-icons.svg#explicit)
+ExplicitIcon ![ExplicitIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#explicit)
 
-GitIcon ![GitIcon](images/bootstrap-icons/bootstrap-icons.svg#git)
+GitIcon ![GitIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#git)
 
-InfinityIcon ![InfinityIcon](images/bootstrap-icons/bootstrap-icons.svg#infinity)
+InfinityIcon ![InfinityIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#infinity)
 
-ListColumnsReverseIcon ![ListColumnsReverseIcon](images/bootstrap-icons/bootstrap-icons.svg#list-columns-reverse)
+ListColumnsReverseIcon ![ListColumnsReverseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-columns-reverse)
 
-ListColumnsIcon ![ListColumnsIcon](images/bootstrap-icons/bootstrap-icons.svg#list-columns)
+ListColumnsIcon ![ListColumnsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-columns)
 
-MetaIcon ![MetaIcon](images/bootstrap-icons/bootstrap-icons.svg#meta)
+MetaIcon ![MetaIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#meta)
 
-MortorboardFillIcon ![MortorboardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#mortorboard-fill)
+MortorboardFillIcon ![MortorboardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortorboard-fill)
 
-MortorboardIcon ![MortorboardIcon](images/bootstrap-icons/bootstrap-icons.svg#mortorboard)
+MortorboardIcon ![MortorboardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortorboard)
 
-NintendoSwitchIcon ![NintendoSwitchIcon](images/bootstrap-icons/bootstrap-icons.svg#nintendo-switch)
+NintendoSwitchIcon ![NintendoSwitchIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nintendo-switch)
 
-PcDisplayHorizontalIcon ![PcDisplayHorizontalIcon](images/bootstrap-icons/bootstrap-icons.svg#pc-display-horizontal)
+PcDisplayHorizontalIcon ![PcDisplayHorizontalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-display-horizontal)
 
-PcDisplayIcon ![PcDisplayIcon](images/bootstrap-icons/bootstrap-icons.svg#pc-display)
+PcDisplayIcon ![PcDisplayIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-display)
 
-PcHorizontalIcon ![PcHorizontalIcon](images/bootstrap-icons/bootstrap-icons.svg#pc-horizontal)
+PcHorizontalIcon ![PcHorizontalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-horizontal)
 
-PcIcon ![PcIcon](images/bootstrap-icons/bootstrap-icons.svg#pc)
+PcIcon ![PcIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc)
 
-PlaystationIcon ![PlaystationIcon](images/bootstrap-icons/bootstrap-icons.svg#playstation)
+PlaystationIcon ![PlaystationIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#playstation)
 
-PlusSlashMinusIcon ![PlusSlashMinusIcon](images/bootstrap-icons/bootstrap-icons.svg#plus-slash-minus)
+PlusSlashMinusIcon ![PlusSlashMinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-slash-minus)
 
-ProjectorFillIcon ![ProjectorFillIcon](images/bootstrap-icons/bootstrap-icons.svg#projector-fill)
+ProjectorFillIcon ![ProjectorFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#projector-fill)
 
-ProjectorIcon ![ProjectorIcon](images/bootstrap-icons/bootstrap-icons.svg#projector)
+ProjectorIcon ![ProjectorIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#projector)
 
-QrCodeScanIcon ![QrCodeScanIcon](images/bootstrap-icons/bootstrap-icons.svg#qr-code-scan)
+QrCodeScanIcon ![QrCodeScanIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#qr-code-scan)
 
-QrCodeIcon ![QrCodeIcon](images/bootstrap-icons/bootstrap-icons.svg#qr-code)
+QrCodeIcon ![QrCodeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#qr-code)
 
-QuoraIcon ![QuoraIcon](images/bootstrap-icons/bootstrap-icons.svg#quora)
+QuoraIcon ![QuoraIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#quora)
 
-QuoteIcon ![QuoteIcon](images/bootstrap-icons/bootstrap-icons.svg#quote)
+QuoteIcon ![QuoteIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#quote)
 
-RobotIcon ![RobotIcon](images/bootstrap-icons/bootstrap-icons.svg#robot)
+RobotIcon ![RobotIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#robot)
 
-SendCheckFillIcon ![SendCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#send-check-fill)
+SendCheckFillIcon ![SendCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-check-fill)
 
-SendCheckIcon ![SendCheckIcon](images/bootstrap-icons/bootstrap-icons.svg#send-check)
+SendCheckIcon ![SendCheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-check)
 
-SendDashFillIcon ![SendDashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#send-dash-fill)
+SendDashFillIcon ![SendDashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-dash-fill)
 
-SendDashIcon ![SendDashIcon](images/bootstrap-icons/bootstrap-icons.svg#send-dash)
+SendDashIcon ![SendDashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-dash)
 
-SendExclamation1Icon ![SendExclamation1Icon](images/bootstrap-icons/bootstrap-icons.svg#send-exclamation-1)
+SendExclamation1Icon ![SendExclamation1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation-1)
 
-SendExclamationFillIcon ![SendExclamationFillIcon](images/bootstrap-icons/bootstrap-icons.svg#send-exclamation-fill)
+SendExclamationFillIcon ![SendExclamationFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation-fill)
 
-SendExclamationIcon ![SendExclamationIcon](images/bootstrap-icons/bootstrap-icons.svg#send-exclamation)
+SendExclamationIcon ![SendExclamationIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation)
 
-SendFillIcon ![SendFillIcon](images/bootstrap-icons/bootstrap-icons.svg#send-fill)
+SendFillIcon ![SendFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-fill)
 
-SendPlusFillIcon ![SendPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#send-plus-fill)
+SendPlusFillIcon ![SendPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-plus-fill)
 
-SendPlusIcon ![SendPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#send-plus)
+SendPlusIcon ![SendPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-plus)
 
-SendSlashFillIcon ![SendSlashFillIcon](images/bootstrap-icons/bootstrap-icons.svg#send-slash-fill)
+SendSlashFillIcon ![SendSlashFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-slash-fill)
 
-SendSlashIcon ![SendSlashIcon](images/bootstrap-icons/bootstrap-icons.svg#send-slash)
+SendSlashIcon ![SendSlashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-slash)
 
-SendXFillIcon ![SendXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#send-x-fill)
+SendXFillIcon ![SendXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-x-fill)
 
-SendXIcon ![SendXIcon](images/bootstrap-icons/bootstrap-icons.svg#send-x)
+SendXIcon ![SendXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-x)
 
-SendIcon ![SendIcon](images/bootstrap-icons/bootstrap-icons.svg#send)
+SendIcon ![SendIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send)
 
-SteamIcon ![SteamIcon](images/bootstrap-icons/bootstrap-icons.svg#steam)
+SteamIcon ![SteamIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#steam)
 
-TerminalDash1Icon ![TerminalDash1Icon](images/bootstrap-icons/bootstrap-icons.svg#terminal-dash-1)
+TerminalDash1Icon ![TerminalDash1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-dash-1)
 
-TerminalDashIcon ![TerminalDashIcon](images/bootstrap-icons/bootstrap-icons.svg#terminal-dash)
+TerminalDashIcon ![TerminalDashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-dash)
 
-TerminalPlusIcon ![TerminalPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#terminal-plus)
+TerminalPlusIcon ![TerminalPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-plus)
 
-TerminalSplitIcon ![TerminalSplitIcon](images/bootstrap-icons/bootstrap-icons.svg#terminal-split)
+TerminalSplitIcon ![TerminalSplitIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-split)
 
-TicketDetailedFillIcon ![TicketDetailedFillIcon](images/bootstrap-icons/bootstrap-icons.svg#ticket-detailed-fill)
+TicketDetailedFillIcon ![TicketDetailedFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-detailed-fill)
 
-TicketDetailedIcon ![TicketDetailedIcon](images/bootstrap-icons/bootstrap-icons.svg#ticket-detailed)
+TicketDetailedIcon ![TicketDetailedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-detailed)
 
-TicketFillIcon ![TicketFillIcon](images/bootstrap-icons/bootstrap-icons.svg#ticket-fill)
+TicketFillIcon ![TicketFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-fill)
 
-TicketPerforatedFillIcon ![TicketPerforatedFillIcon](images/bootstrap-icons/bootstrap-icons.svg#ticket-perforated-fill)
+TicketPerforatedFillIcon ![TicketPerforatedFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-perforated-fill)
 
-TicketPerforatedIcon ![TicketPerforatedIcon](images/bootstrap-icons/bootstrap-icons.svg#ticket-perforated)
+TicketPerforatedIcon ![TicketPerforatedIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-perforated)
 
-TicketIcon ![TicketIcon](images/bootstrap-icons/bootstrap-icons.svg#ticket)
+TicketIcon ![TicketIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket)
 
-TiktokIcon ![TiktokIcon](images/bootstrap-icons/bootstrap-icons.svg#tiktok)
+TiktokIcon ![TiktokIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tiktok)
 
-WindowDashIcon ![WindowDashIcon](images/bootstrap-icons/bootstrap-icons.svg#window-dash)
+WindowDashIcon ![WindowDashIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-dash)
 
-WindowDesktopIcon ![WindowDesktopIcon](images/bootstrap-icons/bootstrap-icons.svg#window-desktop)
+WindowDesktopIcon ![WindowDesktopIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-desktop)
 
-WindowFullscreenIcon ![WindowFullscreenIcon](images/bootstrap-icons/bootstrap-icons.svg#window-fullscreen)
+WindowFullscreenIcon ![WindowFullscreenIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-fullscreen)
 
-WindowPlusIcon ![WindowPlusIcon](images/bootstrap-icons/bootstrap-icons.svg#window-plus)
+WindowPlusIcon ![WindowPlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-plus)
 
-WindowSplitIcon ![WindowSplitIcon](images/bootstrap-icons/bootstrap-icons.svg#window-split)
+WindowSplitIcon ![WindowSplitIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-split)
 
-WindowStackIcon ![WindowStackIcon](images/bootstrap-icons/bootstrap-icons.svg#window-stack)
+WindowStackIcon ![WindowStackIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-stack)
 
-WindowXIcon ![WindowXIcon](images/bootstrap-icons/bootstrap-icons.svg#window-x)
+WindowXIcon ![WindowXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-x)
 
-XboxIcon ![XboxIcon](images/bootstrap-icons/bootstrap-icons.svg#xbox)
+XboxIcon ![XboxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#xbox)
 
-EthernetIcon ![EthernetIcon](images/bootstrap-icons/bootstrap-icons.svg#ethernet)
+EthernetIcon ![EthernetIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ethernet)
 
-HdmiFillIcon ![HdmiFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hdmi-fill)
+HdmiFillIcon ![HdmiFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdmi-fill)
 
-HdmiIcon ![HdmiIcon](images/bootstrap-icons/bootstrap-icons.svg#hdmi)
+HdmiIcon ![HdmiIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdmi)
 
-UsbCFillIcon ![UsbCFillIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-c-fill)
+UsbCFillIcon ![UsbCFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-c-fill)
 
-UsbCIcon ![UsbCIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-c)
+UsbCIcon ![UsbCIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-c)
 
-UsbFillIcon ![UsbFillIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-fill)
+UsbFillIcon ![UsbFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-fill)
 
-UsbPlugFillIcon ![UsbPlugFillIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-plug-fill)
+UsbPlugFillIcon ![UsbPlugFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-plug-fill)
 
-UsbPlugIcon ![UsbPlugIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-plug)
+UsbPlugIcon ![UsbPlugIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-plug)
 
-UsbSymbolIcon ![UsbSymbolIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-symbol)
+UsbSymbolIcon ![UsbSymbolIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-symbol)
 
-UsbIcon ![UsbIcon](images/bootstrap-icons/bootstrap-icons.svg#usb)
+UsbIcon ![UsbIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb)
 
-BoomboxFillIcon ![BoomboxFillIcon](images/bootstrap-icons/bootstrap-icons.svg#boombox-fill)
+BoomboxFillIcon ![BoomboxFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boombox-fill)
 
-Displayport1Icon ![Displayport1Icon](images/bootstrap-icons/bootstrap-icons.svg#displayport-1)
+Displayport1Icon ![Displayport1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport-1)
 
-DisplayportIcon ![DisplayportIcon](images/bootstrap-icons/bootstrap-icons.svg#displayport)
+DisplayportIcon ![DisplayportIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport)
 
-GpuCardIcon ![GpuCardIcon](images/bootstrap-icons/bootstrap-icons.svg#gpu-card)
+GpuCardIcon ![GpuCardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gpu-card)
 
-MemoryIcon ![MemoryIcon](images/bootstrap-icons/bootstrap-icons.svg#memory)
+MemoryIcon ![MemoryIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#memory)
 
-ModemFillIcon ![ModemFillIcon](images/bootstrap-icons/bootstrap-icons.svg#modem-fill)
+ModemFillIcon ![ModemFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#modem-fill)
 
-ModemIcon ![ModemIcon](images/bootstrap-icons/bootstrap-icons.svg#modem)
+ModemIcon ![ModemIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#modem)
 
-MotherboardFillIcon ![MotherboardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#motherboard-fill)
+MotherboardFillIcon ![MotherboardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#motherboard-fill)
 
-MotherboardIcon ![MotherboardIcon](images/bootstrap-icons/bootstrap-icons.svg#motherboard)
+MotherboardIcon ![MotherboardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#motherboard)
 
-OpticalAudioFillIcon ![OpticalAudioFillIcon](images/bootstrap-icons/bootstrap-icons.svg#optical-audio-fill)
+OpticalAudioFillIcon ![OpticalAudioFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#optical-audio-fill)
 
-OpticalAudioIcon ![OpticalAudioIcon](images/bootstrap-icons/bootstrap-icons.svg#optical-audio)
+OpticalAudioIcon ![OpticalAudioIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#optical-audio)
 
-PciCardIcon ![PciCardIcon](images/bootstrap-icons/bootstrap-icons.svg#pci-card)
+PciCardIcon ![PciCardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pci-card)
 
-RouterFillIcon ![RouterFillIcon](images/bootstrap-icons/bootstrap-icons.svg#router-fill)
+RouterFillIcon ![RouterFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#router-fill)
 
-RouterIcon ![RouterIcon](images/bootstrap-icons/bootstrap-icons.svg#router)
+RouterIcon ![RouterIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#router)
 
-SsdFillIcon ![SsdFillIcon](images/bootstrap-icons/bootstrap-icons.svg#ssd-fill)
+SsdFillIcon ![SsdFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ssd-fill)
 
-SsdIcon ![SsdIcon](images/bootstrap-icons/bootstrap-icons.svg#ssd)
+SsdIcon ![SsdIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ssd)
 
-ThunderboltFillIcon ![ThunderboltFillIcon](images/bootstrap-icons/bootstrap-icons.svg#thunderbolt-fill)
+ThunderboltFillIcon ![ThunderboltFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thunderbolt-fill)
 
-ThunderboltIcon ![ThunderboltIcon](images/bootstrap-icons/bootstrap-icons.svg#thunderbolt)
+ThunderboltIcon ![ThunderboltIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thunderbolt)
 
-UsbDriveFillIcon ![UsbDriveFillIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-drive-fill)
+UsbDriveFillIcon ![UsbDriveFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-drive-fill)
 
-UsbDriveIcon ![UsbDriveIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-drive)
+UsbDriveIcon ![UsbDriveIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-drive)
 
-UsbMicroFillIcon ![UsbMicroFillIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-micro-fill)
+UsbMicroFillIcon ![UsbMicroFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-micro-fill)
 
-UsbMicroIcon ![UsbMicroIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-micro)
+UsbMicroIcon ![UsbMicroIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-micro)
 
-UsbMiniFillIcon ![UsbMiniFillIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-mini-fill)
+UsbMiniFillIcon ![UsbMiniFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-mini-fill)
 
-UsbMiniIcon ![UsbMiniIcon](images/bootstrap-icons/bootstrap-icons.svg#usb-mini)
+UsbMiniIcon ![UsbMiniIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-mini)
 
-CloudHaze2Icon ![CloudHaze2Icon](images/bootstrap-icons/bootstrap-icons.svg#cloud-haze2)
+CloudHaze2Icon ![CloudHaze2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze2)
 
-DeviceHddFillIcon ![DeviceHddFillIcon](images/bootstrap-icons/bootstrap-icons.svg#device-hdd-fill)
+DeviceHddFillIcon ![DeviceHddFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-hdd-fill)
 
-DeviceHddIcon ![DeviceHddIcon](images/bootstrap-icons/bootstrap-icons.svg#device-hdd)
+DeviceHddIcon ![DeviceHddIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-hdd)
 
-DeviceSsdFillIcon ![DeviceSsdFillIcon](images/bootstrap-icons/bootstrap-icons.svg#device-ssd-fill)
+DeviceSsdFillIcon ![DeviceSsdFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-ssd-fill)
 
-DeviceSsdIcon ![DeviceSsdIcon](images/bootstrap-icons/bootstrap-icons.svg#device-ssd)
+DeviceSsdIcon ![DeviceSsdIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-ssd)
 
-DisplayportFillIcon ![DisplayportFillIcon](images/bootstrap-icons/bootstrap-icons.svg#displayport-fill)
+DisplayportFillIcon ![DisplayportFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport-fill)
 
-MortarboardFillIcon ![MortarboardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#mortarboard-fill)
+MortarboardFillIcon ![MortarboardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortarboard-fill)
 
-MortarboardIcon ![MortarboardIcon](images/bootstrap-icons/bootstrap-icons.svg#mortarboard)
+MortarboardIcon ![MortarboardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortarboard)
 
-TerminalXIcon ![TerminalXIcon](images/bootstrap-icons/bootstrap-icons.svg#terminal-x)
+TerminalXIcon ![TerminalXIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-x)
 
-ArrowThroughHeartFillIcon ![ArrowThroughHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-through-heart-fill)
+ArrowThroughHeartFillIcon ![ArrowThroughHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-through-heart-fill)
 
-ArrowThroughHeartIcon ![ArrowThroughHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#arrow-through-heart)
+ArrowThroughHeartIcon ![ArrowThroughHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-through-heart)
 
-BadgeSdFillIcon ![BadgeSdFillIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-sd-fill)
+BadgeSdFillIcon ![BadgeSdFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-sd-fill)
 
-BadgeSdIcon ![BadgeSdIcon](images/bootstrap-icons/bootstrap-icons.svg#badge-sd)
+BadgeSdIcon ![BadgeSdIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-sd)
 
-BagHeartFillIcon ![BagHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-heart-fill)
+BagHeartFillIcon ![BagHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-heart-fill)
 
-BagHeartIcon ![BagHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#bag-heart)
+BagHeartIcon ![BagHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-heart)
 
-BalloonFillIcon ![BalloonFillIcon](images/bootstrap-icons/bootstrap-icons.svg#balloon-fill)
+BalloonFillIcon ![BalloonFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-fill)
 
-BalloonHeartFillIcon ![BalloonHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#balloon-heart-fill)
+BalloonHeartFillIcon ![BalloonHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-heart-fill)
 
-BalloonHeartIcon ![BalloonHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#balloon-heart)
+BalloonHeartIcon ![BalloonHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-heart)
 
-BalloonIcon ![BalloonIcon](images/bootstrap-icons/bootstrap-icons.svg#balloon)
+BalloonIcon ![BalloonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon)
 
-Box2FillIcon ![Box2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#box2-fill)
+Box2FillIcon ![Box2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-fill)
 
-Box2HeartFillIcon ![Box2HeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#box2-heart-fill)
+Box2HeartFillIcon ![Box2HeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-heart-fill)
 
-Box2HeartIcon ![Box2HeartIcon](images/bootstrap-icons/bootstrap-icons.svg#box2-heart)
+Box2HeartIcon ![Box2HeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-heart)
 
-Box2Icon ![Box2Icon](images/bootstrap-icons/bootstrap-icons.svg#box2)
+Box2Icon ![Box2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2)
 
-BracesAsteriskIcon ![BracesAsteriskIcon](images/bootstrap-icons/bootstrap-icons.svg#braces-asterisk)
+BracesAsteriskIcon ![BracesAsteriskIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#braces-asterisk)
 
-CalendarHeartFillIcon ![CalendarHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-heart-fill)
+CalendarHeartFillIcon ![CalendarHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-heart-fill)
 
-CalendarHeartIcon ![CalendarHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar-heart)
+CalendarHeartIcon ![CalendarHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-heart)
 
-Calendar2HeartFillIcon ![Calendar2HeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-heart-fill)
+Calendar2HeartFillIcon ![Calendar2HeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-heart-fill)
 
-Calendar2HeartIcon ![Calendar2HeartIcon](images/bootstrap-icons/bootstrap-icons.svg#calendar2-heart)
+Calendar2HeartIcon ![Calendar2HeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-heart)
 
-ChatHeartFillIcon ![ChatHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-heart-fill)
+ChatHeartFillIcon ![ChatHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-heart-fill)
 
-ChatHeartIcon ![ChatHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-heart)
+ChatHeartIcon ![ChatHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-heart)
 
-ChatLeftHeartFillIcon ![ChatLeftHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-heart-fill)
+ChatLeftHeartFillIcon ![ChatLeftHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-heart-fill)
 
-ChatLeftHeartIcon ![ChatLeftHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-left-heart)
+ChatLeftHeartIcon ![ChatLeftHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-heart)
 
-ChatRightHeartFillIcon ![ChatRightHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-heart-fill)
+ChatRightHeartFillIcon ![ChatRightHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-heart-fill)
 
-ChatRightHeartIcon ![ChatRightHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-right-heart)
+ChatRightHeartIcon ![ChatRightHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-heart)
 
-ChatSquareHeartFillIcon ![ChatSquareHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-heart-fill)
+ChatSquareHeartFillIcon ![ChatSquareHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-heart-fill)
 
-ChatSquareHeartIcon ![ChatSquareHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#chat-square-heart)
+ChatSquareHeartIcon ![ChatSquareHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-heart)
 
-ClipboardCheckFillIcon ![ClipboardCheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-check-fill)
+ClipboardCheckFillIcon ![ClipboardCheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-check-fill)
 
-ClipboardDataFillIcon ![ClipboardDataFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-data-fill)
+ClipboardDataFillIcon ![ClipboardDataFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-data-fill)
 
-ClipboardFillIcon ![ClipboardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-fill)
+ClipboardFillIcon ![ClipboardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-fill)
 
-ClipboardHeartFillIcon ![ClipboardHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-heart-fill)
+ClipboardHeartFillIcon ![ClipboardHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-heart-fill)
 
-ClipboardHeartIcon ![ClipboardHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-heart)
+ClipboardHeartIcon ![ClipboardHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-heart)
 
-ClipboardMinusFillIcon ![ClipboardMinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-minus-fill)
+ClipboardMinusFillIcon ![ClipboardMinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-minus-fill)
 
-ClipboardPlusFillIcon ![ClipboardPlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-plus-fill)
+ClipboardPlusFillIcon ![ClipboardPlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-plus-fill)
 
-ClipboardPulseIcon ![ClipboardPulseIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-pulse)
+ClipboardPulseIcon ![ClipboardPulseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-pulse)
 
-ClipboardXFillIcon ![ClipboardXFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard-x-fill)
+ClipboardXFillIcon ![ClipboardXFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-x-fill)
 
-Clipboard2CheckFillIcon ![Clipboard2CheckFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-check-fill)
+Clipboard2CheckFillIcon ![Clipboard2CheckFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-check-fill)
 
-Clipboard2CheckIcon ![Clipboard2CheckIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-check)
+Clipboard2CheckIcon ![Clipboard2CheckIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-check)
 
-Clipboard2DataFillIcon ![Clipboard2DataFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-data-fill)
+Clipboard2DataFillIcon ![Clipboard2DataFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-data-fill)
 
-Clipboard2DataIcon ![Clipboard2DataIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-data)
+Clipboard2DataIcon ![Clipboard2DataIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-data)
 
-Clipboard2FillIcon ![Clipboard2FillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-fill)
+Clipboard2FillIcon ![Clipboard2FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-fill)
 
-Clipboard2HeartFillIcon ![Clipboard2HeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-heart-fill)
+Clipboard2HeartFillIcon ![Clipboard2HeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-heart-fill)
 
-Clipboard2HeartIcon ![Clipboard2HeartIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-heart)
+Clipboard2HeartIcon ![Clipboard2HeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-heart)
 
-Clipboard2MinusFillIcon ![Clipboard2MinusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-minus-fill)
+Clipboard2MinusFillIcon ![Clipboard2MinusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-minus-fill)
 
-Clipboard2MinusIcon ![Clipboard2MinusIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-minus)
+Clipboard2MinusIcon ![Clipboard2MinusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-minus)
 
-Clipboard2PlusFillIcon ![Clipboard2PlusFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-plus-fill)
+Clipboard2PlusFillIcon ![Clipboard2PlusFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-plus-fill)
 
-Clipboard2PlusIcon ![Clipboard2PlusIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-plus)
+Clipboard2PlusIcon ![Clipboard2PlusIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-plus)
 
-Clipboard2PulseFillIcon ![Clipboard2PulseFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-pulse-fill)
+Clipboard2PulseFillIcon ![Clipboard2PulseFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-pulse-fill)
 
-Clipboard2PulseIcon ![Clipboard2PulseIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-pulse)
+Clipboard2PulseIcon ![Clipboard2PulseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-pulse)
 
-Clipboard2XFillIcon ![Clipboard2XFillIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-x-fill)
+Clipboard2XFillIcon ![Clipboard2XFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-x-fill)
 
-Clipboard2XIcon ![Clipboard2XIcon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2-x)
+Clipboard2XIcon ![Clipboard2XIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-x)
 
-Clipboard2Icon ![Clipboard2Icon](images/bootstrap-icons/bootstrap-icons.svg#clipboard2)
+Clipboard2Icon ![Clipboard2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2)
 
-EmojiKissFillIcon ![EmojiKissFillIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-kiss-fill)
+EmojiKissFillIcon ![EmojiKissFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-kiss-fill)
 
-EmojiKissIcon ![EmojiKissIcon](images/bootstrap-icons/bootstrap-icons.svg#emoji-kiss)
+EmojiKissIcon ![EmojiKissIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-kiss)
 
-EnvelopeHeartFillIcon ![EnvelopeHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-heart-fill)
+EnvelopeHeartFillIcon ![EnvelopeHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-heart-fill)
 
-EnvelopeHeartIcon ![EnvelopeHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-heart)
+EnvelopeHeartIcon ![EnvelopeHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-heart)
 
-EnvelopeOpenHeartFillIcon ![EnvelopeOpenHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-open-heart-fill)
+EnvelopeOpenHeartFillIcon ![EnvelopeOpenHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-heart-fill)
 
-EnvelopeOpenHeartIcon ![EnvelopeOpenHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-open-heart)
+EnvelopeOpenHeartIcon ![EnvelopeOpenHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-heart)
 
-EnvelopePaperFillIcon ![EnvelopePaperFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-fill)
+EnvelopePaperFillIcon ![EnvelopePaperFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-fill)
 
-EnvelopePaperHeartFillIcon ![EnvelopePaperHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-heart-fill)
+EnvelopePaperHeartFillIcon ![EnvelopePaperHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-heart-fill)
 
-EnvelopePaperHeartIcon ![EnvelopePaperHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-heart)
+EnvelopePaperHeartIcon ![EnvelopePaperHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-heart)
 
-EnvelopePaperIcon ![EnvelopePaperIcon](images/bootstrap-icons/bootstrap-icons.svg#envelope-paper)
+EnvelopePaperIcon ![EnvelopePaperIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper)
 
-FiletypeAacIcon ![FiletypeAacIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-aac)
+FiletypeAacIcon ![FiletypeAacIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-aac)
 
-FiletypeAiIcon ![FiletypeAiIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-ai)
+FiletypeAiIcon ![FiletypeAiIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ai)
 
-FiletypeBmpIcon ![FiletypeBmpIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-bmp)
+FiletypeBmpIcon ![FiletypeBmpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-bmp)
 
-FiletypeCsIcon ![FiletypeCsIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-cs)
+FiletypeCsIcon ![FiletypeCsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-cs)
 
-FiletypeCssIcon ![FiletypeCssIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-css)
+FiletypeCssIcon ![FiletypeCssIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-css)
 
-FiletypeCsvIcon ![FiletypeCsvIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-csv)
+FiletypeCsvIcon ![FiletypeCsvIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-csv)
 
-FiletypeDocIcon ![FiletypeDocIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-doc)
+FiletypeDocIcon ![FiletypeDocIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-doc)
 
-FiletypeDocxIcon ![FiletypeDocxIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-docx)
+FiletypeDocxIcon ![FiletypeDocxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-docx)
 
-FiletypeExeIcon ![FiletypeExeIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-exe)
+FiletypeExeIcon ![FiletypeExeIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-exe)
 
-FiletypeGifIcon ![FiletypeGifIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-gif)
+FiletypeGifIcon ![FiletypeGifIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-gif)
 
-FiletypeHeicIcon ![FiletypeHeicIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-heic)
+FiletypeHeicIcon ![FiletypeHeicIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-heic)
 
-FiletypeHtmlIcon ![FiletypeHtmlIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-html)
+FiletypeHtmlIcon ![FiletypeHtmlIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-html)
 
-FiletypeJavaIcon ![FiletypeJavaIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-java)
+FiletypeJavaIcon ![FiletypeJavaIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-java)
 
-FiletypeJpgIcon ![FiletypeJpgIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-jpg)
+FiletypeJpgIcon ![FiletypeJpgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-jpg)
 
-FiletypeJsIcon ![FiletypeJsIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-js)
+FiletypeJsIcon ![FiletypeJsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-js)
 
-FiletypeJsxIcon ![FiletypeJsxIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-jsx)
+FiletypeJsxIcon ![FiletypeJsxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-jsx)
 
-FiletypeKeyIcon ![FiletypeKeyIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-key)
+FiletypeKeyIcon ![FiletypeKeyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-key)
 
-FiletypeM4pIcon ![FiletypeM4pIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-m4p)
+FiletypeM4pIcon ![FiletypeM4pIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-m4p)
 
-FiletypeMdIcon ![FiletypeMdIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-md)
+FiletypeMdIcon ![FiletypeMdIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-md)
 
-FiletypeMdxIcon ![FiletypeMdxIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-mdx)
+FiletypeMdxIcon ![FiletypeMdxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mdx)
 
-FiletypeMovIcon ![FiletypeMovIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-mov)
+FiletypeMovIcon ![FiletypeMovIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mov)
 
-FiletypeMp3Icon ![FiletypeMp3Icon](images/bootstrap-icons/bootstrap-icons.svg#filetype-mp3)
+FiletypeMp3Icon ![FiletypeMp3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mp3)
 
-FiletypeMp4Icon ![FiletypeMp4Icon](images/bootstrap-icons/bootstrap-icons.svg#filetype-mp4)
+FiletypeMp4Icon ![FiletypeMp4Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mp4)
 
-FiletypeOtfIcon ![FiletypeOtfIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-otf)
+FiletypeOtfIcon ![FiletypeOtfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-otf)
 
-FiletypePdfIcon ![FiletypePdfIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-pdf)
+FiletypePdfIcon ![FiletypePdfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-pdf)
 
-FiletypePhpIcon ![FiletypePhpIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-php)
+FiletypePhpIcon ![FiletypePhpIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-php)
 
-FiletypePngIcon ![FiletypePngIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-png)
+FiletypePngIcon ![FiletypePngIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-png)
 
-FiletypePpt1Icon ![FiletypePpt1Icon](images/bootstrap-icons/bootstrap-icons.svg#filetype-ppt-1)
+FiletypePpt1Icon ![FiletypePpt1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ppt-1)
 
-FiletypePptIcon ![FiletypePptIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-ppt)
+FiletypePptIcon ![FiletypePptIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ppt)
 
-FiletypePsdIcon ![FiletypePsdIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-psd)
+FiletypePsdIcon ![FiletypePsdIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-psd)
 
-FiletypePyIcon ![FiletypePyIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-py)
+FiletypePyIcon ![FiletypePyIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-py)
 
-FiletypeRawIcon ![FiletypeRawIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-raw)
+FiletypeRawIcon ![FiletypeRawIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-raw)
 
-FiletypeRbIcon ![FiletypeRbIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-rb)
+FiletypeRbIcon ![FiletypeRbIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-rb)
 
-FiletypeSassIcon ![FiletypeSassIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-sass)
+FiletypeSassIcon ![FiletypeSassIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-sass)
 
-FiletypeScssIcon ![FiletypeScssIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-scss)
+FiletypeScssIcon ![FiletypeScssIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-scss)
 
-FiletypeShIcon ![FiletypeShIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-sh)
+FiletypeShIcon ![FiletypeShIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-sh)
 
-FiletypeSvgIcon ![FiletypeSvgIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-svg)
+FiletypeSvgIcon ![FiletypeSvgIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-svg)
 
-FiletypeTiffIcon ![FiletypeTiffIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-tiff)
+FiletypeTiffIcon ![FiletypeTiffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-tiff)
 
-FiletypeTsxIcon ![FiletypeTsxIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-tsx)
+FiletypeTsxIcon ![FiletypeTsxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-tsx)
 
-FiletypeTtfIcon ![FiletypeTtfIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-ttf)
+FiletypeTtfIcon ![FiletypeTtfIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ttf)
 
-FiletypeTxtIcon ![FiletypeTxtIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-txt)
+FiletypeTxtIcon ![FiletypeTxtIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-txt)
 
-FiletypeWavIcon ![FiletypeWavIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-wav)
+FiletypeWavIcon ![FiletypeWavIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-wav)
 
-FiletypeWoffIcon ![FiletypeWoffIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-woff)
+FiletypeWoffIcon ![FiletypeWoffIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-woff)
 
-FiletypeXls1Icon ![FiletypeXls1Icon](images/bootstrap-icons/bootstrap-icons.svg#filetype-xls-1)
+FiletypeXls1Icon ![FiletypeXls1Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xls-1)
 
-FiletypeXlsIcon ![FiletypeXlsIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-xls)
+FiletypeXlsIcon ![FiletypeXlsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xls)
 
-FiletypeXmlIcon ![FiletypeXmlIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-xml)
+FiletypeXmlIcon ![FiletypeXmlIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xml)
 
-FiletypeYmlIcon ![FiletypeYmlIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-yml)
+FiletypeYmlIcon ![FiletypeYmlIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-yml)
 
-HeartArrowIcon ![HeartArrowIcon](images/bootstrap-icons/bootstrap-icons.svg#heart-arrow)
+HeartArrowIcon ![HeartArrowIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-arrow)
 
-HeartPulseFillIcon ![HeartPulseFillIcon](images/bootstrap-icons/bootstrap-icons.svg#heart-pulse-fill)
+HeartPulseFillIcon ![HeartPulseFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-pulse-fill)
 
-HeartPulseIcon ![HeartPulseIcon](images/bootstrap-icons/bootstrap-icons.svg#heart-pulse)
+HeartPulseIcon ![HeartPulseIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-pulse)
 
-HeartbreakFillIcon ![HeartbreakFillIcon](images/bootstrap-icons/bootstrap-icons.svg#heartbreak-fill)
+HeartbreakFillIcon ![HeartbreakFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heartbreak-fill)
 
-HeartbreakIcon ![HeartbreakIcon](images/bootstrap-icons/bootstrap-icons.svg#heartbreak)
+HeartbreakIcon ![HeartbreakIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heartbreak)
 
-HeartsIcon ![HeartsIcon](images/bootstrap-icons/bootstrap-icons.svg#hearts)
+HeartsIcon ![HeartsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hearts)
 
-HospitalFillIcon ![HospitalFillIcon](images/bootstrap-icons/bootstrap-icons.svg#hospital-fill)
+HospitalFillIcon ![HospitalFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hospital-fill)
 
-HospitalIcon ![HospitalIcon](images/bootstrap-icons/bootstrap-icons.svg#hospital)
+HospitalIcon ![HospitalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hospital)
 
-HouseHeartFillIcon ![HouseHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#house-heart-fill)
+HouseHeartFillIcon ![HouseHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-heart-fill)
 
-HouseHeartIcon ![HouseHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#house-heart)
+HouseHeartIcon ![HouseHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-heart)
 
-IncognitoIcon ![IncognitoIcon](images/bootstrap-icons/bootstrap-icons.svg#incognito)
+IncognitoIcon ![IncognitoIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#incognito)
 
-MagnetFillIcon ![MagnetFillIcon](images/bootstrap-icons/bootstrap-icons.svg#magnet-fill)
+MagnetFillIcon ![MagnetFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magnet-fill)
 
-MagnetIcon ![MagnetIcon](images/bootstrap-icons/bootstrap-icons.svg#magnet)
+MagnetIcon ![MagnetIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magnet)
 
-PersonHeartIcon ![PersonHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#person-heart)
+PersonHeartIcon ![PersonHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-heart)
 
-PersonHeartsIcon ![PersonHeartsIcon](images/bootstrap-icons/bootstrap-icons.svg#person-hearts)
+PersonHeartsIcon ![PersonHeartsIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-hearts)
 
-PhoneFlipIcon ![PhoneFlipIcon](images/bootstrap-icons/bootstrap-icons.svg#phone-flip)
+PhoneFlipIcon ![PhoneFlipIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-flip)
 
-PluginIcon ![PluginIcon](images/bootstrap-icons/bootstrap-icons.svg#plugin)
+PluginIcon ![PluginIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plugin)
 
-PostageFillIcon ![PostageFillIcon](images/bootstrap-icons/bootstrap-icons.svg#postage-fill)
+PostageFillIcon ![PostageFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-fill)
 
-PostageHeartFillIcon ![PostageHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#postage-heart-fill)
+PostageHeartFillIcon ![PostageHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-heart-fill)
 
-PostageHeartIcon ![PostageHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#postage-heart)
+PostageHeartIcon ![PostageHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-heart)
 
-PostageIcon ![PostageIcon](images/bootstrap-icons/bootstrap-icons.svg#postage)
+PostageIcon ![PostageIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage)
 
-PostcardFillIcon ![PostcardFillIcon](images/bootstrap-icons/bootstrap-icons.svg#postcard-fill)
+PostcardFillIcon ![PostcardFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-fill)
 
-PostcardHeartFillIcon ![PostcardHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#postcard-heart-fill)
+PostcardHeartFillIcon ![PostcardHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-heart-fill)
 
-PostcardHeartIcon ![PostcardHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#postcard-heart)
+PostcardHeartIcon ![PostcardHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-heart)
 
-PostcardIcon ![PostcardIcon](images/bootstrap-icons/bootstrap-icons.svg#postcard)
+PostcardIcon ![PostcardIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard)
 
-SearchHeartFillIcon ![SearchHeartFillIcon](images/bootstrap-icons/bootstrap-icons.svg#search-heart-fill)
+SearchHeartFillIcon ![SearchHeartFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search-heart-fill)
 
-SearchHeartIcon ![SearchHeartIcon](images/bootstrap-icons/bootstrap-icons.svg#search-heart)
+SearchHeartIcon ![SearchHeartIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search-heart)
 
-Sliders2VerticalIcon ![Sliders2VerticalIcon](images/bootstrap-icons/bootstrap-icons.svg#sliders2-vertical)
+Sliders2VerticalIcon ![Sliders2VerticalIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders2-vertical)
 
-Sliders2Icon ![Sliders2Icon](images/bootstrap-icons/bootstrap-icons.svg#sliders2)
+Sliders2Icon ![Sliders2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders2)
 
-Trash3FillIcon ![Trash3FillIcon](images/bootstrap-icons/bootstrap-icons.svg#trash3-fill)
+Trash3FillIcon ![Trash3FillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash3-fill)
 
-Trash3Icon ![Trash3Icon](images/bootstrap-icons/bootstrap-icons.svg#trash3)
+Trash3Icon ![Trash3Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash3)
 
-ValentineIcon ![ValentineIcon](images/bootstrap-icons/bootstrap-icons.svg#valentine)
+ValentineIcon ![ValentineIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#valentine)
 
-Valentine2Icon ![Valentine2Icon](images/bootstrap-icons/bootstrap-icons.svg#valentine2)
+Valentine2Icon ![Valentine2Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#valentine2)
 
-WrenchAdjustableCircleFillIcon ![WrenchAdjustableCircleFillIcon](images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable-circle-fill)
+WrenchAdjustableCircleFillIcon ![WrenchAdjustableCircleFillIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable-circle-fill)
 
-WrenchAdjustableCircleIcon ![WrenchAdjustableCircleIcon](images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable-circle)
+WrenchAdjustableCircleIcon ![WrenchAdjustableCircleIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable-circle)
 
-WrenchAdjustableIcon ![WrenchAdjustableIcon](images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable)
+WrenchAdjustableIcon ![WrenchAdjustableIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable)
 
-FiletypeJsonIcon ![FiletypeJsonIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-json)
+FiletypeJsonIcon ![FiletypeJsonIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-json)
 
-FiletypePptxIcon ![FiletypePptxIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-pptx)
+FiletypePptxIcon ![FiletypePptxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-pptx)
 
-FiletypeXlsxIcon ![FiletypeXlsxIcon](images/bootstrap-icons/bootstrap-icons.svg#filetype-xlsx)
+FiletypeXlsxIcon ![FiletypeXlsxIcon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xlsx)
