@@ -44,6 +44,5 @@
     <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#<#=name.Value#>"></use>
 </svg>
 
-<#=name.Key#>Icon ![<#=name.Key#>Icon](wwwroot/images/bootstrap-icons/bootstrap-icons.svg#<#=name.Value#>)
 <#
 } #>
