@@ -1,10098 +1,10098 @@
 ﻿
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#123"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#123"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alarm-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alarm-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alarm"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alarm"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-bottom"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-bottom"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-center"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-center"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-end"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-end"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-middle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-middle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-start"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-start"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-top"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#align-top"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#app-indicator"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#app-indicator"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#app"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#app"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#archive-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#archive-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#archive"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#archive"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-bar-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-clockwise"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-clockwise"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-counterclockwise"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-counterclockwise"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-short"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-short"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-short"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-short"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-repeat"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-repeat"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-return-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-return-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-return-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-return-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-short"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-short"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-short"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-short"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-angle-contract"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-angle-contract"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-angle-expand"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-angle-expand"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-collapse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-collapse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-expand"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-expand"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-fullscreen"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-fullscreen"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-move"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrows-move"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#aspect-ratio-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#aspect-ratio-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#aspect-ratio"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#aspect-ratio"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#asterisk"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#asterisk"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#at"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#at"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#award-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#award-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#award"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#award"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#back"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#back"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-reverse-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-reverse-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-reverse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace-reverse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#backspace"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-3d-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-3d-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-3d"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-3d"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-4k-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-4k-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-4k"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-4k"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-8k-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-8k-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-8k"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-8k"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ad-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ad-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ad"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ad"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ar-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ar-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ar"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-ar"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-cc-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-cc-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-cc"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-cc"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-hd-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-hd-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-hd"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-hd"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-tm-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-tm-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-tm"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-tm"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vo-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vo-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vo"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vo"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vr-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vr-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vr"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-vr"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-wc-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-wc-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-wc"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-wc"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-dash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-dash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-line-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-line-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-line"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-line"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-steps"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart-steps"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bar-chart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket3-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket3-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#basket3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-charging"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-charging"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-full"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-full"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#battery"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bezier"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bezier"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bezier2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bezier2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bicycle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bicycle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#binoculars-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#binoculars-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#binoculars"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#binoculars"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#blockquote-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#blockquote-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#blockquote-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#blockquote-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#book"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-dash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-dash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-star-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-star-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-star"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-star"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmark"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmarks-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmarks-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmarks"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookmarks"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookshelf"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bookshelf"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap-reboot"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap-reboot"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bootstrap"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-all"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-all"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-bottom"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-bottom"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-center"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-center"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-inner"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-inner"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-middle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-middle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-outer"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-outer"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-style"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-style"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-top"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-top"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-width"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border-width"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#border"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bounding-box-circles"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bounding-box-circles"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bounding-box"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bounding-box"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-arrow-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-seam"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box-seam"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#braces"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#braces"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bricks"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bricks"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#briefcase-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#briefcase-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#briefcase"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#briefcase"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-high-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-high-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-high"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-high"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-low-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-low-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-low"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brightness-low"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#broadcast-pin"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#broadcast-pin"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#broadcast"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#broadcast"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brush-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brush-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brush"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#brush"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bucket-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bucket-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bucket"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bucket"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bug-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bug-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bug"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bug"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#building"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#building"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bullseye"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bullseye"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calculator-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calculator-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calculator"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calculator"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-date-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-date-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-date"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-date"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-day-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-day-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-day"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-day"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-event-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-event-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-event"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-event"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-month-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-month-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-month"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-month"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-range-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-range-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-range"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-range"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-week-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-week-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-week"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-week"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-date-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-date-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-date"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-date"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-day-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-day-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-day"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-day"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-event-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-event-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-event"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-event"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-month-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-month-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-month"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-month"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-range-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-range-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-range"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-range"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-week-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-week-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-week"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-week"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-event-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-event-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-event"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-event"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-range-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-range-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-range"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-range"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-week-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-week-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-week"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3-week"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-event"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-event"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-range"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-range"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-week"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4-week"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar4"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-reels-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-reels-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-reels"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-reels"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-off-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-off-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-off"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video-off"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera-video"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#camera2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#capslock-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#capslock-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#capslock"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#capslock"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-checklist"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-checklist"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-heading"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-heading"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-image"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-image"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-list"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-list"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#card-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#caret-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-dash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-dash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart4"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cart4"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash-stack"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash-stack"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cast"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cast"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-dots-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-dots-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-dots"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-dots"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-dots-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-dots-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-dots"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-dots"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-quote-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-quote-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-quote"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-quote"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-text-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-text-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-quote-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-quote-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-quote"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-quote"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-dots-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-dots-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-dots"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-dots"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-quote-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-quote-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-quote"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-quote"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-text-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-text-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-dots-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-dots-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-dots"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-dots"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-quote-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-quote-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-quote"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-quote"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-text-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-text-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-text-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-text-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-all"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-all"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-all"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-all"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-contract"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-contract"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-expand"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-expand"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-bar-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-compact-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-contract"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-contract"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-double-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-expand"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-expand"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chevron-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-data"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-data"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock-history"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock-history"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clock"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-download-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-download-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-download"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-download"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-drizzle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-drizzle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-drizzle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-drizzle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-fog2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-hail-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-hail-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-hail"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-hail"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-rain-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-rain-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-rain"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning-rain"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-lightning"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-moon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-moon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-moon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-moon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-heavy-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-heavy-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-heavy"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain-heavy"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-rain"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-slash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-slash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-slash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-slash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sleet-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sleet-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sleet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sleet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-snow-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-snow-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-snow"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-snow"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sun-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sun-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sun"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-sun"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-upload-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-upload-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-upload"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-upload"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clouds-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clouds-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clouds"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clouds"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloudy-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloudy-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloudy"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloudy"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code-slash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code-slash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#code"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-play-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-play-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-play"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection-play"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#collection"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#columns-gap"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#columns-gap"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#columns"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#columns"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#command"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#command"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#compass-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#compass-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#compass"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#compass"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cone-striped"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cone-striped"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cone"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cone"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#controller"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#controller"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cpu-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cpu-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cpu"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cpu"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#credit-card"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#crop"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#crop"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup-straw"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup-straw"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cup"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cursor"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle-dotted"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle-dotted"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square-dotted"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square-dotted"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-3-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-3-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diagram-3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#diamond"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-1-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-1-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-3-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-3-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-4-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-4-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-4"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-4"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-5-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-5-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-5"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-5"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-6-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-6-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-6"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dice-6"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#disc-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#disc-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#disc"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#disc"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#discord"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#discord"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#display-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#display-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#display"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#display"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#distribute-horizontal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#distribute-horizontal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#distribute-vertical"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#distribute-vertical"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-closed-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-closed-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-closed"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-closed"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-open-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-open-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-open"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#door-open"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dot"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dot"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#download"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#download"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#droplet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#earbuds"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#earbuds"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg-fried"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg-fried"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#egg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eject-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eject-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eject"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eject"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-angry-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-angry-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-angry"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-angry"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-frown-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-frown-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-frown"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-frown"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-heart-eyes-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-heart-eyes-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-heart-eyes"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-heart-eyes"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-laughing-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-laughing-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-laughing"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-laughing"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-neutral-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-neutral-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-neutral"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-neutral"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-smile"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-wink-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-wink-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-wink"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-wink"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eraser-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eraser-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eraser"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eraser"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclude"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclude"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-slash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-slash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-slash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye-slash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eye"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eyedropper"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eyedropper"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eyeglasses"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#eyeglasses"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#facebook"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#facebook"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-down-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-down-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-up-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-up-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-arrow-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-bar-graph-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-bar-graph-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-bar-graph"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-bar-graph"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-binary-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-binary-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-binary"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-binary"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-break-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-break-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-break"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-break"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-code-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-code-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-code"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-code"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-diff-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-diff-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-diff"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-diff"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-bar-graph-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-bar-graph-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-bar-graph"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-bar-graph"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-break-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-break-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-break"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-break"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-code-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-code-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-code"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-code"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-easel-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-easel-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-easel"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-easel"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-excel-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-excel-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-excel"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-excel"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-font-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-font-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-font"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-font"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-image-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-image-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-image"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-image"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-lock2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-music-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-music-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-music"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-music"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-person-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-person-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-person"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-person"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-play-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-play-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-play"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-play"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-post-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-post-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-post"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-post"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ppt-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ppt-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ppt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ppt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-richtext-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-richtext-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-richtext"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-richtext"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-slides-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-slides-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-slides"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-slides"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-text-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-text-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-word-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-word-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-word"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-word"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-easel-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-easel-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-easel"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-easel"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-excel-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-excel-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-excel"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-excel"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-font-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-font-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-font"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-font"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-image-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-image-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-image"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-image"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-lock2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-medical-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-medical-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-medical"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-medical"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-music-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-music-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-music"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-music"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-person-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-person-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-person"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-person"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-play-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-play-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-play"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-play"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-post-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-post-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-post"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-post"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ppt-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ppt-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ppt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ppt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-richtext-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-richtext-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-richtext"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-richtext"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ruled-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ruled-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ruled"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-ruled"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-slides-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-slides-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-slides"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-slides"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-text-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-text-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-word-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-word-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-word"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-word"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-zip-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-zip-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-zip"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-zip"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#files-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#files-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#files"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#files"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#film"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#film"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filter"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flag-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flag-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flag"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flag"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#flower3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-symlink-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-symlink-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-symlink"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-symlink"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder2-open"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder2-open"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#folder2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fonts"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fonts"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#forward-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#forward-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#forward"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#forward"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#front"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#front"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fullscreen-exit"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fullscreen-exit"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fullscreen"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fullscreen"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#funnel-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#funnel-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#funnel"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#funnel"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-wide-connected"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-wide-connected"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-wide"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear-wide"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gear"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gem"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gem"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-alt-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-alt-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#geo"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gift-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gift-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gift"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gift"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#github"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#github"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#globe"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#globe"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#globe2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#globe2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#google"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#google"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-1x2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-1x2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-1x2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-1x2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-3x3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grid"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grip-horizontal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grip-horizontal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grip-vertical"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#grip-vertical"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hammer"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hammer"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-index"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#handbag-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#handbag-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#handbag"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#handbag"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-network-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-network-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-network"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-network"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-rack-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-rack-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-rack"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-rack"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-stack-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-stack-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-stack"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd-stack"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdd"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headphones"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headphones"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headset"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headset"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heptagon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hexagon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-bottom"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-bottom"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-split"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-split"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-top"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass-top"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hourglass"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-door-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-door-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-door"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-door"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hr"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hr"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hurricane"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hurricane"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#image"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#images"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#images"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inbox-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inbox-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inbox"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inbox"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inboxes-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inboxes-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inboxes"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#inboxes"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#input-cursor-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#input-cursor-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#input-cursor"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#input-cursor"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#instagram"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#instagram"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#intersect"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#intersect"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-album"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-album"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-arrow-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-arrow-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-arrow-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-arrow-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-bookmark-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-bookmark-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-bookmark"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-bookmark"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-code"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-code"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-medical"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-medical"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-richtext"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-richtext"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journals"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#journals"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#joystick"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#joystick"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#justify"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#kanban-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#kanban-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#kanban"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#kanban"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#key-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#key-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#key"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#key"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#keyboard-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#keyboard-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#keyboard"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#keyboard"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ladder"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ladder"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lamp-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lamp-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lamp"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lamp"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#laptop-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#laptop-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#laptop"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#laptop"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layer-backward"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layer-backward"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layer-forward"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layer-forward"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layers"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset-reverse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset-reverse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-reverse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-reverse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-sidebar"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-split"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-split"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar-reverse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar-reverse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-window-reverse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-window-reverse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-window"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-text-window"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-three-columns"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-three-columns"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-wtf"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#layout-wtf"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#life-preserver"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#life-preserver"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-off-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-off-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-off"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb-off"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightbulb"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-charge-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-charge-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-charge"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-charge"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lightning"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#link-45deg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#link-45deg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#link"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#link"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#linkedin"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#linkedin"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-nested"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-nested"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-ol"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-ol"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-stars"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-stars"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-task"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-task"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-ul"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-ul"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lock-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lock-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lock"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#lock"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mailbox"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mailbox"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mailbox2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mailbox2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#map-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#map-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#map"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#map"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#markdown-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#markdown-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#markdown"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#markdown"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mask"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mask"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#megaphone-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#megaphone-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#megaphone"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#megaphone"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-app-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-app-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-app"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-app"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-wide-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-wide-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-wide"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button-wide"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-button"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#menu-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-mute-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-mute-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-mute"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic-mute"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mic"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#minecart-loaded"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#minecart-loaded"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#minecart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#minecart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moisture"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moisture"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-stars-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-stars-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-stars"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon-stars"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#moon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse3-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse3-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mouse3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note-beamed"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note-beamed"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note-list"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note-list"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-note"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-player-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-player-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-player"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#music-player"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#newspaper"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#newspaper"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#node-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nut-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nut-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nut"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nut"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#octagon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#option"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#option"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#outlet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#outlet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paint-bucket"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paint-bucket"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#palette2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paperclip"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paperclip"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paragraph"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paragraph"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-exclamation-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-exclamation-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-exclamation"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-exclamation"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-question-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-question-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-question"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#patch-question"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-btn-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-btn-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-btn"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-btn"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pause"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#peace-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#peace-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#peace"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#peace"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pen-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pen-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pen"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pen"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pencil"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pentagon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#people-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#people-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#people"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#people"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#percent"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#percent"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-badge-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-badge-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-badge"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-badge"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-bounding-box"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-bounding-box"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-dash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-dash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-lines-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-lines-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-landscape-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-landscape-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-landscape"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-landscape"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-vibrate-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-vibrate-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-vibrate"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-vibrate"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pie-chart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pie-chart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pie-chart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pie-chart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-angle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-angle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-angle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-angle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pip-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pip-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pip"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pip"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-btn-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-btn-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-btn"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-btn"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#play"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plug-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plug-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plug"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plug"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle-dotted"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle-dotted"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square-dotted"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square-dotted"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#power"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#power"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#printer-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#printer-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#printer"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#printer"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#puzzle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#puzzle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#puzzle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#puzzle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-diamond-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-diamond-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-diamond"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-diamond"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-octagon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-octagon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-octagon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-octagon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rainbow"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rainbow"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#receipt-cutoff"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#receipt-cutoff"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#receipt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#receipt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-0"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-0"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-4"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reception-4"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-btn-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-btn-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-btn"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-btn"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#record2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-all-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-all-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-all"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-all"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reply"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rss-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rss-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rss"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rss"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rulers"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#rulers"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#save2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#scissors"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#scissors"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#screwdriver"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#screwdriver"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#segmented-nav"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#segmented-nav"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#server"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#server"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#share-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#share-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#share"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#share"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-exclamation"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-exclamation"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-exclamation"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-exclamation"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-lock-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-lock-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-lock"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-lock"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-shaded"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-shaded"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-slash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-slash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-slash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-slash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shield"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shift-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shift-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shift"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shift"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shop-window"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shop-window"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shop"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shop"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shuffle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#shuffle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-split-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-split-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-split"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost-split"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signpost"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sim-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sim-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sim"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sim"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-btn-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-btn-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-btn"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-btn"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-backward"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-btn-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-btn-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-btn"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-btn"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-end"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-btn-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-btn-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-btn"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-btn"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-forward"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-btn-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-btn-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-btn"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-btn"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skip-start"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slack"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slack"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#smartwatch"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#smartwatch"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snow3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-down-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-down-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-up-alt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-up-alt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sort-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#soundwave"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#soundwave"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speaker-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speaker-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speaker"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speaker"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speedometer"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speedometer"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speedometer2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#speedometer2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#spellcheck"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#spellcheck"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stack"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stack"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#star"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stars"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stars"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stickies-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stickies-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stickies"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stickies"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sticky-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sticky-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sticky"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sticky"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-btn-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-btn-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-btn"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-btn"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stop"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stoplights-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stoplights-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stoplights"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stoplights"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stopwatch-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stopwatch-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stopwatch"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stopwatch"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#subtract"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#subtract"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-club-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-club-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-club"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-club"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-diamond-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-diamond-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-diamond"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-diamond"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-spade-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-spade-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-spade"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#suit-spade"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sun-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sun-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sun"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sun"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunglasses"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunglasses"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunrise-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunrise-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunrise"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunrise"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunset-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunset-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunset"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sunset"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#symmetry-horizontal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#symmetry-horizontal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#symmetry-vertical"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#symmetry-vertical"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#table"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#table"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-landscape-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-landscape-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-landscape"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet-landscape"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tablet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tag-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tag-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tag"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tag"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tags-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tags-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tags"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tags"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telegram"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telegram"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-forward-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-forward-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-forward"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-forward"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-inbound-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-inbound-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-inbound"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-inbound"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-outbound-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-outbound-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-outbound"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-outbound"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#telephone"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-center"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-center"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-indent-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-indent-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-indent-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-indent-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-left"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-left"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-paragraph"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-paragraph"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-right"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#text-right"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea-resize"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea-resize"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea-t"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea-t"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#textarea"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-high"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-high"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-low"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-low"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-snow"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-snow"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-sun"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer-sun"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thermometer"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#three-dots-vertical"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#three-dots-vertical"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#three-dots"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#three-dots"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle-off"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle-off"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle-on"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle-on"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle2-off"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle2-off"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle2-on"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggle2-on"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggles"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggles"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggles2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#toggles2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tools"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tools"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tornado"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tornado"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tree-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tree-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tree"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tree"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle-half"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle-half"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#triangle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trophy-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trophy-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trophy"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trophy"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tropical-storm"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tropical-storm"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#truck-flatbed"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#truck-flatbed"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#truck"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#truck"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tsunami"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tsunami"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tv-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tv-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tv"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tv"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#twitch"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#twitch"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#twitter"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#twitter"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-bold"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-bold"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-h3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-italic"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-italic"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-strikethrough"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-strikethrough"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-underline"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type-underline"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#type"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-checks-grid"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-checks-grid"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-checks"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-checks"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-radios-grid"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-radios-grid"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-radios"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ui-radios"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#umbrella-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#umbrella-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#umbrella"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#umbrella"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#union"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#union"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#unlock-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#unlock-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#unlock"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#unlock"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upc-scan"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upc-scan"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upc"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upc"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upload"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#upload"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vector-pen"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vector-pen"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#view-list"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#view-list"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#view-stacked"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#view-stacked"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vinyl-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vinyl-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vinyl"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vinyl"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#voicemail"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#voicemail"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-down-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-down-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-down"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-down"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-mute-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-mute-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-mute"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-mute"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-off-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-off-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-off"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-off"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-up-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-up-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-up"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#volume-up"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vr"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vr"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wallet2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#watch"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#watch"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#water"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#water"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#whatsapp"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#whatsapp"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-off"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi-off"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wifi"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wind"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wind"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-dock"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-dock"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-sidebar"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-sidebar"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-diamond-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-diamond-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-diamond"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-diamond"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-octagon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-octagon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-octagon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-octagon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-square-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-square-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-square"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-square"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#youtube"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#youtube"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#zoom-in"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#zoom-in"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#zoom-out"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#zoom-out"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bank"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bank"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bank2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bank2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-slash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-slash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-slash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bell-slash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash-coin"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cash-coin"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-lg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#check-lg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#coin"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#coin"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-bitcoin"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-bitcoin"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-dollar"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-dollar"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-euro"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-euro"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-exchange"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-exchange"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-pound"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-pound"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-yen"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#currency-yen"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-lg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dash-lg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-lg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#exclamation-lg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-pdf-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-pdf-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-pdf"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-earmark-pdf"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-pdf-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-pdf-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-pdf"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#file-pdf"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-ambiguous"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-ambiguous"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-female"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-female"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-male"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-male"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-trans"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gender-trans"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headset-vr"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#headset-vr"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-lg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#info-lg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mastodon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mastodon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#messenger"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#messenger"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#piggy-bank-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#piggy-bank-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#piggy-bank"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#piggy-bank"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-map-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-map-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-map"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pin-map"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-lg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-lg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-lg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#question-lg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#recycle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#recycle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reddit"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#reddit"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sd-card-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sd-card-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sd-card"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sd-card"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skype"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#skype"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-lg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#slash-lg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#translate"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#translate"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-lg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#x-lg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#safe"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#apple"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#apple"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#microsoft"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#microsoft"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#windows"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#windows"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#behance"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#behance"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dribbble"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dribbble"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#line"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#line"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#medium"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#medium"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paypal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#paypal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pinterest"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pinterest"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#signal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snapchat"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#snapchat"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#spotify"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#spotify"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stack-overflow"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#stack-overflow"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#strava"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#strava"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wordpress"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wordpress"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vimeo"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#vimeo"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#activity"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#activity"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel3-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel3-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#easel3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fan"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fan"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fingerprint"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#fingerprint"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-down-arrow"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-down-arrow"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-up-arrow"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#graph-up-arrow"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hypnotize"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hypnotize"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magic"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magic"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-rolodex"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-rolodex"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-video3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-workspace"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-workspace"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#radioactive"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#radioactive"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#webcam-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#webcam-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#webcam"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#webcam"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#yin-yang"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#yin-yang"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bandaid-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bandaid-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bandaid"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bandaid"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bluetooth"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bluetooth"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#body-text"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#body-text"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boombox"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boombox"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boxes"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boxes"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dpad-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dpad-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dpad"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#dpad"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ear-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ear-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ear"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ear"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-exclamation"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-slash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#explicit-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#explicit-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#explicit"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#explicit"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#git"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#git"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#infinity"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#infinity"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-columns-reverse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-columns-reverse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-columns"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#list-columns"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#meta"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#meta"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortorboard-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortorboard-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortorboard"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortorboard"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nintendo-switch"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#nintendo-switch"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-display-horizontal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-display-horizontal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-display"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-display"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-horizontal"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc-horizontal"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pc"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#playstation"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#playstation"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-slash-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plus-slash-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#projector-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#projector-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#projector"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#projector"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#qr-code-scan"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#qr-code-scan"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#qr-code"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#qr-code"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#quora"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#quora"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#quote"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#quote"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#robot"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#robot"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-dash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-dash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-exclamation"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-slash-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-slash-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-slash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-slash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#send"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#steam"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#steam"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-dash-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-dash-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-split"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-split"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-detailed-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-detailed-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-detailed"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-detailed"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-perforated-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-perforated-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-perforated"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket-perforated"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ticket"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tiktok"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#tiktok"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-dash"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-dash"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-desktop"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-desktop"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-fullscreen"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-fullscreen"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-split"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-split"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-stack"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-stack"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#window-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#xbox"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#xbox"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ethernet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ethernet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdmi-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdmi-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdmi"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hdmi"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-c-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-c-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-c"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-c"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-plug-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-plug-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-plug"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-plug"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-symbol"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-symbol"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boombox-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#boombox-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gpu-card"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#gpu-card"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#memory"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#memory"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#modem-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#modem-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#modem"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#modem"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#motherboard-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#motherboard-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#motherboard"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#motherboard"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#optical-audio-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#optical-audio-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#optical-audio"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#optical-audio"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pci-card"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#pci-card"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#router-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#router-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#router"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#router"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ssd-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ssd-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ssd"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#ssd"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thunderbolt-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thunderbolt-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thunderbolt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#thunderbolt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-drive-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-drive-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-drive"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-drive"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-micro-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-micro-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-micro"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-micro"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-mini-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-mini-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-mini"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#usb-mini"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#cloud-haze2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-hdd-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-hdd-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-hdd"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-hdd"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-ssd-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-ssd-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-ssd"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#device-ssd"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#displayport-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortarboard-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortarboard-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortarboard"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#mortarboard"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#terminal-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-through-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-through-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-through-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#arrow-through-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-sd-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-sd-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-sd"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#badge-sd"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#bag-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#balloon"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#box2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#braces-asterisk"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#braces-asterisk"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#calendar2-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-left-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-right-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#chat-square-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-data-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-data-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-pulse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-pulse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-check-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-check-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-check"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-check"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-data-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-data-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-data"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-data"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-minus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-minus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-minus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-minus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-plus-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-plus-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-plus"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-plus"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-pulse-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-pulse-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-pulse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-pulse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-x-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-x-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-x"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2-x"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#clipboard2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-kiss-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-kiss-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-kiss"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#emoji-kiss"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-open-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#envelope-paper"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-aac"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-aac"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ai"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ai"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-bmp"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-bmp"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-cs"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-cs"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-css"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-css"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-csv"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-csv"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-doc"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-doc"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-docx"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-docx"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-exe"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-exe"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-gif"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-gif"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-heic"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-heic"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-html"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-html"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-java"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-java"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-jpg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-jpg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-js"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-js"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-jsx"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-jsx"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-key"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-key"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-m4p"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-m4p"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-md"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-md"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mdx"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mdx"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mov"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mov"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mp3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mp3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mp4"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-mp4"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-otf"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-otf"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-pdf"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-pdf"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-php"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-php"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-png"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-png"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ppt-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ppt-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ppt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ppt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-psd"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-psd"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-py"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-py"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-raw"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-raw"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-rb"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-rb"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-sass"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-sass"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-scss"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-scss"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-sh"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-sh"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-svg"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-svg"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-tiff"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-tiff"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-tsx"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-tsx"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ttf"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-ttf"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-txt"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-txt"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-wav"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-wav"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-woff"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-woff"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xls-1"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xls-1"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xls"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xls"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xml"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xml"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-yml"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-yml"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-arrow"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-arrow"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-pulse-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-pulse-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-pulse"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heart-pulse"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heartbreak-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heartbreak-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heartbreak"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#heartbreak"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hearts"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hearts"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hospital-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hospital-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hospital"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#hospital"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#house-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#incognito"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#incognito"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magnet-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magnet-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magnet"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#magnet"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-hearts"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#person-hearts"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-flip"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#phone-flip"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plugin"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#plugin"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postage"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#postcard"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search-heart-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search-heart-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search-heart"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#search-heart"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders2-vertical"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders2-vertical"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#sliders2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash3-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash3-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash3"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#trash3"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#valentine"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#valentine"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#valentine2"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#valentine2"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable-circle-fill"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable-circle-fill"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable-circle"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable-circle"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#wrench-adjustable"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-json"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-json"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-pptx"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-pptx"></use>
 </svg>
 
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xlsx"></use>
+    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#filetype-xlsx"></use>
 </svg>
 
