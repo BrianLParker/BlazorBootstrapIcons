@@ -39,7 +39,7 @@
     #>
 <# foreach(var name in namePairDictionary) { #>
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#<#=name.Value#>"></use>
+    <use href="wwwroot/images/bootstrap-icons/bootstrap-icons.svg#<#=name.Value#>"></use>
 </svg>
 <#
 } #>
