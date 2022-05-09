@@ -27,6 +27,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="README.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>README.md</LastGenOutput>
+    </None>
+    <None Update="README.md">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>README.tt</DependentUpon>
+    </None>
     <None Update="Views\Components\IconComponentGenerator.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>IconComponentGenerator.cs</LastGenOutput>
