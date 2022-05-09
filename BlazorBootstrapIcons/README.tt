@@ -42,6 +42,6 @@
 |ComponentName|Bootstrap Icon Name|
 ---|---|
 <# foreach(var name in namePairDictionary) {#>
-|<#=name.Key#>|<#=name.Value#>|
+|`<<#=name.Key#>Icon />`|<#=name.Value#>|
 <#
 }#>

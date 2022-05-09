@@ -2,1686 +2,1686 @@
 
 |ComponentName|Bootstrap Icon Name|
 ---|---|
-|OneTwoThree|123|
-|AlarmFill|alarm-fill|
-|Alarm|alarm|
-|AlignBottom|align-bottom|
-|AlignCenter|align-center|
-|AlignEnd|align-end|
-|AlignMiddle|align-middle|
-|AlignStart|align-start|
-|AlignTop|align-top|
-|Alt|alt|
-|AppIndicator|app-indicator|
-|App|app|
-|ArchiveFill|archive-fill|
-|Archive|archive|
-|Arrow90degDown|arrow-90deg-down|
-|Arrow90degLeft|arrow-90deg-left|
-|Arrow90degRight|arrow-90deg-right|
-|Arrow90degUp|arrow-90deg-up|
-|ArrowBarDown|arrow-bar-down|
-|ArrowBarLeft|arrow-bar-left|
-|ArrowBarRight|arrow-bar-right|
-|ArrowBarUp|arrow-bar-up|
-|ArrowClockwise|arrow-clockwise|
-|ArrowCounterclockwise|arrow-counterclockwise|
-|ArrowDownCircleFill|arrow-down-circle-fill|
-|ArrowDownCircle|arrow-down-circle|
-|ArrowDownLeftCircleFill|arrow-down-left-circle-fill|
-|ArrowDownLeftCircle|arrow-down-left-circle|
-|ArrowDownLeftSquareFill|arrow-down-left-square-fill|
-|ArrowDownLeftSquare|arrow-down-left-square|
-|ArrowDownLeft|arrow-down-left|
-|ArrowDownRightCircleFill|arrow-down-right-circle-fill|
-|ArrowDownRightCircle|arrow-down-right-circle|
-|ArrowDownRightSquareFill|arrow-down-right-square-fill|
-|ArrowDownRightSquare|arrow-down-right-square|
-|ArrowDownRight|arrow-down-right|
-|ArrowDownShort|arrow-down-short|
-|ArrowDownSquareFill|arrow-down-square-fill|
-|ArrowDownSquare|arrow-down-square|
-|ArrowDownUp|arrow-down-up|
-|ArrowDown|arrow-down|
-|ArrowLeftCircleFill|arrow-left-circle-fill|
-|ArrowLeftCircle|arrow-left-circle|
-|ArrowLeftRight|arrow-left-right|
-|ArrowLeftShort|arrow-left-short|
-|ArrowLeftSquareFill|arrow-left-square-fill|
-|ArrowLeftSquare|arrow-left-square|
-|ArrowLeft|arrow-left|
-|ArrowRepeat|arrow-repeat|
-|ArrowReturnLeft|arrow-return-left|
-|ArrowReturnRight|arrow-return-right|
-|ArrowRightCircleFill|arrow-right-circle-fill|
-|ArrowRightCircle|arrow-right-circle|
-|ArrowRightShort|arrow-right-short|
-|ArrowRightSquareFill|arrow-right-square-fill|
-|ArrowRightSquare|arrow-right-square|
-|ArrowRight|arrow-right|
-|ArrowUpCircleFill|arrow-up-circle-fill|
-|ArrowUpCircle|arrow-up-circle|
-|ArrowUpLeftCircleFill|arrow-up-left-circle-fill|
-|ArrowUpLeftCircle|arrow-up-left-circle|
-|ArrowUpLeftSquareFill|arrow-up-left-square-fill|
-|ArrowUpLeftSquare|arrow-up-left-square|
-|ArrowUpLeft|arrow-up-left|
-|ArrowUpRightCircleFill|arrow-up-right-circle-fill|
-|ArrowUpRightCircle|arrow-up-right-circle|
-|ArrowUpRightSquareFill|arrow-up-right-square-fill|
-|ArrowUpRightSquare|arrow-up-right-square|
-|ArrowUpRight|arrow-up-right|
-|ArrowUpShort|arrow-up-short|
-|ArrowUpSquareFill|arrow-up-square-fill|
-|ArrowUpSquare|arrow-up-square|
-|ArrowUp|arrow-up|
-|ArrowsAngleContract|arrows-angle-contract|
-|ArrowsAngleExpand|arrows-angle-expand|
-|ArrowsCollapse|arrows-collapse|
-|ArrowsExpand|arrows-expand|
-|ArrowsFullscreen|arrows-fullscreen|
-|ArrowsMove|arrows-move|
-|AspectRatioFill|aspect-ratio-fill|
-|AspectRatio|aspect-ratio|
-|Asterisk|asterisk|
-|At|at|
-|AwardFill|award-fill|
-|Award|award|
-|Back|back|
-|BackspaceFill|backspace-fill|
-|BackspaceReverseFill|backspace-reverse-fill|
-|BackspaceReverse|backspace-reverse|
-|Backspace|backspace|
-|Badge3dFill|badge-3d-fill|
-|Badge3d|badge-3d|
-|Badge4kFill|badge-4k-fill|
-|Badge4k|badge-4k|
-|Badge8kFill|badge-8k-fill|
-|Badge8k|badge-8k|
-|BadgeAdFill|badge-ad-fill|
-|BadgeAd|badge-ad|
-|BadgeArFill|badge-ar-fill|
-|BadgeAr|badge-ar|
-|BadgeCcFill|badge-cc-fill|
-|BadgeCc|badge-cc|
-|BadgeHdFill|badge-hd-fill|
-|BadgeHd|badge-hd|
-|BadgeTmFill|badge-tm-fill|
-|BadgeTm|badge-tm|
-|BadgeVoFill|badge-vo-fill|
-|BadgeVo|badge-vo|
-|BadgeVrFill|badge-vr-fill|
-|BadgeVr|badge-vr|
-|BadgeWcFill|badge-wc-fill|
-|BadgeWc|badge-wc|
-|BagCheckFill|bag-check-fill|
-|BagCheck|bag-check|
-|BagDashFill|bag-dash-fill|
-|BagDash|bag-dash|
-|BagFill|bag-fill|
-|BagPlusFill|bag-plus-fill|
-|BagPlus|bag-plus|
-|BagXFill|bag-x-fill|
-|BagX|bag-x|
-|Bag|bag|
-|BarChartFill|bar-chart-fill|
-|BarChartLineFill|bar-chart-line-fill|
-|BarChartLine|bar-chart-line|
-|BarChartSteps|bar-chart-steps|
-|BarChart|bar-chart|
-|BasketFill|basket-fill|
-|Basket|basket|
-|Basket2Fill|basket2-fill|
-|Basket2|basket2|
-|Basket3Fill|basket3-fill|
-|Basket3|basket3|
-|BatteryCharging|battery-charging|
-|BatteryFull|battery-full|
-|BatteryHalf|battery-half|
-|Battery|battery|
-|BellFill|bell-fill|
-|Bell|bell|
-|Bezier|bezier|
-|Bezier2|bezier2|
-|Bicycle|bicycle|
-|BinocularsFill|binoculars-fill|
-|Binoculars|binoculars|
-|BlockquoteLeft|blockquote-left|
-|BlockquoteRight|blockquote-right|
-|BookFill|book-fill|
-|BookHalf|book-half|
-|Book|book|
-|BookmarkCheckFill|bookmark-check-fill|
-|BookmarkCheck|bookmark-check|
-|BookmarkDashFill|bookmark-dash-fill|
-|BookmarkDash|bookmark-dash|
-|BookmarkFill|bookmark-fill|
-|BookmarkHeartFill|bookmark-heart-fill|
-|BookmarkHeart|bookmark-heart|
-|BookmarkPlusFill|bookmark-plus-fill|
-|BookmarkPlus|bookmark-plus|
-|BookmarkStarFill|bookmark-star-fill|
-|BookmarkStar|bookmark-star|
-|BookmarkXFill|bookmark-x-fill|
-|BookmarkX|bookmark-x|
-|Bookmark|bookmark|
-|BookmarksFill|bookmarks-fill|
-|Bookmarks|bookmarks|
-|Bookshelf|bookshelf|
-|BootstrapFill|bootstrap-fill|
-|BootstrapReboot|bootstrap-reboot|
-|Bootstrap|bootstrap|
-|BorderAll|border-all|
-|BorderBottom|border-bottom|
-|BorderCenter|border-center|
-|BorderInner|border-inner|
-|BorderLeft|border-left|
-|BorderMiddle|border-middle|
-|BorderOuter|border-outer|
-|BorderRight|border-right|
-|BorderStyle|border-style|
-|BorderTop|border-top|
-|BorderWidth|border-width|
-|Border|border|
-|BoundingBoxCircles|bounding-box-circles|
-|BoundingBox|bounding-box|
-|BoxArrowDownLeft|box-arrow-down-left|
-|BoxArrowDownRight|box-arrow-down-right|
-|BoxArrowDown|box-arrow-down|
-|BoxArrowInDownLeft|box-arrow-in-down-left|
-|BoxArrowInDownRight|box-arrow-in-down-right|
-|BoxArrowInDown|box-arrow-in-down|
-|BoxArrowInLeft|box-arrow-in-left|
-|BoxArrowInRight|box-arrow-in-right|
-|BoxArrowInUpLeft|box-arrow-in-up-left|
-|BoxArrowInUpRight|box-arrow-in-up-right|
-|BoxArrowInUp|box-arrow-in-up|
-|BoxArrowLeft|box-arrow-left|
-|BoxArrowRight|box-arrow-right|
-|BoxArrowUpLeft|box-arrow-up-left|
-|BoxArrowUpRight|box-arrow-up-right|
-|BoxArrowUp|box-arrow-up|
-|BoxSeam|box-seam|
-|Box|box|
-|Braces|braces|
-|Bricks|bricks|
-|BriefcaseFill|briefcase-fill|
-|Briefcase|briefcase|
-|BrightnessAltHighFill|brightness-alt-high-fill|
-|BrightnessAltHigh|brightness-alt-high|
-|BrightnessAltLowFill|brightness-alt-low-fill|
-|BrightnessAltLow|brightness-alt-low|
-|BrightnessHighFill|brightness-high-fill|
-|BrightnessHigh|brightness-high|
-|BrightnessLowFill|brightness-low-fill|
-|BrightnessLow|brightness-low|
-|BroadcastPin|broadcast-pin|
-|Broadcast|broadcast|
-|BrushFill|brush-fill|
-|Brush|brush|
-|BucketFill|bucket-fill|
-|Bucket|bucket|
-|BugFill|bug-fill|
-|Bug|bug|
-|Building|building|
-|Bullseye|bullseye|
-|CalculatorFill|calculator-fill|
-|Calculator|calculator|
-|CalendarCheckFill|calendar-check-fill|
-|CalendarCheck|calendar-check|
-|CalendarDateFill|calendar-date-fill|
-|CalendarDate|calendar-date|
-|CalendarDayFill|calendar-day-fill|
-|CalendarDay|calendar-day|
-|CalendarEventFill|calendar-event-fill|
-|CalendarEvent|calendar-event|
-|CalendarFill|calendar-fill|
-|CalendarMinusFill|calendar-minus-fill|
-|CalendarMinus|calendar-minus|
-|CalendarMonthFill|calendar-month-fill|
-|CalendarMonth|calendar-month|
-|CalendarPlusFill|calendar-plus-fill|
-|CalendarPlus|calendar-plus|
-|CalendarRangeFill|calendar-range-fill|
-|CalendarRange|calendar-range|
-|CalendarWeekFill|calendar-week-fill|
-|CalendarWeek|calendar-week|
-|CalendarXFill|calendar-x-fill|
-|CalendarX|calendar-x|
-|Calendar|calendar|
-|Calendar2CheckFill|calendar2-check-fill|
-|Calendar2Check|calendar2-check|
-|Calendar2DateFill|calendar2-date-fill|
-|Calendar2Date|calendar2-date|
-|Calendar2DayFill|calendar2-day-fill|
-|Calendar2Day|calendar2-day|
-|Calendar2EventFill|calendar2-event-fill|
-|Calendar2Event|calendar2-event|
-|Calendar2Fill|calendar2-fill|
-|Calendar2MinusFill|calendar2-minus-fill|
-|Calendar2Minus|calendar2-minus|
-|Calendar2MonthFill|calendar2-month-fill|
-|Calendar2Month|calendar2-month|
-|Calendar2PlusFill|calendar2-plus-fill|
-|Calendar2Plus|calendar2-plus|
-|Calendar2RangeFill|calendar2-range-fill|
-|Calendar2Range|calendar2-range|
-|Calendar2WeekFill|calendar2-week-fill|
-|Calendar2Week|calendar2-week|
-|Calendar2XFill|calendar2-x-fill|
-|Calendar2X|calendar2-x|
-|Calendar2|calendar2|
-|Calendar3EventFill|calendar3-event-fill|
-|Calendar3Event|calendar3-event|
-|Calendar3Fill|calendar3-fill|
-|Calendar3RangeFill|calendar3-range-fill|
-|Calendar3Range|calendar3-range|
-|Calendar3WeekFill|calendar3-week-fill|
-|Calendar3Week|calendar3-week|
-|Calendar3|calendar3|
-|Calendar4Event|calendar4-event|
-|Calendar4Range|calendar4-range|
-|Calendar4Week|calendar4-week|
-|Calendar4|calendar4|
-|CameraFill|camera-fill|
-|CameraReelsFill|camera-reels-fill|
-|CameraReels|camera-reels|
-|CameraVideoFill|camera-video-fill|
-|CameraVideoOffFill|camera-video-off-fill|
-|CameraVideoOff|camera-video-off|
-|CameraVideo|camera-video|
-|Camera|camera|
-|Camera2|camera2|
-|CapslockFill|capslock-fill|
-|Capslock|capslock|
-|CardChecklist|card-checklist|
-|CardHeading|card-heading|
-|CardImage|card-image|
-|CardList|card-list|
-|CardText|card-text|
-|CaretDownFill|caret-down-fill|
-|CaretDownSquareFill|caret-down-square-fill|
-|CaretDownSquare|caret-down-square|
-|CaretDown|caret-down|
-|CaretLeftFill|caret-left-fill|
-|CaretLeftSquareFill|caret-left-square-fill|
-|CaretLeftSquare|caret-left-square|
-|CaretLeft|caret-left|
-|CaretRightFill|caret-right-fill|
-|CaretRightSquareFill|caret-right-square-fill|
-|CaretRightSquare|caret-right-square|
-|CaretRight|caret-right|
-|CaretUpFill|caret-up-fill|
-|CaretUpSquareFill|caret-up-square-fill|
-|CaretUpSquare|caret-up-square|
-|CaretUp|caret-up|
-|CartCheckFill|cart-check-fill|
-|CartCheck|cart-check|
-|CartDashFill|cart-dash-fill|
-|CartDash|cart-dash|
-|CartFill|cart-fill|
-|CartPlusFill|cart-plus-fill|
-|CartPlus|cart-plus|
-|CartXFill|cart-x-fill|
-|CartX|cart-x|
-|Cart|cart|
-|Cart2|cart2|
-|Cart3|cart3|
-|Cart4|cart4|
-|CashStack|cash-stack|
-|Cash|cash|
-|Cast|cast|
-|ChatDotsFill|chat-dots-fill|
-|ChatDots|chat-dots|
-|ChatFill|chat-fill|
-|ChatLeftDotsFill|chat-left-dots-fill|
-|ChatLeftDots|chat-left-dots|
-|ChatLeftFill|chat-left-fill|
-|ChatLeftQuoteFill|chat-left-quote-fill|
-|ChatLeftQuote|chat-left-quote|
-|ChatLeftTextFill|chat-left-text-fill|
-|ChatLeftText|chat-left-text|
-|ChatLeft|chat-left|
-|ChatQuoteFill|chat-quote-fill|
-|ChatQuote|chat-quote|
-|ChatRightDotsFill|chat-right-dots-fill|
-|ChatRightDots|chat-right-dots|
-|ChatRightFill|chat-right-fill|
-|ChatRightQuoteFill|chat-right-quote-fill|
-|ChatRightQuote|chat-right-quote|
-|ChatRightTextFill|chat-right-text-fill|
-|ChatRightText|chat-right-text|
-|ChatRight|chat-right|
-|ChatSquareDotsFill|chat-square-dots-fill|
-|ChatSquareDots|chat-square-dots|
-|ChatSquareFill|chat-square-fill|
-|ChatSquareQuoteFill|chat-square-quote-fill|
-|ChatSquareQuote|chat-square-quote|
-|ChatSquareTextFill|chat-square-text-fill|
-|ChatSquareText|chat-square-text|
-|ChatSquare|chat-square|
-|ChatTextFill|chat-text-fill|
-|ChatText|chat-text|
-|Chat|chat|
-|CheckAll|check-all|
-|CheckCircleFill|check-circle-fill|
-|CheckCircle|check-circle|
-|CheckSquareFill|check-square-fill|
-|CheckSquare|check-square|
-|Check|check|
-|Check2All|check2-all|
-|Check2Circle|check2-circle|
-|Check2Square|check2-square|
-|Check2|check2|
-|ChevronBarContract|chevron-bar-contract|
-|ChevronBarDown|chevron-bar-down|
-|ChevronBarExpand|chevron-bar-expand|
-|ChevronBarLeft|chevron-bar-left|
-|ChevronBarRight|chevron-bar-right|
-|ChevronBarUp|chevron-bar-up|
-|ChevronCompactDown|chevron-compact-down|
-|ChevronCompactLeft|chevron-compact-left|
-|ChevronCompactRight|chevron-compact-right|
-|ChevronCompactUp|chevron-compact-up|
-|ChevronContract|chevron-contract|
-|ChevronDoubleDown|chevron-double-down|
-|ChevronDoubleLeft|chevron-double-left|
-|ChevronDoubleRight|chevron-double-right|
-|ChevronDoubleUp|chevron-double-up|
-|ChevronDown|chevron-down|
-|ChevronExpand|chevron-expand|
-|ChevronLeft|chevron-left|
-|ChevronRight|chevron-right|
-|ChevronUp|chevron-up|
-|CircleFill|circle-fill|
-|CircleHalf|circle-half|
-|CircleSquare|circle-square|
-|Circle|circle|
-|ClipboardCheck|clipboard-check|
-|ClipboardData|clipboard-data|
-|ClipboardMinus|clipboard-minus|
-|ClipboardPlus|clipboard-plus|
-|ClipboardX|clipboard-x|
-|Clipboard|clipboard|
-|ClockFill|clock-fill|
-|ClockHistory|clock-history|
-|Clock|clock|
-|CloudArrowDownFill|cloud-arrow-down-fill|
-|CloudArrowDown|cloud-arrow-down|
-|CloudArrowUpFill|cloud-arrow-up-fill|
-|CloudArrowUp|cloud-arrow-up|
-|CloudCheckFill|cloud-check-fill|
-|CloudCheck|cloud-check|
-|CloudDownloadFill|cloud-download-fill|
-|CloudDownload|cloud-download|
-|CloudDrizzleFill|cloud-drizzle-fill|
-|CloudDrizzle|cloud-drizzle|
-|CloudFill|cloud-fill|
-|CloudFogFill|cloud-fog-fill|
-|CloudFog|cloud-fog|
-|CloudFog2Fill|cloud-fog2-fill|
-|CloudFog2|cloud-fog2|
-|CloudHailFill|cloud-hail-fill|
-|CloudHail|cloud-hail|
-|CloudHaze1|cloud-haze-1|
-|CloudHazeFill|cloud-haze-fill|
-|CloudHaze|cloud-haze|
-|CloudHaze2Fill|cloud-haze2-fill|
-|CloudLightningFill|cloud-lightning-fill|
-|CloudLightningRainFill|cloud-lightning-rain-fill|
-|CloudLightningRain|cloud-lightning-rain|
-|CloudLightning|cloud-lightning|
-|CloudMinusFill|cloud-minus-fill|
-|CloudMinus|cloud-minus|
-|CloudMoonFill|cloud-moon-fill|
-|CloudMoon|cloud-moon|
-|CloudPlusFill|cloud-plus-fill|
-|CloudPlus|cloud-plus|
-|CloudRainFill|cloud-rain-fill|
-|CloudRainHeavyFill|cloud-rain-heavy-fill|
-|CloudRainHeavy|cloud-rain-heavy|
-|CloudRain|cloud-rain|
-|CloudSlashFill|cloud-slash-fill|
-|CloudSlash|cloud-slash|
-|CloudSleetFill|cloud-sleet-fill|
-|CloudSleet|cloud-sleet|
-|CloudSnowFill|cloud-snow-fill|
-|CloudSnow|cloud-snow|
-|CloudSunFill|cloud-sun-fill|
-|CloudSun|cloud-sun|
-|CloudUploadFill|cloud-upload-fill|
-|CloudUpload|cloud-upload|
-|Cloud|cloud|
-|CloudsFill|clouds-fill|
-|Clouds|clouds|
-|CloudyFill|cloudy-fill|
-|Cloudy|cloudy|
-|CodeSlash|code-slash|
-|CodeSquare|code-square|
-|Code|code|
-|CollectionFill|collection-fill|
-|CollectionPlayFill|collection-play-fill|
-|CollectionPlay|collection-play|
-|Collection|collection|
-|ColumnsGap|columns-gap|
-|Columns|columns|
-|Command|command|
-|CompassFill|compass-fill|
-|Compass|compass|
-|ConeStriped|cone-striped|
-|Cone|cone|
-|Controller|controller|
-|CpuFill|cpu-fill|
-|Cpu|cpu|
-|CreditCard2BackFill|credit-card-2-back-fill|
-|CreditCard2Back|credit-card-2-back|
-|CreditCard2FrontFill|credit-card-2-front-fill|
-|CreditCard2Front|credit-card-2-front|
-|CreditCardFill|credit-card-fill|
-|CreditCard|credit-card|
-|Crop|crop|
-|CupFill|cup-fill|
-|CupStraw|cup-straw|
-|Cup|cup|
-|CursorFill|cursor-fill|
-|CursorText|cursor-text|
-|Cursor|cursor|
-|DashCircleDotted|dash-circle-dotted|
-|DashCircleFill|dash-circle-fill|
-|DashCircle|dash-circle|
-|DashSquareDotted|dash-square-dotted|
-|DashSquareFill|dash-square-fill|
-|DashSquare|dash-square|
-|Dash|dash|
-|Diagram2Fill|diagram-2-fill|
-|Diagram2|diagram-2|
-|Diagram3Fill|diagram-3-fill|
-|Diagram3|diagram-3|
-|DiamondFill|diamond-fill|
-|DiamondHalf|diamond-half|
-|Diamond|diamond|
-|Dice1Fill|dice-1-fill|
-|Dice1|dice-1|
-|Dice2Fill|dice-2-fill|
-|Dice2|dice-2|
-|Dice3Fill|dice-3-fill|
-|Dice3|dice-3|
-|Dice4Fill|dice-4-fill|
-|Dice4|dice-4|
-|Dice5Fill|dice-5-fill|
-|Dice5|dice-5|
-|Dice6Fill|dice-6-fill|
-|Dice6|dice-6|
-|DiscFill|disc-fill|
-|Disc|disc|
-|Discord|discord|
-|DisplayFill|display-fill|
-|Display|display|
-|DistributeHorizontal|distribute-horizontal|
-|DistributeVertical|distribute-vertical|
-|DoorClosedFill|door-closed-fill|
-|DoorClosed|door-closed|
-|DoorOpenFill|door-open-fill|
-|DoorOpen|door-open|
-|Dot|dot|
-|Download|download|
-|DropletFill|droplet-fill|
-|DropletHalf|droplet-half|
-|Droplet|droplet|
-|Earbuds|earbuds|
-|EaselFill|easel-fill|
-|Easel|easel|
-|EggFill|egg-fill|
-|EggFried|egg-fried|
-|Egg|egg|
-|EjectFill|eject-fill|
-|Eject|eject|
-|EmojiAngryFill|emoji-angry-fill|
-|EmojiAngry|emoji-angry|
-|EmojiDizzyFill|emoji-dizzy-fill|
-|EmojiDizzy|emoji-dizzy|
-|EmojiExpressionlessFill|emoji-expressionless-fill|
-|EmojiExpressionless|emoji-expressionless|
-|EmojiFrownFill|emoji-frown-fill|
-|EmojiFrown|emoji-frown|
-|EmojiHeartEyesFill|emoji-heart-eyes-fill|
-|EmojiHeartEyes|emoji-heart-eyes|
-|EmojiLaughingFill|emoji-laughing-fill|
-|EmojiLaughing|emoji-laughing|
-|EmojiNeutralFill|emoji-neutral-fill|
-|EmojiNeutral|emoji-neutral|
-|EmojiSmileFill|emoji-smile-fill|
-|EmojiSmileUpsideDownFill|emoji-smile-upside-down-fill|
-|EmojiSmileUpsideDown|emoji-smile-upside-down|
-|EmojiSmile|emoji-smile|
-|EmojiSunglassesFill|emoji-sunglasses-fill|
-|EmojiSunglasses|emoji-sunglasses|
-|EmojiWinkFill|emoji-wink-fill|
-|EmojiWink|emoji-wink|
-|EnvelopeFill|envelope-fill|
-|EnvelopeOpenFill|envelope-open-fill|
-|EnvelopeOpen|envelope-open|
-|Envelope|envelope|
-|EraserFill|eraser-fill|
-|Eraser|eraser|
-|ExclamationCircleFill|exclamation-circle-fill|
-|ExclamationCircle|exclamation-circle|
-|ExclamationDiamondFill|exclamation-diamond-fill|
-|ExclamationDiamond|exclamation-diamond|
-|ExclamationOctagonFill|exclamation-octagon-fill|
-|ExclamationOctagon|exclamation-octagon|
-|ExclamationSquareFill|exclamation-square-fill|
-|ExclamationSquare|exclamation-square|
-|ExclamationTriangleFill|exclamation-triangle-fill|
-|ExclamationTriangle|exclamation-triangle|
-|Exclamation|exclamation|
-|Exclude|exclude|
-|EyeFill|eye-fill|
-|EyeSlashFill|eye-slash-fill|
-|EyeSlash|eye-slash|
-|Eye|eye|
-|Eyedropper|eyedropper|
-|Eyeglasses|eyeglasses|
-|Facebook|facebook|
-|FileArrowDownFill|file-arrow-down-fill|
-|FileArrowDown|file-arrow-down|
-|FileArrowUpFill|file-arrow-up-fill|
-|FileArrowUp|file-arrow-up|
-|FileBarGraphFill|file-bar-graph-fill|
-|FileBarGraph|file-bar-graph|
-|FileBinaryFill|file-binary-fill|
-|FileBinary|file-binary|
-|FileBreakFill|file-break-fill|
-|FileBreak|file-break|
-|FileCheckFill|file-check-fill|
-|FileCheck|file-check|
-|FileCodeFill|file-code-fill|
-|FileCode|file-code|
-|FileDiffFill|file-diff-fill|
-|FileDiff|file-diff|
-|FileEarmarkArrowDownFill|file-earmark-arrow-down-fill|
-|FileEarmarkArrowDown|file-earmark-arrow-down|
-|FileEarmarkArrowUpFill|file-earmark-arrow-up-fill|
-|FileEarmarkArrowUp|file-earmark-arrow-up|
-|FileEarmarkBarGraphFill|file-earmark-bar-graph-fill|
-|FileEarmarkBarGraph|file-earmark-bar-graph|
-|FileEarmarkBinaryFill|file-earmark-binary-fill|
-|FileEarmarkBinary|file-earmark-binary|
-|FileEarmarkBreakFill|file-earmark-break-fill|
-|FileEarmarkBreak|file-earmark-break|
-|FileEarmarkCheckFill|file-earmark-check-fill|
-|FileEarmarkCheck|file-earmark-check|
-|FileEarmarkCodeFill|file-earmark-code-fill|
-|FileEarmarkCode|file-earmark-code|
-|FileEarmarkDiffFill|file-earmark-diff-fill|
-|FileEarmarkDiff|file-earmark-diff|
-|FileEarmarkEaselFill|file-earmark-easel-fill|
-|FileEarmarkEasel|file-earmark-easel|
-|FileEarmarkExcelFill|file-earmark-excel-fill|
-|FileEarmarkExcel|file-earmark-excel|
-|FileEarmarkFill|file-earmark-fill|
-|FileEarmarkFontFill|file-earmark-font-fill|
-|FileEarmarkFont|file-earmark-font|
-|FileEarmarkImageFill|file-earmark-image-fill|
-|FileEarmarkImage|file-earmark-image|
-|FileEarmarkLockFill|file-earmark-lock-fill|
-|FileEarmarkLock|file-earmark-lock|
-|FileEarmarkLock2Fill|file-earmark-lock2-fill|
-|FileEarmarkLock2|file-earmark-lock2|
-|FileEarmarkMedicalFill|file-earmark-medical-fill|
-|FileEarmarkMedical|file-earmark-medical|
-|FileEarmarkMinusFill|file-earmark-minus-fill|
-|FileEarmarkMinus|file-earmark-minus|
-|FileEarmarkMusicFill|file-earmark-music-fill|
-|FileEarmarkMusic|file-earmark-music|
-|FileEarmarkPersonFill|file-earmark-person-fill|
-|FileEarmarkPerson|file-earmark-person|
-|FileEarmarkPlayFill|file-earmark-play-fill|
-|FileEarmarkPlay|file-earmark-play|
-|FileEarmarkPlusFill|file-earmark-plus-fill|
-|FileEarmarkPlus|file-earmark-plus|
-|FileEarmarkPostFill|file-earmark-post-fill|
-|FileEarmarkPost|file-earmark-post|
-|FileEarmarkPptFill|file-earmark-ppt-fill|
-|FileEarmarkPpt|file-earmark-ppt|
-|FileEarmarkRichtextFill|file-earmark-richtext-fill|
-|FileEarmarkRichtext|file-earmark-richtext|
-|FileEarmarkRuledFill|file-earmark-ruled-fill|
-|FileEarmarkRuled|file-earmark-ruled|
-|FileEarmarkSlidesFill|file-earmark-slides-fill|
-|FileEarmarkSlides|file-earmark-slides|
-|FileEarmarkSpreadsheetFill|file-earmark-spreadsheet-fill|
-|FileEarmarkSpreadsheet|file-earmark-spreadsheet|
-|FileEarmarkTextFill|file-earmark-text-fill|
-|FileEarmarkText|file-earmark-text|
-|FileEarmarkWordFill|file-earmark-word-fill|
-|FileEarmarkWord|file-earmark-word|
-|FileEarmarkXFill|file-earmark-x-fill|
-|FileEarmarkX|file-earmark-x|
-|FileEarmarkZipFill|file-earmark-zip-fill|
-|FileEarmarkZip|file-earmark-zip|
-|FileEarmark|file-earmark|
-|FileEaselFill|file-easel-fill|
-|FileEasel|file-easel|
-|FileExcelFill|file-excel-fill|
-|FileExcel|file-excel|
-|FileFill|file-fill|
-|FileFontFill|file-font-fill|
-|FileFont|file-font|
-|FileImageFill|file-image-fill|
-|FileImage|file-image|
-|FileLockFill|file-lock-fill|
-|FileLock|file-lock|
-|FileLock2Fill|file-lock2-fill|
-|FileLock2|file-lock2|
-|FileMedicalFill|file-medical-fill|
-|FileMedical|file-medical|
-|FileMinusFill|file-minus-fill|
-|FileMinus|file-minus|
-|FileMusicFill|file-music-fill|
-|FileMusic|file-music|
-|FilePersonFill|file-person-fill|
-|FilePerson|file-person|
-|FilePlayFill|file-play-fill|
-|FilePlay|file-play|
-|FilePlusFill|file-plus-fill|
-|FilePlus|file-plus|
-|FilePostFill|file-post-fill|
-|FilePost|file-post|
-|FilePptFill|file-ppt-fill|
-|FilePpt|file-ppt|
-|FileRichtextFill|file-richtext-fill|
-|FileRichtext|file-richtext|
-|FileRuledFill|file-ruled-fill|
-|FileRuled|file-ruled|
-|FileSlidesFill|file-slides-fill|
-|FileSlides|file-slides|
-|FileSpreadsheetFill|file-spreadsheet-fill|
-|FileSpreadsheet|file-spreadsheet|
-|FileTextFill|file-text-fill|
-|FileText|file-text|
-|FileWordFill|file-word-fill|
-|FileWord|file-word|
-|FileXFill|file-x-fill|
-|FileX|file-x|
-|FileZipFill|file-zip-fill|
-|FileZip|file-zip|
-|File|file|
-|FilesAlt|files-alt|
-|Files|files|
-|Film|film|
-|FilterCircleFill|filter-circle-fill|
-|FilterCircle|filter-circle|
-|FilterLeft|filter-left|
-|FilterRight|filter-right|
-|FilterSquareFill|filter-square-fill|
-|FilterSquare|filter-square|
-|Filter|filter|
-|FlagFill|flag-fill|
-|Flag|flag|
-|Flower1|flower1|
-|Flower2|flower2|
-|Flower3|flower3|
-|FolderCheck|folder-check|
-|FolderFill|folder-fill|
-|FolderMinus|folder-minus|
-|FolderPlus|folder-plus|
-|FolderSymlinkFill|folder-symlink-fill|
-|FolderSymlink|folder-symlink|
-|FolderX|folder-x|
-|Folder|folder|
-|Folder2Open|folder2-open|
-|Folder2|folder2|
-|Fonts|fonts|
-|ForwardFill|forward-fill|
-|Forward|forward|
-|Front|front|
-|FullscreenExit|fullscreen-exit|
-|Fullscreen|fullscreen|
-|FunnelFill|funnel-fill|
-|Funnel|funnel|
-|GearFill|gear-fill|
-|GearWideConnected|gear-wide-connected|
-|GearWide|gear-wide|
-|Gear|gear|
-|Gem|gem|
-|GeoAltFill|geo-alt-fill|
-|GeoAlt|geo-alt|
-|GeoFill|geo-fill|
-|Geo|geo|
-|GiftFill|gift-fill|
-|Gift|gift|
-|Github|github|
-|Globe|globe|
-|Globe2|globe2|
-|Google|google|
-|GraphDown|graph-down|
-|GraphUp|graph-up|
-|Grid1x2Fill|grid-1x2-fill|
-|Grid1x2|grid-1x2|
-|Grid3x2GapFill|grid-3x2-gap-fill|
-|Grid3x2Gap|grid-3x2-gap|
-|Grid3x2|grid-3x2|
-|Grid3x3GapFill|grid-3x3-gap-fill|
-|Grid3x3Gap|grid-3x3-gap|
-|Grid3x3|grid-3x3|
-|GridFill|grid-fill|
-|Grid|grid|
-|GripHorizontal|grip-horizontal|
-|GripVertical|grip-vertical|
-|Hammer|hammer|
-|HandIndexFill|hand-index-fill|
-|HandIndexThumbFill|hand-index-thumb-fill|
-|HandIndexThumb|hand-index-thumb|
-|HandIndex|hand-index|
-|HandThumbsDownFill|hand-thumbs-down-fill|
-|HandThumbsDown|hand-thumbs-down|
-|HandThumbsUpFill|hand-thumbs-up-fill|
-|HandThumbsUp|hand-thumbs-up|
-|HandbagFill|handbag-fill|
-|Handbag|handbag|
-|Hash|hash|
-|HddFill|hdd-fill|
-|HddNetworkFill|hdd-network-fill|
-|HddNetwork|hdd-network|
-|HddRackFill|hdd-rack-fill|
-|HddRack|hdd-rack|
-|HddStackFill|hdd-stack-fill|
-|HddStack|hdd-stack|
-|Hdd|hdd|
-|Headphones|headphones|
-|Headset|headset|
-|HeartFill|heart-fill|
-|HeartHalf|heart-half|
-|Heart|heart|
-|HeptagonFill|heptagon-fill|
-|HeptagonHalf|heptagon-half|
-|Heptagon|heptagon|
-|HexagonFill|hexagon-fill|
-|HexagonHalf|hexagon-half|
-|Hexagon|hexagon|
-|HourglassBottom|hourglass-bottom|
-|HourglassSplit|hourglass-split|
-|HourglassTop|hourglass-top|
-|Hourglass|hourglass|
-|HouseDoorFill|house-door-fill|
-|HouseDoor|house-door|
-|HouseFill|house-fill|
-|House|house|
-|Hr|hr|
-|Hurricane|hurricane|
-|ImageAlt|image-alt|
-|ImageFill|image-fill|
-|Image|image|
-|Images|images|
-|InboxFill|inbox-fill|
-|Inbox|inbox|
-|InboxesFill|inboxes-fill|
-|Inboxes|inboxes|
-|InfoCircleFill|info-circle-fill|
-|InfoCircle|info-circle|
-|InfoSquareFill|info-square-fill|
-|InfoSquare|info-square|
-|Info|info|
-|InputCursorText|input-cursor-text|
-|InputCursor|input-cursor|
-|Instagram|instagram|
-|Intersect|intersect|
-|JournalAlbum|journal-album|
-|JournalArrowDown|journal-arrow-down|
-|JournalArrowUp|journal-arrow-up|
-|JournalBookmarkFill|journal-bookmark-fill|
-|JournalBookmark|journal-bookmark|
-|JournalCheck|journal-check|
-|JournalCode|journal-code|
-|JournalMedical|journal-medical|
-|JournalMinus|journal-minus|
-|JournalPlus|journal-plus|
-|JournalRichtext|journal-richtext|
-|JournalText|journal-text|
-|JournalX|journal-x|
-|Journal|journal|
-|Journals|journals|
-|Joystick|joystick|
-|JustifyLeft|justify-left|
-|JustifyRight|justify-right|
-|Justify|justify|
-|KanbanFill|kanban-fill|
-|Kanban|kanban|
-|KeyFill|key-fill|
-|Key|key|
-|KeyboardFill|keyboard-fill|
-|Keyboard|keyboard|
-|Ladder|ladder|
-|LampFill|lamp-fill|
-|Lamp|lamp|
-|LaptopFill|laptop-fill|
-|Laptop|laptop|
-|LayerBackward|layer-backward|
-|LayerForward|layer-forward|
-|LayersFill|layers-fill|
-|LayersHalf|layers-half|
-|Layers|layers|
-|LayoutSidebarInsetReverse|layout-sidebar-inset-reverse|
-|LayoutSidebarInset|layout-sidebar-inset|
-|LayoutSidebarReverse|layout-sidebar-reverse|
-|LayoutSidebar|layout-sidebar|
-|LayoutSplit|layout-split|
-|LayoutTextSidebarReverse|layout-text-sidebar-reverse|
-|LayoutTextSidebar|layout-text-sidebar|
-|LayoutTextWindowReverse|layout-text-window-reverse|
-|LayoutTextWindow|layout-text-window|
-|LayoutThreeColumns|layout-three-columns|
-|LayoutWtf|layout-wtf|
-|LifePreserver|life-preserver|
-|LightbulbFill|lightbulb-fill|
-|LightbulbOffFill|lightbulb-off-fill|
-|LightbulbOff|lightbulb-off|
-|Lightbulb|lightbulb|
-|LightningChargeFill|lightning-charge-fill|
-|LightningCharge|lightning-charge|
-|LightningFill|lightning-fill|
-|Lightning|lightning|
-|Link45deg|link-45deg|
-|Link|link|
-|Linkedin|linkedin|
-|ListCheck|list-check|
-|ListNested|list-nested|
-|ListOl|list-ol|
-|ListStars|list-stars|
-|ListTask|list-task|
-|ListUl|list-ul|
-|List|list|
-|LockFill|lock-fill|
-|Lock|lock|
-|Mailbox|mailbox|
-|Mailbox2|mailbox2|
-|MapFill|map-fill|
-|Map|map|
-|MarkdownFill|markdown-fill|
-|Markdown|markdown|
-|Mask|mask|
-|MegaphoneFill|megaphone-fill|
-|Megaphone|megaphone|
-|MenuAppFill|menu-app-fill|
-|MenuApp|menu-app|
-|MenuButtonFill|menu-button-fill|
-|MenuButtonWideFill|menu-button-wide-fill|
-|MenuButtonWide|menu-button-wide|
-|MenuButton|menu-button|
-|MenuDown|menu-down|
-|MenuUp|menu-up|
-|MicFill|mic-fill|
-|MicMuteFill|mic-mute-fill|
-|MicMute|mic-mute|
-|Mic|mic|
-|MinecartLoaded|minecart-loaded|
-|Minecart|minecart|
-|Moisture|moisture|
-|MoonFill|moon-fill|
-|MoonStarsFill|moon-stars-fill|
-|MoonStars|moon-stars|
-|Moon|moon|
-|MouseFill|mouse-fill|
-|Mouse|mouse|
-|Mouse2Fill|mouse2-fill|
-|Mouse2|mouse2|
-|Mouse3Fill|mouse3-fill|
-|Mouse3|mouse3|
-|MusicNoteBeamed|music-note-beamed|
-|MusicNoteList|music-note-list|
-|MusicNote|music-note|
-|MusicPlayerFill|music-player-fill|
-|MusicPlayer|music-player|
-|Newspaper|newspaper|
-|NodeMinusFill|node-minus-fill|
-|NodeMinus|node-minus|
-|NodePlusFill|node-plus-fill|
-|NodePlus|node-plus|
-|NutFill|nut-fill|
-|Nut|nut|
-|OctagonFill|octagon-fill|
-|OctagonHalf|octagon-half|
-|Octagon|octagon|
-|Option|option|
-|Outlet|outlet|
-|PaintBucket|paint-bucket|
-|PaletteFill|palette-fill|
-|Palette|palette|
-|Palette2|palette2|
-|Paperclip|paperclip|
-|Paragraph|paragraph|
-|PatchCheckFill|patch-check-fill|
-|PatchCheck|patch-check|
-|PatchExclamationFill|patch-exclamation-fill|
-|PatchExclamation|patch-exclamation|
-|PatchMinusFill|patch-minus-fill|
-|PatchMinus|patch-minus|
-|PatchPlusFill|patch-plus-fill|
-|PatchPlus|patch-plus|
-|PatchQuestionFill|patch-question-fill|
-|PatchQuestion|patch-question|
-|PauseBtnFill|pause-btn-fill|
-|PauseBtn|pause-btn|
-|PauseCircleFill|pause-circle-fill|
-|PauseCircle|pause-circle|
-|PauseFill|pause-fill|
-|Pause|pause|
-|PeaceFill|peace-fill|
-|Peace|peace|
-|PenFill|pen-fill|
-|Pen|pen|
-|PencilFill|pencil-fill|
-|PencilSquare|pencil-square|
-|Pencil|pencil|
-|PentagonFill|pentagon-fill|
-|PentagonHalf|pentagon-half|
-|Pentagon|pentagon|
-|PeopleFill|people-fill|
-|People|people|
-|Percent|percent|
-|PersonBadgeFill|person-badge-fill|
-|PersonBadge|person-badge|
-|PersonBoundingBox|person-bounding-box|
-|PersonCheckFill|person-check-fill|
-|PersonCheck|person-check|
-|PersonCircle|person-circle|
-|PersonDashFill|person-dash-fill|
-|PersonDash|person-dash|
-|PersonFill|person-fill|
-|PersonLinesFill|person-lines-fill|
-|PersonPlusFill|person-plus-fill|
-|PersonPlus|person-plus|
-|PersonSquare|person-square|
-|PersonXFill|person-x-fill|
-|PersonX|person-x|
-|Person|person|
-|PhoneFill|phone-fill|
-|PhoneLandscapeFill|phone-landscape-fill|
-|PhoneLandscape|phone-landscape|
-|PhoneVibrateFill|phone-vibrate-fill|
-|PhoneVibrate|phone-vibrate|
-|Phone|phone|
-|PieChartFill|pie-chart-fill|
-|PieChart|pie-chart|
-|PinAngleFill|pin-angle-fill|
-|PinAngle|pin-angle|
-|PinFill|pin-fill|
-|Pin|pin|
-|PipFill|pip-fill|
-|Pip|pip|
-|PlayBtnFill|play-btn-fill|
-|PlayBtn|play-btn|
-|PlayCircleFill|play-circle-fill|
-|PlayCircle|play-circle|
-|PlayFill|play-fill|
-|Play|play|
-|PlugFill|plug-fill|
-|Plug|plug|
-|PlusCircleDotted|plus-circle-dotted|
-|PlusCircleFill|plus-circle-fill|
-|PlusCircle|plus-circle|
-|PlusSquareDotted|plus-square-dotted|
-|PlusSquareFill|plus-square-fill|
-|PlusSquare|plus-square|
-|Plus|plus|
-|Power|power|
-|PrinterFill|printer-fill|
-|Printer|printer|
-|PuzzleFill|puzzle-fill|
-|Puzzle|puzzle|
-|QuestionCircleFill|question-circle-fill|
-|QuestionCircle|question-circle|
-|QuestionDiamondFill|question-diamond-fill|
-|QuestionDiamond|question-diamond|
-|QuestionOctagonFill|question-octagon-fill|
-|QuestionOctagon|question-octagon|
-|QuestionSquareFill|question-square-fill|
-|QuestionSquare|question-square|
-|Question|question|
-|Rainbow|rainbow|
-|ReceiptCutoff|receipt-cutoff|
-|Receipt|receipt|
-|Reception0|reception-0|
-|Reception1|reception-1|
-|Reception2|reception-2|
-|Reception3|reception-3|
-|Reception4|reception-4|
-|RecordBtnFill|record-btn-fill|
-|RecordBtn|record-btn|
-|RecordCircleFill|record-circle-fill|
-|RecordCircle|record-circle|
-|RecordFill|record-fill|
-|Record|record|
-|Record2Fill|record2-fill|
-|Record2|record2|
-|ReplyAllFill|reply-all-fill|
-|ReplyAll|reply-all|
-|ReplyFill|reply-fill|
-|Reply|reply|
-|RssFill|rss-fill|
-|Rss|rss|
-|Rulers|rulers|
-|SaveFill|save-fill|
-|Save|save|
-|Save2Fill|save2-fill|
-|Save2|save2|
-|Scissors|scissors|
-|Screwdriver|screwdriver|
-|Search|search|
-|SegmentedNav|segmented-nav|
-|Server|server|
-|ShareFill|share-fill|
-|Share|share|
-|ShieldCheck|shield-check|
-|ShieldExclamation|shield-exclamation|
-|ShieldFillCheck|shield-fill-check|
-|ShieldFillExclamation|shield-fill-exclamation|
-|ShieldFillMinus|shield-fill-minus|
-|ShieldFillPlus|shield-fill-plus|
-|ShieldFillX|shield-fill-x|
-|ShieldFill|shield-fill|
-|ShieldLockFill|shield-lock-fill|
-|ShieldLock|shield-lock|
-|ShieldMinus|shield-minus|
-|ShieldPlus|shield-plus|
-|ShieldShaded|shield-shaded|
-|ShieldSlashFill|shield-slash-fill|
-|ShieldSlash|shield-slash|
-|ShieldX|shield-x|
-|Shield|shield|
-|ShiftFill|shift-fill|
-|Shift|shift|
-|ShopWindow|shop-window|
-|Shop|shop|
-|Shuffle|shuffle|
-|Signpost2Fill|signpost-2-fill|
-|Signpost2|signpost-2|
-|SignpostFill|signpost-fill|
-|SignpostSplitFill|signpost-split-fill|
-|SignpostSplit|signpost-split|
-|Signpost|signpost|
-|SimFill|sim-fill|
-|Sim|sim|
-|SkipBackwardBtnFill|skip-backward-btn-fill|
-|SkipBackwardBtn|skip-backward-btn|
-|SkipBackwardCircleFill|skip-backward-circle-fill|
-|SkipBackwardCircle|skip-backward-circle|
-|SkipBackwardFill|skip-backward-fill|
-|SkipBackward|skip-backward|
-|SkipEndBtnFill|skip-end-btn-fill|
-|SkipEndBtn|skip-end-btn|
-|SkipEndCircleFill|skip-end-circle-fill|
-|SkipEndCircle|skip-end-circle|
-|SkipEndFill|skip-end-fill|
-|SkipEnd|skip-end|
-|SkipForwardBtnFill|skip-forward-btn-fill|
-|SkipForwardBtn|skip-forward-btn|
-|SkipForwardCircleFill|skip-forward-circle-fill|
-|SkipForwardCircle|skip-forward-circle|
-|SkipForwardFill|skip-forward-fill|
-|SkipForward|skip-forward|
-|SkipStartBtnFill|skip-start-btn-fill|
-|SkipStartBtn|skip-start-btn|
-|SkipStartCircleFill|skip-start-circle-fill|
-|SkipStartCircle|skip-start-circle|
-|SkipStartFill|skip-start-fill|
-|SkipStart|skip-start|
-|Slack|slack|
-|SlashCircleFill|slash-circle-fill|
-|SlashCircle|slash-circle|
-|SlashSquareFill|slash-square-fill|
-|SlashSquare|slash-square|
-|Slash|slash|
-|Sliders|sliders|
-|Smartwatch|smartwatch|
-|Snow|snow|
-|Snow2|snow2|
-|Snow3|snow3|
-|SortAlphaDownAlt|sort-alpha-down-alt|
-|SortAlphaDown|sort-alpha-down|
-|SortAlphaUpAlt|sort-alpha-up-alt|
-|SortAlphaUp|sort-alpha-up|
-|SortDownAlt|sort-down-alt|
-|SortDown|sort-down|
-|SortNumericDownAlt|sort-numeric-down-alt|
-|SortNumericDown|sort-numeric-down|
-|SortNumericUpAlt|sort-numeric-up-alt|
-|SortNumericUp|sort-numeric-up|
-|SortUpAlt|sort-up-alt|
-|SortUp|sort-up|
-|Soundwave|soundwave|
-|SpeakerFill|speaker-fill|
-|Speaker|speaker|
-|Speedometer|speedometer|
-|Speedometer2|speedometer2|
-|Spellcheck|spellcheck|
-|SquareFill|square-fill|
-|SquareHalf|square-half|
-|Square|square|
-|Stack|stack|
-|StarFill|star-fill|
-|StarHalf|star-half|
-|Star|star|
-|Stars|stars|
-|StickiesFill|stickies-fill|
-|Stickies|stickies|
-|StickyFill|sticky-fill|
-|Sticky|sticky|
-|StopBtnFill|stop-btn-fill|
-|StopBtn|stop-btn|
-|StopCircleFill|stop-circle-fill|
-|StopCircle|stop-circle|
-|StopFill|stop-fill|
-|Stop|stop|
-|StoplightsFill|stoplights-fill|
-|Stoplights|stoplights|
-|StopwatchFill|stopwatch-fill|
-|Stopwatch|stopwatch|
-|Subtract|subtract|
-|SuitClubFill|suit-club-fill|
-|SuitClub|suit-club|
-|SuitDiamondFill|suit-diamond-fill|
-|SuitDiamond|suit-diamond|
-|SuitHeartFill|suit-heart-fill|
-|SuitHeart|suit-heart|
-|SuitSpadeFill|suit-spade-fill|
-|SuitSpade|suit-spade|
-|SunFill|sun-fill|
-|Sun|sun|
-|Sunglasses|sunglasses|
-|SunriseFill|sunrise-fill|
-|Sunrise|sunrise|
-|SunsetFill|sunset-fill|
-|Sunset|sunset|
-|SymmetryHorizontal|symmetry-horizontal|
-|SymmetryVertical|symmetry-vertical|
-|Table|table|
-|TabletFill|tablet-fill|
-|TabletLandscapeFill|tablet-landscape-fill|
-|TabletLandscape|tablet-landscape|
-|Tablet|tablet|
-|TagFill|tag-fill|
-|Tag|tag|
-|TagsFill|tags-fill|
-|Tags|tags|
-|Telegram|telegram|
-|TelephoneFill|telephone-fill|
-|TelephoneForwardFill|telephone-forward-fill|
-|TelephoneForward|telephone-forward|
-|TelephoneInboundFill|telephone-inbound-fill|
-|TelephoneInbound|telephone-inbound|
-|TelephoneMinusFill|telephone-minus-fill|
-|TelephoneMinus|telephone-minus|
-|TelephoneOutboundFill|telephone-outbound-fill|
-|TelephoneOutbound|telephone-outbound|
-|TelephonePlusFill|telephone-plus-fill|
-|TelephonePlus|telephone-plus|
-|TelephoneXFill|telephone-x-fill|
-|TelephoneX|telephone-x|
-|Telephone|telephone|
-|TerminalFill|terminal-fill|
-|Terminal|terminal|
-|TextCenter|text-center|
-|TextIndentLeft|text-indent-left|
-|TextIndentRight|text-indent-right|
-|TextLeft|text-left|
-|TextParagraph|text-paragraph|
-|TextRight|text-right|
-|TextareaResize|textarea-resize|
-|TextareaT|textarea-t|
-|Textarea|textarea|
-|ThermometerHalf|thermometer-half|
-|ThermometerHigh|thermometer-high|
-|ThermometerLow|thermometer-low|
-|ThermometerSnow|thermometer-snow|
-|ThermometerSun|thermometer-sun|
-|Thermometer|thermometer|
-|ThreeDotsVertical|three-dots-vertical|
-|ThreeDots|three-dots|
-|ToggleOff|toggle-off|
-|ToggleOn|toggle-on|
-|Toggle2Off|toggle2-off|
-|Toggle2On|toggle2-on|
-|Toggles|toggles|
-|Toggles2|toggles2|
-|Tools|tools|
-|Tornado|tornado|
-|TrashFill|trash-fill|
-|Trash|trash|
-|Trash2Fill|trash2-fill|
-|Trash2|trash2|
-|TreeFill|tree-fill|
-|Tree|tree|
-|TriangleFill|triangle-fill|
-|TriangleHalf|triangle-half|
-|Triangle|triangle|
-|TrophyFill|trophy-fill|
-|Trophy|trophy|
-|TropicalStorm|tropical-storm|
-|TruckFlatbed|truck-flatbed|
-|Truck|truck|
-|Tsunami|tsunami|
-|TvFill|tv-fill|
-|Tv|tv|
-|Twitch|twitch|
-|Twitter|twitter|
-|TypeBold|type-bold|
-|TypeH1|type-h1|
-|TypeH2|type-h2|
-|TypeH3|type-h3|
-|TypeItalic|type-italic|
-|TypeStrikethrough|type-strikethrough|
-|TypeUnderline|type-underline|
-|Type|type|
-|UiChecksGrid|ui-checks-grid|
-|UiChecks|ui-checks|
-|UiRadiosGrid|ui-radios-grid|
-|UiRadios|ui-radios|
-|UmbrellaFill|umbrella-fill|
-|Umbrella|umbrella|
-|Union|union|
-|UnlockFill|unlock-fill|
-|Unlock|unlock|
-|UpcScan|upc-scan|
-|Upc|upc|
-|Upload|upload|
-|VectorPen|vector-pen|
-|ViewList|view-list|
-|ViewStacked|view-stacked|
-|VinylFill|vinyl-fill|
-|Vinyl|vinyl|
-|Voicemail|voicemail|
-|VolumeDownFill|volume-down-fill|
-|VolumeDown|volume-down|
-|VolumeMuteFill|volume-mute-fill|
-|VolumeMute|volume-mute|
-|VolumeOffFill|volume-off-fill|
-|VolumeOff|volume-off|
-|VolumeUpFill|volume-up-fill|
-|VolumeUp|volume-up|
-|Vr|vr|
-|WalletFill|wallet-fill|
-|Wallet|wallet|
-|Wallet2|wallet2|
-|Watch|watch|
-|Water|water|
-|Whatsapp|whatsapp|
-|Wifi1|wifi-1|
-|Wifi2|wifi-2|
-|WifiOff|wifi-off|
-|Wifi|wifi|
-|Wind|wind|
-|WindowDock|window-dock|
-|WindowSidebar|window-sidebar|
-|Window|window|
-|Wrench|wrench|
-|XCircleFill|x-circle-fill|
-|XCircle|x-circle|
-|XDiamondFill|x-diamond-fill|
-|XDiamond|x-diamond|
-|XOctagonFill|x-octagon-fill|
-|XOctagon|x-octagon|
-|XSquareFill|x-square-fill|
-|XSquare|x-square|
-|X|x|
-|Youtube|youtube|
-|ZoomIn|zoom-in|
-|ZoomOut|zoom-out|
-|Bank|bank|
-|Bank2|bank2|
-|BellSlashFill|bell-slash-fill|
-|BellSlash|bell-slash|
-|CashCoin|cash-coin|
-|CheckLg|check-lg|
-|Coin|coin|
-|CurrencyBitcoin|currency-bitcoin|
-|CurrencyDollar|currency-dollar|
-|CurrencyEuro|currency-euro|
-|CurrencyExchange|currency-exchange|
-|CurrencyPound|currency-pound|
-|CurrencyYen|currency-yen|
-|DashLg|dash-lg|
-|ExclamationLg|exclamation-lg|
-|FileEarmarkPdfFill|file-earmark-pdf-fill|
-|FileEarmarkPdf|file-earmark-pdf|
-|FilePdfFill|file-pdf-fill|
-|FilePdf|file-pdf|
-|GenderAmbiguous|gender-ambiguous|
-|GenderFemale|gender-female|
-|GenderMale|gender-male|
-|GenderTrans|gender-trans|
-|HeadsetVr|headset-vr|
-|InfoLg|info-lg|
-|Mastodon|mastodon|
-|Messenger|messenger|
-|PiggyBankFill|piggy-bank-fill|
-|PiggyBank|piggy-bank|
-|PinMapFill|pin-map-fill|
-|PinMap|pin-map|
-|PlusLg|plus-lg|
-|QuestionLg|question-lg|
-|Recycle|recycle|
-|Reddit|reddit|
-|SafeFill|safe-fill|
-|Safe2Fill|safe2-fill|
-|Safe2|safe2|
-|SdCardFill|sd-card-fill|
-|SdCard|sd-card|
-|Skype|skype|
-|SlashLg|slash-lg|
-|Translate|translate|
-|XLg|x-lg|
-|Safe|safe|
-|Apple|apple|
-|Microsoft|microsoft|
-|Windows|windows|
-|Behance|behance|
-|Dribbble|dribbble|
-|Line|line|
-|Medium|medium|
-|Paypal|paypal|
-|Pinterest|pinterest|
-|Signal|signal|
-|Snapchat|snapchat|
-|Spotify|spotify|
-|StackOverflow|stack-overflow|
-|Strava|strava|
-|Wordpress|wordpress|
-|Vimeo|vimeo|
-|Activity|activity|
-|Easel2Fill|easel2-fill|
-|Easel2|easel2|
-|Easel3Fill|easel3-fill|
-|Easel3|easel3|
-|Fan|fan|
-|Fingerprint|fingerprint|
-|GraphDownArrow|graph-down-arrow|
-|GraphUpArrow|graph-up-arrow|
-|Hypnotize|hypnotize|
-|Magic|magic|
-|PersonRolodex|person-rolodex|
-|PersonVideo|person-video|
-|PersonVideo2|person-video2|
-|PersonVideo3|person-video3|
-|PersonWorkspace|person-workspace|
-|Radioactive|radioactive|
-|WebcamFill|webcam-fill|
-|Webcam|webcam|
-|YinYang|yin-yang|
-|BandaidFill|bandaid-fill|
-|Bandaid|bandaid|
-|Bluetooth|bluetooth|
-|BodyText|body-text|
-|Boombox|boombox|
-|Boxes|boxes|
-|DpadFill|dpad-fill|
-|Dpad|dpad|
-|EarFill|ear-fill|
-|Ear|ear|
-|EnvelopeCheck1|envelope-check-1|
-|EnvelopeCheckFill|envelope-check-fill|
-|EnvelopeCheck|envelope-check|
-|EnvelopeDash1|envelope-dash-1|
-|EnvelopeDashFill|envelope-dash-fill|
-|EnvelopeDash|envelope-dash|
-|EnvelopeExclamation1|envelope-exclamation-1|
-|EnvelopeExclamationFill|envelope-exclamation-fill|
-|EnvelopeExclamation|envelope-exclamation|
-|EnvelopePlusFill|envelope-plus-fill|
-|EnvelopePlus|envelope-plus|
-|EnvelopeSlash1|envelope-slash-1|
-|EnvelopeSlashFill|envelope-slash-fill|
-|EnvelopeSlash|envelope-slash|
-|EnvelopeX1|envelope-x-1|
-|EnvelopeXFill|envelope-x-fill|
-|EnvelopeX|envelope-x|
-|ExplicitFill|explicit-fill|
-|Explicit|explicit|
-|Git|git|
-|Infinity|infinity|
-|ListColumnsReverse|list-columns-reverse|
-|ListColumns|list-columns|
-|Meta|meta|
-|MortorboardFill|mortorboard-fill|
-|Mortorboard|mortorboard|
-|NintendoSwitch|nintendo-switch|
-|PcDisplayHorizontal|pc-display-horizontal|
-|PcDisplay|pc-display|
-|PcHorizontal|pc-horizontal|
-|Pc|pc|
-|Playstation|playstation|
-|PlusSlashMinus|plus-slash-minus|
-|ProjectorFill|projector-fill|
-|Projector|projector|
-|QrCodeScan|qr-code-scan|
-|QrCode|qr-code|
-|Quora|quora|
-|Quote|quote|
-|Robot|robot|
-|SendCheckFill|send-check-fill|
-|SendCheck|send-check|
-|SendDashFill|send-dash-fill|
-|SendDash|send-dash|
-|SendExclamation1|send-exclamation-1|
-|SendExclamationFill|send-exclamation-fill|
-|SendExclamation|send-exclamation|
-|SendFill|send-fill|
-|SendPlusFill|send-plus-fill|
-|SendPlus|send-plus|
-|SendSlashFill|send-slash-fill|
-|SendSlash|send-slash|
-|SendXFill|send-x-fill|
-|SendX|send-x|
-|Send|send|
-|Steam|steam|
-|TerminalDash1|terminal-dash-1|
-|TerminalDash|terminal-dash|
-|TerminalPlus|terminal-plus|
-|TerminalSplit|terminal-split|
-|TicketDetailedFill|ticket-detailed-fill|
-|TicketDetailed|ticket-detailed|
-|TicketFill|ticket-fill|
-|TicketPerforatedFill|ticket-perforated-fill|
-|TicketPerforated|ticket-perforated|
-|Ticket|ticket|
-|Tiktok|tiktok|
-|WindowDash|window-dash|
-|WindowDesktop|window-desktop|
-|WindowFullscreen|window-fullscreen|
-|WindowPlus|window-plus|
-|WindowSplit|window-split|
-|WindowStack|window-stack|
-|WindowX|window-x|
-|Xbox|xbox|
-|Ethernet|ethernet|
-|HdmiFill|hdmi-fill|
-|Hdmi|hdmi|
-|UsbCFill|usb-c-fill|
-|UsbC|usb-c|
-|UsbFill|usb-fill|
-|UsbPlugFill|usb-plug-fill|
-|UsbPlug|usb-plug|
-|UsbSymbol|usb-symbol|
-|Usb|usb|
-|BoomboxFill|boombox-fill|
-|Displayport1|displayport-1|
-|Displayport|displayport|
-|GpuCard|gpu-card|
-|Memory|memory|
-|ModemFill|modem-fill|
-|Modem|modem|
-|MotherboardFill|motherboard-fill|
-|Motherboard|motherboard|
-|OpticalAudioFill|optical-audio-fill|
-|OpticalAudio|optical-audio|
-|PciCard|pci-card|
-|RouterFill|router-fill|
-|Router|router|
-|SsdFill|ssd-fill|
-|Ssd|ssd|
-|ThunderboltFill|thunderbolt-fill|
-|Thunderbolt|thunderbolt|
-|UsbDriveFill|usb-drive-fill|
-|UsbDrive|usb-drive|
-|UsbMicroFill|usb-micro-fill|
-|UsbMicro|usb-micro|
-|UsbMiniFill|usb-mini-fill|
-|UsbMini|usb-mini|
-|CloudHaze2|cloud-haze2|
-|DeviceHddFill|device-hdd-fill|
-|DeviceHdd|device-hdd|
-|DeviceSsdFill|device-ssd-fill|
-|DeviceSsd|device-ssd|
-|DisplayportFill|displayport-fill|
-|MortarboardFill|mortarboard-fill|
-|Mortarboard|mortarboard|
-|TerminalX|terminal-x|
-|ArrowThroughHeartFill|arrow-through-heart-fill|
-|ArrowThroughHeart|arrow-through-heart|
-|BadgeSdFill|badge-sd-fill|
-|BadgeSd|badge-sd|
-|BagHeartFill|bag-heart-fill|
-|BagHeart|bag-heart|
-|BalloonFill|balloon-fill|
-|BalloonHeartFill|balloon-heart-fill|
-|BalloonHeart|balloon-heart|
-|Balloon|balloon|
-|Box2Fill|box2-fill|
-|Box2HeartFill|box2-heart-fill|
-|Box2Heart|box2-heart|
-|Box2|box2|
-|BracesAsterisk|braces-asterisk|
-|CalendarHeartFill|calendar-heart-fill|
-|CalendarHeart|calendar-heart|
-|Calendar2HeartFill|calendar2-heart-fill|
-|Calendar2Heart|calendar2-heart|
-|ChatHeartFill|chat-heart-fill|
-|ChatHeart|chat-heart|
-|ChatLeftHeartFill|chat-left-heart-fill|
-|ChatLeftHeart|chat-left-heart|
-|ChatRightHeartFill|chat-right-heart-fill|
-|ChatRightHeart|chat-right-heart|
-|ChatSquareHeartFill|chat-square-heart-fill|
-|ChatSquareHeart|chat-square-heart|
-|ClipboardCheckFill|clipboard-check-fill|
-|ClipboardDataFill|clipboard-data-fill|
-|ClipboardFill|clipboard-fill|
-|ClipboardHeartFill|clipboard-heart-fill|
-|ClipboardHeart|clipboard-heart|
-|ClipboardMinusFill|clipboard-minus-fill|
-|ClipboardPlusFill|clipboard-plus-fill|
-|ClipboardPulse|clipboard-pulse|
-|ClipboardXFill|clipboard-x-fill|
-|Clipboard2CheckFill|clipboard2-check-fill|
-|Clipboard2Check|clipboard2-check|
-|Clipboard2DataFill|clipboard2-data-fill|
-|Clipboard2Data|clipboard2-data|
-|Clipboard2Fill|clipboard2-fill|
-|Clipboard2HeartFill|clipboard2-heart-fill|
-|Clipboard2Heart|clipboard2-heart|
-|Clipboard2MinusFill|clipboard2-minus-fill|
-|Clipboard2Minus|clipboard2-minus|
-|Clipboard2PlusFill|clipboard2-plus-fill|
-|Clipboard2Plus|clipboard2-plus|
-|Clipboard2PulseFill|clipboard2-pulse-fill|
-|Clipboard2Pulse|clipboard2-pulse|
-|Clipboard2XFill|clipboard2-x-fill|
-|Clipboard2X|clipboard2-x|
-|Clipboard2|clipboard2|
-|EmojiKissFill|emoji-kiss-fill|
-|EmojiKiss|emoji-kiss|
-|EnvelopeHeartFill|envelope-heart-fill|
-|EnvelopeHeart|envelope-heart|
-|EnvelopeOpenHeartFill|envelope-open-heart-fill|
-|EnvelopeOpenHeart|envelope-open-heart|
-|EnvelopePaperFill|envelope-paper-fill|
-|EnvelopePaperHeartFill|envelope-paper-heart-fill|
-|EnvelopePaperHeart|envelope-paper-heart|
-|EnvelopePaper|envelope-paper|
-|FiletypeAac|filetype-aac|
-|FiletypeAi|filetype-ai|
-|FiletypeBmp|filetype-bmp|
-|FiletypeCs|filetype-cs|
-|FiletypeCss|filetype-css|
-|FiletypeCsv|filetype-csv|
-|FiletypeDoc|filetype-doc|
-|FiletypeDocx|filetype-docx|
-|FiletypeExe|filetype-exe|
-|FiletypeGif|filetype-gif|
-|FiletypeHeic|filetype-heic|
-|FiletypeHtml|filetype-html|
-|FiletypeJava|filetype-java|
-|FiletypeJpg|filetype-jpg|
-|FiletypeJs|filetype-js|
-|FiletypeJsx|filetype-jsx|
-|FiletypeKey|filetype-key|
-|FiletypeM4p|filetype-m4p|
-|FiletypeMd|filetype-md|
-|FiletypeMdx|filetype-mdx|
-|FiletypeMov|filetype-mov|
-|FiletypeMp3|filetype-mp3|
-|FiletypeMp4|filetype-mp4|
-|FiletypeOtf|filetype-otf|
-|FiletypePdf|filetype-pdf|
-|FiletypePhp|filetype-php|
-|FiletypePng|filetype-png|
-|FiletypePpt1|filetype-ppt-1|
-|FiletypePpt|filetype-ppt|
-|FiletypePsd|filetype-psd|
-|FiletypePy|filetype-py|
-|FiletypeRaw|filetype-raw|
-|FiletypeRb|filetype-rb|
-|FiletypeSass|filetype-sass|
-|FiletypeScss|filetype-scss|
-|FiletypeSh|filetype-sh|
-|FiletypeSvg|filetype-svg|
-|FiletypeTiff|filetype-tiff|
-|FiletypeTsx|filetype-tsx|
-|FiletypeTtf|filetype-ttf|
-|FiletypeTxt|filetype-txt|
-|FiletypeWav|filetype-wav|
-|FiletypeWoff|filetype-woff|
-|FiletypeXls1|filetype-xls-1|
-|FiletypeXls|filetype-xls|
-|FiletypeXml|filetype-xml|
-|FiletypeYml|filetype-yml|
-|HeartArrow|heart-arrow|
-|HeartPulseFill|heart-pulse-fill|
-|HeartPulse|heart-pulse|
-|HeartbreakFill|heartbreak-fill|
-|Heartbreak|heartbreak|
-|Hearts|hearts|
-|HospitalFill|hospital-fill|
-|Hospital|hospital|
-|HouseHeartFill|house-heart-fill|
-|HouseHeart|house-heart|
-|Incognito|incognito|
-|MagnetFill|magnet-fill|
-|Magnet|magnet|
-|PersonHeart|person-heart|
-|PersonHearts|person-hearts|
-|PhoneFlip|phone-flip|
-|Plugin|plugin|
-|PostageFill|postage-fill|
-|PostageHeartFill|postage-heart-fill|
-|PostageHeart|postage-heart|
-|Postage|postage|
-|PostcardFill|postcard-fill|
-|PostcardHeartFill|postcard-heart-fill|
-|PostcardHeart|postcard-heart|
-|Postcard|postcard|
-|SearchHeartFill|search-heart-fill|
-|SearchHeart|search-heart|
-|Sliders2Vertical|sliders2-vertical|
-|Sliders2|sliders2|
-|Trash3Fill|trash3-fill|
-|Trash3|trash3|
-|Valentine|valentine|
-|Valentine2|valentine2|
-|WrenchAdjustableCircleFill|wrench-adjustable-circle-fill|
-|WrenchAdjustableCircle|wrench-adjustable-circle|
-|WrenchAdjustable|wrench-adjustable|
-|FiletypeJson|filetype-json|
-|FiletypePptx|filetype-pptx|
-|FiletypeXlsx|filetype-xlsx|
+|`<OneTwoThreeIcon />`|123|
+|`<AlarmFillIcon />`|alarm-fill|
+|`<AlarmIcon />`|alarm|
+|`<AlignBottomIcon />`|align-bottom|
+|`<AlignCenterIcon />`|align-center|
+|`<AlignEndIcon />`|align-end|
+|`<AlignMiddleIcon />`|align-middle|
+|`<AlignStartIcon />`|align-start|
+|`<AlignTopIcon />`|align-top|
+|`<AltIcon />`|alt|
+|`<AppIndicatorIcon />`|app-indicator|
+|`<AppIcon />`|app|
+|`<ArchiveFillIcon />`|archive-fill|
+|`<ArchiveIcon />`|archive|
+|`<Arrow90degDownIcon />`|arrow-90deg-down|
+|`<Arrow90degLeftIcon />`|arrow-90deg-left|
+|`<Arrow90degRightIcon />`|arrow-90deg-right|
+|`<Arrow90degUpIcon />`|arrow-90deg-up|
+|`<ArrowBarDownIcon />`|arrow-bar-down|
+|`<ArrowBarLeftIcon />`|arrow-bar-left|
+|`<ArrowBarRightIcon />`|arrow-bar-right|
+|`<ArrowBarUpIcon />`|arrow-bar-up|
+|`<ArrowClockwiseIcon />`|arrow-clockwise|
+|`<ArrowCounterclockwiseIcon />`|arrow-counterclockwise|
+|`<ArrowDownCircleFillIcon />`|arrow-down-circle-fill|
+|`<ArrowDownCircleIcon />`|arrow-down-circle|
+|`<ArrowDownLeftCircleFillIcon />`|arrow-down-left-circle-fill|
+|`<ArrowDownLeftCircleIcon />`|arrow-down-left-circle|
+|`<ArrowDownLeftSquareFillIcon />`|arrow-down-left-square-fill|
+|`<ArrowDownLeftSquareIcon />`|arrow-down-left-square|
+|`<ArrowDownLeftIcon />`|arrow-down-left|
+|`<ArrowDownRightCircleFillIcon />`|arrow-down-right-circle-fill|
+|`<ArrowDownRightCircleIcon />`|arrow-down-right-circle|
+|`<ArrowDownRightSquareFillIcon />`|arrow-down-right-square-fill|
+|`<ArrowDownRightSquareIcon />`|arrow-down-right-square|
+|`<ArrowDownRightIcon />`|arrow-down-right|
+|`<ArrowDownShortIcon />`|arrow-down-short|
+|`<ArrowDownSquareFillIcon />`|arrow-down-square-fill|
+|`<ArrowDownSquareIcon />`|arrow-down-square|
+|`<ArrowDownUpIcon />`|arrow-down-up|
+|`<ArrowDownIcon />`|arrow-down|
+|`<ArrowLeftCircleFillIcon />`|arrow-left-circle-fill|
+|`<ArrowLeftCircleIcon />`|arrow-left-circle|
+|`<ArrowLeftRightIcon />`|arrow-left-right|
+|`<ArrowLeftShortIcon />`|arrow-left-short|
+|`<ArrowLeftSquareFillIcon />`|arrow-left-square-fill|
+|`<ArrowLeftSquareIcon />`|arrow-left-square|
+|`<ArrowLeftIcon />`|arrow-left|
+|`<ArrowRepeatIcon />`|arrow-repeat|
+|`<ArrowReturnLeftIcon />`|arrow-return-left|
+|`<ArrowReturnRightIcon />`|arrow-return-right|
+|`<ArrowRightCircleFillIcon />`|arrow-right-circle-fill|
+|`<ArrowRightCircleIcon />`|arrow-right-circle|
+|`<ArrowRightShortIcon />`|arrow-right-short|
+|`<ArrowRightSquareFillIcon />`|arrow-right-square-fill|
+|`<ArrowRightSquareIcon />`|arrow-right-square|
+|`<ArrowRightIcon />`|arrow-right|
+|`<ArrowUpCircleFillIcon />`|arrow-up-circle-fill|
+|`<ArrowUpCircleIcon />`|arrow-up-circle|
+|`<ArrowUpLeftCircleFillIcon />`|arrow-up-left-circle-fill|
+|`<ArrowUpLeftCircleIcon />`|arrow-up-left-circle|
+|`<ArrowUpLeftSquareFillIcon />`|arrow-up-left-square-fill|
+|`<ArrowUpLeftSquareIcon />`|arrow-up-left-square|
+|`<ArrowUpLeftIcon />`|arrow-up-left|
+|`<ArrowUpRightCircleFillIcon />`|arrow-up-right-circle-fill|
+|`<ArrowUpRightCircleIcon />`|arrow-up-right-circle|
+|`<ArrowUpRightSquareFillIcon />`|arrow-up-right-square-fill|
+|`<ArrowUpRightSquareIcon />`|arrow-up-right-square|
+|`<ArrowUpRightIcon />`|arrow-up-right|
+|`<ArrowUpShortIcon />`|arrow-up-short|
+|`<ArrowUpSquareFillIcon />`|arrow-up-square-fill|
+|`<ArrowUpSquareIcon />`|arrow-up-square|
+|`<ArrowUpIcon />`|arrow-up|
+|`<ArrowsAngleContractIcon />`|arrows-angle-contract|
+|`<ArrowsAngleExpandIcon />`|arrows-angle-expand|
+|`<ArrowsCollapseIcon />`|arrows-collapse|
+|`<ArrowsExpandIcon />`|arrows-expand|
+|`<ArrowsFullscreenIcon />`|arrows-fullscreen|
+|`<ArrowsMoveIcon />`|arrows-move|
+|`<AspectRatioFillIcon />`|aspect-ratio-fill|
+|`<AspectRatioIcon />`|aspect-ratio|
+|`<AsteriskIcon />`|asterisk|
+|`<AtIcon />`|at|
+|`<AwardFillIcon />`|award-fill|
+|`<AwardIcon />`|award|
+|`<BackIcon />`|back|
+|`<BackspaceFillIcon />`|backspace-fill|
+|`<BackspaceReverseFillIcon />`|backspace-reverse-fill|
+|`<BackspaceReverseIcon />`|backspace-reverse|
+|`<BackspaceIcon />`|backspace|
+|`<Badge3dFillIcon />`|badge-3d-fill|
+|`<Badge3dIcon />`|badge-3d|
+|`<Badge4kFillIcon />`|badge-4k-fill|
+|`<Badge4kIcon />`|badge-4k|
+|`<Badge8kFillIcon />`|badge-8k-fill|
+|`<Badge8kIcon />`|badge-8k|
+|`<BadgeAdFillIcon />`|badge-ad-fill|
+|`<BadgeAdIcon />`|badge-ad|
+|`<BadgeArFillIcon />`|badge-ar-fill|
+|`<BadgeArIcon />`|badge-ar|
+|`<BadgeCcFillIcon />`|badge-cc-fill|
+|`<BadgeCcIcon />`|badge-cc|
+|`<BadgeHdFillIcon />`|badge-hd-fill|
+|`<BadgeHdIcon />`|badge-hd|
+|`<BadgeTmFillIcon />`|badge-tm-fill|
+|`<BadgeTmIcon />`|badge-tm|
+|`<BadgeVoFillIcon />`|badge-vo-fill|
+|`<BadgeVoIcon />`|badge-vo|
+|`<BadgeVrFillIcon />`|badge-vr-fill|
+|`<BadgeVrIcon />`|badge-vr|
+|`<BadgeWcFillIcon />`|badge-wc-fill|
+|`<BadgeWcIcon />`|badge-wc|
+|`<BagCheckFillIcon />`|bag-check-fill|
+|`<BagCheckIcon />`|bag-check|
+|`<BagDashFillIcon />`|bag-dash-fill|
+|`<BagDashIcon />`|bag-dash|
+|`<BagFillIcon />`|bag-fill|
+|`<BagPlusFillIcon />`|bag-plus-fill|
+|`<BagPlusIcon />`|bag-plus|
+|`<BagXFillIcon />`|bag-x-fill|
+|`<BagXIcon />`|bag-x|
+|`<BagIcon />`|bag|
+|`<BarChartFillIcon />`|bar-chart-fill|
+|`<BarChartLineFillIcon />`|bar-chart-line-fill|
+|`<BarChartLineIcon />`|bar-chart-line|
+|`<BarChartStepsIcon />`|bar-chart-steps|
+|`<BarChartIcon />`|bar-chart|
+|`<BasketFillIcon />`|basket-fill|
+|`<BasketIcon />`|basket|
+|`<Basket2FillIcon />`|basket2-fill|
+|`<Basket2Icon />`|basket2|
+|`<Basket3FillIcon />`|basket3-fill|
+|`<Basket3Icon />`|basket3|
+|`<BatteryChargingIcon />`|battery-charging|
+|`<BatteryFullIcon />`|battery-full|
+|`<BatteryHalfIcon />`|battery-half|
+|`<BatteryIcon />`|battery|
+|`<BellFillIcon />`|bell-fill|
+|`<BellIcon />`|bell|
+|`<BezierIcon />`|bezier|
+|`<Bezier2Icon />`|bezier2|
+|`<BicycleIcon />`|bicycle|
+|`<BinocularsFillIcon />`|binoculars-fill|
+|`<BinocularsIcon />`|binoculars|
+|`<BlockquoteLeftIcon />`|blockquote-left|
+|`<BlockquoteRightIcon />`|blockquote-right|
+|`<BookFillIcon />`|book-fill|
+|`<BookHalfIcon />`|book-half|
+|`<BookIcon />`|book|
+|`<BookmarkCheckFillIcon />`|bookmark-check-fill|
+|`<BookmarkCheckIcon />`|bookmark-check|
+|`<BookmarkDashFillIcon />`|bookmark-dash-fill|
+|`<BookmarkDashIcon />`|bookmark-dash|
+|`<BookmarkFillIcon />`|bookmark-fill|
+|`<BookmarkHeartFillIcon />`|bookmark-heart-fill|
+|`<BookmarkHeartIcon />`|bookmark-heart|
+|`<BookmarkPlusFillIcon />`|bookmark-plus-fill|
+|`<BookmarkPlusIcon />`|bookmark-plus|
+|`<BookmarkStarFillIcon />`|bookmark-star-fill|
+|`<BookmarkStarIcon />`|bookmark-star|
+|`<BookmarkXFillIcon />`|bookmark-x-fill|
+|`<BookmarkXIcon />`|bookmark-x|
+|`<BookmarkIcon />`|bookmark|
+|`<BookmarksFillIcon />`|bookmarks-fill|
+|`<BookmarksIcon />`|bookmarks|
+|`<BookshelfIcon />`|bookshelf|
+|`<BootstrapFillIcon />`|bootstrap-fill|
+|`<BootstrapRebootIcon />`|bootstrap-reboot|
+|`<BootstrapIcon />`|bootstrap|
+|`<BorderAllIcon />`|border-all|
+|`<BorderBottomIcon />`|border-bottom|
+|`<BorderCenterIcon />`|border-center|
+|`<BorderInnerIcon />`|border-inner|
+|`<BorderLeftIcon />`|border-left|
+|`<BorderMiddleIcon />`|border-middle|
+|`<BorderOuterIcon />`|border-outer|
+|`<BorderRightIcon />`|border-right|
+|`<BorderStyleIcon />`|border-style|
+|`<BorderTopIcon />`|border-top|
+|`<BorderWidthIcon />`|border-width|
+|`<BorderIcon />`|border|
+|`<BoundingBoxCirclesIcon />`|bounding-box-circles|
+|`<BoundingBoxIcon />`|bounding-box|
+|`<BoxArrowDownLeftIcon />`|box-arrow-down-left|
+|`<BoxArrowDownRightIcon />`|box-arrow-down-right|
+|`<BoxArrowDownIcon />`|box-arrow-down|
+|`<BoxArrowInDownLeftIcon />`|box-arrow-in-down-left|
+|`<BoxArrowInDownRightIcon />`|box-arrow-in-down-right|
+|`<BoxArrowInDownIcon />`|box-arrow-in-down|
+|`<BoxArrowInLeftIcon />`|box-arrow-in-left|
+|`<BoxArrowInRightIcon />`|box-arrow-in-right|
+|`<BoxArrowInUpLeftIcon />`|box-arrow-in-up-left|
+|`<BoxArrowInUpRightIcon />`|box-arrow-in-up-right|
+|`<BoxArrowInUpIcon />`|box-arrow-in-up|
+|`<BoxArrowLeftIcon />`|box-arrow-left|
+|`<BoxArrowRightIcon />`|box-arrow-right|
+|`<BoxArrowUpLeftIcon />`|box-arrow-up-left|
+|`<BoxArrowUpRightIcon />`|box-arrow-up-right|
+|`<BoxArrowUpIcon />`|box-arrow-up|
+|`<BoxSeamIcon />`|box-seam|
+|`<BoxIcon />`|box|
+|`<BracesIcon />`|braces|
+|`<BricksIcon />`|bricks|
+|`<BriefcaseFillIcon />`|briefcase-fill|
+|`<BriefcaseIcon />`|briefcase|
+|`<BrightnessAltHighFillIcon />`|brightness-alt-high-fill|
+|`<BrightnessAltHighIcon />`|brightness-alt-high|
+|`<BrightnessAltLowFillIcon />`|brightness-alt-low-fill|
+|`<BrightnessAltLowIcon />`|brightness-alt-low|
+|`<BrightnessHighFillIcon />`|brightness-high-fill|
+|`<BrightnessHighIcon />`|brightness-high|
+|`<BrightnessLowFillIcon />`|brightness-low-fill|
+|`<BrightnessLowIcon />`|brightness-low|
+|`<BroadcastPinIcon />`|broadcast-pin|
+|`<BroadcastIcon />`|broadcast|
+|`<BrushFillIcon />`|brush-fill|
+|`<BrushIcon />`|brush|
+|`<BucketFillIcon />`|bucket-fill|
+|`<BucketIcon />`|bucket|
+|`<BugFillIcon />`|bug-fill|
+|`<BugIcon />`|bug|
+|`<BuildingIcon />`|building|
+|`<BullseyeIcon />`|bullseye|
+|`<CalculatorFillIcon />`|calculator-fill|
+|`<CalculatorIcon />`|calculator|
+|`<CalendarCheckFillIcon />`|calendar-check-fill|
+|`<CalendarCheckIcon />`|calendar-check|
+|`<CalendarDateFillIcon />`|calendar-date-fill|
+|`<CalendarDateIcon />`|calendar-date|
+|`<CalendarDayFillIcon />`|calendar-day-fill|
+|`<CalendarDayIcon />`|calendar-day|
+|`<CalendarEventFillIcon />`|calendar-event-fill|
+|`<CalendarEventIcon />`|calendar-event|
+|`<CalendarFillIcon />`|calendar-fill|
+|`<CalendarMinusFillIcon />`|calendar-minus-fill|
+|`<CalendarMinusIcon />`|calendar-minus|
+|`<CalendarMonthFillIcon />`|calendar-month-fill|
+|`<CalendarMonthIcon />`|calendar-month|
+|`<CalendarPlusFillIcon />`|calendar-plus-fill|
+|`<CalendarPlusIcon />`|calendar-plus|
+|`<CalendarRangeFillIcon />`|calendar-range-fill|
+|`<CalendarRangeIcon />`|calendar-range|
+|`<CalendarWeekFillIcon />`|calendar-week-fill|
+|`<CalendarWeekIcon />`|calendar-week|
+|`<CalendarXFillIcon />`|calendar-x-fill|
+|`<CalendarXIcon />`|calendar-x|
+|`<CalendarIcon />`|calendar|
+|`<Calendar2CheckFillIcon />`|calendar2-check-fill|
+|`<Calendar2CheckIcon />`|calendar2-check|
+|`<Calendar2DateFillIcon />`|calendar2-date-fill|
+|`<Calendar2DateIcon />`|calendar2-date|
+|`<Calendar2DayFillIcon />`|calendar2-day-fill|
+|`<Calendar2DayIcon />`|calendar2-day|
+|`<Calendar2EventFillIcon />`|calendar2-event-fill|
+|`<Calendar2EventIcon />`|calendar2-event|
+|`<Calendar2FillIcon />`|calendar2-fill|
+|`<Calendar2MinusFillIcon />`|calendar2-minus-fill|
+|`<Calendar2MinusIcon />`|calendar2-minus|
+|`<Calendar2MonthFillIcon />`|calendar2-month-fill|
+|`<Calendar2MonthIcon />`|calendar2-month|
+|`<Calendar2PlusFillIcon />`|calendar2-plus-fill|
+|`<Calendar2PlusIcon />`|calendar2-plus|
+|`<Calendar2RangeFillIcon />`|calendar2-range-fill|
+|`<Calendar2RangeIcon />`|calendar2-range|
+|`<Calendar2WeekFillIcon />`|calendar2-week-fill|
+|`<Calendar2WeekIcon />`|calendar2-week|
+|`<Calendar2XFillIcon />`|calendar2-x-fill|
+|`<Calendar2XIcon />`|calendar2-x|
+|`<Calendar2Icon />`|calendar2|
+|`<Calendar3EventFillIcon />`|calendar3-event-fill|
+|`<Calendar3EventIcon />`|calendar3-event|
+|`<Calendar3FillIcon />`|calendar3-fill|
+|`<Calendar3RangeFillIcon />`|calendar3-range-fill|
+|`<Calendar3RangeIcon />`|calendar3-range|
+|`<Calendar3WeekFillIcon />`|calendar3-week-fill|
+|`<Calendar3WeekIcon />`|calendar3-week|
+|`<Calendar3Icon />`|calendar3|
+|`<Calendar4EventIcon />`|calendar4-event|
+|`<Calendar4RangeIcon />`|calendar4-range|
+|`<Calendar4WeekIcon />`|calendar4-week|
+|`<Calendar4Icon />`|calendar4|
+|`<CameraFillIcon />`|camera-fill|
+|`<CameraReelsFillIcon />`|camera-reels-fill|
+|`<CameraReelsIcon />`|camera-reels|
+|`<CameraVideoFillIcon />`|camera-video-fill|
+|`<CameraVideoOffFillIcon />`|camera-video-off-fill|
+|`<CameraVideoOffIcon />`|camera-video-off|
+|`<CameraVideoIcon />`|camera-video|
+|`<CameraIcon />`|camera|
+|`<Camera2Icon />`|camera2|
+|`<CapslockFillIcon />`|capslock-fill|
+|`<CapslockIcon />`|capslock|
+|`<CardChecklistIcon />`|card-checklist|
+|`<CardHeadingIcon />`|card-heading|
+|`<CardImageIcon />`|card-image|
+|`<CardListIcon />`|card-list|
+|`<CardTextIcon />`|card-text|
+|`<CaretDownFillIcon />`|caret-down-fill|
+|`<CaretDownSquareFillIcon />`|caret-down-square-fill|
+|`<CaretDownSquareIcon />`|caret-down-square|
+|`<CaretDownIcon />`|caret-down|
+|`<CaretLeftFillIcon />`|caret-left-fill|
+|`<CaretLeftSquareFillIcon />`|caret-left-square-fill|
+|`<CaretLeftSquareIcon />`|caret-left-square|
+|`<CaretLeftIcon />`|caret-left|
+|`<CaretRightFillIcon />`|caret-right-fill|
+|`<CaretRightSquareFillIcon />`|caret-right-square-fill|
+|`<CaretRightSquareIcon />`|caret-right-square|
+|`<CaretRightIcon />`|caret-right|
+|`<CaretUpFillIcon />`|caret-up-fill|
+|`<CaretUpSquareFillIcon />`|caret-up-square-fill|
+|`<CaretUpSquareIcon />`|caret-up-square|
+|`<CaretUpIcon />`|caret-up|
+|`<CartCheckFillIcon />`|cart-check-fill|
+|`<CartCheckIcon />`|cart-check|
+|`<CartDashFillIcon />`|cart-dash-fill|
+|`<CartDashIcon />`|cart-dash|
+|`<CartFillIcon />`|cart-fill|
+|`<CartPlusFillIcon />`|cart-plus-fill|
+|`<CartPlusIcon />`|cart-plus|
+|`<CartXFillIcon />`|cart-x-fill|
+|`<CartXIcon />`|cart-x|
+|`<CartIcon />`|cart|
+|`<Cart2Icon />`|cart2|
+|`<Cart3Icon />`|cart3|
+|`<Cart4Icon />`|cart4|
+|`<CashStackIcon />`|cash-stack|
+|`<CashIcon />`|cash|
+|`<CastIcon />`|cast|
+|`<ChatDotsFillIcon />`|chat-dots-fill|
+|`<ChatDotsIcon />`|chat-dots|
+|`<ChatFillIcon />`|chat-fill|
+|`<ChatLeftDotsFillIcon />`|chat-left-dots-fill|
+|`<ChatLeftDotsIcon />`|chat-left-dots|
+|`<ChatLeftFillIcon />`|chat-left-fill|
+|`<ChatLeftQuoteFillIcon />`|chat-left-quote-fill|
+|`<ChatLeftQuoteIcon />`|chat-left-quote|
+|`<ChatLeftTextFillIcon />`|chat-left-text-fill|
+|`<ChatLeftTextIcon />`|chat-left-text|
+|`<ChatLeftIcon />`|chat-left|
+|`<ChatQuoteFillIcon />`|chat-quote-fill|
+|`<ChatQuoteIcon />`|chat-quote|
+|`<ChatRightDotsFillIcon />`|chat-right-dots-fill|
+|`<ChatRightDotsIcon />`|chat-right-dots|
+|`<ChatRightFillIcon />`|chat-right-fill|
+|`<ChatRightQuoteFillIcon />`|chat-right-quote-fill|
+|`<ChatRightQuoteIcon />`|chat-right-quote|
+|`<ChatRightTextFillIcon />`|chat-right-text-fill|
+|`<ChatRightTextIcon />`|chat-right-text|
+|`<ChatRightIcon />`|chat-right|
+|`<ChatSquareDotsFillIcon />`|chat-square-dots-fill|
+|`<ChatSquareDotsIcon />`|chat-square-dots|
+|`<ChatSquareFillIcon />`|chat-square-fill|
+|`<ChatSquareQuoteFillIcon />`|chat-square-quote-fill|
+|`<ChatSquareQuoteIcon />`|chat-square-quote|
+|`<ChatSquareTextFillIcon />`|chat-square-text-fill|
+|`<ChatSquareTextIcon />`|chat-square-text|
+|`<ChatSquareIcon />`|chat-square|
+|`<ChatTextFillIcon />`|chat-text-fill|
+|`<ChatTextIcon />`|chat-text|
+|`<ChatIcon />`|chat|
+|`<CheckAllIcon />`|check-all|
+|`<CheckCircleFillIcon />`|check-circle-fill|
+|`<CheckCircleIcon />`|check-circle|
+|`<CheckSquareFillIcon />`|check-square-fill|
+|`<CheckSquareIcon />`|check-square|
+|`<CheckIcon />`|check|
+|`<Check2AllIcon />`|check2-all|
+|`<Check2CircleIcon />`|check2-circle|
+|`<Check2SquareIcon />`|check2-square|
+|`<Check2Icon />`|check2|
+|`<ChevronBarContractIcon />`|chevron-bar-contract|
+|`<ChevronBarDownIcon />`|chevron-bar-down|
+|`<ChevronBarExpandIcon />`|chevron-bar-expand|
+|`<ChevronBarLeftIcon />`|chevron-bar-left|
+|`<ChevronBarRightIcon />`|chevron-bar-right|
+|`<ChevronBarUpIcon />`|chevron-bar-up|
+|`<ChevronCompactDownIcon />`|chevron-compact-down|
+|`<ChevronCompactLeftIcon />`|chevron-compact-left|
+|`<ChevronCompactRightIcon />`|chevron-compact-right|
+|`<ChevronCompactUpIcon />`|chevron-compact-up|
+|`<ChevronContractIcon />`|chevron-contract|
+|`<ChevronDoubleDownIcon />`|chevron-double-down|
+|`<ChevronDoubleLeftIcon />`|chevron-double-left|
+|`<ChevronDoubleRightIcon />`|chevron-double-right|
+|`<ChevronDoubleUpIcon />`|chevron-double-up|
+|`<ChevronDownIcon />`|chevron-down|
+|`<ChevronExpandIcon />`|chevron-expand|
+|`<ChevronLeftIcon />`|chevron-left|
+|`<ChevronRightIcon />`|chevron-right|
+|`<ChevronUpIcon />`|chevron-up|
+|`<CircleFillIcon />`|circle-fill|
+|`<CircleHalfIcon />`|circle-half|
+|`<CircleSquareIcon />`|circle-square|
+|`<CircleIcon />`|circle|
+|`<ClipboardCheckIcon />`|clipboard-check|
+|`<ClipboardDataIcon />`|clipboard-data|
+|`<ClipboardMinusIcon />`|clipboard-minus|
+|`<ClipboardPlusIcon />`|clipboard-plus|
+|`<ClipboardXIcon />`|clipboard-x|
+|`<ClipboardIcon />`|clipboard|
+|`<ClockFillIcon />`|clock-fill|
+|`<ClockHistoryIcon />`|clock-history|
+|`<ClockIcon />`|clock|
+|`<CloudArrowDownFillIcon />`|cloud-arrow-down-fill|
+|`<CloudArrowDownIcon />`|cloud-arrow-down|
+|`<CloudArrowUpFillIcon />`|cloud-arrow-up-fill|
+|`<CloudArrowUpIcon />`|cloud-arrow-up|
+|`<CloudCheckFillIcon />`|cloud-check-fill|
+|`<CloudCheckIcon />`|cloud-check|
+|`<CloudDownloadFillIcon />`|cloud-download-fill|
+|`<CloudDownloadIcon />`|cloud-download|
+|`<CloudDrizzleFillIcon />`|cloud-drizzle-fill|
+|`<CloudDrizzleIcon />`|cloud-drizzle|
+|`<CloudFillIcon />`|cloud-fill|
+|`<CloudFogFillIcon />`|cloud-fog-fill|
+|`<CloudFogIcon />`|cloud-fog|
+|`<CloudFog2FillIcon />`|cloud-fog2-fill|
+|`<CloudFog2Icon />`|cloud-fog2|
+|`<CloudHailFillIcon />`|cloud-hail-fill|
+|`<CloudHailIcon />`|cloud-hail|
+|`<CloudHaze1Icon />`|cloud-haze-1|
+|`<CloudHazeFillIcon />`|cloud-haze-fill|
+|`<CloudHazeIcon />`|cloud-haze|
+|`<CloudHaze2FillIcon />`|cloud-haze2-fill|
+|`<CloudLightningFillIcon />`|cloud-lightning-fill|
+|`<CloudLightningRainFillIcon />`|cloud-lightning-rain-fill|
+|`<CloudLightningRainIcon />`|cloud-lightning-rain|
+|`<CloudLightningIcon />`|cloud-lightning|
+|`<CloudMinusFillIcon />`|cloud-minus-fill|
+|`<CloudMinusIcon />`|cloud-minus|
+|`<CloudMoonFillIcon />`|cloud-moon-fill|
+|`<CloudMoonIcon />`|cloud-moon|
+|`<CloudPlusFillIcon />`|cloud-plus-fill|
+|`<CloudPlusIcon />`|cloud-plus|
+|`<CloudRainFillIcon />`|cloud-rain-fill|
+|`<CloudRainHeavyFillIcon />`|cloud-rain-heavy-fill|
+|`<CloudRainHeavyIcon />`|cloud-rain-heavy|
+|`<CloudRainIcon />`|cloud-rain|
+|`<CloudSlashFillIcon />`|cloud-slash-fill|
+|`<CloudSlashIcon />`|cloud-slash|
+|`<CloudSleetFillIcon />`|cloud-sleet-fill|
+|`<CloudSleetIcon />`|cloud-sleet|
+|`<CloudSnowFillIcon />`|cloud-snow-fill|
+|`<CloudSnowIcon />`|cloud-snow|
+|`<CloudSunFillIcon />`|cloud-sun-fill|
+|`<CloudSunIcon />`|cloud-sun|
+|`<CloudUploadFillIcon />`|cloud-upload-fill|
+|`<CloudUploadIcon />`|cloud-upload|
+|`<CloudIcon />`|cloud|
+|`<CloudsFillIcon />`|clouds-fill|
+|`<CloudsIcon />`|clouds|
+|`<CloudyFillIcon />`|cloudy-fill|
+|`<CloudyIcon />`|cloudy|
+|`<CodeSlashIcon />`|code-slash|
+|`<CodeSquareIcon />`|code-square|
+|`<CodeIcon />`|code|
+|`<CollectionFillIcon />`|collection-fill|
+|`<CollectionPlayFillIcon />`|collection-play-fill|
+|`<CollectionPlayIcon />`|collection-play|
+|`<CollectionIcon />`|collection|
+|`<ColumnsGapIcon />`|columns-gap|
+|`<ColumnsIcon />`|columns|
+|`<CommandIcon />`|command|
+|`<CompassFillIcon />`|compass-fill|
+|`<CompassIcon />`|compass|
+|`<ConeStripedIcon />`|cone-striped|
+|`<ConeIcon />`|cone|
+|`<ControllerIcon />`|controller|
+|`<CpuFillIcon />`|cpu-fill|
+|`<CpuIcon />`|cpu|
+|`<CreditCard2BackFillIcon />`|credit-card-2-back-fill|
+|`<CreditCard2BackIcon />`|credit-card-2-back|
+|`<CreditCard2FrontFillIcon />`|credit-card-2-front-fill|
+|`<CreditCard2FrontIcon />`|credit-card-2-front|
+|`<CreditCardFillIcon />`|credit-card-fill|
+|`<CreditCardIcon />`|credit-card|
+|`<CropIcon />`|crop|
+|`<CupFillIcon />`|cup-fill|
+|`<CupStrawIcon />`|cup-straw|
+|`<CupIcon />`|cup|
+|`<CursorFillIcon />`|cursor-fill|
+|`<CursorTextIcon />`|cursor-text|
+|`<CursorIcon />`|cursor|
+|`<DashCircleDottedIcon />`|dash-circle-dotted|
+|`<DashCircleFillIcon />`|dash-circle-fill|
+|`<DashCircleIcon />`|dash-circle|
+|`<DashSquareDottedIcon />`|dash-square-dotted|
+|`<DashSquareFillIcon />`|dash-square-fill|
+|`<DashSquareIcon />`|dash-square|
+|`<DashIcon />`|dash|
+|`<Diagram2FillIcon />`|diagram-2-fill|
+|`<Diagram2Icon />`|diagram-2|
+|`<Diagram3FillIcon />`|diagram-3-fill|
+|`<Diagram3Icon />`|diagram-3|
+|`<DiamondFillIcon />`|diamond-fill|
+|`<DiamondHalfIcon />`|diamond-half|
+|`<DiamondIcon />`|diamond|
+|`<Dice1FillIcon />`|dice-1-fill|
+|`<Dice1Icon />`|dice-1|
+|`<Dice2FillIcon />`|dice-2-fill|
+|`<Dice2Icon />`|dice-2|
+|`<Dice3FillIcon />`|dice-3-fill|
+|`<Dice3Icon />`|dice-3|
+|`<Dice4FillIcon />`|dice-4-fill|
+|`<Dice4Icon />`|dice-4|
+|`<Dice5FillIcon />`|dice-5-fill|
+|`<Dice5Icon />`|dice-5|
+|`<Dice6FillIcon />`|dice-6-fill|
+|`<Dice6Icon />`|dice-6|
+|`<DiscFillIcon />`|disc-fill|
+|`<DiscIcon />`|disc|
+|`<DiscordIcon />`|discord|
+|`<DisplayFillIcon />`|display-fill|
+|`<DisplayIcon />`|display|
+|`<DistributeHorizontalIcon />`|distribute-horizontal|
+|`<DistributeVerticalIcon />`|distribute-vertical|
+|`<DoorClosedFillIcon />`|door-closed-fill|
+|`<DoorClosedIcon />`|door-closed|
+|`<DoorOpenFillIcon />`|door-open-fill|
+|`<DoorOpenIcon />`|door-open|
+|`<DotIcon />`|dot|
+|`<DownloadIcon />`|download|
+|`<DropletFillIcon />`|droplet-fill|
+|`<DropletHalfIcon />`|droplet-half|
+|`<DropletIcon />`|droplet|
+|`<EarbudsIcon />`|earbuds|
+|`<EaselFillIcon />`|easel-fill|
+|`<EaselIcon />`|easel|
+|`<EggFillIcon />`|egg-fill|
+|`<EggFriedIcon />`|egg-fried|
+|`<EggIcon />`|egg|
+|`<EjectFillIcon />`|eject-fill|
+|`<EjectIcon />`|eject|
+|`<EmojiAngryFillIcon />`|emoji-angry-fill|
+|`<EmojiAngryIcon />`|emoji-angry|
+|`<EmojiDizzyFillIcon />`|emoji-dizzy-fill|
+|`<EmojiDizzyIcon />`|emoji-dizzy|
+|`<EmojiExpressionlessFillIcon />`|emoji-expressionless-fill|
+|`<EmojiExpressionlessIcon />`|emoji-expressionless|
+|`<EmojiFrownFillIcon />`|emoji-frown-fill|
+|`<EmojiFrownIcon />`|emoji-frown|
+|`<EmojiHeartEyesFillIcon />`|emoji-heart-eyes-fill|
+|`<EmojiHeartEyesIcon />`|emoji-heart-eyes|
+|`<EmojiLaughingFillIcon />`|emoji-laughing-fill|
+|`<EmojiLaughingIcon />`|emoji-laughing|
+|`<EmojiNeutralFillIcon />`|emoji-neutral-fill|
+|`<EmojiNeutralIcon />`|emoji-neutral|
+|`<EmojiSmileFillIcon />`|emoji-smile-fill|
+|`<EmojiSmileUpsideDownFillIcon />`|emoji-smile-upside-down-fill|
+|`<EmojiSmileUpsideDownIcon />`|emoji-smile-upside-down|
+|`<EmojiSmileIcon />`|emoji-smile|
+|`<EmojiSunglassesFillIcon />`|emoji-sunglasses-fill|
+|`<EmojiSunglassesIcon />`|emoji-sunglasses|
+|`<EmojiWinkFillIcon />`|emoji-wink-fill|
+|`<EmojiWinkIcon />`|emoji-wink|
+|`<EnvelopeFillIcon />`|envelope-fill|
+|`<EnvelopeOpenFillIcon />`|envelope-open-fill|
+|`<EnvelopeOpenIcon />`|envelope-open|
+|`<EnvelopeIcon />`|envelope|
+|`<EraserFillIcon />`|eraser-fill|
+|`<EraserIcon />`|eraser|
+|`<ExclamationCircleFillIcon />`|exclamation-circle-fill|
+|`<ExclamationCircleIcon />`|exclamation-circle|
+|`<ExclamationDiamondFillIcon />`|exclamation-diamond-fill|
+|`<ExclamationDiamondIcon />`|exclamation-diamond|
+|`<ExclamationOctagonFillIcon />`|exclamation-octagon-fill|
+|`<ExclamationOctagonIcon />`|exclamation-octagon|
+|`<ExclamationSquareFillIcon />`|exclamation-square-fill|
+|`<ExclamationSquareIcon />`|exclamation-square|
+|`<ExclamationTriangleFillIcon />`|exclamation-triangle-fill|
+|`<ExclamationTriangleIcon />`|exclamation-triangle|
+|`<ExclamationIcon />`|exclamation|
+|`<ExcludeIcon />`|exclude|
+|`<EyeFillIcon />`|eye-fill|
+|`<EyeSlashFillIcon />`|eye-slash-fill|
+|`<EyeSlashIcon />`|eye-slash|
+|`<EyeIcon />`|eye|
+|`<EyedropperIcon />`|eyedropper|
+|`<EyeglassesIcon />`|eyeglasses|
+|`<FacebookIcon />`|facebook|
+|`<FileArrowDownFillIcon />`|file-arrow-down-fill|
+|`<FileArrowDownIcon />`|file-arrow-down|
+|`<FileArrowUpFillIcon />`|file-arrow-up-fill|
+|`<FileArrowUpIcon />`|file-arrow-up|
+|`<FileBarGraphFillIcon />`|file-bar-graph-fill|
+|`<FileBarGraphIcon />`|file-bar-graph|
+|`<FileBinaryFillIcon />`|file-binary-fill|
+|`<FileBinaryIcon />`|file-binary|
+|`<FileBreakFillIcon />`|file-break-fill|
+|`<FileBreakIcon />`|file-break|
+|`<FileCheckFillIcon />`|file-check-fill|
+|`<FileCheckIcon />`|file-check|
+|`<FileCodeFillIcon />`|file-code-fill|
+|`<FileCodeIcon />`|file-code|
+|`<FileDiffFillIcon />`|file-diff-fill|
+|`<FileDiffIcon />`|file-diff|
+|`<FileEarmarkArrowDownFillIcon />`|file-earmark-arrow-down-fill|
+|`<FileEarmarkArrowDownIcon />`|file-earmark-arrow-down|
+|`<FileEarmarkArrowUpFillIcon />`|file-earmark-arrow-up-fill|
+|`<FileEarmarkArrowUpIcon />`|file-earmark-arrow-up|
+|`<FileEarmarkBarGraphFillIcon />`|file-earmark-bar-graph-fill|
+|`<FileEarmarkBarGraphIcon />`|file-earmark-bar-graph|
+|`<FileEarmarkBinaryFillIcon />`|file-earmark-binary-fill|
+|`<FileEarmarkBinaryIcon />`|file-earmark-binary|
+|`<FileEarmarkBreakFillIcon />`|file-earmark-break-fill|
+|`<FileEarmarkBreakIcon />`|file-earmark-break|
+|`<FileEarmarkCheckFillIcon />`|file-earmark-check-fill|
+|`<FileEarmarkCheckIcon />`|file-earmark-check|
+|`<FileEarmarkCodeFillIcon />`|file-earmark-code-fill|
+|`<FileEarmarkCodeIcon />`|file-earmark-code|
+|`<FileEarmarkDiffFillIcon />`|file-earmark-diff-fill|
+|`<FileEarmarkDiffIcon />`|file-earmark-diff|
+|`<FileEarmarkEaselFillIcon />`|file-earmark-easel-fill|
+|`<FileEarmarkEaselIcon />`|file-earmark-easel|
+|`<FileEarmarkExcelFillIcon />`|file-earmark-excel-fill|
+|`<FileEarmarkExcelIcon />`|file-earmark-excel|
+|`<FileEarmarkFillIcon />`|file-earmark-fill|
+|`<FileEarmarkFontFillIcon />`|file-earmark-font-fill|
+|`<FileEarmarkFontIcon />`|file-earmark-font|
+|`<FileEarmarkImageFillIcon />`|file-earmark-image-fill|
+|`<FileEarmarkImageIcon />`|file-earmark-image|
+|`<FileEarmarkLockFillIcon />`|file-earmark-lock-fill|
+|`<FileEarmarkLockIcon />`|file-earmark-lock|
+|`<FileEarmarkLock2FillIcon />`|file-earmark-lock2-fill|
+|`<FileEarmarkLock2Icon />`|file-earmark-lock2|
+|`<FileEarmarkMedicalFillIcon />`|file-earmark-medical-fill|
+|`<FileEarmarkMedicalIcon />`|file-earmark-medical|
+|`<FileEarmarkMinusFillIcon />`|file-earmark-minus-fill|
+|`<FileEarmarkMinusIcon />`|file-earmark-minus|
+|`<FileEarmarkMusicFillIcon />`|file-earmark-music-fill|
+|`<FileEarmarkMusicIcon />`|file-earmark-music|
+|`<FileEarmarkPersonFillIcon />`|file-earmark-person-fill|
+|`<FileEarmarkPersonIcon />`|file-earmark-person|
+|`<FileEarmarkPlayFillIcon />`|file-earmark-play-fill|
+|`<FileEarmarkPlayIcon />`|file-earmark-play|
+|`<FileEarmarkPlusFillIcon />`|file-earmark-plus-fill|
+|`<FileEarmarkPlusIcon />`|file-earmark-plus|
+|`<FileEarmarkPostFillIcon />`|file-earmark-post-fill|
+|`<FileEarmarkPostIcon />`|file-earmark-post|
+|`<FileEarmarkPptFillIcon />`|file-earmark-ppt-fill|
+|`<FileEarmarkPptIcon />`|file-earmark-ppt|
+|`<FileEarmarkRichtextFillIcon />`|file-earmark-richtext-fill|
+|`<FileEarmarkRichtextIcon />`|file-earmark-richtext|
+|`<FileEarmarkRuledFillIcon />`|file-earmark-ruled-fill|
+|`<FileEarmarkRuledIcon />`|file-earmark-ruled|
+|`<FileEarmarkSlidesFillIcon />`|file-earmark-slides-fill|
+|`<FileEarmarkSlidesIcon />`|file-earmark-slides|
+|`<FileEarmarkSpreadsheetFillIcon />`|file-earmark-spreadsheet-fill|
+|`<FileEarmarkSpreadsheetIcon />`|file-earmark-spreadsheet|
+|`<FileEarmarkTextFillIcon />`|file-earmark-text-fill|
+|`<FileEarmarkTextIcon />`|file-earmark-text|
+|`<FileEarmarkWordFillIcon />`|file-earmark-word-fill|
+|`<FileEarmarkWordIcon />`|file-earmark-word|
+|`<FileEarmarkXFillIcon />`|file-earmark-x-fill|
+|`<FileEarmarkXIcon />`|file-earmark-x|
+|`<FileEarmarkZipFillIcon />`|file-earmark-zip-fill|
+|`<FileEarmarkZipIcon />`|file-earmark-zip|
+|`<FileEarmarkIcon />`|file-earmark|
+|`<FileEaselFillIcon />`|file-easel-fill|
+|`<FileEaselIcon />`|file-easel|
+|`<FileExcelFillIcon />`|file-excel-fill|
+|`<FileExcelIcon />`|file-excel|
+|`<FileFillIcon />`|file-fill|
+|`<FileFontFillIcon />`|file-font-fill|
+|`<FileFontIcon />`|file-font|
+|`<FileImageFillIcon />`|file-image-fill|
+|`<FileImageIcon />`|file-image|
+|`<FileLockFillIcon />`|file-lock-fill|
+|`<FileLockIcon />`|file-lock|
+|`<FileLock2FillIcon />`|file-lock2-fill|
+|`<FileLock2Icon />`|file-lock2|
+|`<FileMedicalFillIcon />`|file-medical-fill|
+|`<FileMedicalIcon />`|file-medical|
+|`<FileMinusFillIcon />`|file-minus-fill|
+|`<FileMinusIcon />`|file-minus|
+|`<FileMusicFillIcon />`|file-music-fill|
+|`<FileMusicIcon />`|file-music|
+|`<FilePersonFillIcon />`|file-person-fill|
+|`<FilePersonIcon />`|file-person|
+|`<FilePlayFillIcon />`|file-play-fill|
+|`<FilePlayIcon />`|file-play|
+|`<FilePlusFillIcon />`|file-plus-fill|
+|`<FilePlusIcon />`|file-plus|
+|`<FilePostFillIcon />`|file-post-fill|
+|`<FilePostIcon />`|file-post|
+|`<FilePptFillIcon />`|file-ppt-fill|
+|`<FilePptIcon />`|file-ppt|
+|`<FileRichtextFillIcon />`|file-richtext-fill|
+|`<FileRichtextIcon />`|file-richtext|
+|`<FileRuledFillIcon />`|file-ruled-fill|
+|`<FileRuledIcon />`|file-ruled|
+|`<FileSlidesFillIcon />`|file-slides-fill|
+|`<FileSlidesIcon />`|file-slides|
+|`<FileSpreadsheetFillIcon />`|file-spreadsheet-fill|
+|`<FileSpreadsheetIcon />`|file-spreadsheet|
+|`<FileTextFillIcon />`|file-text-fill|
+|`<FileTextIcon />`|file-text|
+|`<FileWordFillIcon />`|file-word-fill|
+|`<FileWordIcon />`|file-word|
+|`<FileXFillIcon />`|file-x-fill|
+|`<FileXIcon />`|file-x|
+|`<FileZipFillIcon />`|file-zip-fill|
+|`<FileZipIcon />`|file-zip|
+|`<FileIcon />`|file|
+|`<FilesAltIcon />`|files-alt|
+|`<FilesIcon />`|files|
+|`<FilmIcon />`|film|
+|`<FilterCircleFillIcon />`|filter-circle-fill|
+|`<FilterCircleIcon />`|filter-circle|
+|`<FilterLeftIcon />`|filter-left|
+|`<FilterRightIcon />`|filter-right|
+|`<FilterSquareFillIcon />`|filter-square-fill|
+|`<FilterSquareIcon />`|filter-square|
+|`<FilterIcon />`|filter|
+|`<FlagFillIcon />`|flag-fill|
+|`<FlagIcon />`|flag|
+|`<Flower1Icon />`|flower1|
+|`<Flower2Icon />`|flower2|
+|`<Flower3Icon />`|flower3|
+|`<FolderCheckIcon />`|folder-check|
+|`<FolderFillIcon />`|folder-fill|
+|`<FolderMinusIcon />`|folder-minus|
+|`<FolderPlusIcon />`|folder-plus|
+|`<FolderSymlinkFillIcon />`|folder-symlink-fill|
+|`<FolderSymlinkIcon />`|folder-symlink|
+|`<FolderXIcon />`|folder-x|
+|`<FolderIcon />`|folder|
+|`<Folder2OpenIcon />`|folder2-open|
+|`<Folder2Icon />`|folder2|
+|`<FontsIcon />`|fonts|
+|`<ForwardFillIcon />`|forward-fill|
+|`<ForwardIcon />`|forward|
+|`<FrontIcon />`|front|
+|`<FullscreenExitIcon />`|fullscreen-exit|
+|`<FullscreenIcon />`|fullscreen|
+|`<FunnelFillIcon />`|funnel-fill|
+|`<FunnelIcon />`|funnel|
+|`<GearFillIcon />`|gear-fill|
+|`<GearWideConnectedIcon />`|gear-wide-connected|
+|`<GearWideIcon />`|gear-wide|
+|`<GearIcon />`|gear|
+|`<GemIcon />`|gem|
+|`<GeoAltFillIcon />`|geo-alt-fill|
+|`<GeoAltIcon />`|geo-alt|
+|`<GeoFillIcon />`|geo-fill|
+|`<GeoIcon />`|geo|
+|`<GiftFillIcon />`|gift-fill|
+|`<GiftIcon />`|gift|
+|`<GithubIcon />`|github|
+|`<GlobeIcon />`|globe|
+|`<Globe2Icon />`|globe2|
+|`<GoogleIcon />`|google|
+|`<GraphDownIcon />`|graph-down|
+|`<GraphUpIcon />`|graph-up|
+|`<Grid1x2FillIcon />`|grid-1x2-fill|
+|`<Grid1x2Icon />`|grid-1x2|
+|`<Grid3x2GapFillIcon />`|grid-3x2-gap-fill|
+|`<Grid3x2GapIcon />`|grid-3x2-gap|
+|`<Grid3x2Icon />`|grid-3x2|
+|`<Grid3x3GapFillIcon />`|grid-3x3-gap-fill|
+|`<Grid3x3GapIcon />`|grid-3x3-gap|
+|`<Grid3x3Icon />`|grid-3x3|
+|`<GridFillIcon />`|grid-fill|
+|`<GridIcon />`|grid|
+|`<GripHorizontalIcon />`|grip-horizontal|
+|`<GripVerticalIcon />`|grip-vertical|
+|`<HammerIcon />`|hammer|
+|`<HandIndexFillIcon />`|hand-index-fill|
+|`<HandIndexThumbFillIcon />`|hand-index-thumb-fill|
+|`<HandIndexThumbIcon />`|hand-index-thumb|
+|`<HandIndexIcon />`|hand-index|
+|`<HandThumbsDownFillIcon />`|hand-thumbs-down-fill|
+|`<HandThumbsDownIcon />`|hand-thumbs-down|
+|`<HandThumbsUpFillIcon />`|hand-thumbs-up-fill|
+|`<HandThumbsUpIcon />`|hand-thumbs-up|
+|`<HandbagFillIcon />`|handbag-fill|
+|`<HandbagIcon />`|handbag|
+|`<HashIcon />`|hash|
+|`<HddFillIcon />`|hdd-fill|
+|`<HddNetworkFillIcon />`|hdd-network-fill|
+|`<HddNetworkIcon />`|hdd-network|
+|`<HddRackFillIcon />`|hdd-rack-fill|
+|`<HddRackIcon />`|hdd-rack|
+|`<HddStackFillIcon />`|hdd-stack-fill|
+|`<HddStackIcon />`|hdd-stack|
+|`<HddIcon />`|hdd|
+|`<HeadphonesIcon />`|headphones|
+|`<HeadsetIcon />`|headset|
+|`<HeartFillIcon />`|heart-fill|
+|`<HeartHalfIcon />`|heart-half|
+|`<HeartIcon />`|heart|
+|`<HeptagonFillIcon />`|heptagon-fill|
+|`<HeptagonHalfIcon />`|heptagon-half|
+|`<HeptagonIcon />`|heptagon|
+|`<HexagonFillIcon />`|hexagon-fill|
+|`<HexagonHalfIcon />`|hexagon-half|
+|`<HexagonIcon />`|hexagon|
+|`<HourglassBottomIcon />`|hourglass-bottom|
+|`<HourglassSplitIcon />`|hourglass-split|
+|`<HourglassTopIcon />`|hourglass-top|
+|`<HourglassIcon />`|hourglass|
+|`<HouseDoorFillIcon />`|house-door-fill|
+|`<HouseDoorIcon />`|house-door|
+|`<HouseFillIcon />`|house-fill|
+|`<HouseIcon />`|house|
+|`<HrIcon />`|hr|
+|`<HurricaneIcon />`|hurricane|
+|`<ImageAltIcon />`|image-alt|
+|`<ImageFillIcon />`|image-fill|
+|`<ImageIcon />`|image|
+|`<ImagesIcon />`|images|
+|`<InboxFillIcon />`|inbox-fill|
+|`<InboxIcon />`|inbox|
+|`<InboxesFillIcon />`|inboxes-fill|
+|`<InboxesIcon />`|inboxes|
+|`<InfoCircleFillIcon />`|info-circle-fill|
+|`<InfoCircleIcon />`|info-circle|
+|`<InfoSquareFillIcon />`|info-square-fill|
+|`<InfoSquareIcon />`|info-square|
+|`<InfoIcon />`|info|
+|`<InputCursorTextIcon />`|input-cursor-text|
+|`<InputCursorIcon />`|input-cursor|
+|`<InstagramIcon />`|instagram|
+|`<IntersectIcon />`|intersect|
+|`<JournalAlbumIcon />`|journal-album|
+|`<JournalArrowDownIcon />`|journal-arrow-down|
+|`<JournalArrowUpIcon />`|journal-arrow-up|
+|`<JournalBookmarkFillIcon />`|journal-bookmark-fill|
+|`<JournalBookmarkIcon />`|journal-bookmark|
+|`<JournalCheckIcon />`|journal-check|
+|`<JournalCodeIcon />`|journal-code|
+|`<JournalMedicalIcon />`|journal-medical|
+|`<JournalMinusIcon />`|journal-minus|
+|`<JournalPlusIcon />`|journal-plus|
+|`<JournalRichtextIcon />`|journal-richtext|
+|`<JournalTextIcon />`|journal-text|
+|`<JournalXIcon />`|journal-x|
+|`<JournalIcon />`|journal|
+|`<JournalsIcon />`|journals|
+|`<JoystickIcon />`|joystick|
+|`<JustifyLeftIcon />`|justify-left|
+|`<JustifyRightIcon />`|justify-right|
+|`<JustifyIcon />`|justify|
+|`<KanbanFillIcon />`|kanban-fill|
+|`<KanbanIcon />`|kanban|
+|`<KeyFillIcon />`|key-fill|
+|`<KeyIcon />`|key|
+|`<KeyboardFillIcon />`|keyboard-fill|
+|`<KeyboardIcon />`|keyboard|
+|`<LadderIcon />`|ladder|
+|`<LampFillIcon />`|lamp-fill|
+|`<LampIcon />`|lamp|
+|`<LaptopFillIcon />`|laptop-fill|
+|`<LaptopIcon />`|laptop|
+|`<LayerBackwardIcon />`|layer-backward|
+|`<LayerForwardIcon />`|layer-forward|
+|`<LayersFillIcon />`|layers-fill|
+|`<LayersHalfIcon />`|layers-half|
+|`<LayersIcon />`|layers|
+|`<LayoutSidebarInsetReverseIcon />`|layout-sidebar-inset-reverse|
+|`<LayoutSidebarInsetIcon />`|layout-sidebar-inset|
+|`<LayoutSidebarReverseIcon />`|layout-sidebar-reverse|
+|`<LayoutSidebarIcon />`|layout-sidebar|
+|`<LayoutSplitIcon />`|layout-split|
+|`<LayoutTextSidebarReverseIcon />`|layout-text-sidebar-reverse|
+|`<LayoutTextSidebarIcon />`|layout-text-sidebar|
+|`<LayoutTextWindowReverseIcon />`|layout-text-window-reverse|
+|`<LayoutTextWindowIcon />`|layout-text-window|
+|`<LayoutThreeColumnsIcon />`|layout-three-columns|
+|`<LayoutWtfIcon />`|layout-wtf|
+|`<LifePreserverIcon />`|life-preserver|
+|`<LightbulbFillIcon />`|lightbulb-fill|
+|`<LightbulbOffFillIcon />`|lightbulb-off-fill|
+|`<LightbulbOffIcon />`|lightbulb-off|
+|`<LightbulbIcon />`|lightbulb|
+|`<LightningChargeFillIcon />`|lightning-charge-fill|
+|`<LightningChargeIcon />`|lightning-charge|
+|`<LightningFillIcon />`|lightning-fill|
+|`<LightningIcon />`|lightning|
+|`<Link45degIcon />`|link-45deg|
+|`<LinkIcon />`|link|
+|`<LinkedinIcon />`|linkedin|
+|`<ListCheckIcon />`|list-check|
+|`<ListNestedIcon />`|list-nested|
+|`<ListOlIcon />`|list-ol|
+|`<ListStarsIcon />`|list-stars|
+|`<ListTaskIcon />`|list-task|
+|`<ListUlIcon />`|list-ul|
+|`<ListIcon />`|list|
+|`<LockFillIcon />`|lock-fill|
+|`<LockIcon />`|lock|
+|`<MailboxIcon />`|mailbox|
+|`<Mailbox2Icon />`|mailbox2|
+|`<MapFillIcon />`|map-fill|
+|`<MapIcon />`|map|
+|`<MarkdownFillIcon />`|markdown-fill|
+|`<MarkdownIcon />`|markdown|
+|`<MaskIcon />`|mask|
+|`<MegaphoneFillIcon />`|megaphone-fill|
+|`<MegaphoneIcon />`|megaphone|
+|`<MenuAppFillIcon />`|menu-app-fill|
+|`<MenuAppIcon />`|menu-app|
+|`<MenuButtonFillIcon />`|menu-button-fill|
+|`<MenuButtonWideFillIcon />`|menu-button-wide-fill|
+|`<MenuButtonWideIcon />`|menu-button-wide|
+|`<MenuButtonIcon />`|menu-button|
+|`<MenuDownIcon />`|menu-down|
+|`<MenuUpIcon />`|menu-up|
+|`<MicFillIcon />`|mic-fill|
+|`<MicMuteFillIcon />`|mic-mute-fill|
+|`<MicMuteIcon />`|mic-mute|
+|`<MicIcon />`|mic|
+|`<MinecartLoadedIcon />`|minecart-loaded|
+|`<MinecartIcon />`|minecart|
+|`<MoistureIcon />`|moisture|
+|`<MoonFillIcon />`|moon-fill|
+|`<MoonStarsFillIcon />`|moon-stars-fill|
+|`<MoonStarsIcon />`|moon-stars|
+|`<MoonIcon />`|moon|
+|`<MouseFillIcon />`|mouse-fill|
+|`<MouseIcon />`|mouse|
+|`<Mouse2FillIcon />`|mouse2-fill|
+|`<Mouse2Icon />`|mouse2|
+|`<Mouse3FillIcon />`|mouse3-fill|
+|`<Mouse3Icon />`|mouse3|
+|`<MusicNoteBeamedIcon />`|music-note-beamed|
+|`<MusicNoteListIcon />`|music-note-list|
+|`<MusicNoteIcon />`|music-note|
+|`<MusicPlayerFillIcon />`|music-player-fill|
+|`<MusicPlayerIcon />`|music-player|
+|`<NewspaperIcon />`|newspaper|
+|`<NodeMinusFillIcon />`|node-minus-fill|
+|`<NodeMinusIcon />`|node-minus|
+|`<NodePlusFillIcon />`|node-plus-fill|
+|`<NodePlusIcon />`|node-plus|
+|`<NutFillIcon />`|nut-fill|
+|`<NutIcon />`|nut|
+|`<OctagonFillIcon />`|octagon-fill|
+|`<OctagonHalfIcon />`|octagon-half|
+|`<OctagonIcon />`|octagon|
+|`<OptionIcon />`|option|
+|`<OutletIcon />`|outlet|
+|`<PaintBucketIcon />`|paint-bucket|
+|`<PaletteFillIcon />`|palette-fill|
+|`<PaletteIcon />`|palette|
+|`<Palette2Icon />`|palette2|
+|`<PaperclipIcon />`|paperclip|
+|`<ParagraphIcon />`|paragraph|
+|`<PatchCheckFillIcon />`|patch-check-fill|
+|`<PatchCheckIcon />`|patch-check|
+|`<PatchExclamationFillIcon />`|patch-exclamation-fill|
+|`<PatchExclamationIcon />`|patch-exclamation|
+|`<PatchMinusFillIcon />`|patch-minus-fill|
+|`<PatchMinusIcon />`|patch-minus|
+|`<PatchPlusFillIcon />`|patch-plus-fill|
+|`<PatchPlusIcon />`|patch-plus|
+|`<PatchQuestionFillIcon />`|patch-question-fill|
+|`<PatchQuestionIcon />`|patch-question|
+|`<PauseBtnFillIcon />`|pause-btn-fill|
+|`<PauseBtnIcon />`|pause-btn|
+|`<PauseCircleFillIcon />`|pause-circle-fill|
+|`<PauseCircleIcon />`|pause-circle|
+|`<PauseFillIcon />`|pause-fill|
+|`<PauseIcon />`|pause|
+|`<PeaceFillIcon />`|peace-fill|
+|`<PeaceIcon />`|peace|
+|`<PenFillIcon />`|pen-fill|
+|`<PenIcon />`|pen|
+|`<PencilFillIcon />`|pencil-fill|
+|`<PencilSquareIcon />`|pencil-square|
+|`<PencilIcon />`|pencil|
+|`<PentagonFillIcon />`|pentagon-fill|
+|`<PentagonHalfIcon />`|pentagon-half|
+|`<PentagonIcon />`|pentagon|
+|`<PeopleFillIcon />`|people-fill|
+|`<PeopleIcon />`|people|
+|`<PercentIcon />`|percent|
+|`<PersonBadgeFillIcon />`|person-badge-fill|
+|`<PersonBadgeIcon />`|person-badge|
+|`<PersonBoundingBoxIcon />`|person-bounding-box|
+|`<PersonCheckFillIcon />`|person-check-fill|
+|`<PersonCheckIcon />`|person-check|
+|`<PersonCircleIcon />`|person-circle|
+|`<PersonDashFillIcon />`|person-dash-fill|
+|`<PersonDashIcon />`|person-dash|
+|`<PersonFillIcon />`|person-fill|
+|`<PersonLinesFillIcon />`|person-lines-fill|
+|`<PersonPlusFillIcon />`|person-plus-fill|
+|`<PersonPlusIcon />`|person-plus|
+|`<PersonSquareIcon />`|person-square|
+|`<PersonXFillIcon />`|person-x-fill|
+|`<PersonXIcon />`|person-x|
+|`<PersonIcon />`|person|
+|`<PhoneFillIcon />`|phone-fill|
+|`<PhoneLandscapeFillIcon />`|phone-landscape-fill|
+|`<PhoneLandscapeIcon />`|phone-landscape|
+|`<PhoneVibrateFillIcon />`|phone-vibrate-fill|
+|`<PhoneVibrateIcon />`|phone-vibrate|
+|`<PhoneIcon />`|phone|
+|`<PieChartFillIcon />`|pie-chart-fill|
+|`<PieChartIcon />`|pie-chart|
+|`<PinAngleFillIcon />`|pin-angle-fill|
+|`<PinAngleIcon />`|pin-angle|
+|`<PinFillIcon />`|pin-fill|
+|`<PinIcon />`|pin|
+|`<PipFillIcon />`|pip-fill|
+|`<PipIcon />`|pip|
+|`<PlayBtnFillIcon />`|play-btn-fill|
+|`<PlayBtnIcon />`|play-btn|
+|`<PlayCircleFillIcon />`|play-circle-fill|
+|`<PlayCircleIcon />`|play-circle|
+|`<PlayFillIcon />`|play-fill|
+|`<PlayIcon />`|play|
+|`<PlugFillIcon />`|plug-fill|
+|`<PlugIcon />`|plug|
+|`<PlusCircleDottedIcon />`|plus-circle-dotted|
+|`<PlusCircleFillIcon />`|plus-circle-fill|
+|`<PlusCircleIcon />`|plus-circle|
+|`<PlusSquareDottedIcon />`|plus-square-dotted|
+|`<PlusSquareFillIcon />`|plus-square-fill|
+|`<PlusSquareIcon />`|plus-square|
+|`<PlusIcon />`|plus|
+|`<PowerIcon />`|power|
+|`<PrinterFillIcon />`|printer-fill|
+|`<PrinterIcon />`|printer|
+|`<PuzzleFillIcon />`|puzzle-fill|
+|`<PuzzleIcon />`|puzzle|
+|`<QuestionCircleFillIcon />`|question-circle-fill|
+|`<QuestionCircleIcon />`|question-circle|
+|`<QuestionDiamondFillIcon />`|question-diamond-fill|
+|`<QuestionDiamondIcon />`|question-diamond|
+|`<QuestionOctagonFillIcon />`|question-octagon-fill|
+|`<QuestionOctagonIcon />`|question-octagon|
+|`<QuestionSquareFillIcon />`|question-square-fill|
+|`<QuestionSquareIcon />`|question-square|
+|`<QuestionIcon />`|question|
+|`<RainbowIcon />`|rainbow|
+|`<ReceiptCutoffIcon />`|receipt-cutoff|
+|`<ReceiptIcon />`|receipt|
+|`<Reception0Icon />`|reception-0|
+|`<Reception1Icon />`|reception-1|
+|`<Reception2Icon />`|reception-2|
+|`<Reception3Icon />`|reception-3|
+|`<Reception4Icon />`|reception-4|
+|`<RecordBtnFillIcon />`|record-btn-fill|
+|`<RecordBtnIcon />`|record-btn|
+|`<RecordCircleFillIcon />`|record-circle-fill|
+|`<RecordCircleIcon />`|record-circle|
+|`<RecordFillIcon />`|record-fill|
+|`<RecordIcon />`|record|
+|`<Record2FillIcon />`|record2-fill|
+|`<Record2Icon />`|record2|
+|`<ReplyAllFillIcon />`|reply-all-fill|
+|`<ReplyAllIcon />`|reply-all|
+|`<ReplyFillIcon />`|reply-fill|
+|`<ReplyIcon />`|reply|
+|`<RssFillIcon />`|rss-fill|
+|`<RssIcon />`|rss|
+|`<RulersIcon />`|rulers|
+|`<SaveFillIcon />`|save-fill|
+|`<SaveIcon />`|save|
+|`<Save2FillIcon />`|save2-fill|
+|`<Save2Icon />`|save2|
+|`<ScissorsIcon />`|scissors|
+|`<ScrewdriverIcon />`|screwdriver|
+|`<SearchIcon />`|search|
+|`<SegmentedNavIcon />`|segmented-nav|
+|`<ServerIcon />`|server|
+|`<ShareFillIcon />`|share-fill|
+|`<ShareIcon />`|share|
+|`<ShieldCheckIcon />`|shield-check|
+|`<ShieldExclamationIcon />`|shield-exclamation|
+|`<ShieldFillCheckIcon />`|shield-fill-check|
+|`<ShieldFillExclamationIcon />`|shield-fill-exclamation|
+|`<ShieldFillMinusIcon />`|shield-fill-minus|
+|`<ShieldFillPlusIcon />`|shield-fill-plus|
+|`<ShieldFillXIcon />`|shield-fill-x|
+|`<ShieldFillIcon />`|shield-fill|
+|`<ShieldLockFillIcon />`|shield-lock-fill|
+|`<ShieldLockIcon />`|shield-lock|
+|`<ShieldMinusIcon />`|shield-minus|
+|`<ShieldPlusIcon />`|shield-plus|
+|`<ShieldShadedIcon />`|shield-shaded|
+|`<ShieldSlashFillIcon />`|shield-slash-fill|
+|`<ShieldSlashIcon />`|shield-slash|
+|`<ShieldXIcon />`|shield-x|
+|`<ShieldIcon />`|shield|
+|`<ShiftFillIcon />`|shift-fill|
+|`<ShiftIcon />`|shift|
+|`<ShopWindowIcon />`|shop-window|
+|`<ShopIcon />`|shop|
+|`<ShuffleIcon />`|shuffle|
+|`<Signpost2FillIcon />`|signpost-2-fill|
+|`<Signpost2Icon />`|signpost-2|
+|`<SignpostFillIcon />`|signpost-fill|
+|`<SignpostSplitFillIcon />`|signpost-split-fill|
+|`<SignpostSplitIcon />`|signpost-split|
+|`<SignpostIcon />`|signpost|
+|`<SimFillIcon />`|sim-fill|
+|`<SimIcon />`|sim|
+|`<SkipBackwardBtnFillIcon />`|skip-backward-btn-fill|
+|`<SkipBackwardBtnIcon />`|skip-backward-btn|
+|`<SkipBackwardCircleFillIcon />`|skip-backward-circle-fill|
+|`<SkipBackwardCircleIcon />`|skip-backward-circle|
+|`<SkipBackwardFillIcon />`|skip-backward-fill|
+|`<SkipBackwardIcon />`|skip-backward|
+|`<SkipEndBtnFillIcon />`|skip-end-btn-fill|
+|`<SkipEndBtnIcon />`|skip-end-btn|
+|`<SkipEndCircleFillIcon />`|skip-end-circle-fill|
+|`<SkipEndCircleIcon />`|skip-end-circle|
+|`<SkipEndFillIcon />`|skip-end-fill|
+|`<SkipEndIcon />`|skip-end|
+|`<SkipForwardBtnFillIcon />`|skip-forward-btn-fill|
+|`<SkipForwardBtnIcon />`|skip-forward-btn|
+|`<SkipForwardCircleFillIcon />`|skip-forward-circle-fill|
+|`<SkipForwardCircleIcon />`|skip-forward-circle|
+|`<SkipForwardFillIcon />`|skip-forward-fill|
+|`<SkipForwardIcon />`|skip-forward|
+|`<SkipStartBtnFillIcon />`|skip-start-btn-fill|
+|`<SkipStartBtnIcon />`|skip-start-btn|
+|`<SkipStartCircleFillIcon />`|skip-start-circle-fill|
+|`<SkipStartCircleIcon />`|skip-start-circle|
+|`<SkipStartFillIcon />`|skip-start-fill|
+|`<SkipStartIcon />`|skip-start|
+|`<SlackIcon />`|slack|
+|`<SlashCircleFillIcon />`|slash-circle-fill|
+|`<SlashCircleIcon />`|slash-circle|
+|`<SlashSquareFillIcon />`|slash-square-fill|
+|`<SlashSquareIcon />`|slash-square|
+|`<SlashIcon />`|slash|
+|`<SlidersIcon />`|sliders|
+|`<SmartwatchIcon />`|smartwatch|
+|`<SnowIcon />`|snow|
+|`<Snow2Icon />`|snow2|
+|`<Snow3Icon />`|snow3|
+|`<SortAlphaDownAltIcon />`|sort-alpha-down-alt|
+|`<SortAlphaDownIcon />`|sort-alpha-down|
+|`<SortAlphaUpAltIcon />`|sort-alpha-up-alt|
+|`<SortAlphaUpIcon />`|sort-alpha-up|
+|`<SortDownAltIcon />`|sort-down-alt|
+|`<SortDownIcon />`|sort-down|
+|`<SortNumericDownAltIcon />`|sort-numeric-down-alt|
+|`<SortNumericDownIcon />`|sort-numeric-down|
+|`<SortNumericUpAltIcon />`|sort-numeric-up-alt|
+|`<SortNumericUpIcon />`|sort-numeric-up|
+|`<SortUpAltIcon />`|sort-up-alt|
+|`<SortUpIcon />`|sort-up|
+|`<SoundwaveIcon />`|soundwave|
+|`<SpeakerFillIcon />`|speaker-fill|
+|`<SpeakerIcon />`|speaker|
+|`<SpeedometerIcon />`|speedometer|
+|`<Speedometer2Icon />`|speedometer2|
+|`<SpellcheckIcon />`|spellcheck|
+|`<SquareFillIcon />`|square-fill|
+|`<SquareHalfIcon />`|square-half|
+|`<SquareIcon />`|square|
+|`<StackIcon />`|stack|
+|`<StarFillIcon />`|star-fill|
+|`<StarHalfIcon />`|star-half|
+|`<StarIcon />`|star|
+|`<StarsIcon />`|stars|
+|`<StickiesFillIcon />`|stickies-fill|
+|`<StickiesIcon />`|stickies|
+|`<StickyFillIcon />`|sticky-fill|
+|`<StickyIcon />`|sticky|
+|`<StopBtnFillIcon />`|stop-btn-fill|
+|`<StopBtnIcon />`|stop-btn|
+|`<StopCircleFillIcon />`|stop-circle-fill|
+|`<StopCircleIcon />`|stop-circle|
+|`<StopFillIcon />`|stop-fill|
+|`<StopIcon />`|stop|
+|`<StoplightsFillIcon />`|stoplights-fill|
+|`<StoplightsIcon />`|stoplights|
+|`<StopwatchFillIcon />`|stopwatch-fill|
+|`<StopwatchIcon />`|stopwatch|
+|`<SubtractIcon />`|subtract|
+|`<SuitClubFillIcon />`|suit-club-fill|
+|`<SuitClubIcon />`|suit-club|
+|`<SuitDiamondFillIcon />`|suit-diamond-fill|
+|`<SuitDiamondIcon />`|suit-diamond|
+|`<SuitHeartFillIcon />`|suit-heart-fill|
+|`<SuitHeartIcon />`|suit-heart|
+|`<SuitSpadeFillIcon />`|suit-spade-fill|
+|`<SuitSpadeIcon />`|suit-spade|
+|`<SunFillIcon />`|sun-fill|
+|`<SunIcon />`|sun|
+|`<SunglassesIcon />`|sunglasses|
+|`<SunriseFillIcon />`|sunrise-fill|
+|`<SunriseIcon />`|sunrise|
+|`<SunsetFillIcon />`|sunset-fill|
+|`<SunsetIcon />`|sunset|
+|`<SymmetryHorizontalIcon />`|symmetry-horizontal|
+|`<SymmetryVerticalIcon />`|symmetry-vertical|
+|`<TableIcon />`|table|
+|`<TabletFillIcon />`|tablet-fill|
+|`<TabletLandscapeFillIcon />`|tablet-landscape-fill|
+|`<TabletLandscapeIcon />`|tablet-landscape|
+|`<TabletIcon />`|tablet|
+|`<TagFillIcon />`|tag-fill|
+|`<TagIcon />`|tag|
+|`<TagsFillIcon />`|tags-fill|
+|`<TagsIcon />`|tags|
+|`<TelegramIcon />`|telegram|
+|`<TelephoneFillIcon />`|telephone-fill|
+|`<TelephoneForwardFillIcon />`|telephone-forward-fill|
+|`<TelephoneForwardIcon />`|telephone-forward|
+|`<TelephoneInboundFillIcon />`|telephone-inbound-fill|
+|`<TelephoneInboundIcon />`|telephone-inbound|
+|`<TelephoneMinusFillIcon />`|telephone-minus-fill|
+|`<TelephoneMinusIcon />`|telephone-minus|
+|`<TelephoneOutboundFillIcon />`|telephone-outbound-fill|
+|`<TelephoneOutboundIcon />`|telephone-outbound|
+|`<TelephonePlusFillIcon />`|telephone-plus-fill|
+|`<TelephonePlusIcon />`|telephone-plus|
+|`<TelephoneXFillIcon />`|telephone-x-fill|
+|`<TelephoneXIcon />`|telephone-x|
+|`<TelephoneIcon />`|telephone|
+|`<TerminalFillIcon />`|terminal-fill|
+|`<TerminalIcon />`|terminal|
+|`<TextCenterIcon />`|text-center|
+|`<TextIndentLeftIcon />`|text-indent-left|
+|`<TextIndentRightIcon />`|text-indent-right|
+|`<TextLeftIcon />`|text-left|
+|`<TextParagraphIcon />`|text-paragraph|
+|`<TextRightIcon />`|text-right|
+|`<TextareaResizeIcon />`|textarea-resize|
+|`<TextareaTIcon />`|textarea-t|
+|`<TextareaIcon />`|textarea|
+|`<ThermometerHalfIcon />`|thermometer-half|
+|`<ThermometerHighIcon />`|thermometer-high|
+|`<ThermometerLowIcon />`|thermometer-low|
+|`<ThermometerSnowIcon />`|thermometer-snow|
+|`<ThermometerSunIcon />`|thermometer-sun|
+|`<ThermometerIcon />`|thermometer|
+|`<ThreeDotsVerticalIcon />`|three-dots-vertical|
+|`<ThreeDotsIcon />`|three-dots|
+|`<ToggleOffIcon />`|toggle-off|
+|`<ToggleOnIcon />`|toggle-on|
+|`<Toggle2OffIcon />`|toggle2-off|
+|`<Toggle2OnIcon />`|toggle2-on|
+|`<TogglesIcon />`|toggles|
+|`<Toggles2Icon />`|toggles2|
+|`<ToolsIcon />`|tools|
+|`<TornadoIcon />`|tornado|
+|`<TrashFillIcon />`|trash-fill|
+|`<TrashIcon />`|trash|
+|`<Trash2FillIcon />`|trash2-fill|
+|`<Trash2Icon />`|trash2|
+|`<TreeFillIcon />`|tree-fill|
+|`<TreeIcon />`|tree|
+|`<TriangleFillIcon />`|triangle-fill|
+|`<TriangleHalfIcon />`|triangle-half|
+|`<TriangleIcon />`|triangle|
+|`<TrophyFillIcon />`|trophy-fill|
+|`<TrophyIcon />`|trophy|
+|`<TropicalStormIcon />`|tropical-storm|
+|`<TruckFlatbedIcon />`|truck-flatbed|
+|`<TruckIcon />`|truck|
+|`<TsunamiIcon />`|tsunami|
+|`<TvFillIcon />`|tv-fill|
+|`<TvIcon />`|tv|
+|`<TwitchIcon />`|twitch|
+|`<TwitterIcon />`|twitter|
+|`<TypeBoldIcon />`|type-bold|
+|`<TypeH1Icon />`|type-h1|
+|`<TypeH2Icon />`|type-h2|
+|`<TypeH3Icon />`|type-h3|
+|`<TypeItalicIcon />`|type-italic|
+|`<TypeStrikethroughIcon />`|type-strikethrough|
+|`<TypeUnderlineIcon />`|type-underline|
+|`<TypeIcon />`|type|
+|`<UiChecksGridIcon />`|ui-checks-grid|
+|`<UiChecksIcon />`|ui-checks|
+|`<UiRadiosGridIcon />`|ui-radios-grid|
+|`<UiRadiosIcon />`|ui-radios|
+|`<UmbrellaFillIcon />`|umbrella-fill|
+|`<UmbrellaIcon />`|umbrella|
+|`<UnionIcon />`|union|
+|`<UnlockFillIcon />`|unlock-fill|
+|`<UnlockIcon />`|unlock|
+|`<UpcScanIcon />`|upc-scan|
+|`<UpcIcon />`|upc|
+|`<UploadIcon />`|upload|
+|`<VectorPenIcon />`|vector-pen|
+|`<ViewListIcon />`|view-list|
+|`<ViewStackedIcon />`|view-stacked|
+|`<VinylFillIcon />`|vinyl-fill|
+|`<VinylIcon />`|vinyl|
+|`<VoicemailIcon />`|voicemail|
+|`<VolumeDownFillIcon />`|volume-down-fill|
+|`<VolumeDownIcon />`|volume-down|
+|`<VolumeMuteFillIcon />`|volume-mute-fill|
+|`<VolumeMuteIcon />`|volume-mute|
+|`<VolumeOffFillIcon />`|volume-off-fill|
+|`<VolumeOffIcon />`|volume-off|
+|`<VolumeUpFillIcon />`|volume-up-fill|
+|`<VolumeUpIcon />`|volume-up|
+|`<VrIcon />`|vr|
+|`<WalletFillIcon />`|wallet-fill|
+|`<WalletIcon />`|wallet|
+|`<Wallet2Icon />`|wallet2|
+|`<WatchIcon />`|watch|
+|`<WaterIcon />`|water|
+|`<WhatsappIcon />`|whatsapp|
+|`<Wifi1Icon />`|wifi-1|
+|`<Wifi2Icon />`|wifi-2|
+|`<WifiOffIcon />`|wifi-off|
+|`<WifiIcon />`|wifi|
+|`<WindIcon />`|wind|
+|`<WindowDockIcon />`|window-dock|
+|`<WindowSidebarIcon />`|window-sidebar|
+|`<WindowIcon />`|window|
+|`<WrenchIcon />`|wrench|
+|`<XCircleFillIcon />`|x-circle-fill|
+|`<XCircleIcon />`|x-circle|
+|`<XDiamondFillIcon />`|x-diamond-fill|
+|`<XDiamondIcon />`|x-diamond|
+|`<XOctagonFillIcon />`|x-octagon-fill|
+|`<XOctagonIcon />`|x-octagon|
+|`<XSquareFillIcon />`|x-square-fill|
+|`<XSquareIcon />`|x-square|
+|`<XIcon />`|x|
+|`<YoutubeIcon />`|youtube|
+|`<ZoomInIcon />`|zoom-in|
+|`<ZoomOutIcon />`|zoom-out|
+|`<BankIcon />`|bank|
+|`<Bank2Icon />`|bank2|
+|`<BellSlashFillIcon />`|bell-slash-fill|
+|`<BellSlashIcon />`|bell-slash|
+|`<CashCoinIcon />`|cash-coin|
+|`<CheckLgIcon />`|check-lg|
+|`<CoinIcon />`|coin|
+|`<CurrencyBitcoinIcon />`|currency-bitcoin|
+|`<CurrencyDollarIcon />`|currency-dollar|
+|`<CurrencyEuroIcon />`|currency-euro|
+|`<CurrencyExchangeIcon />`|currency-exchange|
+|`<CurrencyPoundIcon />`|currency-pound|
+|`<CurrencyYenIcon />`|currency-yen|
+|`<DashLgIcon />`|dash-lg|
+|`<ExclamationLgIcon />`|exclamation-lg|
+|`<FileEarmarkPdfFillIcon />`|file-earmark-pdf-fill|
+|`<FileEarmarkPdfIcon />`|file-earmark-pdf|
+|`<FilePdfFillIcon />`|file-pdf-fill|
+|`<FilePdfIcon />`|file-pdf|
+|`<GenderAmbiguousIcon />`|gender-ambiguous|
+|`<GenderFemaleIcon />`|gender-female|
+|`<GenderMaleIcon />`|gender-male|
+|`<GenderTransIcon />`|gender-trans|
+|`<HeadsetVrIcon />`|headset-vr|
+|`<InfoLgIcon />`|info-lg|
+|`<MastodonIcon />`|mastodon|
+|`<MessengerIcon />`|messenger|
+|`<PiggyBankFillIcon />`|piggy-bank-fill|
+|`<PiggyBankIcon />`|piggy-bank|
+|`<PinMapFillIcon />`|pin-map-fill|
+|`<PinMapIcon />`|pin-map|
+|`<PlusLgIcon />`|plus-lg|
+|`<QuestionLgIcon />`|question-lg|
+|`<RecycleIcon />`|recycle|
+|`<RedditIcon />`|reddit|
+|`<SafeFillIcon />`|safe-fill|
+|`<Safe2FillIcon />`|safe2-fill|
+|`<Safe2Icon />`|safe2|
+|`<SdCardFillIcon />`|sd-card-fill|
+|`<SdCardIcon />`|sd-card|
+|`<SkypeIcon />`|skype|
+|`<SlashLgIcon />`|slash-lg|
+|`<TranslateIcon />`|translate|
+|`<XLgIcon />`|x-lg|
+|`<SafeIcon />`|safe|
+|`<AppleIcon />`|apple|
+|`<MicrosoftIcon />`|microsoft|
+|`<WindowsIcon />`|windows|
+|`<BehanceIcon />`|behance|
+|`<DribbbleIcon />`|dribbble|
+|`<LineIcon />`|line|
+|`<MediumIcon />`|medium|
+|`<PaypalIcon />`|paypal|
+|`<PinterestIcon />`|pinterest|
+|`<SignalIcon />`|signal|
+|`<SnapchatIcon />`|snapchat|
+|`<SpotifyIcon />`|spotify|
+|`<StackOverflowIcon />`|stack-overflow|
+|`<StravaIcon />`|strava|
+|`<WordpressIcon />`|wordpress|
+|`<VimeoIcon />`|vimeo|
+|`<ActivityIcon />`|activity|
+|`<Easel2FillIcon />`|easel2-fill|
+|`<Easel2Icon />`|easel2|
+|`<Easel3FillIcon />`|easel3-fill|
+|`<Easel3Icon />`|easel3|
+|`<FanIcon />`|fan|
+|`<FingerprintIcon />`|fingerprint|
+|`<GraphDownArrowIcon />`|graph-down-arrow|
+|`<GraphUpArrowIcon />`|graph-up-arrow|
+|`<HypnotizeIcon />`|hypnotize|
+|`<MagicIcon />`|magic|
+|`<PersonRolodexIcon />`|person-rolodex|
+|`<PersonVideoIcon />`|person-video|
+|`<PersonVideo2Icon />`|person-video2|
+|`<PersonVideo3Icon />`|person-video3|
+|`<PersonWorkspaceIcon />`|person-workspace|
+|`<RadioactiveIcon />`|radioactive|
+|`<WebcamFillIcon />`|webcam-fill|
+|`<WebcamIcon />`|webcam|
+|`<YinYangIcon />`|yin-yang|
+|`<BandaidFillIcon />`|bandaid-fill|
+|`<BandaidIcon />`|bandaid|
+|`<BluetoothIcon />`|bluetooth|
+|`<BodyTextIcon />`|body-text|
+|`<BoomboxIcon />`|boombox|
+|`<BoxesIcon />`|boxes|
+|`<DpadFillIcon />`|dpad-fill|
+|`<DpadIcon />`|dpad|
+|`<EarFillIcon />`|ear-fill|
+|`<EarIcon />`|ear|
+|`<EnvelopeCheck1Icon />`|envelope-check-1|
+|`<EnvelopeCheckFillIcon />`|envelope-check-fill|
+|`<EnvelopeCheckIcon />`|envelope-check|
+|`<EnvelopeDash1Icon />`|envelope-dash-1|
+|`<EnvelopeDashFillIcon />`|envelope-dash-fill|
+|`<EnvelopeDashIcon />`|envelope-dash|
+|`<EnvelopeExclamation1Icon />`|envelope-exclamation-1|
+|`<EnvelopeExclamationFillIcon />`|envelope-exclamation-fill|
+|`<EnvelopeExclamationIcon />`|envelope-exclamation|
+|`<EnvelopePlusFillIcon />`|envelope-plus-fill|
+|`<EnvelopePlusIcon />`|envelope-plus|
+|`<EnvelopeSlash1Icon />`|envelope-slash-1|
+|`<EnvelopeSlashFillIcon />`|envelope-slash-fill|
+|`<EnvelopeSlashIcon />`|envelope-slash|
+|`<EnvelopeX1Icon />`|envelope-x-1|
+|`<EnvelopeXFillIcon />`|envelope-x-fill|
+|`<EnvelopeXIcon />`|envelope-x|
+|`<ExplicitFillIcon />`|explicit-fill|
+|`<ExplicitIcon />`|explicit|
+|`<GitIcon />`|git|
+|`<InfinityIcon />`|infinity|
+|`<ListColumnsReverseIcon />`|list-columns-reverse|
+|`<ListColumnsIcon />`|list-columns|
+|`<MetaIcon />`|meta|
+|`<MortorboardFillIcon />`|mortorboard-fill|
+|`<MortorboardIcon />`|mortorboard|
+|`<NintendoSwitchIcon />`|nintendo-switch|
+|`<PcDisplayHorizontalIcon />`|pc-display-horizontal|
+|`<PcDisplayIcon />`|pc-display|
+|`<PcHorizontalIcon />`|pc-horizontal|
+|`<PcIcon />`|pc|
+|`<PlaystationIcon />`|playstation|
+|`<PlusSlashMinusIcon />`|plus-slash-minus|
+|`<ProjectorFillIcon />`|projector-fill|
+|`<ProjectorIcon />`|projector|
+|`<QrCodeScanIcon />`|qr-code-scan|
+|`<QrCodeIcon />`|qr-code|
+|`<QuoraIcon />`|quora|
+|`<QuoteIcon />`|quote|
+|`<RobotIcon />`|robot|
+|`<SendCheckFillIcon />`|send-check-fill|
+|`<SendCheckIcon />`|send-check|
+|`<SendDashFillIcon />`|send-dash-fill|
+|`<SendDashIcon />`|send-dash|
+|`<SendExclamation1Icon />`|send-exclamation-1|
+|`<SendExclamationFillIcon />`|send-exclamation-fill|
+|`<SendExclamationIcon />`|send-exclamation|
+|`<SendFillIcon />`|send-fill|
+|`<SendPlusFillIcon />`|send-plus-fill|
+|`<SendPlusIcon />`|send-plus|
+|`<SendSlashFillIcon />`|send-slash-fill|
+|`<SendSlashIcon />`|send-slash|
+|`<SendXFillIcon />`|send-x-fill|
+|`<SendXIcon />`|send-x|
+|`<SendIcon />`|send|
+|`<SteamIcon />`|steam|
+|`<TerminalDash1Icon />`|terminal-dash-1|
+|`<TerminalDashIcon />`|terminal-dash|
+|`<TerminalPlusIcon />`|terminal-plus|
+|`<TerminalSplitIcon />`|terminal-split|
+|`<TicketDetailedFillIcon />`|ticket-detailed-fill|
+|`<TicketDetailedIcon />`|ticket-detailed|
+|`<TicketFillIcon />`|ticket-fill|
+|`<TicketPerforatedFillIcon />`|ticket-perforated-fill|
+|`<TicketPerforatedIcon />`|ticket-perforated|
+|`<TicketIcon />`|ticket|
+|`<TiktokIcon />`|tiktok|
+|`<WindowDashIcon />`|window-dash|
+|`<WindowDesktopIcon />`|window-desktop|
+|`<WindowFullscreenIcon />`|window-fullscreen|
+|`<WindowPlusIcon />`|window-plus|
+|`<WindowSplitIcon />`|window-split|
+|`<WindowStackIcon />`|window-stack|
+|`<WindowXIcon />`|window-x|
+|`<XboxIcon />`|xbox|
+|`<EthernetIcon />`|ethernet|
+|`<HdmiFillIcon />`|hdmi-fill|
+|`<HdmiIcon />`|hdmi|
+|`<UsbCFillIcon />`|usb-c-fill|
+|`<UsbCIcon />`|usb-c|
+|`<UsbFillIcon />`|usb-fill|
+|`<UsbPlugFillIcon />`|usb-plug-fill|
+|`<UsbPlugIcon />`|usb-plug|
+|`<UsbSymbolIcon />`|usb-symbol|
+|`<UsbIcon />`|usb|
+|`<BoomboxFillIcon />`|boombox-fill|
+|`<Displayport1Icon />`|displayport-1|
+|`<DisplayportIcon />`|displayport|
+|`<GpuCardIcon />`|gpu-card|
+|`<MemoryIcon />`|memory|
+|`<ModemFillIcon />`|modem-fill|
+|`<ModemIcon />`|modem|
+|`<MotherboardFillIcon />`|motherboard-fill|
+|`<MotherboardIcon />`|motherboard|
+|`<OpticalAudioFillIcon />`|optical-audio-fill|
+|`<OpticalAudioIcon />`|optical-audio|
+|`<PciCardIcon />`|pci-card|
+|`<RouterFillIcon />`|router-fill|
+|`<RouterIcon />`|router|
+|`<SsdFillIcon />`|ssd-fill|
+|`<SsdIcon />`|ssd|
+|`<ThunderboltFillIcon />`|thunderbolt-fill|
+|`<ThunderboltIcon />`|thunderbolt|
+|`<UsbDriveFillIcon />`|usb-drive-fill|
+|`<UsbDriveIcon />`|usb-drive|
+|`<UsbMicroFillIcon />`|usb-micro-fill|
+|`<UsbMicroIcon />`|usb-micro|
+|`<UsbMiniFillIcon />`|usb-mini-fill|
+|`<UsbMiniIcon />`|usb-mini|
+|`<CloudHaze2Icon />`|cloud-haze2|
+|`<DeviceHddFillIcon />`|device-hdd-fill|
+|`<DeviceHddIcon />`|device-hdd|
+|`<DeviceSsdFillIcon />`|device-ssd-fill|
+|`<DeviceSsdIcon />`|device-ssd|
+|`<DisplayportFillIcon />`|displayport-fill|
+|`<MortarboardFillIcon />`|mortarboard-fill|
+|`<MortarboardIcon />`|mortarboard|
+|`<TerminalXIcon />`|terminal-x|
+|`<ArrowThroughHeartFillIcon />`|arrow-through-heart-fill|
+|`<ArrowThroughHeartIcon />`|arrow-through-heart|
+|`<BadgeSdFillIcon />`|badge-sd-fill|
+|`<BadgeSdIcon />`|badge-sd|
+|`<BagHeartFillIcon />`|bag-heart-fill|
+|`<BagHeartIcon />`|bag-heart|
+|`<BalloonFillIcon />`|balloon-fill|
+|`<BalloonHeartFillIcon />`|balloon-heart-fill|
+|`<BalloonHeartIcon />`|balloon-heart|
+|`<BalloonIcon />`|balloon|
+|`<Box2FillIcon />`|box2-fill|
+|`<Box2HeartFillIcon />`|box2-heart-fill|
+|`<Box2HeartIcon />`|box2-heart|
+|`<Box2Icon />`|box2|
+|`<BracesAsteriskIcon />`|braces-asterisk|
+|`<CalendarHeartFillIcon />`|calendar-heart-fill|
+|`<CalendarHeartIcon />`|calendar-heart|
+|`<Calendar2HeartFillIcon />`|calendar2-heart-fill|
+|`<Calendar2HeartIcon />`|calendar2-heart|
+|`<ChatHeartFillIcon />`|chat-heart-fill|
+|`<ChatHeartIcon />`|chat-heart|
+|`<ChatLeftHeartFillIcon />`|chat-left-heart-fill|
+|`<ChatLeftHeartIcon />`|chat-left-heart|
+|`<ChatRightHeartFillIcon />`|chat-right-heart-fill|
+|`<ChatRightHeartIcon />`|chat-right-heart|
+|`<ChatSquareHeartFillIcon />`|chat-square-heart-fill|
+|`<ChatSquareHeartIcon />`|chat-square-heart|
+|`<ClipboardCheckFillIcon />`|clipboard-check-fill|
+|`<ClipboardDataFillIcon />`|clipboard-data-fill|
+|`<ClipboardFillIcon />`|clipboard-fill|
+|`<ClipboardHeartFillIcon />`|clipboard-heart-fill|
+|`<ClipboardHeartIcon />`|clipboard-heart|
+|`<ClipboardMinusFillIcon />`|clipboard-minus-fill|
+|`<ClipboardPlusFillIcon />`|clipboard-plus-fill|
+|`<ClipboardPulseIcon />`|clipboard-pulse|
+|`<ClipboardXFillIcon />`|clipboard-x-fill|
+|`<Clipboard2CheckFillIcon />`|clipboard2-check-fill|
+|`<Clipboard2CheckIcon />`|clipboard2-check|
+|`<Clipboard2DataFillIcon />`|clipboard2-data-fill|
+|`<Clipboard2DataIcon />`|clipboard2-data|
+|`<Clipboard2FillIcon />`|clipboard2-fill|
+|`<Clipboard2HeartFillIcon />`|clipboard2-heart-fill|
+|`<Clipboard2HeartIcon />`|clipboard2-heart|
+|`<Clipboard2MinusFillIcon />`|clipboard2-minus-fill|
+|`<Clipboard2MinusIcon />`|clipboard2-minus|
+|`<Clipboard2PlusFillIcon />`|clipboard2-plus-fill|
+|`<Clipboard2PlusIcon />`|clipboard2-plus|
+|`<Clipboard2PulseFillIcon />`|clipboard2-pulse-fill|
+|`<Clipboard2PulseIcon />`|clipboard2-pulse|
+|`<Clipboard2XFillIcon />`|clipboard2-x-fill|
+|`<Clipboard2XIcon />`|clipboard2-x|
+|`<Clipboard2Icon />`|clipboard2|
+|`<EmojiKissFillIcon />`|emoji-kiss-fill|
+|`<EmojiKissIcon />`|emoji-kiss|
+|`<EnvelopeHeartFillIcon />`|envelope-heart-fill|
+|`<EnvelopeHeartIcon />`|envelope-heart|
+|`<EnvelopeOpenHeartFillIcon />`|envelope-open-heart-fill|
+|`<EnvelopeOpenHeartIcon />`|envelope-open-heart|
+|`<EnvelopePaperFillIcon />`|envelope-paper-fill|
+|`<EnvelopePaperHeartFillIcon />`|envelope-paper-heart-fill|
+|`<EnvelopePaperHeartIcon />`|envelope-paper-heart|
+|`<EnvelopePaperIcon />`|envelope-paper|
+|`<FiletypeAacIcon />`|filetype-aac|
+|`<FiletypeAiIcon />`|filetype-ai|
+|`<FiletypeBmpIcon />`|filetype-bmp|
+|`<FiletypeCsIcon />`|filetype-cs|
+|`<FiletypeCssIcon />`|filetype-css|
+|`<FiletypeCsvIcon />`|filetype-csv|
+|`<FiletypeDocIcon />`|filetype-doc|
+|`<FiletypeDocxIcon />`|filetype-docx|
+|`<FiletypeExeIcon />`|filetype-exe|
+|`<FiletypeGifIcon />`|filetype-gif|
+|`<FiletypeHeicIcon />`|filetype-heic|
+|`<FiletypeHtmlIcon />`|filetype-html|
+|`<FiletypeJavaIcon />`|filetype-java|
+|`<FiletypeJpgIcon />`|filetype-jpg|
+|`<FiletypeJsIcon />`|filetype-js|
+|`<FiletypeJsxIcon />`|filetype-jsx|
+|`<FiletypeKeyIcon />`|filetype-key|
+|`<FiletypeM4pIcon />`|filetype-m4p|
+|`<FiletypeMdIcon />`|filetype-md|
+|`<FiletypeMdxIcon />`|filetype-mdx|
+|`<FiletypeMovIcon />`|filetype-mov|
+|`<FiletypeMp3Icon />`|filetype-mp3|
+|`<FiletypeMp4Icon />`|filetype-mp4|
+|`<FiletypeOtfIcon />`|filetype-otf|
+|`<FiletypePdfIcon />`|filetype-pdf|
+|`<FiletypePhpIcon />`|filetype-php|
+|`<FiletypePngIcon />`|filetype-png|
+|`<FiletypePpt1Icon />`|filetype-ppt-1|
+|`<FiletypePptIcon />`|filetype-ppt|
+|`<FiletypePsdIcon />`|filetype-psd|
+|`<FiletypePyIcon />`|filetype-py|
+|`<FiletypeRawIcon />`|filetype-raw|
+|`<FiletypeRbIcon />`|filetype-rb|
+|`<FiletypeSassIcon />`|filetype-sass|
+|`<FiletypeScssIcon />`|filetype-scss|
+|`<FiletypeShIcon />`|filetype-sh|
+|`<FiletypeSvgIcon />`|filetype-svg|
+|`<FiletypeTiffIcon />`|filetype-tiff|
+|`<FiletypeTsxIcon />`|filetype-tsx|
+|`<FiletypeTtfIcon />`|filetype-ttf|
+|`<FiletypeTxtIcon />`|filetype-txt|
+|`<FiletypeWavIcon />`|filetype-wav|
+|`<FiletypeWoffIcon />`|filetype-woff|
+|`<FiletypeXls1Icon />`|filetype-xls-1|
+|`<FiletypeXlsIcon />`|filetype-xls|
+|`<FiletypeXmlIcon />`|filetype-xml|
+|`<FiletypeYmlIcon />`|filetype-yml|
+|`<HeartArrowIcon />`|heart-arrow|
+|`<HeartPulseFillIcon />`|heart-pulse-fill|
+|`<HeartPulseIcon />`|heart-pulse|
+|`<HeartbreakFillIcon />`|heartbreak-fill|
+|`<HeartbreakIcon />`|heartbreak|
+|`<HeartsIcon />`|hearts|
+|`<HospitalFillIcon />`|hospital-fill|
+|`<HospitalIcon />`|hospital|
+|`<HouseHeartFillIcon />`|house-heart-fill|
+|`<HouseHeartIcon />`|house-heart|
+|`<IncognitoIcon />`|incognito|
+|`<MagnetFillIcon />`|magnet-fill|
+|`<MagnetIcon />`|magnet|
+|`<PersonHeartIcon />`|person-heart|
+|`<PersonHeartsIcon />`|person-hearts|
+|`<PhoneFlipIcon />`|phone-flip|
+|`<PluginIcon />`|plugin|
+|`<PostageFillIcon />`|postage-fill|
+|`<PostageHeartFillIcon />`|postage-heart-fill|
+|`<PostageHeartIcon />`|postage-heart|
+|`<PostageIcon />`|postage|
+|`<PostcardFillIcon />`|postcard-fill|
+|`<PostcardHeartFillIcon />`|postcard-heart-fill|
+|`<PostcardHeartIcon />`|postcard-heart|
+|`<PostcardIcon />`|postcard|
+|`<SearchHeartFillIcon />`|search-heart-fill|
+|`<SearchHeartIcon />`|search-heart|
+|`<Sliders2VerticalIcon />`|sliders2-vertical|
+|`<Sliders2Icon />`|sliders2|
+|`<Trash3FillIcon />`|trash3-fill|
+|`<Trash3Icon />`|trash3|
+|`<ValentineIcon />`|valentine|
+|`<Valentine2Icon />`|valentine2|
+|`<WrenchAdjustableCircleFillIcon />`|wrench-adjustable-circle-fill|
+|`<WrenchAdjustableCircleIcon />`|wrench-adjustable-circle|
+|`<WrenchAdjustableIcon />`|wrench-adjustable|
+|`<FiletypeJsonIcon />`|filetype-json|
+|`<FiletypePptxIcon />`|filetype-pptx|
+|`<FiletypeXlsxIcon />`|filetype-xlsx|
