@@ -1,4 +1,5 @@
-﻿|-|-|
+﻿|ComponentName|Bootstrap Icon Name|
+|---|---|
 |OneTwoThree|123|
 |AlarmFill|alarm-fill|
 |Alarm|alarm|
@@ -1682,4 +1683,4 @@
 |FiletypeJson|filetype-json|
 |FiletypePptx|filetype-pptx|
 |FiletypeXlsx|filetype-xlsx|
-|-|-|
+|---|---|
