@@ -36,10 +36,8 @@
         
         namePairDictionary[newName]=name;
     }
-    #>
-|ComponentName|Bootstrap Icon Name|
-|---|---|
-<# foreach(var name in namePairDictionary) { #>
-|<#=name.Key#>|<#=name.Value#>|
-<#
-}#>|---|---|
+    #>|ComponentName|Bootstrap Icon Name|
+---|---|
+<# foreach(var name in namePairDictionary) {
+#>|<#=name.Key#>|<#=name.Value#>|<#
+}#>
