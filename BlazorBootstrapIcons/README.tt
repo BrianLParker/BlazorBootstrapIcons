@@ -41,7 +41,7 @@
 
 
 <svg class="bi" width="24" height="24" fill="currentColor">
-    <use href="https://raw.githubusercontent.com/BrianLParker/BlazorBootstrapIcons/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#<#=name.Value#>"></use>
+    <use href="https://github.com/BrianLParker/BlazorBootstrapIcons/blob/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons/bootstrap-icons.svg#<#=name.Value#>"></use>
 </svg>
 
 <#
