@@ -1,0 +1,76 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Views\Components\IconGenerator.txt">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>IconGenerator.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Components\TextFile2.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>TextFile2.t4</DependentUpon>
+    </None>
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <SupportedPlatform Include="browser" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Views\Components\Icon.ttinclude">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Icon.txt</LastGenOutput>
+    </None>
+    <None Update="Views\Components\IconGenerator.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>IconGenerator.txt</LastGenOutput>
+    </None>
+    <None Update="Views\Components\IconGenerator.txt">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>IconGenerator.tt</DependentUpon>
+    </None>
+    <None Update="Views\Components\MyTextTemplat.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>MyTextTemplat.txt</LastGenOutput>
+    </None>
+    <None Update="Views\Components\MyTextTemplat.txt">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>MyTextTemplat.tt</DependentUpon>
+    </None>
+    <None Update="Views\Components\TextFile1.t4">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>TextFile1.txt</LastGenOutput>
+    </None>
+    <None Update="Views\Components\TextFile1.txt">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>TextFile1.t4</DependentUpon>
+    </None>
+    <None Update="Views\Components\TextFile2.t4">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>TextFile2.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
