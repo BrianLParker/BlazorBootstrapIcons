@@ -14,10 +14,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Views\Components\IconComponentGenerator.cs">
+    <None Include="Views\Components\IconComponents.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
-      <DependentUpon>IconComponentGenerator.tt</DependentUpon>
+      <DependentUpon>IconComponents.tt</DependentUpon>
     </None>
   </ItemGroup>
 
@@ -39,6 +39,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>IconComponentGenerator.tt</DependentUpon>
     </Compile>
+    <Compile Update="Views\Components\IconComponents.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>IconComponents.tt</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
@@ -51,9 +56,9 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>README.md</LastGenOutput>
     </None>
-    <None Update="Views\Components\IconComponentGenerator.tt">
+    <None Update="Views\Components\IconComponents.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>IconComponentGenerator.cs</LastGenOutput>
+      <LastGenOutput>IconComponents.cs</LastGenOutput>
     </None>
   </ItemGroup>
 
