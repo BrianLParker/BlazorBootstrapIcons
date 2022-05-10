@@ -4,9 +4,9 @@ Individual components for all of the [Bootstrap Icons](https://icons.getbootstra
 
 ### How to Install
 #### The Icon svg
-Create a folder in your `wwwroot ` folder: `wwwroot/images/bootstrap-icons`. Download [bootstrap-icons.svg](https://github.com/BrianLParker/BlazorBootstrapIcons/tree/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons) the folder.
+Create a folder in your `wwwroot ` folder: `wwwroot/images/bootstrap-icons`. Download [bootstrap-icons.svg](https://github.com/BrianLParker/BlazorBootstrapIcons/tree/master/BlazorBootstrapIcons/wwwroot/images/bootstrap-icons) to the folder.
 #### Components
-Copy these three files to your solution.
+**Copy these three files to your solution:**
 BaseIcon.razor
 BaseIcon.razor.cs
 IconComponents.cs
