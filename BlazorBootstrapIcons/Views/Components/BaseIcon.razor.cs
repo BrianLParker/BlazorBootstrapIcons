@@ -1,3 +1,9 @@
+// ------------------------------------------------------------
+// Copyright (c) 2022, Brian Parker All rights reserved.
+// Licensed under the MIT License.
+// See License.txt in the project root for license information.
+// ------------------------------------------------------------
+
 using Microsoft.AspNetCore.Components;
 
 namespace BlazorBootstrapIcons.Views.Components;

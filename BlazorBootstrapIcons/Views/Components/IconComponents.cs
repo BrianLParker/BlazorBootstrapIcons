@@ -4,6 +4,8 @@
 // See License.txt in the project root for license information.
 // ------------------------------------------------------------
 
+// This File is Generated.
+
 namespace BlazorBootstrapIcons.Views.Components.Icons;
 
 public class OneTwoThreeIcon : BaseIcon { public OneTwoThreeIcon() : base ("123") { } }
