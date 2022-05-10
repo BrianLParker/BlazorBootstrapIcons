@@ -5,6 +5,7 @@
 // ------------------------------------------------------------
 
 namespace BlazorBootstrapIcons.Views.Components.Icons;
+
 public class OneTwoThreeIcon : BaseIcon { public OneTwoThreeIcon() : base ("123") { } }
 public class AlarmFillIcon : BaseIcon { public AlarmFillIcon() : base ("alarm-fill") { } }
 public class AlarmIcon : BaseIcon { public AlarmIcon() : base ("alarm") { } }

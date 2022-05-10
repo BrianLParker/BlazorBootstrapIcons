@@ -44,6 +44,7 @@
 // ------------------------------------------------------------
 
 namespace <#= Host.ResolveParameterValue("Template1", "Template1", "projectDefaultNamespace") #>.Views.Components.Icons;
+
 <# foreach(var name in namePairDictionary) { #>
 public class <#=name.Key#>Icon : BaseIcon { public <#=name.Key#>Icon() : base ("<#=name.Value#>") { } }
 <# } #>
