@@ -37,9 +37,8 @@
         namePairDictionary[newName]=name;
     }
 #>
-## Blazor Components for Bootstrap Icons
-
-|ComponentName|Bootstrap Icon Name|
+<#@ include file="README.Header.ttinclude" once="true"#>
+Component Name|Bootstrap Icon Name|
 ---|---|
 <# foreach(var name in namePairDictionary) {#>
 |`<<#=name.Key#>Icon />`|<#=name.Value#>|

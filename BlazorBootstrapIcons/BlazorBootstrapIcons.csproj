@@ -4,7 +4,14 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Bootstraps Icons as Blazor Components</Description>
+    <Copyright>Copyright 2022, Brian Parker</Copyright>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="README.Header.ttinclude" />
+  </ItemGroup>
 
   <ItemGroup>
     <None Include="Views\Components\IconComponentGenerator.cs">
@@ -27,14 +34,22 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="README.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>README.md</LastGenOutput>
-    </None>
+    <Compile Update="Views\Components\IconComponentGenerator.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>IconComponentGenerator.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="README.md">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>README.tt</DependentUpon>
+    </None>
+    <None Update="README.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>README.md</LastGenOutput>
     </None>
     <None Update="Views\Components\IconComponentGenerator.tt">
       <Generator>TextTemplatingFileGenerator</Generator>

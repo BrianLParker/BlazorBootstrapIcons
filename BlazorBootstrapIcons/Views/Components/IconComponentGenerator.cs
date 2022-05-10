@@ -5,8418 +5,1686 @@
 // ------------------------------------------------------------
 
 namespace BlazorBootstrapIcons.Views.Components.Icons;
-
-public class OneTwoThreeIcon : BaseIcon
-{
-    protected override string IconSource => "123";
-}
-
-public class AlarmFillIcon : BaseIcon
-{
-    protected override string IconSource => "alarm-fill";
-}
-
-public class AlarmIcon : BaseIcon
-{
-    protected override string IconSource => "alarm";
-}
-
-public class AlignBottomIcon : BaseIcon
-{
-    protected override string IconSource => "align-bottom";
-}
-
-public class AlignCenterIcon : BaseIcon
-{
-    protected override string IconSource => "align-center";
-}
-
-public class AlignEndIcon : BaseIcon
-{
-    protected override string IconSource => "align-end";
-}
-
-public class AlignMiddleIcon : BaseIcon
-{
-    protected override string IconSource => "align-middle";
-}
-
-public class AlignStartIcon : BaseIcon
-{
-    protected override string IconSource => "align-start";
-}
-
-public class AlignTopIcon : BaseIcon
-{
-    protected override string IconSource => "align-top";
-}
-
-public class AltIcon : BaseIcon
-{
-    protected override string IconSource => "alt";
-}
-
-public class AppIndicatorIcon : BaseIcon
-{
-    protected override string IconSource => "app-indicator";
-}
-
-public class AppIcon : BaseIcon
-{
-    protected override string IconSource => "app";
-}
-
-public class ArchiveFillIcon : BaseIcon
-{
-    protected override string IconSource => "archive-fill";
-}
-
-public class ArchiveIcon : BaseIcon
-{
-    protected override string IconSource => "archive";
-}
-
-public class Arrow90degDownIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-90deg-down";
-}
-
-public class Arrow90degLeftIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-90deg-left";
-}
-
-public class Arrow90degRightIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-90deg-right";
-}
-
-public class Arrow90degUpIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-90deg-up";
-}
-
-public class ArrowBarDownIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-bar-down";
-}
-
-public class ArrowBarLeftIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-bar-left";
-}
-
-public class ArrowBarRightIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-bar-right";
-}
-
-public class ArrowBarUpIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-bar-up";
-}
-
-public class ArrowClockwiseIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-clockwise";
-}
-
-public class ArrowCounterclockwiseIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-counterclockwise";
-}
-
-public class ArrowDownCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-circle-fill";
-}
-
-public class ArrowDownCircleIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-circle";
-}
-
-public class ArrowDownLeftCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-left-circle-fill";
-}
-
-public class ArrowDownLeftCircleIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-left-circle";
-}
-
-public class ArrowDownLeftSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-left-square-fill";
-}
-
-public class ArrowDownLeftSquareIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-left-square";
-}
-
-public class ArrowDownLeftIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-left";
-}
-
-public class ArrowDownRightCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-right-circle-fill";
-}
-
-public class ArrowDownRightCircleIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-right-circle";
-}
-
-public class ArrowDownRightSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-right-square-fill";
-}
-
-public class ArrowDownRightSquareIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-right-square";
-}
-
-public class ArrowDownRightIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-right";
-}
-
-public class ArrowDownShortIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-short";
-}
-
-public class ArrowDownSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-square-fill";
-}
-
-public class ArrowDownSquareIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-square";
-}
-
-public class ArrowDownUpIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down-up";
-}
-
-public class ArrowDownIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-down";
-}
-
-public class ArrowLeftCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-left-circle-fill";
-}
-
-public class ArrowLeftCircleIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-left-circle";
-}
-
-public class ArrowLeftRightIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-left-right";
-}
-
-public class ArrowLeftShortIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-left-short";
-}
-
-public class ArrowLeftSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-left-square-fill";
-}
-
-public class ArrowLeftSquareIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-left-square";
-}
-
-public class ArrowLeftIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-left";
-}
-
-public class ArrowRepeatIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-repeat";
-}
-
-public class ArrowReturnLeftIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-return-left";
-}
-
-public class ArrowReturnRightIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-return-right";
-}
-
-public class ArrowRightCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-right-circle-fill";
-}
-
-public class ArrowRightCircleIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-right-circle";
-}
-
-public class ArrowRightShortIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-right-short";
-}
-
-public class ArrowRightSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-right-square-fill";
-}
-
-public class ArrowRightSquareIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-right-square";
-}
-
-public class ArrowRightIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-right";
-}
-
-public class ArrowUpCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-circle-fill";
-}
-
-public class ArrowUpCircleIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-circle";
-}
-
-public class ArrowUpLeftCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-left-circle-fill";
-}
-
-public class ArrowUpLeftCircleIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-left-circle";
-}
-
-public class ArrowUpLeftSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-left-square-fill";
-}
-
-public class ArrowUpLeftSquareIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-left-square";
-}
-
-public class ArrowUpLeftIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-left";
-}
-
-public class ArrowUpRightCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-right-circle-fill";
-}
-
-public class ArrowUpRightCircleIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-right-circle";
-}
-
-public class ArrowUpRightSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-right-square-fill";
-}
-
-public class ArrowUpRightSquareIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-right-square";
-}
-
-public class ArrowUpRightIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-right";
-}
-
-public class ArrowUpShortIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-short";
-}
-
-public class ArrowUpSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-square-fill";
-}
-
-public class ArrowUpSquareIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up-square";
-}
-
-public class ArrowUpIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-up";
-}
-
-public class ArrowsAngleContractIcon : BaseIcon
-{
-    protected override string IconSource => "arrows-angle-contract";
-}
-
-public class ArrowsAngleExpandIcon : BaseIcon
-{
-    protected override string IconSource => "arrows-angle-expand";
-}
-
-public class ArrowsCollapseIcon : BaseIcon
-{
-    protected override string IconSource => "arrows-collapse";
-}
-
-public class ArrowsExpandIcon : BaseIcon
-{
-    protected override string IconSource => "arrows-expand";
-}
-
-public class ArrowsFullscreenIcon : BaseIcon
-{
-    protected override string IconSource => "arrows-fullscreen";
-}
-
-public class ArrowsMoveIcon : BaseIcon
-{
-    protected override string IconSource => "arrows-move";
-}
-
-public class AspectRatioFillIcon : BaseIcon
-{
-    protected override string IconSource => "aspect-ratio-fill";
-}
-
-public class AspectRatioIcon : BaseIcon
-{
-    protected override string IconSource => "aspect-ratio";
-}
-
-public class AsteriskIcon : BaseIcon
-{
-    protected override string IconSource => "asterisk";
-}
-
-public class AtIcon : BaseIcon
-{
-    protected override string IconSource => "at";
-}
-
-public class AwardFillIcon : BaseIcon
-{
-    protected override string IconSource => "award-fill";
-}
-
-public class AwardIcon : BaseIcon
-{
-    protected override string IconSource => "award";
-}
-
-public class BackIcon : BaseIcon
-{
-    protected override string IconSource => "back";
-}
-
-public class BackspaceFillIcon : BaseIcon
-{
-    protected override string IconSource => "backspace-fill";
-}
-
-public class BackspaceReverseFillIcon : BaseIcon
-{
-    protected override string IconSource => "backspace-reverse-fill";
-}
-
-public class BackspaceReverseIcon : BaseIcon
-{
-    protected override string IconSource => "backspace-reverse";
-}
-
-public class BackspaceIcon : BaseIcon
-{
-    protected override string IconSource => "backspace";
-}
-
-public class Badge3dFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-3d-fill";
-}
-
-public class Badge3dIcon : BaseIcon
-{
-    protected override string IconSource => "badge-3d";
-}
-
-public class Badge4kFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-4k-fill";
-}
-
-public class Badge4kIcon : BaseIcon
-{
-    protected override string IconSource => "badge-4k";
-}
-
-public class Badge8kFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-8k-fill";
-}
-
-public class Badge8kIcon : BaseIcon
-{
-    protected override string IconSource => "badge-8k";
-}
-
-public class BadgeAdFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-ad-fill";
-}
-
-public class BadgeAdIcon : BaseIcon
-{
-    protected override string IconSource => "badge-ad";
-}
-
-public class BadgeArFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-ar-fill";
-}
-
-public class BadgeArIcon : BaseIcon
-{
-    protected override string IconSource => "badge-ar";
-}
-
-public class BadgeCcFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-cc-fill";
-}
-
-public class BadgeCcIcon : BaseIcon
-{
-    protected override string IconSource => "badge-cc";
-}
-
-public class BadgeHdFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-hd-fill";
-}
-
-public class BadgeHdIcon : BaseIcon
-{
-    protected override string IconSource => "badge-hd";
-}
-
-public class BadgeTmFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-tm-fill";
-}
-
-public class BadgeTmIcon : BaseIcon
-{
-    protected override string IconSource => "badge-tm";
-}
-
-public class BadgeVoFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-vo-fill";
-}
-
-public class BadgeVoIcon : BaseIcon
-{
-    protected override string IconSource => "badge-vo";
-}
-
-public class BadgeVrFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-vr-fill";
-}
-
-public class BadgeVrIcon : BaseIcon
-{
-    protected override string IconSource => "badge-vr";
-}
-
-public class BadgeWcFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-wc-fill";
-}
-
-public class BadgeWcIcon : BaseIcon
-{
-    protected override string IconSource => "badge-wc";
-}
-
-public class BagCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "bag-check-fill";
-}
-
-public class BagCheckIcon : BaseIcon
-{
-    protected override string IconSource => "bag-check";
-}
-
-public class BagDashFillIcon : BaseIcon
-{
-    protected override string IconSource => "bag-dash-fill";
-}
-
-public class BagDashIcon : BaseIcon
-{
-    protected override string IconSource => "bag-dash";
-}
-
-public class BagFillIcon : BaseIcon
-{
-    protected override string IconSource => "bag-fill";
-}
-
-public class BagPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "bag-plus-fill";
-}
-
-public class BagPlusIcon : BaseIcon
-{
-    protected override string IconSource => "bag-plus";
-}
-
-public class BagXFillIcon : BaseIcon
-{
-    protected override string IconSource => "bag-x-fill";
-}
-
-public class BagXIcon : BaseIcon
-{
-    protected override string IconSource => "bag-x";
-}
-
-public class BagIcon : BaseIcon
-{
-    protected override string IconSource => "bag";
-}
-
-public class BarChartFillIcon : BaseIcon
-{
-    protected override string IconSource => "bar-chart-fill";
-}
-
-public class BarChartLineFillIcon : BaseIcon
-{
-    protected override string IconSource => "bar-chart-line-fill";
-}
-
-public class BarChartLineIcon : BaseIcon
-{
-    protected override string IconSource => "bar-chart-line";
-}
-
-public class BarChartStepsIcon : BaseIcon
-{
-    protected override string IconSource => "bar-chart-steps";
-}
-
-public class BarChartIcon : BaseIcon
-{
-    protected override string IconSource => "bar-chart";
-}
-
-public class BasketFillIcon : BaseIcon
-{
-    protected override string IconSource => "basket-fill";
-}
-
-public class BasketIcon : BaseIcon
-{
-    protected override string IconSource => "basket";
-}
-
-public class Basket2FillIcon : BaseIcon
-{
-    protected override string IconSource => "basket2-fill";
-}
-
-public class Basket2Icon : BaseIcon
-{
-    protected override string IconSource => "basket2";
-}
-
-public class Basket3FillIcon : BaseIcon
-{
-    protected override string IconSource => "basket3-fill";
-}
-
-public class Basket3Icon : BaseIcon
-{
-    protected override string IconSource => "basket3";
-}
-
-public class BatteryChargingIcon : BaseIcon
-{
-    protected override string IconSource => "battery-charging";
-}
-
-public class BatteryFullIcon : BaseIcon
-{
-    protected override string IconSource => "battery-full";
-}
-
-public class BatteryHalfIcon : BaseIcon
-{
-    protected override string IconSource => "battery-half";
-}
-
-public class BatteryIcon : BaseIcon
-{
-    protected override string IconSource => "battery";
-}
-
-public class BellFillIcon : BaseIcon
-{
-    protected override string IconSource => "bell-fill";
-}
-
-public class BellIcon : BaseIcon
-{
-    protected override string IconSource => "bell";
-}
-
-public class BezierIcon : BaseIcon
-{
-    protected override string IconSource => "bezier";
-}
-
-public class Bezier2Icon : BaseIcon
-{
-    protected override string IconSource => "bezier2";
-}
-
-public class BicycleIcon : BaseIcon
-{
-    protected override string IconSource => "bicycle";
-}
-
-public class BinocularsFillIcon : BaseIcon
-{
-    protected override string IconSource => "binoculars-fill";
-}
-
-public class BinocularsIcon : BaseIcon
-{
-    protected override string IconSource => "binoculars";
-}
-
-public class BlockquoteLeftIcon : BaseIcon
-{
-    protected override string IconSource => "blockquote-left";
-}
-
-public class BlockquoteRightIcon : BaseIcon
-{
-    protected override string IconSource => "blockquote-right";
-}
-
-public class BookFillIcon : BaseIcon
-{
-    protected override string IconSource => "book-fill";
-}
-
-public class BookHalfIcon : BaseIcon
-{
-    protected override string IconSource => "book-half";
-}
-
-public class BookIcon : BaseIcon
-{
-    protected override string IconSource => "book";
-}
-
-public class BookmarkCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-check-fill";
-}
-
-public class BookmarkCheckIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-check";
-}
-
-public class BookmarkDashFillIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-dash-fill";
-}
-
-public class BookmarkDashIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-dash";
-}
-
-public class BookmarkFillIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-fill";
-}
-
-public class BookmarkHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-heart-fill";
-}
-
-public class BookmarkHeartIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-heart";
-}
-
-public class BookmarkPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-plus-fill";
-}
-
-public class BookmarkPlusIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-plus";
-}
-
-public class BookmarkStarFillIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-star-fill";
-}
-
-public class BookmarkStarIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-star";
-}
-
-public class BookmarkXFillIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-x-fill";
-}
-
-public class BookmarkXIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark-x";
-}
-
-public class BookmarkIcon : BaseIcon
-{
-    protected override string IconSource => "bookmark";
-}
-
-public class BookmarksFillIcon : BaseIcon
-{
-    protected override string IconSource => "bookmarks-fill";
-}
-
-public class BookmarksIcon : BaseIcon
-{
-    protected override string IconSource => "bookmarks";
-}
-
-public class BookshelfIcon : BaseIcon
-{
-    protected override string IconSource => "bookshelf";
-}
-
-public class BootstrapFillIcon : BaseIcon
-{
-    protected override string IconSource => "bootstrap-fill";
-}
-
-public class BootstrapRebootIcon : BaseIcon
-{
-    protected override string IconSource => "bootstrap-reboot";
-}
-
-public class BootstrapIcon : BaseIcon
-{
-    protected override string IconSource => "bootstrap";
-}
-
-public class BorderAllIcon : BaseIcon
-{
-    protected override string IconSource => "border-all";
-}
-
-public class BorderBottomIcon : BaseIcon
-{
-    protected override string IconSource => "border-bottom";
-}
-
-public class BorderCenterIcon : BaseIcon
-{
-    protected override string IconSource => "border-center";
-}
-
-public class BorderInnerIcon : BaseIcon
-{
-    protected override string IconSource => "border-inner";
-}
-
-public class BorderLeftIcon : BaseIcon
-{
-    protected override string IconSource => "border-left";
-}
-
-public class BorderMiddleIcon : BaseIcon
-{
-    protected override string IconSource => "border-middle";
-}
-
-public class BorderOuterIcon : BaseIcon
-{
-    protected override string IconSource => "border-outer";
-}
-
-public class BorderRightIcon : BaseIcon
-{
-    protected override string IconSource => "border-right";
-}
-
-public class BorderStyleIcon : BaseIcon
-{
-    protected override string IconSource => "border-style";
-}
-
-public class BorderTopIcon : BaseIcon
-{
-    protected override string IconSource => "border-top";
-}
-
-public class BorderWidthIcon : BaseIcon
-{
-    protected override string IconSource => "border-width";
-}
-
-public class BorderIcon : BaseIcon
-{
-    protected override string IconSource => "border";
-}
-
-public class BoundingBoxCirclesIcon : BaseIcon
-{
-    protected override string IconSource => "bounding-box-circles";
-}
-
-public class BoundingBoxIcon : BaseIcon
-{
-    protected override string IconSource => "bounding-box";
-}
-
-public class BoxArrowDownLeftIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-down-left";
-}
-
-public class BoxArrowDownRightIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-down-right";
-}
-
-public class BoxArrowDownIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-down";
-}
-
-public class BoxArrowInDownLeftIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-in-down-left";
-}
-
-public class BoxArrowInDownRightIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-in-down-right";
-}
-
-public class BoxArrowInDownIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-in-down";
-}
-
-public class BoxArrowInLeftIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-in-left";
-}
-
-public class BoxArrowInRightIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-in-right";
-}
-
-public class BoxArrowInUpLeftIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-in-up-left";
-}
-
-public class BoxArrowInUpRightIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-in-up-right";
-}
-
-public class BoxArrowInUpIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-in-up";
-}
-
-public class BoxArrowLeftIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-left";
-}
-
-public class BoxArrowRightIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-right";
-}
-
-public class BoxArrowUpLeftIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-up-left";
-}
-
-public class BoxArrowUpRightIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-up-right";
-}
-
-public class BoxArrowUpIcon : BaseIcon
-{
-    protected override string IconSource => "box-arrow-up";
-}
-
-public class BoxSeamIcon : BaseIcon
-{
-    protected override string IconSource => "box-seam";
-}
-
-public class BoxIcon : BaseIcon
-{
-    protected override string IconSource => "box";
-}
-
-public class BracesIcon : BaseIcon
-{
-    protected override string IconSource => "braces";
-}
-
-public class BricksIcon : BaseIcon
-{
-    protected override string IconSource => "bricks";
-}
-
-public class BriefcaseFillIcon : BaseIcon
-{
-    protected override string IconSource => "briefcase-fill";
-}
-
-public class BriefcaseIcon : BaseIcon
-{
-    protected override string IconSource => "briefcase";
-}
-
-public class BrightnessAltHighFillIcon : BaseIcon
-{
-    protected override string IconSource => "brightness-alt-high-fill";
-}
-
-public class BrightnessAltHighIcon : BaseIcon
-{
-    protected override string IconSource => "brightness-alt-high";
-}
-
-public class BrightnessAltLowFillIcon : BaseIcon
-{
-    protected override string IconSource => "brightness-alt-low-fill";
-}
-
-public class BrightnessAltLowIcon : BaseIcon
-{
-    protected override string IconSource => "brightness-alt-low";
-}
-
-public class BrightnessHighFillIcon : BaseIcon
-{
-    protected override string IconSource => "brightness-high-fill";
-}
-
-public class BrightnessHighIcon : BaseIcon
-{
-    protected override string IconSource => "brightness-high";
-}
-
-public class BrightnessLowFillIcon : BaseIcon
-{
-    protected override string IconSource => "brightness-low-fill";
-}
-
-public class BrightnessLowIcon : BaseIcon
-{
-    protected override string IconSource => "brightness-low";
-}
-
-public class BroadcastPinIcon : BaseIcon
-{
-    protected override string IconSource => "broadcast-pin";
-}
-
-public class BroadcastIcon : BaseIcon
-{
-    protected override string IconSource => "broadcast";
-}
-
-public class BrushFillIcon : BaseIcon
-{
-    protected override string IconSource => "brush-fill";
-}
-
-public class BrushIcon : BaseIcon
-{
-    protected override string IconSource => "brush";
-}
-
-public class BucketFillIcon : BaseIcon
-{
-    protected override string IconSource => "bucket-fill";
-}
-
-public class BucketIcon : BaseIcon
-{
-    protected override string IconSource => "bucket";
-}
-
-public class BugFillIcon : BaseIcon
-{
-    protected override string IconSource => "bug-fill";
-}
-
-public class BugIcon : BaseIcon
-{
-    protected override string IconSource => "bug";
-}
-
-public class BuildingIcon : BaseIcon
-{
-    protected override string IconSource => "building";
-}
-
-public class BullseyeIcon : BaseIcon
-{
-    protected override string IconSource => "bullseye";
-}
-
-public class CalculatorFillIcon : BaseIcon
-{
-    protected override string IconSource => "calculator-fill";
-}
-
-public class CalculatorIcon : BaseIcon
-{
-    protected override string IconSource => "calculator";
-}
-
-public class CalendarCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-check-fill";
-}
-
-public class CalendarCheckIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-check";
-}
-
-public class CalendarDateFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-date-fill";
-}
-
-public class CalendarDateIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-date";
-}
-
-public class CalendarDayFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-day-fill";
-}
-
-public class CalendarDayIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-day";
-}
-
-public class CalendarEventFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-event-fill";
-}
-
-public class CalendarEventIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-event";
-}
-
-public class CalendarFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-fill";
-}
-
-public class CalendarMinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-minus-fill";
-}
-
-public class CalendarMinusIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-minus";
-}
-
-public class CalendarMonthFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-month-fill";
-}
-
-public class CalendarMonthIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-month";
-}
-
-public class CalendarPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-plus-fill";
-}
-
-public class CalendarPlusIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-plus";
-}
-
-public class CalendarRangeFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-range-fill";
-}
-
-public class CalendarRangeIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-range";
-}
-
-public class CalendarWeekFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-week-fill";
-}
-
-public class CalendarWeekIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-week";
-}
-
-public class CalendarXFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-x-fill";
-}
-
-public class CalendarXIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-x";
-}
-
-public class CalendarIcon : BaseIcon
-{
-    protected override string IconSource => "calendar";
-}
-
-public class Calendar2CheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-check-fill";
-}
-
-public class Calendar2CheckIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-check";
-}
-
-public class Calendar2DateFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-date-fill";
-}
-
-public class Calendar2DateIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-date";
-}
-
-public class Calendar2DayFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-day-fill";
-}
-
-public class Calendar2DayIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-day";
-}
-
-public class Calendar2EventFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-event-fill";
-}
-
-public class Calendar2EventIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-event";
-}
-
-public class Calendar2FillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-fill";
-}
-
-public class Calendar2MinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-minus-fill";
-}
-
-public class Calendar2MinusIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-minus";
-}
-
-public class Calendar2MonthFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-month-fill";
-}
-
-public class Calendar2MonthIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-month";
-}
-
-public class Calendar2PlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-plus-fill";
-}
-
-public class Calendar2PlusIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-plus";
-}
-
-public class Calendar2RangeFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-range-fill";
-}
-
-public class Calendar2RangeIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-range";
-}
-
-public class Calendar2WeekFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-week-fill";
-}
-
-public class Calendar2WeekIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-week";
-}
-
-public class Calendar2XFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-x-fill";
-}
-
-public class Calendar2XIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-x";
-}
-
-public class Calendar2Icon : BaseIcon
-{
-    protected override string IconSource => "calendar2";
-}
-
-public class Calendar3EventFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar3-event-fill";
-}
-
-public class Calendar3EventIcon : BaseIcon
-{
-    protected override string IconSource => "calendar3-event";
-}
-
-public class Calendar3FillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar3-fill";
-}
-
-public class Calendar3RangeFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar3-range-fill";
-}
-
-public class Calendar3RangeIcon : BaseIcon
-{
-    protected override string IconSource => "calendar3-range";
-}
-
-public class Calendar3WeekFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar3-week-fill";
-}
-
-public class Calendar3WeekIcon : BaseIcon
-{
-    protected override string IconSource => "calendar3-week";
-}
-
-public class Calendar3Icon : BaseIcon
-{
-    protected override string IconSource => "calendar3";
-}
-
-public class Calendar4EventIcon : BaseIcon
-{
-    protected override string IconSource => "calendar4-event";
-}
-
-public class Calendar4RangeIcon : BaseIcon
-{
-    protected override string IconSource => "calendar4-range";
-}
-
-public class Calendar4WeekIcon : BaseIcon
-{
-    protected override string IconSource => "calendar4-week";
-}
-
-public class Calendar4Icon : BaseIcon
-{
-    protected override string IconSource => "calendar4";
-}
-
-public class CameraFillIcon : BaseIcon
-{
-    protected override string IconSource => "camera-fill";
-}
-
-public class CameraReelsFillIcon : BaseIcon
-{
-    protected override string IconSource => "camera-reels-fill";
-}
-
-public class CameraReelsIcon : BaseIcon
-{
-    protected override string IconSource => "camera-reels";
-}
-
-public class CameraVideoFillIcon : BaseIcon
-{
-    protected override string IconSource => "camera-video-fill";
-}
-
-public class CameraVideoOffFillIcon : BaseIcon
-{
-    protected override string IconSource => "camera-video-off-fill";
-}
-
-public class CameraVideoOffIcon : BaseIcon
-{
-    protected override string IconSource => "camera-video-off";
-}
-
-public class CameraVideoIcon : BaseIcon
-{
-    protected override string IconSource => "camera-video";
-}
-
-public class CameraIcon : BaseIcon
-{
-    protected override string IconSource => "camera";
-}
-
-public class Camera2Icon : BaseIcon
-{
-    protected override string IconSource => "camera2";
-}
-
-public class CapslockFillIcon : BaseIcon
-{
-    protected override string IconSource => "capslock-fill";
-}
-
-public class CapslockIcon : BaseIcon
-{
-    protected override string IconSource => "capslock";
-}
-
-public class CardChecklistIcon : BaseIcon
-{
-    protected override string IconSource => "card-checklist";
-}
-
-public class CardHeadingIcon : BaseIcon
-{
-    protected override string IconSource => "card-heading";
-}
-
-public class CardImageIcon : BaseIcon
-{
-    protected override string IconSource => "card-image";
-}
-
-public class CardListIcon : BaseIcon
-{
-    protected override string IconSource => "card-list";
-}
-
-public class CardTextIcon : BaseIcon
-{
-    protected override string IconSource => "card-text";
-}
-
-public class CaretDownFillIcon : BaseIcon
-{
-    protected override string IconSource => "caret-down-fill";
-}
-
-public class CaretDownSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "caret-down-square-fill";
-}
-
-public class CaretDownSquareIcon : BaseIcon
-{
-    protected override string IconSource => "caret-down-square";
-}
-
-public class CaretDownIcon : BaseIcon
-{
-    protected override string IconSource => "caret-down";
-}
-
-public class CaretLeftFillIcon : BaseIcon
-{
-    protected override string IconSource => "caret-left-fill";
-}
-
-public class CaretLeftSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "caret-left-square-fill";
-}
-
-public class CaretLeftSquareIcon : BaseIcon
-{
-    protected override string IconSource => "caret-left-square";
-}
-
-public class CaretLeftIcon : BaseIcon
-{
-    protected override string IconSource => "caret-left";
-}
-
-public class CaretRightFillIcon : BaseIcon
-{
-    protected override string IconSource => "caret-right-fill";
-}
-
-public class CaretRightSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "caret-right-square-fill";
-}
-
-public class CaretRightSquareIcon : BaseIcon
-{
-    protected override string IconSource => "caret-right-square";
-}
-
-public class CaretRightIcon : BaseIcon
-{
-    protected override string IconSource => "caret-right";
-}
-
-public class CaretUpFillIcon : BaseIcon
-{
-    protected override string IconSource => "caret-up-fill";
-}
-
-public class CaretUpSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "caret-up-square-fill";
-}
-
-public class CaretUpSquareIcon : BaseIcon
-{
-    protected override string IconSource => "caret-up-square";
-}
-
-public class CaretUpIcon : BaseIcon
-{
-    protected override string IconSource => "caret-up";
-}
-
-public class CartCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "cart-check-fill";
-}
-
-public class CartCheckIcon : BaseIcon
-{
-    protected override string IconSource => "cart-check";
-}
-
-public class CartDashFillIcon : BaseIcon
-{
-    protected override string IconSource => "cart-dash-fill";
-}
-
-public class CartDashIcon : BaseIcon
-{
-    protected override string IconSource => "cart-dash";
-}
-
-public class CartFillIcon : BaseIcon
-{
-    protected override string IconSource => "cart-fill";
-}
-
-public class CartPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "cart-plus-fill";
-}
-
-public class CartPlusIcon : BaseIcon
-{
-    protected override string IconSource => "cart-plus";
-}
-
-public class CartXFillIcon : BaseIcon
-{
-    protected override string IconSource => "cart-x-fill";
-}
-
-public class CartXIcon : BaseIcon
-{
-    protected override string IconSource => "cart-x";
-}
-
-public class CartIcon : BaseIcon
-{
-    protected override string IconSource => "cart";
-}
-
-public class Cart2Icon : BaseIcon
-{
-    protected override string IconSource => "cart2";
-}
-
-public class Cart3Icon : BaseIcon
-{
-    protected override string IconSource => "cart3";
-}
-
-public class Cart4Icon : BaseIcon
-{
-    protected override string IconSource => "cart4";
-}
-
-public class CashStackIcon : BaseIcon
-{
-    protected override string IconSource => "cash-stack";
-}
-
-public class CashIcon : BaseIcon
-{
-    protected override string IconSource => "cash";
-}
-
-public class CastIcon : BaseIcon
-{
-    protected override string IconSource => "cast";
-}
-
-public class ChatDotsFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-dots-fill";
-}
-
-public class ChatDotsIcon : BaseIcon
-{
-    protected override string IconSource => "chat-dots";
-}
-
-public class ChatFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-fill";
-}
-
-public class ChatLeftDotsFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-dots-fill";
-}
-
-public class ChatLeftDotsIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-dots";
-}
-
-public class ChatLeftFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-fill";
-}
-
-public class ChatLeftQuoteFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-quote-fill";
-}
-
-public class ChatLeftQuoteIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-quote";
-}
-
-public class ChatLeftTextFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-text-fill";
-}
-
-public class ChatLeftTextIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-text";
-}
-
-public class ChatLeftIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left";
-}
-
-public class ChatQuoteFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-quote-fill";
-}
-
-public class ChatQuoteIcon : BaseIcon
-{
-    protected override string IconSource => "chat-quote";
-}
-
-public class ChatRightDotsFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-dots-fill";
-}
-
-public class ChatRightDotsIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-dots";
-}
-
-public class ChatRightFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-fill";
-}
-
-public class ChatRightQuoteFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-quote-fill";
-}
-
-public class ChatRightQuoteIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-quote";
-}
-
-public class ChatRightTextFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-text-fill";
-}
-
-public class ChatRightTextIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-text";
-}
-
-public class ChatRightIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right";
-}
-
-public class ChatSquareDotsFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-dots-fill";
-}
-
-public class ChatSquareDotsIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-dots";
-}
-
-public class ChatSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-fill";
-}
-
-public class ChatSquareQuoteFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-quote-fill";
-}
-
-public class ChatSquareQuoteIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-quote";
-}
-
-public class ChatSquareTextFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-text-fill";
-}
-
-public class ChatSquareTextIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-text";
-}
-
-public class ChatSquareIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square";
-}
-
-public class ChatTextFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-text-fill";
-}
-
-public class ChatTextIcon : BaseIcon
-{
-    protected override string IconSource => "chat-text";
-}
-
-public class ChatIcon : BaseIcon
-{
-    protected override string IconSource => "chat";
-}
-
-public class CheckAllIcon : BaseIcon
-{
-    protected override string IconSource => "check-all";
-}
-
-public class CheckCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "check-circle-fill";
-}
-
-public class CheckCircleIcon : BaseIcon
-{
-    protected override string IconSource => "check-circle";
-}
-
-public class CheckSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "check-square-fill";
-}
-
-public class CheckSquareIcon : BaseIcon
-{
-    protected override string IconSource => "check-square";
-}
-
-public class CheckIcon : BaseIcon
-{
-    protected override string IconSource => "check";
-}
-
-public class Check2AllIcon : BaseIcon
-{
-    protected override string IconSource => "check2-all";
-}
-
-public class Check2CircleIcon : BaseIcon
-{
-    protected override string IconSource => "check2-circle";
-}
-
-public class Check2SquareIcon : BaseIcon
-{
-    protected override string IconSource => "check2-square";
-}
-
-public class Check2Icon : BaseIcon
-{
-    protected override string IconSource => "check2";
-}
-
-public class ChevronBarContractIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-bar-contract";
-}
-
-public class ChevronBarDownIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-bar-down";
-}
-
-public class ChevronBarExpandIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-bar-expand";
-}
-
-public class ChevronBarLeftIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-bar-left";
-}
-
-public class ChevronBarRightIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-bar-right";
-}
-
-public class ChevronBarUpIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-bar-up";
-}
-
-public class ChevronCompactDownIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-compact-down";
-}
-
-public class ChevronCompactLeftIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-compact-left";
-}
-
-public class ChevronCompactRightIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-compact-right";
-}
-
-public class ChevronCompactUpIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-compact-up";
-}
-
-public class ChevronContractIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-contract";
-}
-
-public class ChevronDoubleDownIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-double-down";
-}
-
-public class ChevronDoubleLeftIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-double-left";
-}
-
-public class ChevronDoubleRightIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-double-right";
-}
-
-public class ChevronDoubleUpIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-double-up";
-}
-
-public class ChevronDownIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-down";
-}
-
-public class ChevronExpandIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-expand";
-}
-
-public class ChevronLeftIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-left";
-}
-
-public class ChevronRightIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-right";
-}
-
-public class ChevronUpIcon : BaseIcon
-{
-    protected override string IconSource => "chevron-up";
-}
-
-public class CircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "circle-fill";
-}
-
-public class CircleHalfIcon : BaseIcon
-{
-    protected override string IconSource => "circle-half";
-}
-
-public class CircleSquareIcon : BaseIcon
-{
-    protected override string IconSource => "circle-square";
-}
-
-public class CircleIcon : BaseIcon
-{
-    protected override string IconSource => "circle";
-}
-
-public class ClipboardCheckIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-check";
-}
-
-public class ClipboardDataIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-data";
-}
-
-public class ClipboardMinusIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-minus";
-}
-
-public class ClipboardPlusIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-plus";
-}
-
-public class ClipboardXIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-x";
-}
-
-public class ClipboardIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard";
-}
-
-public class ClockFillIcon : BaseIcon
-{
-    protected override string IconSource => "clock-fill";
-}
-
-public class ClockHistoryIcon : BaseIcon
-{
-    protected override string IconSource => "clock-history";
-}
-
-public class ClockIcon : BaseIcon
-{
-    protected override string IconSource => "clock";
-}
-
-public class CloudArrowDownFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-arrow-down-fill";
-}
-
-public class CloudArrowDownIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-arrow-down";
-}
-
-public class CloudArrowUpFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-arrow-up-fill";
-}
-
-public class CloudArrowUpIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-arrow-up";
-}
-
-public class CloudCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-check-fill";
-}
-
-public class CloudCheckIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-check";
-}
-
-public class CloudDownloadFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-download-fill";
-}
-
-public class CloudDownloadIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-download";
-}
-
-public class CloudDrizzleFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-drizzle-fill";
-}
-
-public class CloudDrizzleIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-drizzle";
-}
-
-public class CloudFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-fill";
-}
-
-public class CloudFogFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-fog-fill";
-}
-
-public class CloudFogIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-fog";
-}
-
-public class CloudFog2FillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-fog2-fill";
-}
-
-public class CloudFog2Icon : BaseIcon
-{
-    protected override string IconSource => "cloud-fog2";
-}
-
-public class CloudHailFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-hail-fill";
-}
-
-public class CloudHailIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-hail";
-}
-
-public class CloudHaze1Icon : BaseIcon
-{
-    protected override string IconSource => "cloud-haze-1";
-}
-
-public class CloudHazeFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-haze-fill";
-}
-
-public class CloudHazeIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-haze";
-}
-
-public class CloudHaze2FillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-haze2-fill";
-}
-
-public class CloudLightningFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-lightning-fill";
-}
-
-public class CloudLightningRainFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-lightning-rain-fill";
-}
-
-public class CloudLightningRainIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-lightning-rain";
-}
-
-public class CloudLightningIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-lightning";
-}
-
-public class CloudMinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-minus-fill";
-}
-
-public class CloudMinusIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-minus";
-}
-
-public class CloudMoonFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-moon-fill";
-}
-
-public class CloudMoonIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-moon";
-}
-
-public class CloudPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-plus-fill";
-}
-
-public class CloudPlusIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-plus";
-}
-
-public class CloudRainFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-rain-fill";
-}
-
-public class CloudRainHeavyFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-rain-heavy-fill";
-}
-
-public class CloudRainHeavyIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-rain-heavy";
-}
-
-public class CloudRainIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-rain";
-}
-
-public class CloudSlashFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-slash-fill";
-}
-
-public class CloudSlashIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-slash";
-}
-
-public class CloudSleetFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-sleet-fill";
-}
-
-public class CloudSleetIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-sleet";
-}
-
-public class CloudSnowFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-snow-fill";
-}
-
-public class CloudSnowIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-snow";
-}
-
-public class CloudSunFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-sun-fill";
-}
-
-public class CloudSunIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-sun";
-}
-
-public class CloudUploadFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-upload-fill";
-}
-
-public class CloudUploadIcon : BaseIcon
-{
-    protected override string IconSource => "cloud-upload";
-}
-
-public class CloudIcon : BaseIcon
-{
-    protected override string IconSource => "cloud";
-}
-
-public class CloudsFillIcon : BaseIcon
-{
-    protected override string IconSource => "clouds-fill";
-}
-
-public class CloudsIcon : BaseIcon
-{
-    protected override string IconSource => "clouds";
-}
-
-public class CloudyFillIcon : BaseIcon
-{
-    protected override string IconSource => "cloudy-fill";
-}
-
-public class CloudyIcon : BaseIcon
-{
-    protected override string IconSource => "cloudy";
-}
-
-public class CodeSlashIcon : BaseIcon
-{
-    protected override string IconSource => "code-slash";
-}
-
-public class CodeSquareIcon : BaseIcon
-{
-    protected override string IconSource => "code-square";
-}
-
-public class CodeIcon : BaseIcon
-{
-    protected override string IconSource => "code";
-}
-
-public class CollectionFillIcon : BaseIcon
-{
-    protected override string IconSource => "collection-fill";
-}
-
-public class CollectionPlayFillIcon : BaseIcon
-{
-    protected override string IconSource => "collection-play-fill";
-}
-
-public class CollectionPlayIcon : BaseIcon
-{
-    protected override string IconSource => "collection-play";
-}
-
-public class CollectionIcon : BaseIcon
-{
-    protected override string IconSource => "collection";
-}
-
-public class ColumnsGapIcon : BaseIcon
-{
-    protected override string IconSource => "columns-gap";
-}
-
-public class ColumnsIcon : BaseIcon
-{
-    protected override string IconSource => "columns";
-}
-
-public class CommandIcon : BaseIcon
-{
-    protected override string IconSource => "command";
-}
-
-public class CompassFillIcon : BaseIcon
-{
-    protected override string IconSource => "compass-fill";
-}
-
-public class CompassIcon : BaseIcon
-{
-    protected override string IconSource => "compass";
-}
-
-public class ConeStripedIcon : BaseIcon
-{
-    protected override string IconSource => "cone-striped";
-}
-
-public class ConeIcon : BaseIcon
-{
-    protected override string IconSource => "cone";
-}
-
-public class ControllerIcon : BaseIcon
-{
-    protected override string IconSource => "controller";
-}
-
-public class CpuFillIcon : BaseIcon
-{
-    protected override string IconSource => "cpu-fill";
-}
-
-public class CpuIcon : BaseIcon
-{
-    protected override string IconSource => "cpu";
-}
-
-public class CreditCard2BackFillIcon : BaseIcon
-{
-    protected override string IconSource => "credit-card-2-back-fill";
-}
-
-public class CreditCard2BackIcon : BaseIcon
-{
-    protected override string IconSource => "credit-card-2-back";
-}
-
-public class CreditCard2FrontFillIcon : BaseIcon
-{
-    protected override string IconSource => "credit-card-2-front-fill";
-}
-
-public class CreditCard2FrontIcon : BaseIcon
-{
-    protected override string IconSource => "credit-card-2-front";
-}
-
-public class CreditCardFillIcon : BaseIcon
-{
-    protected override string IconSource => "credit-card-fill";
-}
-
-public class CreditCardIcon : BaseIcon
-{
-    protected override string IconSource => "credit-card";
-}
-
-public class CropIcon : BaseIcon
-{
-    protected override string IconSource => "crop";
-}
-
-public class CupFillIcon : BaseIcon
-{
-    protected override string IconSource => "cup-fill";
-}
-
-public class CupStrawIcon : BaseIcon
-{
-    protected override string IconSource => "cup-straw";
-}
-
-public class CupIcon : BaseIcon
-{
-    protected override string IconSource => "cup";
-}
-
-public class CursorFillIcon : BaseIcon
-{
-    protected override string IconSource => "cursor-fill";
-}
-
-public class CursorTextIcon : BaseIcon
-{
-    protected override string IconSource => "cursor-text";
-}
-
-public class CursorIcon : BaseIcon
-{
-    protected override string IconSource => "cursor";
-}
-
-public class DashCircleDottedIcon : BaseIcon
-{
-    protected override string IconSource => "dash-circle-dotted";
-}
-
-public class DashCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "dash-circle-fill";
-}
-
-public class DashCircleIcon : BaseIcon
-{
-    protected override string IconSource => "dash-circle";
-}
-
-public class DashSquareDottedIcon : BaseIcon
-{
-    protected override string IconSource => "dash-square-dotted";
-}
-
-public class DashSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "dash-square-fill";
-}
-
-public class DashSquareIcon : BaseIcon
-{
-    protected override string IconSource => "dash-square";
-}
-
-public class DashIcon : BaseIcon
-{
-    protected override string IconSource => "dash";
-}
-
-public class Diagram2FillIcon : BaseIcon
-{
-    protected override string IconSource => "diagram-2-fill";
-}
-
-public class Diagram2Icon : BaseIcon
-{
-    protected override string IconSource => "diagram-2";
-}
-
-public class Diagram3FillIcon : BaseIcon
-{
-    protected override string IconSource => "diagram-3-fill";
-}
-
-public class Diagram3Icon : BaseIcon
-{
-    protected override string IconSource => "diagram-3";
-}
-
-public class DiamondFillIcon : BaseIcon
-{
-    protected override string IconSource => "diamond-fill";
-}
-
-public class DiamondHalfIcon : BaseIcon
-{
-    protected override string IconSource => "diamond-half";
-}
-
-public class DiamondIcon : BaseIcon
-{
-    protected override string IconSource => "diamond";
-}
-
-public class Dice1FillIcon : BaseIcon
-{
-    protected override string IconSource => "dice-1-fill";
-}
-
-public class Dice1Icon : BaseIcon
-{
-    protected override string IconSource => "dice-1";
-}
-
-public class Dice2FillIcon : BaseIcon
-{
-    protected override string IconSource => "dice-2-fill";
-}
-
-public class Dice2Icon : BaseIcon
-{
-    protected override string IconSource => "dice-2";
-}
-
-public class Dice3FillIcon : BaseIcon
-{
-    protected override string IconSource => "dice-3-fill";
-}
-
-public class Dice3Icon : BaseIcon
-{
-    protected override string IconSource => "dice-3";
-}
-
-public class Dice4FillIcon : BaseIcon
-{
-    protected override string IconSource => "dice-4-fill";
-}
-
-public class Dice4Icon : BaseIcon
-{
-    protected override string IconSource => "dice-4";
-}
-
-public class Dice5FillIcon : BaseIcon
-{
-    protected override string IconSource => "dice-5-fill";
-}
-
-public class Dice5Icon : BaseIcon
-{
-    protected override string IconSource => "dice-5";
-}
-
-public class Dice6FillIcon : BaseIcon
-{
-    protected override string IconSource => "dice-6-fill";
-}
-
-public class Dice6Icon : BaseIcon
-{
-    protected override string IconSource => "dice-6";
-}
-
-public class DiscFillIcon : BaseIcon
-{
-    protected override string IconSource => "disc-fill";
-}
-
-public class DiscIcon : BaseIcon
-{
-    protected override string IconSource => "disc";
-}
-
-public class DiscordIcon : BaseIcon
-{
-    protected override string IconSource => "discord";
-}
-
-public class DisplayFillIcon : BaseIcon
-{
-    protected override string IconSource => "display-fill";
-}
-
-public class DisplayIcon : BaseIcon
-{
-    protected override string IconSource => "display";
-}
-
-public class DistributeHorizontalIcon : BaseIcon
-{
-    protected override string IconSource => "distribute-horizontal";
-}
-
-public class DistributeVerticalIcon : BaseIcon
-{
-    protected override string IconSource => "distribute-vertical";
-}
-
-public class DoorClosedFillIcon : BaseIcon
-{
-    protected override string IconSource => "door-closed-fill";
-}
-
-public class DoorClosedIcon : BaseIcon
-{
-    protected override string IconSource => "door-closed";
-}
-
-public class DoorOpenFillIcon : BaseIcon
-{
-    protected override string IconSource => "door-open-fill";
-}
-
-public class DoorOpenIcon : BaseIcon
-{
-    protected override string IconSource => "door-open";
-}
-
-public class DotIcon : BaseIcon
-{
-    protected override string IconSource => "dot";
-}
-
-public class DownloadIcon : BaseIcon
-{
-    protected override string IconSource => "download";
-}
-
-public class DropletFillIcon : BaseIcon
-{
-    protected override string IconSource => "droplet-fill";
-}
-
-public class DropletHalfIcon : BaseIcon
-{
-    protected override string IconSource => "droplet-half";
-}
-
-public class DropletIcon : BaseIcon
-{
-    protected override string IconSource => "droplet";
-}
-
-public class EarbudsIcon : BaseIcon
-{
-    protected override string IconSource => "earbuds";
-}
-
-public class EaselFillIcon : BaseIcon
-{
-    protected override string IconSource => "easel-fill";
-}
-
-public class EaselIcon : BaseIcon
-{
-    protected override string IconSource => "easel";
-}
-
-public class EggFillIcon : BaseIcon
-{
-    protected override string IconSource => "egg-fill";
-}
-
-public class EggFriedIcon : BaseIcon
-{
-    protected override string IconSource => "egg-fried";
-}
-
-public class EggIcon : BaseIcon
-{
-    protected override string IconSource => "egg";
-}
-
-public class EjectFillIcon : BaseIcon
-{
-    protected override string IconSource => "eject-fill";
-}
-
-public class EjectIcon : BaseIcon
-{
-    protected override string IconSource => "eject";
-}
-
-public class EmojiAngryFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-angry-fill";
-}
-
-public class EmojiAngryIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-angry";
-}
-
-public class EmojiDizzyFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-dizzy-fill";
-}
-
-public class EmojiDizzyIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-dizzy";
-}
-
-public class EmojiExpressionlessFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-expressionless-fill";
-}
-
-public class EmojiExpressionlessIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-expressionless";
-}
-
-public class EmojiFrownFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-frown-fill";
-}
-
-public class EmojiFrownIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-frown";
-}
-
-public class EmojiHeartEyesFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-heart-eyes-fill";
-}
-
-public class EmojiHeartEyesIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-heart-eyes";
-}
-
-public class EmojiLaughingFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-laughing-fill";
-}
-
-public class EmojiLaughingIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-laughing";
-}
-
-public class EmojiNeutralFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-neutral-fill";
-}
-
-public class EmojiNeutralIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-neutral";
-}
-
-public class EmojiSmileFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-smile-fill";
-}
-
-public class EmojiSmileUpsideDownFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-smile-upside-down-fill";
-}
-
-public class EmojiSmileUpsideDownIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-smile-upside-down";
-}
-
-public class EmojiSmileIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-smile";
-}
-
-public class EmojiSunglassesFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-sunglasses-fill";
-}
-
-public class EmojiSunglassesIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-sunglasses";
-}
-
-public class EmojiWinkFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-wink-fill";
-}
-
-public class EmojiWinkIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-wink";
-}
-
-public class EnvelopeFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-fill";
-}
-
-public class EnvelopeOpenFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-open-fill";
-}
-
-public class EnvelopeOpenIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-open";
-}
-
-public class EnvelopeIcon : BaseIcon
-{
-    protected override string IconSource => "envelope";
-}
-
-public class EraserFillIcon : BaseIcon
-{
-    protected override string IconSource => "eraser-fill";
-}
-
-public class EraserIcon : BaseIcon
-{
-    protected override string IconSource => "eraser";
-}
-
-public class ExclamationCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-circle-fill";
-}
-
-public class ExclamationCircleIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-circle";
-}
-
-public class ExclamationDiamondFillIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-diamond-fill";
-}
-
-public class ExclamationDiamondIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-diamond";
-}
-
-public class ExclamationOctagonFillIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-octagon-fill";
-}
-
-public class ExclamationOctagonIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-octagon";
-}
-
-public class ExclamationSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-square-fill";
-}
-
-public class ExclamationSquareIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-square";
-}
-
-public class ExclamationTriangleFillIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-triangle-fill";
-}
-
-public class ExclamationTriangleIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-triangle";
-}
-
-public class ExclamationIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation";
-}
-
-public class ExcludeIcon : BaseIcon
-{
-    protected override string IconSource => "exclude";
-}
-
-public class EyeFillIcon : BaseIcon
-{
-    protected override string IconSource => "eye-fill";
-}
-
-public class EyeSlashFillIcon : BaseIcon
-{
-    protected override string IconSource => "eye-slash-fill";
-}
-
-public class EyeSlashIcon : BaseIcon
-{
-    protected override string IconSource => "eye-slash";
-}
-
-public class EyeIcon : BaseIcon
-{
-    protected override string IconSource => "eye";
-}
-
-public class EyedropperIcon : BaseIcon
-{
-    protected override string IconSource => "eyedropper";
-}
-
-public class EyeglassesIcon : BaseIcon
-{
-    protected override string IconSource => "eyeglasses";
-}
-
-public class FacebookIcon : BaseIcon
-{
-    protected override string IconSource => "facebook";
-}
-
-public class FileArrowDownFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-arrow-down-fill";
-}
-
-public class FileArrowDownIcon : BaseIcon
-{
-    protected override string IconSource => "file-arrow-down";
-}
-
-public class FileArrowUpFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-arrow-up-fill";
-}
-
-public class FileArrowUpIcon : BaseIcon
-{
-    protected override string IconSource => "file-arrow-up";
-}
-
-public class FileBarGraphFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-bar-graph-fill";
-}
-
-public class FileBarGraphIcon : BaseIcon
-{
-    protected override string IconSource => "file-bar-graph";
-}
-
-public class FileBinaryFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-binary-fill";
-}
-
-public class FileBinaryIcon : BaseIcon
-{
-    protected override string IconSource => "file-binary";
-}
-
-public class FileBreakFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-break-fill";
-}
-
-public class FileBreakIcon : BaseIcon
-{
-    protected override string IconSource => "file-break";
-}
-
-public class FileCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-check-fill";
-}
-
-public class FileCheckIcon : BaseIcon
-{
-    protected override string IconSource => "file-check";
-}
-
-public class FileCodeFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-code-fill";
-}
-
-public class FileCodeIcon : BaseIcon
-{
-    protected override string IconSource => "file-code";
-}
-
-public class FileDiffFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-diff-fill";
-}
-
-public class FileDiffIcon : BaseIcon
-{
-    protected override string IconSource => "file-diff";
-}
-
-public class FileEarmarkArrowDownFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-arrow-down-fill";
-}
-
-public class FileEarmarkArrowDownIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-arrow-down";
-}
-
-public class FileEarmarkArrowUpFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-arrow-up-fill";
-}
-
-public class FileEarmarkArrowUpIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-arrow-up";
-}
-
-public class FileEarmarkBarGraphFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-bar-graph-fill";
-}
-
-public class FileEarmarkBarGraphIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-bar-graph";
-}
-
-public class FileEarmarkBinaryFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-binary-fill";
-}
-
-public class FileEarmarkBinaryIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-binary";
-}
-
-public class FileEarmarkBreakFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-break-fill";
-}
-
-public class FileEarmarkBreakIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-break";
-}
-
-public class FileEarmarkCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-check-fill";
-}
-
-public class FileEarmarkCheckIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-check";
-}
-
-public class FileEarmarkCodeFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-code-fill";
-}
-
-public class FileEarmarkCodeIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-code";
-}
-
-public class FileEarmarkDiffFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-diff-fill";
-}
-
-public class FileEarmarkDiffIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-diff";
-}
-
-public class FileEarmarkEaselFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-easel-fill";
-}
-
-public class FileEarmarkEaselIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-easel";
-}
-
-public class FileEarmarkExcelFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-excel-fill";
-}
-
-public class FileEarmarkExcelIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-excel";
-}
-
-public class FileEarmarkFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-fill";
-}
-
-public class FileEarmarkFontFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-font-fill";
-}
-
-public class FileEarmarkFontIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-font";
-}
-
-public class FileEarmarkImageFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-image-fill";
-}
-
-public class FileEarmarkImageIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-image";
-}
-
-public class FileEarmarkLockFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-lock-fill";
-}
-
-public class FileEarmarkLockIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-lock";
-}
-
-public class FileEarmarkLock2FillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-lock2-fill";
-}
-
-public class FileEarmarkLock2Icon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-lock2";
-}
-
-public class FileEarmarkMedicalFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-medical-fill";
-}
-
-public class FileEarmarkMedicalIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-medical";
-}
-
-public class FileEarmarkMinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-minus-fill";
-}
-
-public class FileEarmarkMinusIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-minus";
-}
-
-public class FileEarmarkMusicFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-music-fill";
-}
-
-public class FileEarmarkMusicIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-music";
-}
-
-public class FileEarmarkPersonFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-person-fill";
-}
-
-public class FileEarmarkPersonIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-person";
-}
-
-public class FileEarmarkPlayFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-play-fill";
-}
-
-public class FileEarmarkPlayIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-play";
-}
-
-public class FileEarmarkPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-plus-fill";
-}
-
-public class FileEarmarkPlusIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-plus";
-}
-
-public class FileEarmarkPostFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-post-fill";
-}
-
-public class FileEarmarkPostIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-post";
-}
-
-public class FileEarmarkPptFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-ppt-fill";
-}
-
-public class FileEarmarkPptIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-ppt";
-}
-
-public class FileEarmarkRichtextFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-richtext-fill";
-}
-
-public class FileEarmarkRichtextIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-richtext";
-}
-
-public class FileEarmarkRuledFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-ruled-fill";
-}
-
-public class FileEarmarkRuledIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-ruled";
-}
-
-public class FileEarmarkSlidesFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-slides-fill";
-}
-
-public class FileEarmarkSlidesIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-slides";
-}
-
-public class FileEarmarkSpreadsheetFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-spreadsheet-fill";
-}
-
-public class FileEarmarkSpreadsheetIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-spreadsheet";
-}
-
-public class FileEarmarkTextFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-text-fill";
-}
-
-public class FileEarmarkTextIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-text";
-}
-
-public class FileEarmarkWordFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-word-fill";
-}
-
-public class FileEarmarkWordIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-word";
-}
-
-public class FileEarmarkXFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-x-fill";
-}
-
-public class FileEarmarkXIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-x";
-}
-
-public class FileEarmarkZipFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-zip-fill";
-}
-
-public class FileEarmarkZipIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-zip";
-}
-
-public class FileEarmarkIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark";
-}
-
-public class FileEaselFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-easel-fill";
-}
-
-public class FileEaselIcon : BaseIcon
-{
-    protected override string IconSource => "file-easel";
-}
-
-public class FileExcelFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-excel-fill";
-}
-
-public class FileExcelIcon : BaseIcon
-{
-    protected override string IconSource => "file-excel";
-}
-
-public class FileFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-fill";
-}
-
-public class FileFontFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-font-fill";
-}
-
-public class FileFontIcon : BaseIcon
-{
-    protected override string IconSource => "file-font";
-}
-
-public class FileImageFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-image-fill";
-}
-
-public class FileImageIcon : BaseIcon
-{
-    protected override string IconSource => "file-image";
-}
-
-public class FileLockFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-lock-fill";
-}
-
-public class FileLockIcon : BaseIcon
-{
-    protected override string IconSource => "file-lock";
-}
-
-public class FileLock2FillIcon : BaseIcon
-{
-    protected override string IconSource => "file-lock2-fill";
-}
-
-public class FileLock2Icon : BaseIcon
-{
-    protected override string IconSource => "file-lock2";
-}
-
-public class FileMedicalFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-medical-fill";
-}
-
-public class FileMedicalIcon : BaseIcon
-{
-    protected override string IconSource => "file-medical";
-}
-
-public class FileMinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-minus-fill";
-}
-
-public class FileMinusIcon : BaseIcon
-{
-    protected override string IconSource => "file-minus";
-}
-
-public class FileMusicFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-music-fill";
-}
-
-public class FileMusicIcon : BaseIcon
-{
-    protected override string IconSource => "file-music";
-}
-
-public class FilePersonFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-person-fill";
-}
-
-public class FilePersonIcon : BaseIcon
-{
-    protected override string IconSource => "file-person";
-}
-
-public class FilePlayFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-play-fill";
-}
-
-public class FilePlayIcon : BaseIcon
-{
-    protected override string IconSource => "file-play";
-}
-
-public class FilePlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-plus-fill";
-}
-
-public class FilePlusIcon : BaseIcon
-{
-    protected override string IconSource => "file-plus";
-}
-
-public class FilePostFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-post-fill";
-}
-
-public class FilePostIcon : BaseIcon
-{
-    protected override string IconSource => "file-post";
-}
-
-public class FilePptFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-ppt-fill";
-}
-
-public class FilePptIcon : BaseIcon
-{
-    protected override string IconSource => "file-ppt";
-}
-
-public class FileRichtextFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-richtext-fill";
-}
-
-public class FileRichtextIcon : BaseIcon
-{
-    protected override string IconSource => "file-richtext";
-}
-
-public class FileRuledFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-ruled-fill";
-}
-
-public class FileRuledIcon : BaseIcon
-{
-    protected override string IconSource => "file-ruled";
-}
-
-public class FileSlidesFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-slides-fill";
-}
-
-public class FileSlidesIcon : BaseIcon
-{
-    protected override string IconSource => "file-slides";
-}
-
-public class FileSpreadsheetFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-spreadsheet-fill";
-}
-
-public class FileSpreadsheetIcon : BaseIcon
-{
-    protected override string IconSource => "file-spreadsheet";
-}
-
-public class FileTextFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-text-fill";
-}
-
-public class FileTextIcon : BaseIcon
-{
-    protected override string IconSource => "file-text";
-}
-
-public class FileWordFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-word-fill";
-}
-
-public class FileWordIcon : BaseIcon
-{
-    protected override string IconSource => "file-word";
-}
-
-public class FileXFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-x-fill";
-}
-
-public class FileXIcon : BaseIcon
-{
-    protected override string IconSource => "file-x";
-}
-
-public class FileZipFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-zip-fill";
-}
-
-public class FileZipIcon : BaseIcon
-{
-    protected override string IconSource => "file-zip";
-}
-
-public class FileIcon : BaseIcon
-{
-    protected override string IconSource => "file";
-}
-
-public class FilesAltIcon : BaseIcon
-{
-    protected override string IconSource => "files-alt";
-}
-
-public class FilesIcon : BaseIcon
-{
-    protected override string IconSource => "files";
-}
-
-public class FilmIcon : BaseIcon
-{
-    protected override string IconSource => "film";
-}
-
-public class FilterCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "filter-circle-fill";
-}
-
-public class FilterCircleIcon : BaseIcon
-{
-    protected override string IconSource => "filter-circle";
-}
-
-public class FilterLeftIcon : BaseIcon
-{
-    protected override string IconSource => "filter-left";
-}
-
-public class FilterRightIcon : BaseIcon
-{
-    protected override string IconSource => "filter-right";
-}
-
-public class FilterSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "filter-square-fill";
-}
-
-public class FilterSquareIcon : BaseIcon
-{
-    protected override string IconSource => "filter-square";
-}
-
-public class FilterIcon : BaseIcon
-{
-    protected override string IconSource => "filter";
-}
-
-public class FlagFillIcon : BaseIcon
-{
-    protected override string IconSource => "flag-fill";
-}
-
-public class FlagIcon : BaseIcon
-{
-    protected override string IconSource => "flag";
-}
-
-public class Flower1Icon : BaseIcon
-{
-    protected override string IconSource => "flower1";
-}
-
-public class Flower2Icon : BaseIcon
-{
-    protected override string IconSource => "flower2";
-}
-
-public class Flower3Icon : BaseIcon
-{
-    protected override string IconSource => "flower3";
-}
-
-public class FolderCheckIcon : BaseIcon
-{
-    protected override string IconSource => "folder-check";
-}
-
-public class FolderFillIcon : BaseIcon
-{
-    protected override string IconSource => "folder-fill";
-}
-
-public class FolderMinusIcon : BaseIcon
-{
-    protected override string IconSource => "folder-minus";
-}
-
-public class FolderPlusIcon : BaseIcon
-{
-    protected override string IconSource => "folder-plus";
-}
-
-public class FolderSymlinkFillIcon : BaseIcon
-{
-    protected override string IconSource => "folder-symlink-fill";
-}
-
-public class FolderSymlinkIcon : BaseIcon
-{
-    protected override string IconSource => "folder-symlink";
-}
-
-public class FolderXIcon : BaseIcon
-{
-    protected override string IconSource => "folder-x";
-}
-
-public class FolderIcon : BaseIcon
-{
-    protected override string IconSource => "folder";
-}
-
-public class Folder2OpenIcon : BaseIcon
-{
-    protected override string IconSource => "folder2-open";
-}
-
-public class Folder2Icon : BaseIcon
-{
-    protected override string IconSource => "folder2";
-}
-
-public class FontsIcon : BaseIcon
-{
-    protected override string IconSource => "fonts";
-}
-
-public class ForwardFillIcon : BaseIcon
-{
-    protected override string IconSource => "forward-fill";
-}
-
-public class ForwardIcon : BaseIcon
-{
-    protected override string IconSource => "forward";
-}
-
-public class FrontIcon : BaseIcon
-{
-    protected override string IconSource => "front";
-}
-
-public class FullscreenExitIcon : BaseIcon
-{
-    protected override string IconSource => "fullscreen-exit";
-}
-
-public class FullscreenIcon : BaseIcon
-{
-    protected override string IconSource => "fullscreen";
-}
-
-public class FunnelFillIcon : BaseIcon
-{
-    protected override string IconSource => "funnel-fill";
-}
-
-public class FunnelIcon : BaseIcon
-{
-    protected override string IconSource => "funnel";
-}
-
-public class GearFillIcon : BaseIcon
-{
-    protected override string IconSource => "gear-fill";
-}
-
-public class GearWideConnectedIcon : BaseIcon
-{
-    protected override string IconSource => "gear-wide-connected";
-}
-
-public class GearWideIcon : BaseIcon
-{
-    protected override string IconSource => "gear-wide";
-}
-
-public class GearIcon : BaseIcon
-{
-    protected override string IconSource => "gear";
-}
-
-public class GemIcon : BaseIcon
-{
-    protected override string IconSource => "gem";
-}
-
-public class GeoAltFillIcon : BaseIcon
-{
-    protected override string IconSource => "geo-alt-fill";
-}
-
-public class GeoAltIcon : BaseIcon
-{
-    protected override string IconSource => "geo-alt";
-}
-
-public class GeoFillIcon : BaseIcon
-{
-    protected override string IconSource => "geo-fill";
-}
-
-public class GeoIcon : BaseIcon
-{
-    protected override string IconSource => "geo";
-}
-
-public class GiftFillIcon : BaseIcon
-{
-    protected override string IconSource => "gift-fill";
-}
-
-public class GiftIcon : BaseIcon
-{
-    protected override string IconSource => "gift";
-}
-
-public class GithubIcon : BaseIcon
-{
-    protected override string IconSource => "github";
-}
-
-public class GlobeIcon : BaseIcon
-{
-    protected override string IconSource => "globe";
-}
-
-public class Globe2Icon : BaseIcon
-{
-    protected override string IconSource => "globe2";
-}
-
-public class GoogleIcon : BaseIcon
-{
-    protected override string IconSource => "google";
-}
-
-public class GraphDownIcon : BaseIcon
-{
-    protected override string IconSource => "graph-down";
-}
-
-public class GraphUpIcon : BaseIcon
-{
-    protected override string IconSource => "graph-up";
-}
-
-public class Grid1x2FillIcon : BaseIcon
-{
-    protected override string IconSource => "grid-1x2-fill";
-}
-
-public class Grid1x2Icon : BaseIcon
-{
-    protected override string IconSource => "grid-1x2";
-}
-
-public class Grid3x2GapFillIcon : BaseIcon
-{
-    protected override string IconSource => "grid-3x2-gap-fill";
-}
-
-public class Grid3x2GapIcon : BaseIcon
-{
-    protected override string IconSource => "grid-3x2-gap";
-}
-
-public class Grid3x2Icon : BaseIcon
-{
-    protected override string IconSource => "grid-3x2";
-}
-
-public class Grid3x3GapFillIcon : BaseIcon
-{
-    protected override string IconSource => "grid-3x3-gap-fill";
-}
-
-public class Grid3x3GapIcon : BaseIcon
-{
-    protected override string IconSource => "grid-3x3-gap";
-}
-
-public class Grid3x3Icon : BaseIcon
-{
-    protected override string IconSource => "grid-3x3";
-}
-
-public class GridFillIcon : BaseIcon
-{
-    protected override string IconSource => "grid-fill";
-}
-
-public class GridIcon : BaseIcon
-{
-    protected override string IconSource => "grid";
-}
-
-public class GripHorizontalIcon : BaseIcon
-{
-    protected override string IconSource => "grip-horizontal";
-}
-
-public class GripVerticalIcon : BaseIcon
-{
-    protected override string IconSource => "grip-vertical";
-}
-
-public class HammerIcon : BaseIcon
-{
-    protected override string IconSource => "hammer";
-}
-
-public class HandIndexFillIcon : BaseIcon
-{
-    protected override string IconSource => "hand-index-fill";
-}
-
-public class HandIndexThumbFillIcon : BaseIcon
-{
-    protected override string IconSource => "hand-index-thumb-fill";
-}
-
-public class HandIndexThumbIcon : BaseIcon
-{
-    protected override string IconSource => "hand-index-thumb";
-}
-
-public class HandIndexIcon : BaseIcon
-{
-    protected override string IconSource => "hand-index";
-}
-
-public class HandThumbsDownFillIcon : BaseIcon
-{
-    protected override string IconSource => "hand-thumbs-down-fill";
-}
-
-public class HandThumbsDownIcon : BaseIcon
-{
-    protected override string IconSource => "hand-thumbs-down";
-}
-
-public class HandThumbsUpFillIcon : BaseIcon
-{
-    protected override string IconSource => "hand-thumbs-up-fill";
-}
-
-public class HandThumbsUpIcon : BaseIcon
-{
-    protected override string IconSource => "hand-thumbs-up";
-}
-
-public class HandbagFillIcon : BaseIcon
-{
-    protected override string IconSource => "handbag-fill";
-}
-
-public class HandbagIcon : BaseIcon
-{
-    protected override string IconSource => "handbag";
-}
-
-public class HashIcon : BaseIcon
-{
-    protected override string IconSource => "hash";
-}
-
-public class HddFillIcon : BaseIcon
-{
-    protected override string IconSource => "hdd-fill";
-}
-
-public class HddNetworkFillIcon : BaseIcon
-{
-    protected override string IconSource => "hdd-network-fill";
-}
-
-public class HddNetworkIcon : BaseIcon
-{
-    protected override string IconSource => "hdd-network";
-}
-
-public class HddRackFillIcon : BaseIcon
-{
-    protected override string IconSource => "hdd-rack-fill";
-}
-
-public class HddRackIcon : BaseIcon
-{
-    protected override string IconSource => "hdd-rack";
-}
-
-public class HddStackFillIcon : BaseIcon
-{
-    protected override string IconSource => "hdd-stack-fill";
-}
-
-public class HddStackIcon : BaseIcon
-{
-    protected override string IconSource => "hdd-stack";
-}
-
-public class HddIcon : BaseIcon
-{
-    protected override string IconSource => "hdd";
-}
-
-public class HeadphonesIcon : BaseIcon
-{
-    protected override string IconSource => "headphones";
-}
-
-public class HeadsetIcon : BaseIcon
-{
-    protected override string IconSource => "headset";
-}
-
-public class HeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "heart-fill";
-}
-
-public class HeartHalfIcon : BaseIcon
-{
-    protected override string IconSource => "heart-half";
-}
-
-public class HeartIcon : BaseIcon
-{
-    protected override string IconSource => "heart";
-}
-
-public class HeptagonFillIcon : BaseIcon
-{
-    protected override string IconSource => "heptagon-fill";
-}
-
-public class HeptagonHalfIcon : BaseIcon
-{
-    protected override string IconSource => "heptagon-half";
-}
-
-public class HeptagonIcon : BaseIcon
-{
-    protected override string IconSource => "heptagon";
-}
-
-public class HexagonFillIcon : BaseIcon
-{
-    protected override string IconSource => "hexagon-fill";
-}
-
-public class HexagonHalfIcon : BaseIcon
-{
-    protected override string IconSource => "hexagon-half";
-}
-
-public class HexagonIcon : BaseIcon
-{
-    protected override string IconSource => "hexagon";
-}
-
-public class HourglassBottomIcon : BaseIcon
-{
-    protected override string IconSource => "hourglass-bottom";
-}
-
-public class HourglassSplitIcon : BaseIcon
-{
-    protected override string IconSource => "hourglass-split";
-}
-
-public class HourglassTopIcon : BaseIcon
-{
-    protected override string IconSource => "hourglass-top";
-}
-
-public class HourglassIcon : BaseIcon
-{
-    protected override string IconSource => "hourglass";
-}
-
-public class HouseDoorFillIcon : BaseIcon
-{
-    protected override string IconSource => "house-door-fill";
-}
-
-public class HouseDoorIcon : BaseIcon
-{
-    protected override string IconSource => "house-door";
-}
-
-public class HouseFillIcon : BaseIcon
-{
-    protected override string IconSource => "house-fill";
-}
-
-public class HouseIcon : BaseIcon
-{
-    protected override string IconSource => "house";
-}
-
-public class HrIcon : BaseIcon
-{
-    protected override string IconSource => "hr";
-}
-
-public class HurricaneIcon : BaseIcon
-{
-    protected override string IconSource => "hurricane";
-}
-
-public class ImageAltIcon : BaseIcon
-{
-    protected override string IconSource => "image-alt";
-}
-
-public class ImageFillIcon : BaseIcon
-{
-    protected override string IconSource => "image-fill";
-}
-
-public class ImageIcon : BaseIcon
-{
-    protected override string IconSource => "image";
-}
-
-public class ImagesIcon : BaseIcon
-{
-    protected override string IconSource => "images";
-}
-
-public class InboxFillIcon : BaseIcon
-{
-    protected override string IconSource => "inbox-fill";
-}
-
-public class InboxIcon : BaseIcon
-{
-    protected override string IconSource => "inbox";
-}
-
-public class InboxesFillIcon : BaseIcon
-{
-    protected override string IconSource => "inboxes-fill";
-}
-
-public class InboxesIcon : BaseIcon
-{
-    protected override string IconSource => "inboxes";
-}
-
-public class InfoCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "info-circle-fill";
-}
-
-public class InfoCircleIcon : BaseIcon
-{
-    protected override string IconSource => "info-circle";
-}
-
-public class InfoSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "info-square-fill";
-}
-
-public class InfoSquareIcon : BaseIcon
-{
-    protected override string IconSource => "info-square";
-}
-
-public class InfoIcon : BaseIcon
-{
-    protected override string IconSource => "info";
-}
-
-public class InputCursorTextIcon : BaseIcon
-{
-    protected override string IconSource => "input-cursor-text";
-}
-
-public class InputCursorIcon : BaseIcon
-{
-    protected override string IconSource => "input-cursor";
-}
-
-public class InstagramIcon : BaseIcon
-{
-    protected override string IconSource => "instagram";
-}
-
-public class IntersectIcon : BaseIcon
-{
-    protected override string IconSource => "intersect";
-}
-
-public class JournalAlbumIcon : BaseIcon
-{
-    protected override string IconSource => "journal-album";
-}
-
-public class JournalArrowDownIcon : BaseIcon
-{
-    protected override string IconSource => "journal-arrow-down";
-}
-
-public class JournalArrowUpIcon : BaseIcon
-{
-    protected override string IconSource => "journal-arrow-up";
-}
-
-public class JournalBookmarkFillIcon : BaseIcon
-{
-    protected override string IconSource => "journal-bookmark-fill";
-}
-
-public class JournalBookmarkIcon : BaseIcon
-{
-    protected override string IconSource => "journal-bookmark";
-}
-
-public class JournalCheckIcon : BaseIcon
-{
-    protected override string IconSource => "journal-check";
-}
-
-public class JournalCodeIcon : BaseIcon
-{
-    protected override string IconSource => "journal-code";
-}
-
-public class JournalMedicalIcon : BaseIcon
-{
-    protected override string IconSource => "journal-medical";
-}
-
-public class JournalMinusIcon : BaseIcon
-{
-    protected override string IconSource => "journal-minus";
-}
-
-public class JournalPlusIcon : BaseIcon
-{
-    protected override string IconSource => "journal-plus";
-}
-
-public class JournalRichtextIcon : BaseIcon
-{
-    protected override string IconSource => "journal-richtext";
-}
-
-public class JournalTextIcon : BaseIcon
-{
-    protected override string IconSource => "journal-text";
-}
-
-public class JournalXIcon : BaseIcon
-{
-    protected override string IconSource => "journal-x";
-}
-
-public class JournalIcon : BaseIcon
-{
-    protected override string IconSource => "journal";
-}
-
-public class JournalsIcon : BaseIcon
-{
-    protected override string IconSource => "journals";
-}
-
-public class JoystickIcon : BaseIcon
-{
-    protected override string IconSource => "joystick";
-}
-
-public class JustifyLeftIcon : BaseIcon
-{
-    protected override string IconSource => "justify-left";
-}
-
-public class JustifyRightIcon : BaseIcon
-{
-    protected override string IconSource => "justify-right";
-}
-
-public class JustifyIcon : BaseIcon
-{
-    protected override string IconSource => "justify";
-}
-
-public class KanbanFillIcon : BaseIcon
-{
-    protected override string IconSource => "kanban-fill";
-}
-
-public class KanbanIcon : BaseIcon
-{
-    protected override string IconSource => "kanban";
-}
-
-public class KeyFillIcon : BaseIcon
-{
-    protected override string IconSource => "key-fill";
-}
-
-public class KeyIcon : BaseIcon
-{
-    protected override string IconSource => "key";
-}
-
-public class KeyboardFillIcon : BaseIcon
-{
-    protected override string IconSource => "keyboard-fill";
-}
-
-public class KeyboardIcon : BaseIcon
-{
-    protected override string IconSource => "keyboard";
-}
-
-public class LadderIcon : BaseIcon
-{
-    protected override string IconSource => "ladder";
-}
-
-public class LampFillIcon : BaseIcon
-{
-    protected override string IconSource => "lamp-fill";
-}
-
-public class LampIcon : BaseIcon
-{
-    protected override string IconSource => "lamp";
-}
-
-public class LaptopFillIcon : BaseIcon
-{
-    protected override string IconSource => "laptop-fill";
-}
-
-public class LaptopIcon : BaseIcon
-{
-    protected override string IconSource => "laptop";
-}
-
-public class LayerBackwardIcon : BaseIcon
-{
-    protected override string IconSource => "layer-backward";
-}
-
-public class LayerForwardIcon : BaseIcon
-{
-    protected override string IconSource => "layer-forward";
-}
-
-public class LayersFillIcon : BaseIcon
-{
-    protected override string IconSource => "layers-fill";
-}
-
-public class LayersHalfIcon : BaseIcon
-{
-    protected override string IconSource => "layers-half";
-}
-
-public class LayersIcon : BaseIcon
-{
-    protected override string IconSource => "layers";
-}
-
-public class LayoutSidebarInsetReverseIcon : BaseIcon
-{
-    protected override string IconSource => "layout-sidebar-inset-reverse";
-}
-
-public class LayoutSidebarInsetIcon : BaseIcon
-{
-    protected override string IconSource => "layout-sidebar-inset";
-}
-
-public class LayoutSidebarReverseIcon : BaseIcon
-{
-    protected override string IconSource => "layout-sidebar-reverse";
-}
-
-public class LayoutSidebarIcon : BaseIcon
-{
-    protected override string IconSource => "layout-sidebar";
-}
-
-public class LayoutSplitIcon : BaseIcon
-{
-    protected override string IconSource => "layout-split";
-}
-
-public class LayoutTextSidebarReverseIcon : BaseIcon
-{
-    protected override string IconSource => "layout-text-sidebar-reverse";
-}
-
-public class LayoutTextSidebarIcon : BaseIcon
-{
-    protected override string IconSource => "layout-text-sidebar";
-}
-
-public class LayoutTextWindowReverseIcon : BaseIcon
-{
-    protected override string IconSource => "layout-text-window-reverse";
-}
-
-public class LayoutTextWindowIcon : BaseIcon
-{
-    protected override string IconSource => "layout-text-window";
-}
-
-public class LayoutThreeColumnsIcon : BaseIcon
-{
-    protected override string IconSource => "layout-three-columns";
-}
-
-public class LayoutWtfIcon : BaseIcon
-{
-    protected override string IconSource => "layout-wtf";
-}
-
-public class LifePreserverIcon : BaseIcon
-{
-    protected override string IconSource => "life-preserver";
-}
-
-public class LightbulbFillIcon : BaseIcon
-{
-    protected override string IconSource => "lightbulb-fill";
-}
-
-public class LightbulbOffFillIcon : BaseIcon
-{
-    protected override string IconSource => "lightbulb-off-fill";
-}
-
-public class LightbulbOffIcon : BaseIcon
-{
-    protected override string IconSource => "lightbulb-off";
-}
-
-public class LightbulbIcon : BaseIcon
-{
-    protected override string IconSource => "lightbulb";
-}
-
-public class LightningChargeFillIcon : BaseIcon
-{
-    protected override string IconSource => "lightning-charge-fill";
-}
-
-public class LightningChargeIcon : BaseIcon
-{
-    protected override string IconSource => "lightning-charge";
-}
-
-public class LightningFillIcon : BaseIcon
-{
-    protected override string IconSource => "lightning-fill";
-}
-
-public class LightningIcon : BaseIcon
-{
-    protected override string IconSource => "lightning";
-}
-
-public class Link45degIcon : BaseIcon
-{
-    protected override string IconSource => "link-45deg";
-}
-
-public class LinkIcon : BaseIcon
-{
-    protected override string IconSource => "link";
-}
-
-public class LinkedinIcon : BaseIcon
-{
-    protected override string IconSource => "linkedin";
-}
-
-public class ListCheckIcon : BaseIcon
-{
-    protected override string IconSource => "list-check";
-}
-
-public class ListNestedIcon : BaseIcon
-{
-    protected override string IconSource => "list-nested";
-}
-
-public class ListOlIcon : BaseIcon
-{
-    protected override string IconSource => "list-ol";
-}
-
-public class ListStarsIcon : BaseIcon
-{
-    protected override string IconSource => "list-stars";
-}
-
-public class ListTaskIcon : BaseIcon
-{
-    protected override string IconSource => "list-task";
-}
-
-public class ListUlIcon : BaseIcon
-{
-    protected override string IconSource => "list-ul";
-}
-
-public class ListIcon : BaseIcon
-{
-    protected override string IconSource => "list";
-}
-
-public class LockFillIcon : BaseIcon
-{
-    protected override string IconSource => "lock-fill";
-}
-
-public class LockIcon : BaseIcon
-{
-    protected override string IconSource => "lock";
-}
-
-public class MailboxIcon : BaseIcon
-{
-    protected override string IconSource => "mailbox";
-}
-
-public class Mailbox2Icon : BaseIcon
-{
-    protected override string IconSource => "mailbox2";
-}
-
-public class MapFillIcon : BaseIcon
-{
-    protected override string IconSource => "map-fill";
-}
-
-public class MapIcon : BaseIcon
-{
-    protected override string IconSource => "map";
-}
-
-public class MarkdownFillIcon : BaseIcon
-{
-    protected override string IconSource => "markdown-fill";
-}
-
-public class MarkdownIcon : BaseIcon
-{
-    protected override string IconSource => "markdown";
-}
-
-public class MaskIcon : BaseIcon
-{
-    protected override string IconSource => "mask";
-}
-
-public class MegaphoneFillIcon : BaseIcon
-{
-    protected override string IconSource => "megaphone-fill";
-}
-
-public class MegaphoneIcon : BaseIcon
-{
-    protected override string IconSource => "megaphone";
-}
-
-public class MenuAppFillIcon : BaseIcon
-{
-    protected override string IconSource => "menu-app-fill";
-}
-
-public class MenuAppIcon : BaseIcon
-{
-    protected override string IconSource => "menu-app";
-}
-
-public class MenuButtonFillIcon : BaseIcon
-{
-    protected override string IconSource => "menu-button-fill";
-}
-
-public class MenuButtonWideFillIcon : BaseIcon
-{
-    protected override string IconSource => "menu-button-wide-fill";
-}
-
-public class MenuButtonWideIcon : BaseIcon
-{
-    protected override string IconSource => "menu-button-wide";
-}
-
-public class MenuButtonIcon : BaseIcon
-{
-    protected override string IconSource => "menu-button";
-}
-
-public class MenuDownIcon : BaseIcon
-{
-    protected override string IconSource => "menu-down";
-}
-
-public class MenuUpIcon : BaseIcon
-{
-    protected override string IconSource => "menu-up";
-}
-
-public class MicFillIcon : BaseIcon
-{
-    protected override string IconSource => "mic-fill";
-}
-
-public class MicMuteFillIcon : BaseIcon
-{
-    protected override string IconSource => "mic-mute-fill";
-}
-
-public class MicMuteIcon : BaseIcon
-{
-    protected override string IconSource => "mic-mute";
-}
-
-public class MicIcon : BaseIcon
-{
-    protected override string IconSource => "mic";
-}
-
-public class MinecartLoadedIcon : BaseIcon
-{
-    protected override string IconSource => "minecart-loaded";
-}
-
-public class MinecartIcon : BaseIcon
-{
-    protected override string IconSource => "minecart";
-}
-
-public class MoistureIcon : BaseIcon
-{
-    protected override string IconSource => "moisture";
-}
-
-public class MoonFillIcon : BaseIcon
-{
-    protected override string IconSource => "moon-fill";
-}
-
-public class MoonStarsFillIcon : BaseIcon
-{
-    protected override string IconSource => "moon-stars-fill";
-}
-
-public class MoonStarsIcon : BaseIcon
-{
-    protected override string IconSource => "moon-stars";
-}
-
-public class MoonIcon : BaseIcon
-{
-    protected override string IconSource => "moon";
-}
-
-public class MouseFillIcon : BaseIcon
-{
-    protected override string IconSource => "mouse-fill";
-}
-
-public class MouseIcon : BaseIcon
-{
-    protected override string IconSource => "mouse";
-}
-
-public class Mouse2FillIcon : BaseIcon
-{
-    protected override string IconSource => "mouse2-fill";
-}
-
-public class Mouse2Icon : BaseIcon
-{
-    protected override string IconSource => "mouse2";
-}
-
-public class Mouse3FillIcon : BaseIcon
-{
-    protected override string IconSource => "mouse3-fill";
-}
-
-public class Mouse3Icon : BaseIcon
-{
-    protected override string IconSource => "mouse3";
-}
-
-public class MusicNoteBeamedIcon : BaseIcon
-{
-    protected override string IconSource => "music-note-beamed";
-}
-
-public class MusicNoteListIcon : BaseIcon
-{
-    protected override string IconSource => "music-note-list";
-}
-
-public class MusicNoteIcon : BaseIcon
-{
-    protected override string IconSource => "music-note";
-}
-
-public class MusicPlayerFillIcon : BaseIcon
-{
-    protected override string IconSource => "music-player-fill";
-}
-
-public class MusicPlayerIcon : BaseIcon
-{
-    protected override string IconSource => "music-player";
-}
-
-public class NewspaperIcon : BaseIcon
-{
-    protected override string IconSource => "newspaper";
-}
-
-public class NodeMinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "node-minus-fill";
-}
-
-public class NodeMinusIcon : BaseIcon
-{
-    protected override string IconSource => "node-minus";
-}
-
-public class NodePlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "node-plus-fill";
-}
-
-public class NodePlusIcon : BaseIcon
-{
-    protected override string IconSource => "node-plus";
-}
-
-public class NutFillIcon : BaseIcon
-{
-    protected override string IconSource => "nut-fill";
-}
-
-public class NutIcon : BaseIcon
-{
-    protected override string IconSource => "nut";
-}
-
-public class OctagonFillIcon : BaseIcon
-{
-    protected override string IconSource => "octagon-fill";
-}
-
-public class OctagonHalfIcon : BaseIcon
-{
-    protected override string IconSource => "octagon-half";
-}
-
-public class OctagonIcon : BaseIcon
-{
-    protected override string IconSource => "octagon";
-}
-
-public class OptionIcon : BaseIcon
-{
-    protected override string IconSource => "option";
-}
-
-public class OutletIcon : BaseIcon
-{
-    protected override string IconSource => "outlet";
-}
-
-public class PaintBucketIcon : BaseIcon
-{
-    protected override string IconSource => "paint-bucket";
-}
-
-public class PaletteFillIcon : BaseIcon
-{
-    protected override string IconSource => "palette-fill";
-}
-
-public class PaletteIcon : BaseIcon
-{
-    protected override string IconSource => "palette";
-}
-
-public class Palette2Icon : BaseIcon
-{
-    protected override string IconSource => "palette2";
-}
-
-public class PaperclipIcon : BaseIcon
-{
-    protected override string IconSource => "paperclip";
-}
-
-public class ParagraphIcon : BaseIcon
-{
-    protected override string IconSource => "paragraph";
-}
-
-public class PatchCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "patch-check-fill";
-}
-
-public class PatchCheckIcon : BaseIcon
-{
-    protected override string IconSource => "patch-check";
-}
-
-public class PatchExclamationFillIcon : BaseIcon
-{
-    protected override string IconSource => "patch-exclamation-fill";
-}
-
-public class PatchExclamationIcon : BaseIcon
-{
-    protected override string IconSource => "patch-exclamation";
-}
-
-public class PatchMinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "patch-minus-fill";
-}
-
-public class PatchMinusIcon : BaseIcon
-{
-    protected override string IconSource => "patch-minus";
-}
-
-public class PatchPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "patch-plus-fill";
-}
-
-public class PatchPlusIcon : BaseIcon
-{
-    protected override string IconSource => "patch-plus";
-}
-
-public class PatchQuestionFillIcon : BaseIcon
-{
-    protected override string IconSource => "patch-question-fill";
-}
-
-public class PatchQuestionIcon : BaseIcon
-{
-    protected override string IconSource => "patch-question";
-}
-
-public class PauseBtnFillIcon : BaseIcon
-{
-    protected override string IconSource => "pause-btn-fill";
-}
-
-public class PauseBtnIcon : BaseIcon
-{
-    protected override string IconSource => "pause-btn";
-}
-
-public class PauseCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "pause-circle-fill";
-}
-
-public class PauseCircleIcon : BaseIcon
-{
-    protected override string IconSource => "pause-circle";
-}
-
-public class PauseFillIcon : BaseIcon
-{
-    protected override string IconSource => "pause-fill";
-}
-
-public class PauseIcon : BaseIcon
-{
-    protected override string IconSource => "pause";
-}
-
-public class PeaceFillIcon : BaseIcon
-{
-    protected override string IconSource => "peace-fill";
-}
-
-public class PeaceIcon : BaseIcon
-{
-    protected override string IconSource => "peace";
-}
-
-public class PenFillIcon : BaseIcon
-{
-    protected override string IconSource => "pen-fill";
-}
-
-public class PenIcon : BaseIcon
-{
-    protected override string IconSource => "pen";
-}
-
-public class PencilFillIcon : BaseIcon
-{
-    protected override string IconSource => "pencil-fill";
-}
-
-public class PencilSquareIcon : BaseIcon
-{
-    protected override string IconSource => "pencil-square";
-}
-
-public class PencilIcon : BaseIcon
-{
-    protected override string IconSource => "pencil";
-}
-
-public class PentagonFillIcon : BaseIcon
-{
-    protected override string IconSource => "pentagon-fill";
-}
-
-public class PentagonHalfIcon : BaseIcon
-{
-    protected override string IconSource => "pentagon-half";
-}
-
-public class PentagonIcon : BaseIcon
-{
-    protected override string IconSource => "pentagon";
-}
-
-public class PeopleFillIcon : BaseIcon
-{
-    protected override string IconSource => "people-fill";
-}
-
-public class PeopleIcon : BaseIcon
-{
-    protected override string IconSource => "people";
-}
-
-public class PercentIcon : BaseIcon
-{
-    protected override string IconSource => "percent";
-}
-
-public class PersonBadgeFillIcon : BaseIcon
-{
-    protected override string IconSource => "person-badge-fill";
-}
-
-public class PersonBadgeIcon : BaseIcon
-{
-    protected override string IconSource => "person-badge";
-}
-
-public class PersonBoundingBoxIcon : BaseIcon
-{
-    protected override string IconSource => "person-bounding-box";
-}
-
-public class PersonCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "person-check-fill";
-}
-
-public class PersonCheckIcon : BaseIcon
-{
-    protected override string IconSource => "person-check";
-}
-
-public class PersonCircleIcon : BaseIcon
-{
-    protected override string IconSource => "person-circle";
-}
-
-public class PersonDashFillIcon : BaseIcon
-{
-    protected override string IconSource => "person-dash-fill";
-}
-
-public class PersonDashIcon : BaseIcon
-{
-    protected override string IconSource => "person-dash";
-}
-
-public class PersonFillIcon : BaseIcon
-{
-    protected override string IconSource => "person-fill";
-}
-
-public class PersonLinesFillIcon : BaseIcon
-{
-    protected override string IconSource => "person-lines-fill";
-}
-
-public class PersonPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "person-plus-fill";
-}
-
-public class PersonPlusIcon : BaseIcon
-{
-    protected override string IconSource => "person-plus";
-}
-
-public class PersonSquareIcon : BaseIcon
-{
-    protected override string IconSource => "person-square";
-}
-
-public class PersonXFillIcon : BaseIcon
-{
-    protected override string IconSource => "person-x-fill";
-}
-
-public class PersonXIcon : BaseIcon
-{
-    protected override string IconSource => "person-x";
-}
-
-public class PersonIcon : BaseIcon
-{
-    protected override string IconSource => "person";
-}
-
-public class PhoneFillIcon : BaseIcon
-{
-    protected override string IconSource => "phone-fill";
-}
-
-public class PhoneLandscapeFillIcon : BaseIcon
-{
-    protected override string IconSource => "phone-landscape-fill";
-}
-
-public class PhoneLandscapeIcon : BaseIcon
-{
-    protected override string IconSource => "phone-landscape";
-}
-
-public class PhoneVibrateFillIcon : BaseIcon
-{
-    protected override string IconSource => "phone-vibrate-fill";
-}
-
-public class PhoneVibrateIcon : BaseIcon
-{
-    protected override string IconSource => "phone-vibrate";
-}
-
-public class PhoneIcon : BaseIcon
-{
-    protected override string IconSource => "phone";
-}
-
-public class PieChartFillIcon : BaseIcon
-{
-    protected override string IconSource => "pie-chart-fill";
-}
-
-public class PieChartIcon : BaseIcon
-{
-    protected override string IconSource => "pie-chart";
-}
-
-public class PinAngleFillIcon : BaseIcon
-{
-    protected override string IconSource => "pin-angle-fill";
-}
-
-public class PinAngleIcon : BaseIcon
-{
-    protected override string IconSource => "pin-angle";
-}
-
-public class PinFillIcon : BaseIcon
-{
-    protected override string IconSource => "pin-fill";
-}
-
-public class PinIcon : BaseIcon
-{
-    protected override string IconSource => "pin";
-}
-
-public class PipFillIcon : BaseIcon
-{
-    protected override string IconSource => "pip-fill";
-}
-
-public class PipIcon : BaseIcon
-{
-    protected override string IconSource => "pip";
-}
-
-public class PlayBtnFillIcon : BaseIcon
-{
-    protected override string IconSource => "play-btn-fill";
-}
-
-public class PlayBtnIcon : BaseIcon
-{
-    protected override string IconSource => "play-btn";
-}
-
-public class PlayCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "play-circle-fill";
-}
-
-public class PlayCircleIcon : BaseIcon
-{
-    protected override string IconSource => "play-circle";
-}
-
-public class PlayFillIcon : BaseIcon
-{
-    protected override string IconSource => "play-fill";
-}
-
-public class PlayIcon : BaseIcon
-{
-    protected override string IconSource => "play";
-}
-
-public class PlugFillIcon : BaseIcon
-{
-    protected override string IconSource => "plug-fill";
-}
-
-public class PlugIcon : BaseIcon
-{
-    protected override string IconSource => "plug";
-}
-
-public class PlusCircleDottedIcon : BaseIcon
-{
-    protected override string IconSource => "plus-circle-dotted";
-}
-
-public class PlusCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "plus-circle-fill";
-}
-
-public class PlusCircleIcon : BaseIcon
-{
-    protected override string IconSource => "plus-circle";
-}
-
-public class PlusSquareDottedIcon : BaseIcon
-{
-    protected override string IconSource => "plus-square-dotted";
-}
-
-public class PlusSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "plus-square-fill";
-}
-
-public class PlusSquareIcon : BaseIcon
-{
-    protected override string IconSource => "plus-square";
-}
-
-public class PlusIcon : BaseIcon
-{
-    protected override string IconSource => "plus";
-}
-
-public class PowerIcon : BaseIcon
-{
-    protected override string IconSource => "power";
-}
-
-public class PrinterFillIcon : BaseIcon
-{
-    protected override string IconSource => "printer-fill";
-}
-
-public class PrinterIcon : BaseIcon
-{
-    protected override string IconSource => "printer";
-}
-
-public class PuzzleFillIcon : BaseIcon
-{
-    protected override string IconSource => "puzzle-fill";
-}
-
-public class PuzzleIcon : BaseIcon
-{
-    protected override string IconSource => "puzzle";
-}
-
-public class QuestionCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "question-circle-fill";
-}
-
-public class QuestionCircleIcon : BaseIcon
-{
-    protected override string IconSource => "question-circle";
-}
-
-public class QuestionDiamondFillIcon : BaseIcon
-{
-    protected override string IconSource => "question-diamond-fill";
-}
-
-public class QuestionDiamondIcon : BaseIcon
-{
-    protected override string IconSource => "question-diamond";
-}
-
-public class QuestionOctagonFillIcon : BaseIcon
-{
-    protected override string IconSource => "question-octagon-fill";
-}
-
-public class QuestionOctagonIcon : BaseIcon
-{
-    protected override string IconSource => "question-octagon";
-}
-
-public class QuestionSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "question-square-fill";
-}
-
-public class QuestionSquareIcon : BaseIcon
-{
-    protected override string IconSource => "question-square";
-}
-
-public class QuestionIcon : BaseIcon
-{
-    protected override string IconSource => "question";
-}
-
-public class RainbowIcon : BaseIcon
-{
-    protected override string IconSource => "rainbow";
-}
-
-public class ReceiptCutoffIcon : BaseIcon
-{
-    protected override string IconSource => "receipt-cutoff";
-}
-
-public class ReceiptIcon : BaseIcon
-{
-    protected override string IconSource => "receipt";
-}
-
-public class Reception0Icon : BaseIcon
-{
-    protected override string IconSource => "reception-0";
-}
-
-public class Reception1Icon : BaseIcon
-{
-    protected override string IconSource => "reception-1";
-}
-
-public class Reception2Icon : BaseIcon
-{
-    protected override string IconSource => "reception-2";
-}
-
-public class Reception3Icon : BaseIcon
-{
-    protected override string IconSource => "reception-3";
-}
-
-public class Reception4Icon : BaseIcon
-{
-    protected override string IconSource => "reception-4";
-}
-
-public class RecordBtnFillIcon : BaseIcon
-{
-    protected override string IconSource => "record-btn-fill";
-}
-
-public class RecordBtnIcon : BaseIcon
-{
-    protected override string IconSource => "record-btn";
-}
-
-public class RecordCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "record-circle-fill";
-}
-
-public class RecordCircleIcon : BaseIcon
-{
-    protected override string IconSource => "record-circle";
-}
-
-public class RecordFillIcon : BaseIcon
-{
-    protected override string IconSource => "record-fill";
-}
-
-public class RecordIcon : BaseIcon
-{
-    protected override string IconSource => "record";
-}
-
-public class Record2FillIcon : BaseIcon
-{
-    protected override string IconSource => "record2-fill";
-}
-
-public class Record2Icon : BaseIcon
-{
-    protected override string IconSource => "record2";
-}
-
-public class ReplyAllFillIcon : BaseIcon
-{
-    protected override string IconSource => "reply-all-fill";
-}
-
-public class ReplyAllIcon : BaseIcon
-{
-    protected override string IconSource => "reply-all";
-}
-
-public class ReplyFillIcon : BaseIcon
-{
-    protected override string IconSource => "reply-fill";
-}
-
-public class ReplyIcon : BaseIcon
-{
-    protected override string IconSource => "reply";
-}
-
-public class RssFillIcon : BaseIcon
-{
-    protected override string IconSource => "rss-fill";
-}
-
-public class RssIcon : BaseIcon
-{
-    protected override string IconSource => "rss";
-}
-
-public class RulersIcon : BaseIcon
-{
-    protected override string IconSource => "rulers";
-}
-
-public class SaveFillIcon : BaseIcon
-{
-    protected override string IconSource => "save-fill";
-}
-
-public class SaveIcon : BaseIcon
-{
-    protected override string IconSource => "save";
-}
-
-public class Save2FillIcon : BaseIcon
-{
-    protected override string IconSource => "save2-fill";
-}
-
-public class Save2Icon : BaseIcon
-{
-    protected override string IconSource => "save2";
-}
-
-public class ScissorsIcon : BaseIcon
-{
-    protected override string IconSource => "scissors";
-}
-
-public class ScrewdriverIcon : BaseIcon
-{
-    protected override string IconSource => "screwdriver";
-}
-
-public class SearchIcon : BaseIcon
-{
-    protected override string IconSource => "search";
-}
-
-public class SegmentedNavIcon : BaseIcon
-{
-    protected override string IconSource => "segmented-nav";
-}
-
-public class ServerIcon : BaseIcon
-{
-    protected override string IconSource => "server";
-}
-
-public class ShareFillIcon : BaseIcon
-{
-    protected override string IconSource => "share-fill";
-}
-
-public class ShareIcon : BaseIcon
-{
-    protected override string IconSource => "share";
-}
-
-public class ShieldCheckIcon : BaseIcon
-{
-    protected override string IconSource => "shield-check";
-}
-
-public class ShieldExclamationIcon : BaseIcon
-{
-    protected override string IconSource => "shield-exclamation";
-}
-
-public class ShieldFillCheckIcon : BaseIcon
-{
-    protected override string IconSource => "shield-fill-check";
-}
-
-public class ShieldFillExclamationIcon : BaseIcon
-{
-    protected override string IconSource => "shield-fill-exclamation";
-}
-
-public class ShieldFillMinusIcon : BaseIcon
-{
-    protected override string IconSource => "shield-fill-minus";
-}
-
-public class ShieldFillPlusIcon : BaseIcon
-{
-    protected override string IconSource => "shield-fill-plus";
-}
-
-public class ShieldFillXIcon : BaseIcon
-{
-    protected override string IconSource => "shield-fill-x";
-}
-
-public class ShieldFillIcon : BaseIcon
-{
-    protected override string IconSource => "shield-fill";
-}
-
-public class ShieldLockFillIcon : BaseIcon
-{
-    protected override string IconSource => "shield-lock-fill";
-}
-
-public class ShieldLockIcon : BaseIcon
-{
-    protected override string IconSource => "shield-lock";
-}
-
-public class ShieldMinusIcon : BaseIcon
-{
-    protected override string IconSource => "shield-minus";
-}
-
-public class ShieldPlusIcon : BaseIcon
-{
-    protected override string IconSource => "shield-plus";
-}
-
-public class ShieldShadedIcon : BaseIcon
-{
-    protected override string IconSource => "shield-shaded";
-}
-
-public class ShieldSlashFillIcon : BaseIcon
-{
-    protected override string IconSource => "shield-slash-fill";
-}
-
-public class ShieldSlashIcon : BaseIcon
-{
-    protected override string IconSource => "shield-slash";
-}
-
-public class ShieldXIcon : BaseIcon
-{
-    protected override string IconSource => "shield-x";
-}
-
-public class ShieldIcon : BaseIcon
-{
-    protected override string IconSource => "shield";
-}
-
-public class ShiftFillIcon : BaseIcon
-{
-    protected override string IconSource => "shift-fill";
-}
-
-public class ShiftIcon : BaseIcon
-{
-    protected override string IconSource => "shift";
-}
-
-public class ShopWindowIcon : BaseIcon
-{
-    protected override string IconSource => "shop-window";
-}
-
-public class ShopIcon : BaseIcon
-{
-    protected override string IconSource => "shop";
-}
-
-public class ShuffleIcon : BaseIcon
-{
-    protected override string IconSource => "shuffle";
-}
-
-public class Signpost2FillIcon : BaseIcon
-{
-    protected override string IconSource => "signpost-2-fill";
-}
-
-public class Signpost2Icon : BaseIcon
-{
-    protected override string IconSource => "signpost-2";
-}
-
-public class SignpostFillIcon : BaseIcon
-{
-    protected override string IconSource => "signpost-fill";
-}
-
-public class SignpostSplitFillIcon : BaseIcon
-{
-    protected override string IconSource => "signpost-split-fill";
-}
-
-public class SignpostSplitIcon : BaseIcon
-{
-    protected override string IconSource => "signpost-split";
-}
-
-public class SignpostIcon : BaseIcon
-{
-    protected override string IconSource => "signpost";
-}
-
-public class SimFillIcon : BaseIcon
-{
-    protected override string IconSource => "sim-fill";
-}
-
-public class SimIcon : BaseIcon
-{
-    protected override string IconSource => "sim";
-}
-
-public class SkipBackwardBtnFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-backward-btn-fill";
-}
-
-public class SkipBackwardBtnIcon : BaseIcon
-{
-    protected override string IconSource => "skip-backward-btn";
-}
-
-public class SkipBackwardCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-backward-circle-fill";
-}
-
-public class SkipBackwardCircleIcon : BaseIcon
-{
-    protected override string IconSource => "skip-backward-circle";
-}
-
-public class SkipBackwardFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-backward-fill";
-}
-
-public class SkipBackwardIcon : BaseIcon
-{
-    protected override string IconSource => "skip-backward";
-}
-
-public class SkipEndBtnFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-end-btn-fill";
-}
-
-public class SkipEndBtnIcon : BaseIcon
-{
-    protected override string IconSource => "skip-end-btn";
-}
-
-public class SkipEndCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-end-circle-fill";
-}
-
-public class SkipEndCircleIcon : BaseIcon
-{
-    protected override string IconSource => "skip-end-circle";
-}
-
-public class SkipEndFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-end-fill";
-}
-
-public class SkipEndIcon : BaseIcon
-{
-    protected override string IconSource => "skip-end";
-}
-
-public class SkipForwardBtnFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-forward-btn-fill";
-}
-
-public class SkipForwardBtnIcon : BaseIcon
-{
-    protected override string IconSource => "skip-forward-btn";
-}
-
-public class SkipForwardCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-forward-circle-fill";
-}
-
-public class SkipForwardCircleIcon : BaseIcon
-{
-    protected override string IconSource => "skip-forward-circle";
-}
-
-public class SkipForwardFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-forward-fill";
-}
-
-public class SkipForwardIcon : BaseIcon
-{
-    protected override string IconSource => "skip-forward";
-}
-
-public class SkipStartBtnFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-start-btn-fill";
-}
-
-public class SkipStartBtnIcon : BaseIcon
-{
-    protected override string IconSource => "skip-start-btn";
-}
-
-public class SkipStartCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-start-circle-fill";
-}
-
-public class SkipStartCircleIcon : BaseIcon
-{
-    protected override string IconSource => "skip-start-circle";
-}
-
-public class SkipStartFillIcon : BaseIcon
-{
-    protected override string IconSource => "skip-start-fill";
-}
-
-public class SkipStartIcon : BaseIcon
-{
-    protected override string IconSource => "skip-start";
-}
-
-public class SlackIcon : BaseIcon
-{
-    protected override string IconSource => "slack";
-}
-
-public class SlashCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "slash-circle-fill";
-}
-
-public class SlashCircleIcon : BaseIcon
-{
-    protected override string IconSource => "slash-circle";
-}
-
-public class SlashSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "slash-square-fill";
-}
-
-public class SlashSquareIcon : BaseIcon
-{
-    protected override string IconSource => "slash-square";
-}
-
-public class SlashIcon : BaseIcon
-{
-    protected override string IconSource => "slash";
-}
-
-public class SlidersIcon : BaseIcon
-{
-    protected override string IconSource => "sliders";
-}
-
-public class SmartwatchIcon : BaseIcon
-{
-    protected override string IconSource => "smartwatch";
-}
-
-public class SnowIcon : BaseIcon
-{
-    protected override string IconSource => "snow";
-}
-
-public class Snow2Icon : BaseIcon
-{
-    protected override string IconSource => "snow2";
-}
-
-public class Snow3Icon : BaseIcon
-{
-    protected override string IconSource => "snow3";
-}
-
-public class SortAlphaDownAltIcon : BaseIcon
-{
-    protected override string IconSource => "sort-alpha-down-alt";
-}
-
-public class SortAlphaDownIcon : BaseIcon
-{
-    protected override string IconSource => "sort-alpha-down";
-}
-
-public class SortAlphaUpAltIcon : BaseIcon
-{
-    protected override string IconSource => "sort-alpha-up-alt";
-}
-
-public class SortAlphaUpIcon : BaseIcon
-{
-    protected override string IconSource => "sort-alpha-up";
-}
-
-public class SortDownAltIcon : BaseIcon
-{
-    protected override string IconSource => "sort-down-alt";
-}
-
-public class SortDownIcon : BaseIcon
-{
-    protected override string IconSource => "sort-down";
-}
-
-public class SortNumericDownAltIcon : BaseIcon
-{
-    protected override string IconSource => "sort-numeric-down-alt";
-}
-
-public class SortNumericDownIcon : BaseIcon
-{
-    protected override string IconSource => "sort-numeric-down";
-}
-
-public class SortNumericUpAltIcon : BaseIcon
-{
-    protected override string IconSource => "sort-numeric-up-alt";
-}
-
-public class SortNumericUpIcon : BaseIcon
-{
-    protected override string IconSource => "sort-numeric-up";
-}
-
-public class SortUpAltIcon : BaseIcon
-{
-    protected override string IconSource => "sort-up-alt";
-}
-
-public class SortUpIcon : BaseIcon
-{
-    protected override string IconSource => "sort-up";
-}
-
-public class SoundwaveIcon : BaseIcon
-{
-    protected override string IconSource => "soundwave";
-}
-
-public class SpeakerFillIcon : BaseIcon
-{
-    protected override string IconSource => "speaker-fill";
-}
-
-public class SpeakerIcon : BaseIcon
-{
-    protected override string IconSource => "speaker";
-}
-
-public class SpeedometerIcon : BaseIcon
-{
-    protected override string IconSource => "speedometer";
-}
-
-public class Speedometer2Icon : BaseIcon
-{
-    protected override string IconSource => "speedometer2";
-}
-
-public class SpellcheckIcon : BaseIcon
-{
-    protected override string IconSource => "spellcheck";
-}
-
-public class SquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "square-fill";
-}
-
-public class SquareHalfIcon : BaseIcon
-{
-    protected override string IconSource => "square-half";
-}
-
-public class SquareIcon : BaseIcon
-{
-    protected override string IconSource => "square";
-}
-
-public class StackIcon : BaseIcon
-{
-    protected override string IconSource => "stack";
-}
-
-public class StarFillIcon : BaseIcon
-{
-    protected override string IconSource => "star-fill";
-}
-
-public class StarHalfIcon : BaseIcon
-{
-    protected override string IconSource => "star-half";
-}
-
-public class StarIcon : BaseIcon
-{
-    protected override string IconSource => "star";
-}
-
-public class StarsIcon : BaseIcon
-{
-    protected override string IconSource => "stars";
-}
-
-public class StickiesFillIcon : BaseIcon
-{
-    protected override string IconSource => "stickies-fill";
-}
-
-public class StickiesIcon : BaseIcon
-{
-    protected override string IconSource => "stickies";
-}
-
-public class StickyFillIcon : BaseIcon
-{
-    protected override string IconSource => "sticky-fill";
-}
-
-public class StickyIcon : BaseIcon
-{
-    protected override string IconSource => "sticky";
-}
-
-public class StopBtnFillIcon : BaseIcon
-{
-    protected override string IconSource => "stop-btn-fill";
-}
-
-public class StopBtnIcon : BaseIcon
-{
-    protected override string IconSource => "stop-btn";
-}
-
-public class StopCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "stop-circle-fill";
-}
-
-public class StopCircleIcon : BaseIcon
-{
-    protected override string IconSource => "stop-circle";
-}
-
-public class StopFillIcon : BaseIcon
-{
-    protected override string IconSource => "stop-fill";
-}
-
-public class StopIcon : BaseIcon
-{
-    protected override string IconSource => "stop";
-}
-
-public class StoplightsFillIcon : BaseIcon
-{
-    protected override string IconSource => "stoplights-fill";
-}
-
-public class StoplightsIcon : BaseIcon
-{
-    protected override string IconSource => "stoplights";
-}
-
-public class StopwatchFillIcon : BaseIcon
-{
-    protected override string IconSource => "stopwatch-fill";
-}
-
-public class StopwatchIcon : BaseIcon
-{
-    protected override string IconSource => "stopwatch";
-}
-
-public class SubtractIcon : BaseIcon
-{
-    protected override string IconSource => "subtract";
-}
-
-public class SuitClubFillIcon : BaseIcon
-{
-    protected override string IconSource => "suit-club-fill";
-}
-
-public class SuitClubIcon : BaseIcon
-{
-    protected override string IconSource => "suit-club";
-}
-
-public class SuitDiamondFillIcon : BaseIcon
-{
-    protected override string IconSource => "suit-diamond-fill";
-}
-
-public class SuitDiamondIcon : BaseIcon
-{
-    protected override string IconSource => "suit-diamond";
-}
-
-public class SuitHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "suit-heart-fill";
-}
-
-public class SuitHeartIcon : BaseIcon
-{
-    protected override string IconSource => "suit-heart";
-}
-
-public class SuitSpadeFillIcon : BaseIcon
-{
-    protected override string IconSource => "suit-spade-fill";
-}
-
-public class SuitSpadeIcon : BaseIcon
-{
-    protected override string IconSource => "suit-spade";
-}
-
-public class SunFillIcon : BaseIcon
-{
-    protected override string IconSource => "sun-fill";
-}
-
-public class SunIcon : BaseIcon
-{
-    protected override string IconSource => "sun";
-}
-
-public class SunglassesIcon : BaseIcon
-{
-    protected override string IconSource => "sunglasses";
-}
-
-public class SunriseFillIcon : BaseIcon
-{
-    protected override string IconSource => "sunrise-fill";
-}
-
-public class SunriseIcon : BaseIcon
-{
-    protected override string IconSource => "sunrise";
-}
-
-public class SunsetFillIcon : BaseIcon
-{
-    protected override string IconSource => "sunset-fill";
-}
-
-public class SunsetIcon : BaseIcon
-{
-    protected override string IconSource => "sunset";
-}
-
-public class SymmetryHorizontalIcon : BaseIcon
-{
-    protected override string IconSource => "symmetry-horizontal";
-}
-
-public class SymmetryVerticalIcon : BaseIcon
-{
-    protected override string IconSource => "symmetry-vertical";
-}
-
-public class TableIcon : BaseIcon
-{
-    protected override string IconSource => "table";
-}
-
-public class TabletFillIcon : BaseIcon
-{
-    protected override string IconSource => "tablet-fill";
-}
-
-public class TabletLandscapeFillIcon : BaseIcon
-{
-    protected override string IconSource => "tablet-landscape-fill";
-}
-
-public class TabletLandscapeIcon : BaseIcon
-{
-    protected override string IconSource => "tablet-landscape";
-}
-
-public class TabletIcon : BaseIcon
-{
-    protected override string IconSource => "tablet";
-}
-
-public class TagFillIcon : BaseIcon
-{
-    protected override string IconSource => "tag-fill";
-}
-
-public class TagIcon : BaseIcon
-{
-    protected override string IconSource => "tag";
-}
-
-public class TagsFillIcon : BaseIcon
-{
-    protected override string IconSource => "tags-fill";
-}
-
-public class TagsIcon : BaseIcon
-{
-    protected override string IconSource => "tags";
-}
-
-public class TelegramIcon : BaseIcon
-{
-    protected override string IconSource => "telegram";
-}
-
-public class TelephoneFillIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-fill";
-}
-
-public class TelephoneForwardFillIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-forward-fill";
-}
-
-public class TelephoneForwardIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-forward";
-}
-
-public class TelephoneInboundFillIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-inbound-fill";
-}
-
-public class TelephoneInboundIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-inbound";
-}
-
-public class TelephoneMinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-minus-fill";
-}
-
-public class TelephoneMinusIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-minus";
-}
-
-public class TelephoneOutboundFillIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-outbound-fill";
-}
-
-public class TelephoneOutboundIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-outbound";
-}
-
-public class TelephonePlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-plus-fill";
-}
-
-public class TelephonePlusIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-plus";
-}
-
-public class TelephoneXFillIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-x-fill";
-}
-
-public class TelephoneXIcon : BaseIcon
-{
-    protected override string IconSource => "telephone-x";
-}
-
-public class TelephoneIcon : BaseIcon
-{
-    protected override string IconSource => "telephone";
-}
-
-public class TerminalFillIcon : BaseIcon
-{
-    protected override string IconSource => "terminal-fill";
-}
-
-public class TerminalIcon : BaseIcon
-{
-    protected override string IconSource => "terminal";
-}
-
-public class TextCenterIcon : BaseIcon
-{
-    protected override string IconSource => "text-center";
-}
-
-public class TextIndentLeftIcon : BaseIcon
-{
-    protected override string IconSource => "text-indent-left";
-}
-
-public class TextIndentRightIcon : BaseIcon
-{
-    protected override string IconSource => "text-indent-right";
-}
-
-public class TextLeftIcon : BaseIcon
-{
-    protected override string IconSource => "text-left";
-}
-
-public class TextParagraphIcon : BaseIcon
-{
-    protected override string IconSource => "text-paragraph";
-}
-
-public class TextRightIcon : BaseIcon
-{
-    protected override string IconSource => "text-right";
-}
-
-public class TextareaResizeIcon : BaseIcon
-{
-    protected override string IconSource => "textarea-resize";
-}
-
-public class TextareaTIcon : BaseIcon
-{
-    protected override string IconSource => "textarea-t";
-}
-
-public class TextareaIcon : BaseIcon
-{
-    protected override string IconSource => "textarea";
-}
-
-public class ThermometerHalfIcon : BaseIcon
-{
-    protected override string IconSource => "thermometer-half";
-}
-
-public class ThermometerHighIcon : BaseIcon
-{
-    protected override string IconSource => "thermometer-high";
-}
-
-public class ThermometerLowIcon : BaseIcon
-{
-    protected override string IconSource => "thermometer-low";
-}
-
-public class ThermometerSnowIcon : BaseIcon
-{
-    protected override string IconSource => "thermometer-snow";
-}
-
-public class ThermometerSunIcon : BaseIcon
-{
-    protected override string IconSource => "thermometer-sun";
-}
-
-public class ThermometerIcon : BaseIcon
-{
-    protected override string IconSource => "thermometer";
-}
-
-public class ThreeDotsVerticalIcon : BaseIcon
-{
-    protected override string IconSource => "three-dots-vertical";
-}
-
-public class ThreeDotsIcon : BaseIcon
-{
-    protected override string IconSource => "three-dots";
-}
-
-public class ToggleOffIcon : BaseIcon
-{
-    protected override string IconSource => "toggle-off";
-}
-
-public class ToggleOnIcon : BaseIcon
-{
-    protected override string IconSource => "toggle-on";
-}
-
-public class Toggle2OffIcon : BaseIcon
-{
-    protected override string IconSource => "toggle2-off";
-}
-
-public class Toggle2OnIcon : BaseIcon
-{
-    protected override string IconSource => "toggle2-on";
-}
-
-public class TogglesIcon : BaseIcon
-{
-    protected override string IconSource => "toggles";
-}
-
-public class Toggles2Icon : BaseIcon
-{
-    protected override string IconSource => "toggles2";
-}
-
-public class ToolsIcon : BaseIcon
-{
-    protected override string IconSource => "tools";
-}
-
-public class TornadoIcon : BaseIcon
-{
-    protected override string IconSource => "tornado";
-}
-
-public class TrashFillIcon : BaseIcon
-{
-    protected override string IconSource => "trash-fill";
-}
-
-public class TrashIcon : BaseIcon
-{
-    protected override string IconSource => "trash";
-}
-
-public class Trash2FillIcon : BaseIcon
-{
-    protected override string IconSource => "trash2-fill";
-}
-
-public class Trash2Icon : BaseIcon
-{
-    protected override string IconSource => "trash2";
-}
-
-public class TreeFillIcon : BaseIcon
-{
-    protected override string IconSource => "tree-fill";
-}
-
-public class TreeIcon : BaseIcon
-{
-    protected override string IconSource => "tree";
-}
-
-public class TriangleFillIcon : BaseIcon
-{
-    protected override string IconSource => "triangle-fill";
-}
-
-public class TriangleHalfIcon : BaseIcon
-{
-    protected override string IconSource => "triangle-half";
-}
-
-public class TriangleIcon : BaseIcon
-{
-    protected override string IconSource => "triangle";
-}
-
-public class TrophyFillIcon : BaseIcon
-{
-    protected override string IconSource => "trophy-fill";
-}
-
-public class TrophyIcon : BaseIcon
-{
-    protected override string IconSource => "trophy";
-}
-
-public class TropicalStormIcon : BaseIcon
-{
-    protected override string IconSource => "tropical-storm";
-}
-
-public class TruckFlatbedIcon : BaseIcon
-{
-    protected override string IconSource => "truck-flatbed";
-}
-
-public class TruckIcon : BaseIcon
-{
-    protected override string IconSource => "truck";
-}
-
-public class TsunamiIcon : BaseIcon
-{
-    protected override string IconSource => "tsunami";
-}
-
-public class TvFillIcon : BaseIcon
-{
-    protected override string IconSource => "tv-fill";
-}
-
-public class TvIcon : BaseIcon
-{
-    protected override string IconSource => "tv";
-}
-
-public class TwitchIcon : BaseIcon
-{
-    protected override string IconSource => "twitch";
-}
-
-public class TwitterIcon : BaseIcon
-{
-    protected override string IconSource => "twitter";
-}
-
-public class TypeBoldIcon : BaseIcon
-{
-    protected override string IconSource => "type-bold";
-}
-
-public class TypeH1Icon : BaseIcon
-{
-    protected override string IconSource => "type-h1";
-}
-
-public class TypeH2Icon : BaseIcon
-{
-    protected override string IconSource => "type-h2";
-}
-
-public class TypeH3Icon : BaseIcon
-{
-    protected override string IconSource => "type-h3";
-}
-
-public class TypeItalicIcon : BaseIcon
-{
-    protected override string IconSource => "type-italic";
-}
-
-public class TypeStrikethroughIcon : BaseIcon
-{
-    protected override string IconSource => "type-strikethrough";
-}
-
-public class TypeUnderlineIcon : BaseIcon
-{
-    protected override string IconSource => "type-underline";
-}
-
-public class TypeIcon : BaseIcon
-{
-    protected override string IconSource => "type";
-}
-
-public class UiChecksGridIcon : BaseIcon
-{
-    protected override string IconSource => "ui-checks-grid";
-}
-
-public class UiChecksIcon : BaseIcon
-{
-    protected override string IconSource => "ui-checks";
-}
-
-public class UiRadiosGridIcon : BaseIcon
-{
-    protected override string IconSource => "ui-radios-grid";
-}
-
-public class UiRadiosIcon : BaseIcon
-{
-    protected override string IconSource => "ui-radios";
-}
-
-public class UmbrellaFillIcon : BaseIcon
-{
-    protected override string IconSource => "umbrella-fill";
-}
-
-public class UmbrellaIcon : BaseIcon
-{
-    protected override string IconSource => "umbrella";
-}
-
-public class UnionIcon : BaseIcon
-{
-    protected override string IconSource => "union";
-}
-
-public class UnlockFillIcon : BaseIcon
-{
-    protected override string IconSource => "unlock-fill";
-}
-
-public class UnlockIcon : BaseIcon
-{
-    protected override string IconSource => "unlock";
-}
-
-public class UpcScanIcon : BaseIcon
-{
-    protected override string IconSource => "upc-scan";
-}
-
-public class UpcIcon : BaseIcon
-{
-    protected override string IconSource => "upc";
-}
-
-public class UploadIcon : BaseIcon
-{
-    protected override string IconSource => "upload";
-}
-
-public class VectorPenIcon : BaseIcon
-{
-    protected override string IconSource => "vector-pen";
-}
-
-public class ViewListIcon : BaseIcon
-{
-    protected override string IconSource => "view-list";
-}
-
-public class ViewStackedIcon : BaseIcon
-{
-    protected override string IconSource => "view-stacked";
-}
-
-public class VinylFillIcon : BaseIcon
-{
-    protected override string IconSource => "vinyl-fill";
-}
-
-public class VinylIcon : BaseIcon
-{
-    protected override string IconSource => "vinyl";
-}
-
-public class VoicemailIcon : BaseIcon
-{
-    protected override string IconSource => "voicemail";
-}
-
-public class VolumeDownFillIcon : BaseIcon
-{
-    protected override string IconSource => "volume-down-fill";
-}
-
-public class VolumeDownIcon : BaseIcon
-{
-    protected override string IconSource => "volume-down";
-}
-
-public class VolumeMuteFillIcon : BaseIcon
-{
-    protected override string IconSource => "volume-mute-fill";
-}
-
-public class VolumeMuteIcon : BaseIcon
-{
-    protected override string IconSource => "volume-mute";
-}
-
-public class VolumeOffFillIcon : BaseIcon
-{
-    protected override string IconSource => "volume-off-fill";
-}
-
-public class VolumeOffIcon : BaseIcon
-{
-    protected override string IconSource => "volume-off";
-}
-
-public class VolumeUpFillIcon : BaseIcon
-{
-    protected override string IconSource => "volume-up-fill";
-}
-
-public class VolumeUpIcon : BaseIcon
-{
-    protected override string IconSource => "volume-up";
-}
-
-public class VrIcon : BaseIcon
-{
-    protected override string IconSource => "vr";
-}
-
-public class WalletFillIcon : BaseIcon
-{
-    protected override string IconSource => "wallet-fill";
-}
-
-public class WalletIcon : BaseIcon
-{
-    protected override string IconSource => "wallet";
-}
-
-public class Wallet2Icon : BaseIcon
-{
-    protected override string IconSource => "wallet2";
-}
-
-public class WatchIcon : BaseIcon
-{
-    protected override string IconSource => "watch";
-}
-
-public class WaterIcon : BaseIcon
-{
-    protected override string IconSource => "water";
-}
-
-public class WhatsappIcon : BaseIcon
-{
-    protected override string IconSource => "whatsapp";
-}
-
-public class Wifi1Icon : BaseIcon
-{
-    protected override string IconSource => "wifi-1";
-}
-
-public class Wifi2Icon : BaseIcon
-{
-    protected override string IconSource => "wifi-2";
-}
-
-public class WifiOffIcon : BaseIcon
-{
-    protected override string IconSource => "wifi-off";
-}
-
-public class WifiIcon : BaseIcon
-{
-    protected override string IconSource => "wifi";
-}
-
-public class WindIcon : BaseIcon
-{
-    protected override string IconSource => "wind";
-}
-
-public class WindowDockIcon : BaseIcon
-{
-    protected override string IconSource => "window-dock";
-}
-
-public class WindowSidebarIcon : BaseIcon
-{
-    protected override string IconSource => "window-sidebar";
-}
-
-public class WindowIcon : BaseIcon
-{
-    protected override string IconSource => "window";
-}
-
-public class WrenchIcon : BaseIcon
-{
-    protected override string IconSource => "wrench";
-}
-
-public class XCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "x-circle-fill";
-}
-
-public class XCircleIcon : BaseIcon
-{
-    protected override string IconSource => "x-circle";
-}
-
-public class XDiamondFillIcon : BaseIcon
-{
-    protected override string IconSource => "x-diamond-fill";
-}
-
-public class XDiamondIcon : BaseIcon
-{
-    protected override string IconSource => "x-diamond";
-}
-
-public class XOctagonFillIcon : BaseIcon
-{
-    protected override string IconSource => "x-octagon-fill";
-}
-
-public class XOctagonIcon : BaseIcon
-{
-    protected override string IconSource => "x-octagon";
-}
-
-public class XSquareFillIcon : BaseIcon
-{
-    protected override string IconSource => "x-square-fill";
-}
-
-public class XSquareIcon : BaseIcon
-{
-    protected override string IconSource => "x-square";
-}
-
-public class XIcon : BaseIcon
-{
-    protected override string IconSource => "x";
-}
-
-public class YoutubeIcon : BaseIcon
-{
-    protected override string IconSource => "youtube";
-}
-
-public class ZoomInIcon : BaseIcon
-{
-    protected override string IconSource => "zoom-in";
-}
-
-public class ZoomOutIcon : BaseIcon
-{
-    protected override string IconSource => "zoom-out";
-}
-
-public class BankIcon : BaseIcon
-{
-    protected override string IconSource => "bank";
-}
-
-public class Bank2Icon : BaseIcon
-{
-    protected override string IconSource => "bank2";
-}
-
-public class BellSlashFillIcon : BaseIcon
-{
-    protected override string IconSource => "bell-slash-fill";
-}
-
-public class BellSlashIcon : BaseIcon
-{
-    protected override string IconSource => "bell-slash";
-}
-
-public class CashCoinIcon : BaseIcon
-{
-    protected override string IconSource => "cash-coin";
-}
-
-public class CheckLgIcon : BaseIcon
-{
-    protected override string IconSource => "check-lg";
-}
-
-public class CoinIcon : BaseIcon
-{
-    protected override string IconSource => "coin";
-}
-
-public class CurrencyBitcoinIcon : BaseIcon
-{
-    protected override string IconSource => "currency-bitcoin";
-}
-
-public class CurrencyDollarIcon : BaseIcon
-{
-    protected override string IconSource => "currency-dollar";
-}
-
-public class CurrencyEuroIcon : BaseIcon
-{
-    protected override string IconSource => "currency-euro";
-}
-
-public class CurrencyExchangeIcon : BaseIcon
-{
-    protected override string IconSource => "currency-exchange";
-}
-
-public class CurrencyPoundIcon : BaseIcon
-{
-    protected override string IconSource => "currency-pound";
-}
-
-public class CurrencyYenIcon : BaseIcon
-{
-    protected override string IconSource => "currency-yen";
-}
-
-public class DashLgIcon : BaseIcon
-{
-    protected override string IconSource => "dash-lg";
-}
-
-public class ExclamationLgIcon : BaseIcon
-{
-    protected override string IconSource => "exclamation-lg";
-}
-
-public class FileEarmarkPdfFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-pdf-fill";
-}
-
-public class FileEarmarkPdfIcon : BaseIcon
-{
-    protected override string IconSource => "file-earmark-pdf";
-}
-
-public class FilePdfFillIcon : BaseIcon
-{
-    protected override string IconSource => "file-pdf-fill";
-}
-
-public class FilePdfIcon : BaseIcon
-{
-    protected override string IconSource => "file-pdf";
-}
-
-public class GenderAmbiguousIcon : BaseIcon
-{
-    protected override string IconSource => "gender-ambiguous";
-}
-
-public class GenderFemaleIcon : BaseIcon
-{
-    protected override string IconSource => "gender-female";
-}
-
-public class GenderMaleIcon : BaseIcon
-{
-    protected override string IconSource => "gender-male";
-}
-
-public class GenderTransIcon : BaseIcon
-{
-    protected override string IconSource => "gender-trans";
-}
-
-public class HeadsetVrIcon : BaseIcon
-{
-    protected override string IconSource => "headset-vr";
-}
-
-public class InfoLgIcon : BaseIcon
-{
-    protected override string IconSource => "info-lg";
-}
-
-public class MastodonIcon : BaseIcon
-{
-    protected override string IconSource => "mastodon";
-}
-
-public class MessengerIcon : BaseIcon
-{
-    protected override string IconSource => "messenger";
-}
-
-public class PiggyBankFillIcon : BaseIcon
-{
-    protected override string IconSource => "piggy-bank-fill";
-}
-
-public class PiggyBankIcon : BaseIcon
-{
-    protected override string IconSource => "piggy-bank";
-}
-
-public class PinMapFillIcon : BaseIcon
-{
-    protected override string IconSource => "pin-map-fill";
-}
-
-public class PinMapIcon : BaseIcon
-{
-    protected override string IconSource => "pin-map";
-}
-
-public class PlusLgIcon : BaseIcon
-{
-    protected override string IconSource => "plus-lg";
-}
-
-public class QuestionLgIcon : BaseIcon
-{
-    protected override string IconSource => "question-lg";
-}
-
-public class RecycleIcon : BaseIcon
-{
-    protected override string IconSource => "recycle";
-}
-
-public class RedditIcon : BaseIcon
-{
-    protected override string IconSource => "reddit";
-}
-
-public class SafeFillIcon : BaseIcon
-{
-    protected override string IconSource => "safe-fill";
-}
-
-public class Safe2FillIcon : BaseIcon
-{
-    protected override string IconSource => "safe2-fill";
-}
-
-public class Safe2Icon : BaseIcon
-{
-    protected override string IconSource => "safe2";
-}
-
-public class SdCardFillIcon : BaseIcon
-{
-    protected override string IconSource => "sd-card-fill";
-}
-
-public class SdCardIcon : BaseIcon
-{
-    protected override string IconSource => "sd-card";
-}
-
-public class SkypeIcon : BaseIcon
-{
-    protected override string IconSource => "skype";
-}
-
-public class SlashLgIcon : BaseIcon
-{
-    protected override string IconSource => "slash-lg";
-}
-
-public class TranslateIcon : BaseIcon
-{
-    protected override string IconSource => "translate";
-}
-
-public class XLgIcon : BaseIcon
-{
-    protected override string IconSource => "x-lg";
-}
-
-public class SafeIcon : BaseIcon
-{
-    protected override string IconSource => "safe";
-}
-
-public class AppleIcon : BaseIcon
-{
-    protected override string IconSource => "apple";
-}
-
-public class MicrosoftIcon : BaseIcon
-{
-    protected override string IconSource => "microsoft";
-}
-
-public class WindowsIcon : BaseIcon
-{
-    protected override string IconSource => "windows";
-}
-
-public class BehanceIcon : BaseIcon
-{
-    protected override string IconSource => "behance";
-}
-
-public class DribbbleIcon : BaseIcon
-{
-    protected override string IconSource => "dribbble";
-}
-
-public class LineIcon : BaseIcon
-{
-    protected override string IconSource => "line";
-}
-
-public class MediumIcon : BaseIcon
-{
-    protected override string IconSource => "medium";
-}
-
-public class PaypalIcon : BaseIcon
-{
-    protected override string IconSource => "paypal";
-}
-
-public class PinterestIcon : BaseIcon
-{
-    protected override string IconSource => "pinterest";
-}
-
-public class SignalIcon : BaseIcon
-{
-    protected override string IconSource => "signal";
-}
-
-public class SnapchatIcon : BaseIcon
-{
-    protected override string IconSource => "snapchat";
-}
-
-public class SpotifyIcon : BaseIcon
-{
-    protected override string IconSource => "spotify";
-}
-
-public class StackOverflowIcon : BaseIcon
-{
-    protected override string IconSource => "stack-overflow";
-}
-
-public class StravaIcon : BaseIcon
-{
-    protected override string IconSource => "strava";
-}
-
-public class WordpressIcon : BaseIcon
-{
-    protected override string IconSource => "wordpress";
-}
-
-public class VimeoIcon : BaseIcon
-{
-    protected override string IconSource => "vimeo";
-}
-
-public class ActivityIcon : BaseIcon
-{
-    protected override string IconSource => "activity";
-}
-
-public class Easel2FillIcon : BaseIcon
-{
-    protected override string IconSource => "easel2-fill";
-}
-
-public class Easel2Icon : BaseIcon
-{
-    protected override string IconSource => "easel2";
-}
-
-public class Easel3FillIcon : BaseIcon
-{
-    protected override string IconSource => "easel3-fill";
-}
-
-public class Easel3Icon : BaseIcon
-{
-    protected override string IconSource => "easel3";
-}
-
-public class FanIcon : BaseIcon
-{
-    protected override string IconSource => "fan";
-}
-
-public class FingerprintIcon : BaseIcon
-{
-    protected override string IconSource => "fingerprint";
-}
-
-public class GraphDownArrowIcon : BaseIcon
-{
-    protected override string IconSource => "graph-down-arrow";
-}
-
-public class GraphUpArrowIcon : BaseIcon
-{
-    protected override string IconSource => "graph-up-arrow";
-}
-
-public class HypnotizeIcon : BaseIcon
-{
-    protected override string IconSource => "hypnotize";
-}
-
-public class MagicIcon : BaseIcon
-{
-    protected override string IconSource => "magic";
-}
-
-public class PersonRolodexIcon : BaseIcon
-{
-    protected override string IconSource => "person-rolodex";
-}
-
-public class PersonVideoIcon : BaseIcon
-{
-    protected override string IconSource => "person-video";
-}
-
-public class PersonVideo2Icon : BaseIcon
-{
-    protected override string IconSource => "person-video2";
-}
-
-public class PersonVideo3Icon : BaseIcon
-{
-    protected override string IconSource => "person-video3";
-}
-
-public class PersonWorkspaceIcon : BaseIcon
-{
-    protected override string IconSource => "person-workspace";
-}
-
-public class RadioactiveIcon : BaseIcon
-{
-    protected override string IconSource => "radioactive";
-}
-
-public class WebcamFillIcon : BaseIcon
-{
-    protected override string IconSource => "webcam-fill";
-}
-
-public class WebcamIcon : BaseIcon
-{
-    protected override string IconSource => "webcam";
-}
-
-public class YinYangIcon : BaseIcon
-{
-    protected override string IconSource => "yin-yang";
-}
-
-public class BandaidFillIcon : BaseIcon
-{
-    protected override string IconSource => "bandaid-fill";
-}
-
-public class BandaidIcon : BaseIcon
-{
-    protected override string IconSource => "bandaid";
-}
-
-public class BluetoothIcon : BaseIcon
-{
-    protected override string IconSource => "bluetooth";
-}
-
-public class BodyTextIcon : BaseIcon
-{
-    protected override string IconSource => "body-text";
-}
-
-public class BoomboxIcon : BaseIcon
-{
-    protected override string IconSource => "boombox";
-}
-
-public class BoxesIcon : BaseIcon
-{
-    protected override string IconSource => "boxes";
-}
-
-public class DpadFillIcon : BaseIcon
-{
-    protected override string IconSource => "dpad-fill";
-}
-
-public class DpadIcon : BaseIcon
-{
-    protected override string IconSource => "dpad";
-}
-
-public class EarFillIcon : BaseIcon
-{
-    protected override string IconSource => "ear-fill";
-}
-
-public class EarIcon : BaseIcon
-{
-    protected override string IconSource => "ear";
-}
-
-public class EnvelopeCheck1Icon : BaseIcon
-{
-    protected override string IconSource => "envelope-check-1";
-}
-
-public class EnvelopeCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-check-fill";
-}
-
-public class EnvelopeCheckIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-check";
-}
-
-public class EnvelopeDash1Icon : BaseIcon
-{
-    protected override string IconSource => "envelope-dash-1";
-}
-
-public class EnvelopeDashFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-dash-fill";
-}
-
-public class EnvelopeDashIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-dash";
-}
-
-public class EnvelopeExclamation1Icon : BaseIcon
-{
-    protected override string IconSource => "envelope-exclamation-1";
-}
-
-public class EnvelopeExclamationFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-exclamation-fill";
-}
-
-public class EnvelopeExclamationIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-exclamation";
-}
-
-public class EnvelopePlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-plus-fill";
-}
-
-public class EnvelopePlusIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-plus";
-}
-
-public class EnvelopeSlash1Icon : BaseIcon
-{
-    protected override string IconSource => "envelope-slash-1";
-}
-
-public class EnvelopeSlashFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-slash-fill";
-}
-
-public class EnvelopeSlashIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-slash";
-}
-
-public class EnvelopeX1Icon : BaseIcon
-{
-    protected override string IconSource => "envelope-x-1";
-}
-
-public class EnvelopeXFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-x-fill";
-}
-
-public class EnvelopeXIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-x";
-}
-
-public class ExplicitFillIcon : BaseIcon
-{
-    protected override string IconSource => "explicit-fill";
-}
-
-public class ExplicitIcon : BaseIcon
-{
-    protected override string IconSource => "explicit";
-}
-
-public class GitIcon : BaseIcon
-{
-    protected override string IconSource => "git";
-}
-
-public class InfinityIcon : BaseIcon
-{
-    protected override string IconSource => "infinity";
-}
-
-public class ListColumnsReverseIcon : BaseIcon
-{
-    protected override string IconSource => "list-columns-reverse";
-}
-
-public class ListColumnsIcon : BaseIcon
-{
-    protected override string IconSource => "list-columns";
-}
-
-public class MetaIcon : BaseIcon
-{
-    protected override string IconSource => "meta";
-}
-
-public class MortorboardFillIcon : BaseIcon
-{
-    protected override string IconSource => "mortorboard-fill";
-}
-
-public class MortorboardIcon : BaseIcon
-{
-    protected override string IconSource => "mortorboard";
-}
-
-public class NintendoSwitchIcon : BaseIcon
-{
-    protected override string IconSource => "nintendo-switch";
-}
-
-public class PcDisplayHorizontalIcon : BaseIcon
-{
-    protected override string IconSource => "pc-display-horizontal";
-}
-
-public class PcDisplayIcon : BaseIcon
-{
-    protected override string IconSource => "pc-display";
-}
-
-public class PcHorizontalIcon : BaseIcon
-{
-    protected override string IconSource => "pc-horizontal";
-}
-
-public class PcIcon : BaseIcon
-{
-    protected override string IconSource => "pc";
-}
-
-public class PlaystationIcon : BaseIcon
-{
-    protected override string IconSource => "playstation";
-}
-
-public class PlusSlashMinusIcon : BaseIcon
-{
-    protected override string IconSource => "plus-slash-minus";
-}
-
-public class ProjectorFillIcon : BaseIcon
-{
-    protected override string IconSource => "projector-fill";
-}
-
-public class ProjectorIcon : BaseIcon
-{
-    protected override string IconSource => "projector";
-}
-
-public class QrCodeScanIcon : BaseIcon
-{
-    protected override string IconSource => "qr-code-scan";
-}
-
-public class QrCodeIcon : BaseIcon
-{
-    protected override string IconSource => "qr-code";
-}
-
-public class QuoraIcon : BaseIcon
-{
-    protected override string IconSource => "quora";
-}
-
-public class QuoteIcon : BaseIcon
-{
-    protected override string IconSource => "quote";
-}
-
-public class RobotIcon : BaseIcon
-{
-    protected override string IconSource => "robot";
-}
-
-public class SendCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "send-check-fill";
-}
-
-public class SendCheckIcon : BaseIcon
-{
-    protected override string IconSource => "send-check";
-}
-
-public class SendDashFillIcon : BaseIcon
-{
-    protected override string IconSource => "send-dash-fill";
-}
-
-public class SendDashIcon : BaseIcon
-{
-    protected override string IconSource => "send-dash";
-}
-
-public class SendExclamation1Icon : BaseIcon
-{
-    protected override string IconSource => "send-exclamation-1";
-}
-
-public class SendExclamationFillIcon : BaseIcon
-{
-    protected override string IconSource => "send-exclamation-fill";
-}
-
-public class SendExclamationIcon : BaseIcon
-{
-    protected override string IconSource => "send-exclamation";
-}
-
-public class SendFillIcon : BaseIcon
-{
-    protected override string IconSource => "send-fill";
-}
-
-public class SendPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "send-plus-fill";
-}
-
-public class SendPlusIcon : BaseIcon
-{
-    protected override string IconSource => "send-plus";
-}
-
-public class SendSlashFillIcon : BaseIcon
-{
-    protected override string IconSource => "send-slash-fill";
-}
-
-public class SendSlashIcon : BaseIcon
-{
-    protected override string IconSource => "send-slash";
-}
-
-public class SendXFillIcon : BaseIcon
-{
-    protected override string IconSource => "send-x-fill";
-}
-
-public class SendXIcon : BaseIcon
-{
-    protected override string IconSource => "send-x";
-}
-
-public class SendIcon : BaseIcon
-{
-    protected override string IconSource => "send";
-}
-
-public class SteamIcon : BaseIcon
-{
-    protected override string IconSource => "steam";
-}
-
-public class TerminalDash1Icon : BaseIcon
-{
-    protected override string IconSource => "terminal-dash-1";
-}
-
-public class TerminalDashIcon : BaseIcon
-{
-    protected override string IconSource => "terminal-dash";
-}
-
-public class TerminalPlusIcon : BaseIcon
-{
-    protected override string IconSource => "terminal-plus";
-}
-
-public class TerminalSplitIcon : BaseIcon
-{
-    protected override string IconSource => "terminal-split";
-}
-
-public class TicketDetailedFillIcon : BaseIcon
-{
-    protected override string IconSource => "ticket-detailed-fill";
-}
-
-public class TicketDetailedIcon : BaseIcon
-{
-    protected override string IconSource => "ticket-detailed";
-}
-
-public class TicketFillIcon : BaseIcon
-{
-    protected override string IconSource => "ticket-fill";
-}
-
-public class TicketPerforatedFillIcon : BaseIcon
-{
-    protected override string IconSource => "ticket-perforated-fill";
-}
-
-public class TicketPerforatedIcon : BaseIcon
-{
-    protected override string IconSource => "ticket-perforated";
-}
-
-public class TicketIcon : BaseIcon
-{
-    protected override string IconSource => "ticket";
-}
-
-public class TiktokIcon : BaseIcon
-{
-    protected override string IconSource => "tiktok";
-}
-
-public class WindowDashIcon : BaseIcon
-{
-    protected override string IconSource => "window-dash";
-}
-
-public class WindowDesktopIcon : BaseIcon
-{
-    protected override string IconSource => "window-desktop";
-}
-
-public class WindowFullscreenIcon : BaseIcon
-{
-    protected override string IconSource => "window-fullscreen";
-}
-
-public class WindowPlusIcon : BaseIcon
-{
-    protected override string IconSource => "window-plus";
-}
-
-public class WindowSplitIcon : BaseIcon
-{
-    protected override string IconSource => "window-split";
-}
-
-public class WindowStackIcon : BaseIcon
-{
-    protected override string IconSource => "window-stack";
-}
-
-public class WindowXIcon : BaseIcon
-{
-    protected override string IconSource => "window-x";
-}
-
-public class XboxIcon : BaseIcon
-{
-    protected override string IconSource => "xbox";
-}
-
-public class EthernetIcon : BaseIcon
-{
-    protected override string IconSource => "ethernet";
-}
-
-public class HdmiFillIcon : BaseIcon
-{
-    protected override string IconSource => "hdmi-fill";
-}
-
-public class HdmiIcon : BaseIcon
-{
-    protected override string IconSource => "hdmi";
-}
-
-public class UsbCFillIcon : BaseIcon
-{
-    protected override string IconSource => "usb-c-fill";
-}
-
-public class UsbCIcon : BaseIcon
-{
-    protected override string IconSource => "usb-c";
-}
-
-public class UsbFillIcon : BaseIcon
-{
-    protected override string IconSource => "usb-fill";
-}
-
-public class UsbPlugFillIcon : BaseIcon
-{
-    protected override string IconSource => "usb-plug-fill";
-}
-
-public class UsbPlugIcon : BaseIcon
-{
-    protected override string IconSource => "usb-plug";
-}
-
-public class UsbSymbolIcon : BaseIcon
-{
-    protected override string IconSource => "usb-symbol";
-}
-
-public class UsbIcon : BaseIcon
-{
-    protected override string IconSource => "usb";
-}
-
-public class BoomboxFillIcon : BaseIcon
-{
-    protected override string IconSource => "boombox-fill";
-}
-
-public class Displayport1Icon : BaseIcon
-{
-    protected override string IconSource => "displayport-1";
-}
-
-public class DisplayportIcon : BaseIcon
-{
-    protected override string IconSource => "displayport";
-}
-
-public class GpuCardIcon : BaseIcon
-{
-    protected override string IconSource => "gpu-card";
-}
-
-public class MemoryIcon : BaseIcon
-{
-    protected override string IconSource => "memory";
-}
-
-public class ModemFillIcon : BaseIcon
-{
-    protected override string IconSource => "modem-fill";
-}
-
-public class ModemIcon : BaseIcon
-{
-    protected override string IconSource => "modem";
-}
-
-public class MotherboardFillIcon : BaseIcon
-{
-    protected override string IconSource => "motherboard-fill";
-}
-
-public class MotherboardIcon : BaseIcon
-{
-    protected override string IconSource => "motherboard";
-}
-
-public class OpticalAudioFillIcon : BaseIcon
-{
-    protected override string IconSource => "optical-audio-fill";
-}
-
-public class OpticalAudioIcon : BaseIcon
-{
-    protected override string IconSource => "optical-audio";
-}
-
-public class PciCardIcon : BaseIcon
-{
-    protected override string IconSource => "pci-card";
-}
-
-public class RouterFillIcon : BaseIcon
-{
-    protected override string IconSource => "router-fill";
-}
-
-public class RouterIcon : BaseIcon
-{
-    protected override string IconSource => "router";
-}
-
-public class SsdFillIcon : BaseIcon
-{
-    protected override string IconSource => "ssd-fill";
-}
-
-public class SsdIcon : BaseIcon
-{
-    protected override string IconSource => "ssd";
-}
-
-public class ThunderboltFillIcon : BaseIcon
-{
-    protected override string IconSource => "thunderbolt-fill";
-}
-
-public class ThunderboltIcon : BaseIcon
-{
-    protected override string IconSource => "thunderbolt";
-}
-
-public class UsbDriveFillIcon : BaseIcon
-{
-    protected override string IconSource => "usb-drive-fill";
-}
-
-public class UsbDriveIcon : BaseIcon
-{
-    protected override string IconSource => "usb-drive";
-}
-
-public class UsbMicroFillIcon : BaseIcon
-{
-    protected override string IconSource => "usb-micro-fill";
-}
-
-public class UsbMicroIcon : BaseIcon
-{
-    protected override string IconSource => "usb-micro";
-}
-
-public class UsbMiniFillIcon : BaseIcon
-{
-    protected override string IconSource => "usb-mini-fill";
-}
-
-public class UsbMiniIcon : BaseIcon
-{
-    protected override string IconSource => "usb-mini";
-}
-
-public class CloudHaze2Icon : BaseIcon
-{
-    protected override string IconSource => "cloud-haze2";
-}
-
-public class DeviceHddFillIcon : BaseIcon
-{
-    protected override string IconSource => "device-hdd-fill";
-}
-
-public class DeviceHddIcon : BaseIcon
-{
-    protected override string IconSource => "device-hdd";
-}
-
-public class DeviceSsdFillIcon : BaseIcon
-{
-    protected override string IconSource => "device-ssd-fill";
-}
-
-public class DeviceSsdIcon : BaseIcon
-{
-    protected override string IconSource => "device-ssd";
-}
-
-public class DisplayportFillIcon : BaseIcon
-{
-    protected override string IconSource => "displayport-fill";
-}
-
-public class MortarboardFillIcon : BaseIcon
-{
-    protected override string IconSource => "mortarboard-fill";
-}
-
-public class MortarboardIcon : BaseIcon
-{
-    protected override string IconSource => "mortarboard";
-}
-
-public class TerminalXIcon : BaseIcon
-{
-    protected override string IconSource => "terminal-x";
-}
-
-public class ArrowThroughHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-through-heart-fill";
-}
-
-public class ArrowThroughHeartIcon : BaseIcon
-{
-    protected override string IconSource => "arrow-through-heart";
-}
-
-public class BadgeSdFillIcon : BaseIcon
-{
-    protected override string IconSource => "badge-sd-fill";
-}
-
-public class BadgeSdIcon : BaseIcon
-{
-    protected override string IconSource => "badge-sd";
-}
-
-public class BagHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "bag-heart-fill";
-}
-
-public class BagHeartIcon : BaseIcon
-{
-    protected override string IconSource => "bag-heart";
-}
-
-public class BalloonFillIcon : BaseIcon
-{
-    protected override string IconSource => "balloon-fill";
-}
-
-public class BalloonHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "balloon-heart-fill";
-}
-
-public class BalloonHeartIcon : BaseIcon
-{
-    protected override string IconSource => "balloon-heart";
-}
-
-public class BalloonIcon : BaseIcon
-{
-    protected override string IconSource => "balloon";
-}
-
-public class Box2FillIcon : BaseIcon
-{
-    protected override string IconSource => "box2-fill";
-}
-
-public class Box2HeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "box2-heart-fill";
-}
-
-public class Box2HeartIcon : BaseIcon
-{
-    protected override string IconSource => "box2-heart";
-}
-
-public class Box2Icon : BaseIcon
-{
-    protected override string IconSource => "box2";
-}
-
-public class BracesAsteriskIcon : BaseIcon
-{
-    protected override string IconSource => "braces-asterisk";
-}
-
-public class CalendarHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-heart-fill";
-}
-
-public class CalendarHeartIcon : BaseIcon
-{
-    protected override string IconSource => "calendar-heart";
-}
-
-public class Calendar2HeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-heart-fill";
-}
-
-public class Calendar2HeartIcon : BaseIcon
-{
-    protected override string IconSource => "calendar2-heart";
-}
-
-public class ChatHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-heart-fill";
-}
-
-public class ChatHeartIcon : BaseIcon
-{
-    protected override string IconSource => "chat-heart";
-}
-
-public class ChatLeftHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-heart-fill";
-}
-
-public class ChatLeftHeartIcon : BaseIcon
-{
-    protected override string IconSource => "chat-left-heart";
-}
-
-public class ChatRightHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-heart-fill";
-}
-
-public class ChatRightHeartIcon : BaseIcon
-{
-    protected override string IconSource => "chat-right-heart";
-}
-
-public class ChatSquareHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-heart-fill";
-}
-
-public class ChatSquareHeartIcon : BaseIcon
-{
-    protected override string IconSource => "chat-square-heart";
-}
-
-public class ClipboardCheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-check-fill";
-}
-
-public class ClipboardDataFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-data-fill";
-}
-
-public class ClipboardFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-fill";
-}
-
-public class ClipboardHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-heart-fill";
-}
-
-public class ClipboardHeartIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-heart";
-}
-
-public class ClipboardMinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-minus-fill";
-}
-
-public class ClipboardPlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-plus-fill";
-}
-
-public class ClipboardPulseIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-pulse";
-}
-
-public class ClipboardXFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard-x-fill";
-}
-
-public class Clipboard2CheckFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-check-fill";
-}
-
-public class Clipboard2CheckIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-check";
-}
-
-public class Clipboard2DataFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-data-fill";
-}
-
-public class Clipboard2DataIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-data";
-}
-
-public class Clipboard2FillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-fill";
-}
-
-public class Clipboard2HeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-heart-fill";
-}
-
-public class Clipboard2HeartIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-heart";
-}
-
-public class Clipboard2MinusFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-minus-fill";
-}
-
-public class Clipboard2MinusIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-minus";
-}
-
-public class Clipboard2PlusFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-plus-fill";
-}
-
-public class Clipboard2PlusIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-plus";
-}
-
-public class Clipboard2PulseFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-pulse-fill";
-}
-
-public class Clipboard2PulseIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-pulse";
-}
-
-public class Clipboard2XFillIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-x-fill";
-}
-
-public class Clipboard2XIcon : BaseIcon
-{
-    protected override string IconSource => "clipboard2-x";
-}
-
-public class Clipboard2Icon : BaseIcon
-{
-    protected override string IconSource => "clipboard2";
-}
-
-public class EmojiKissFillIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-kiss-fill";
-}
-
-public class EmojiKissIcon : BaseIcon
-{
-    protected override string IconSource => "emoji-kiss";
-}
-
-public class EnvelopeHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-heart-fill";
-}
-
-public class EnvelopeHeartIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-heart";
-}
-
-public class EnvelopeOpenHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-open-heart-fill";
-}
-
-public class EnvelopeOpenHeartIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-open-heart";
-}
-
-public class EnvelopePaperFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-paper-fill";
-}
-
-public class EnvelopePaperHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-paper-heart-fill";
-}
-
-public class EnvelopePaperHeartIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-paper-heart";
-}
-
-public class EnvelopePaperIcon : BaseIcon
-{
-    protected override string IconSource => "envelope-paper";
-}
-
-public class FiletypeAacIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-aac";
-}
-
-public class FiletypeAiIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-ai";
-}
-
-public class FiletypeBmpIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-bmp";
-}
-
-public class FiletypeCsIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-cs";
-}
-
-public class FiletypeCssIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-css";
-}
-
-public class FiletypeCsvIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-csv";
-}
-
-public class FiletypeDocIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-doc";
-}
-
-public class FiletypeDocxIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-docx";
-}
-
-public class FiletypeExeIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-exe";
-}
-
-public class FiletypeGifIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-gif";
-}
-
-public class FiletypeHeicIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-heic";
-}
-
-public class FiletypeHtmlIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-html";
-}
-
-public class FiletypeJavaIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-java";
-}
-
-public class FiletypeJpgIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-jpg";
-}
-
-public class FiletypeJsIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-js";
-}
-
-public class FiletypeJsxIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-jsx";
-}
-
-public class FiletypeKeyIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-key";
-}
-
-public class FiletypeM4pIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-m4p";
-}
-
-public class FiletypeMdIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-md";
-}
-
-public class FiletypeMdxIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-mdx";
-}
-
-public class FiletypeMovIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-mov";
-}
-
-public class FiletypeMp3Icon : BaseIcon
-{
-    protected override string IconSource => "filetype-mp3";
-}
-
-public class FiletypeMp4Icon : BaseIcon
-{
-    protected override string IconSource => "filetype-mp4";
-}
-
-public class FiletypeOtfIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-otf";
-}
-
-public class FiletypePdfIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-pdf";
-}
-
-public class FiletypePhpIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-php";
-}
-
-public class FiletypePngIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-png";
-}
-
-public class FiletypePpt1Icon : BaseIcon
-{
-    protected override string IconSource => "filetype-ppt-1";
-}
-
-public class FiletypePptIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-ppt";
-}
-
-public class FiletypePsdIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-psd";
-}
-
-public class FiletypePyIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-py";
-}
-
-public class FiletypeRawIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-raw";
-}
-
-public class FiletypeRbIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-rb";
-}
-
-public class FiletypeSassIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-sass";
-}
-
-public class FiletypeScssIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-scss";
-}
-
-public class FiletypeShIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-sh";
-}
-
-public class FiletypeSvgIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-svg";
-}
-
-public class FiletypeTiffIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-tiff";
-}
-
-public class FiletypeTsxIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-tsx";
-}
-
-public class FiletypeTtfIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-ttf";
-}
-
-public class FiletypeTxtIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-txt";
-}
-
-public class FiletypeWavIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-wav";
-}
-
-public class FiletypeWoffIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-woff";
-}
-
-public class FiletypeXls1Icon : BaseIcon
-{
-    protected override string IconSource => "filetype-xls-1";
-}
-
-public class FiletypeXlsIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-xls";
-}
-
-public class FiletypeXmlIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-xml";
-}
-
-public class FiletypeYmlIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-yml";
-}
-
-public class HeartArrowIcon : BaseIcon
-{
-    protected override string IconSource => "heart-arrow";
-}
-
-public class HeartPulseFillIcon : BaseIcon
-{
-    protected override string IconSource => "heart-pulse-fill";
-}
-
-public class HeartPulseIcon : BaseIcon
-{
-    protected override string IconSource => "heart-pulse";
-}
-
-public class HeartbreakFillIcon : BaseIcon
-{
-    protected override string IconSource => "heartbreak-fill";
-}
-
-public class HeartbreakIcon : BaseIcon
-{
-    protected override string IconSource => "heartbreak";
-}
-
-public class HeartsIcon : BaseIcon
-{
-    protected override string IconSource => "hearts";
-}
-
-public class HospitalFillIcon : BaseIcon
-{
-    protected override string IconSource => "hospital-fill";
-}
-
-public class HospitalIcon : BaseIcon
-{
-    protected override string IconSource => "hospital";
-}
-
-public class HouseHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "house-heart-fill";
-}
-
-public class HouseHeartIcon : BaseIcon
-{
-    protected override string IconSource => "house-heart";
-}
-
-public class IncognitoIcon : BaseIcon
-{
-    protected override string IconSource => "incognito";
-}
-
-public class MagnetFillIcon : BaseIcon
-{
-    protected override string IconSource => "magnet-fill";
-}
-
-public class MagnetIcon : BaseIcon
-{
-    protected override string IconSource => "magnet";
-}
-
-public class PersonHeartIcon : BaseIcon
-{
-    protected override string IconSource => "person-heart";
-}
-
-public class PersonHeartsIcon : BaseIcon
-{
-    protected override string IconSource => "person-hearts";
-}
-
-public class PhoneFlipIcon : BaseIcon
-{
-    protected override string IconSource => "phone-flip";
-}
-
-public class PluginIcon : BaseIcon
-{
-    protected override string IconSource => "plugin";
-}
-
-public class PostageFillIcon : BaseIcon
-{
-    protected override string IconSource => "postage-fill";
-}
-
-public class PostageHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "postage-heart-fill";
-}
-
-public class PostageHeartIcon : BaseIcon
-{
-    protected override string IconSource => "postage-heart";
-}
-
-public class PostageIcon : BaseIcon
-{
-    protected override string IconSource => "postage";
-}
-
-public class PostcardFillIcon : BaseIcon
-{
-    protected override string IconSource => "postcard-fill";
-}
-
-public class PostcardHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "postcard-heart-fill";
-}
-
-public class PostcardHeartIcon : BaseIcon
-{
-    protected override string IconSource => "postcard-heart";
-}
-
-public class PostcardIcon : BaseIcon
-{
-    protected override string IconSource => "postcard";
-}
-
-public class SearchHeartFillIcon : BaseIcon
-{
-    protected override string IconSource => "search-heart-fill";
-}
-
-public class SearchHeartIcon : BaseIcon
-{
-    protected override string IconSource => "search-heart";
-}
-
-public class Sliders2VerticalIcon : BaseIcon
-{
-    protected override string IconSource => "sliders2-vertical";
-}
-
-public class Sliders2Icon : BaseIcon
-{
-    protected override string IconSource => "sliders2";
-}
-
-public class Trash3FillIcon : BaseIcon
-{
-    protected override string IconSource => "trash3-fill";
-}
-
-public class Trash3Icon : BaseIcon
-{
-    protected override string IconSource => "trash3";
-}
-
-public class ValentineIcon : BaseIcon
-{
-    protected override string IconSource => "valentine";
-}
-
-public class Valentine2Icon : BaseIcon
-{
-    protected override string IconSource => "valentine2";
-}
-
-public class WrenchAdjustableCircleFillIcon : BaseIcon
-{
-    protected override string IconSource => "wrench-adjustable-circle-fill";
-}
-
-public class WrenchAdjustableCircleIcon : BaseIcon
-{
-    protected override string IconSource => "wrench-adjustable-circle";
-}
-
-public class WrenchAdjustableIcon : BaseIcon
-{
-    protected override string IconSource => "wrench-adjustable";
-}
-
-public class FiletypeJsonIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-json";
-}
-
-public class FiletypePptxIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-pptx";
-}
-
-public class FiletypeXlsxIcon : BaseIcon
-{
-    protected override string IconSource => "filetype-xlsx";
-}
+public class OneTwoThreeIcon : BaseIcon { public OneTwoThreeIcon() : base ("123") { } }
+public class AlarmFillIcon : BaseIcon { public AlarmFillIcon() : base ("alarm-fill") { } }
+public class AlarmIcon : BaseIcon { public AlarmIcon() : base ("alarm") { } }
+public class AlignBottomIcon : BaseIcon { public AlignBottomIcon() : base ("align-bottom") { } }
+public class AlignCenterIcon : BaseIcon { public AlignCenterIcon() : base ("align-center") { } }
+public class AlignEndIcon : BaseIcon { public AlignEndIcon() : base ("align-end") { } }
+public class AlignMiddleIcon : BaseIcon { public AlignMiddleIcon() : base ("align-middle") { } }
+public class AlignStartIcon : BaseIcon { public AlignStartIcon() : base ("align-start") { } }
+public class AlignTopIcon : BaseIcon { public AlignTopIcon() : base ("align-top") { } }
+public class AltIcon : BaseIcon { public AltIcon() : base ("alt") { } }
+public class AppIndicatorIcon : BaseIcon { public AppIndicatorIcon() : base ("app-indicator") { } }
+public class AppIcon : BaseIcon { public AppIcon() : base ("app") { } }
+public class ArchiveFillIcon : BaseIcon { public ArchiveFillIcon() : base ("archive-fill") { } }
+public class ArchiveIcon : BaseIcon { public ArchiveIcon() : base ("archive") { } }
+public class Arrow90degDownIcon : BaseIcon { public Arrow90degDownIcon() : base ("arrow-90deg-down") { } }
+public class Arrow90degLeftIcon : BaseIcon { public Arrow90degLeftIcon() : base ("arrow-90deg-left") { } }
+public class Arrow90degRightIcon : BaseIcon { public Arrow90degRightIcon() : base ("arrow-90deg-right") { } }
+public class Arrow90degUpIcon : BaseIcon { public Arrow90degUpIcon() : base ("arrow-90deg-up") { } }
+public class ArrowBarDownIcon : BaseIcon { public ArrowBarDownIcon() : base ("arrow-bar-down") { } }
+public class ArrowBarLeftIcon : BaseIcon { public ArrowBarLeftIcon() : base ("arrow-bar-left") { } }
+public class ArrowBarRightIcon : BaseIcon { public ArrowBarRightIcon() : base ("arrow-bar-right") { } }
+public class ArrowBarUpIcon : BaseIcon { public ArrowBarUpIcon() : base ("arrow-bar-up") { } }
+public class ArrowClockwiseIcon : BaseIcon { public ArrowClockwiseIcon() : base ("arrow-clockwise") { } }
+public class ArrowCounterclockwiseIcon : BaseIcon { public ArrowCounterclockwiseIcon() : base ("arrow-counterclockwise") { } }
+public class ArrowDownCircleFillIcon : BaseIcon { public ArrowDownCircleFillIcon() : base ("arrow-down-circle-fill") { } }
+public class ArrowDownCircleIcon : BaseIcon { public ArrowDownCircleIcon() : base ("arrow-down-circle") { } }
+public class ArrowDownLeftCircleFillIcon : BaseIcon { public ArrowDownLeftCircleFillIcon() : base ("arrow-down-left-circle-fill") { } }
+public class ArrowDownLeftCircleIcon : BaseIcon { public ArrowDownLeftCircleIcon() : base ("arrow-down-left-circle") { } }
+public class ArrowDownLeftSquareFillIcon : BaseIcon { public ArrowDownLeftSquareFillIcon() : base ("arrow-down-left-square-fill") { } }
+public class ArrowDownLeftSquareIcon : BaseIcon { public ArrowDownLeftSquareIcon() : base ("arrow-down-left-square") { } }
+public class ArrowDownLeftIcon : BaseIcon { public ArrowDownLeftIcon() : base ("arrow-down-left") { } }
+public class ArrowDownRightCircleFillIcon : BaseIcon { public ArrowDownRightCircleFillIcon() : base ("arrow-down-right-circle-fill") { } }
+public class ArrowDownRightCircleIcon : BaseIcon { public ArrowDownRightCircleIcon() : base ("arrow-down-right-circle") { } }
+public class ArrowDownRightSquareFillIcon : BaseIcon { public ArrowDownRightSquareFillIcon() : base ("arrow-down-right-square-fill") { } }
+public class ArrowDownRightSquareIcon : BaseIcon { public ArrowDownRightSquareIcon() : base ("arrow-down-right-square") { } }
+public class ArrowDownRightIcon : BaseIcon { public ArrowDownRightIcon() : base ("arrow-down-right") { } }
+public class ArrowDownShortIcon : BaseIcon { public ArrowDownShortIcon() : base ("arrow-down-short") { } }
+public class ArrowDownSquareFillIcon : BaseIcon { public ArrowDownSquareFillIcon() : base ("arrow-down-square-fill") { } }
+public class ArrowDownSquareIcon : BaseIcon { public ArrowDownSquareIcon() : base ("arrow-down-square") { } }
+public class ArrowDownUpIcon : BaseIcon { public ArrowDownUpIcon() : base ("arrow-down-up") { } }
+public class ArrowDownIcon : BaseIcon { public ArrowDownIcon() : base ("arrow-down") { } }
+public class ArrowLeftCircleFillIcon : BaseIcon { public ArrowLeftCircleFillIcon() : base ("arrow-left-circle-fill") { } }
+public class ArrowLeftCircleIcon : BaseIcon { public ArrowLeftCircleIcon() : base ("arrow-left-circle") { } }
+public class ArrowLeftRightIcon : BaseIcon { public ArrowLeftRightIcon() : base ("arrow-left-right") { } }
+public class ArrowLeftShortIcon : BaseIcon { public ArrowLeftShortIcon() : base ("arrow-left-short") { } }
+public class ArrowLeftSquareFillIcon : BaseIcon { public ArrowLeftSquareFillIcon() : base ("arrow-left-square-fill") { } }
+public class ArrowLeftSquareIcon : BaseIcon { public ArrowLeftSquareIcon() : base ("arrow-left-square") { } }
+public class ArrowLeftIcon : BaseIcon { public ArrowLeftIcon() : base ("arrow-left") { } }
+public class ArrowRepeatIcon : BaseIcon { public ArrowRepeatIcon() : base ("arrow-repeat") { } }
+public class ArrowReturnLeftIcon : BaseIcon { public ArrowReturnLeftIcon() : base ("arrow-return-left") { } }
+public class ArrowReturnRightIcon : BaseIcon { public ArrowReturnRightIcon() : base ("arrow-return-right") { } }
+public class ArrowRightCircleFillIcon : BaseIcon { public ArrowRightCircleFillIcon() : base ("arrow-right-circle-fill") { } }
+public class ArrowRightCircleIcon : BaseIcon { public ArrowRightCircleIcon() : base ("arrow-right-circle") { } }
+public class ArrowRightShortIcon : BaseIcon { public ArrowRightShortIcon() : base ("arrow-right-short") { } }
+public class ArrowRightSquareFillIcon : BaseIcon { public ArrowRightSquareFillIcon() : base ("arrow-right-square-fill") { } }
+public class ArrowRightSquareIcon : BaseIcon { public ArrowRightSquareIcon() : base ("arrow-right-square") { } }
+public class ArrowRightIcon : BaseIcon { public ArrowRightIcon() : base ("arrow-right") { } }
+public class ArrowUpCircleFillIcon : BaseIcon { public ArrowUpCircleFillIcon() : base ("arrow-up-circle-fill") { } }
+public class ArrowUpCircleIcon : BaseIcon { public ArrowUpCircleIcon() : base ("arrow-up-circle") { } }
+public class ArrowUpLeftCircleFillIcon : BaseIcon { public ArrowUpLeftCircleFillIcon() : base ("arrow-up-left-circle-fill") { } }
+public class ArrowUpLeftCircleIcon : BaseIcon { public ArrowUpLeftCircleIcon() : base ("arrow-up-left-circle") { } }
+public class ArrowUpLeftSquareFillIcon : BaseIcon { public ArrowUpLeftSquareFillIcon() : base ("arrow-up-left-square-fill") { } }
+public class ArrowUpLeftSquareIcon : BaseIcon { public ArrowUpLeftSquareIcon() : base ("arrow-up-left-square") { } }
+public class ArrowUpLeftIcon : BaseIcon { public ArrowUpLeftIcon() : base ("arrow-up-left") { } }
+public class ArrowUpRightCircleFillIcon : BaseIcon { public ArrowUpRightCircleFillIcon() : base ("arrow-up-right-circle-fill") { } }
+public class ArrowUpRightCircleIcon : BaseIcon { public ArrowUpRightCircleIcon() : base ("arrow-up-right-circle") { } }
+public class ArrowUpRightSquareFillIcon : BaseIcon { public ArrowUpRightSquareFillIcon() : base ("arrow-up-right-square-fill") { } }
+public class ArrowUpRightSquareIcon : BaseIcon { public ArrowUpRightSquareIcon() : base ("arrow-up-right-square") { } }
+public class ArrowUpRightIcon : BaseIcon { public ArrowUpRightIcon() : base ("arrow-up-right") { } }
+public class ArrowUpShortIcon : BaseIcon { public ArrowUpShortIcon() : base ("arrow-up-short") { } }
+public class ArrowUpSquareFillIcon : BaseIcon { public ArrowUpSquareFillIcon() : base ("arrow-up-square-fill") { } }
+public class ArrowUpSquareIcon : BaseIcon { public ArrowUpSquareIcon() : base ("arrow-up-square") { } }
+public class ArrowUpIcon : BaseIcon { public ArrowUpIcon() : base ("arrow-up") { } }
+public class ArrowsAngleContractIcon : BaseIcon { public ArrowsAngleContractIcon() : base ("arrows-angle-contract") { } }
+public class ArrowsAngleExpandIcon : BaseIcon { public ArrowsAngleExpandIcon() : base ("arrows-angle-expand") { } }
+public class ArrowsCollapseIcon : BaseIcon { public ArrowsCollapseIcon() : base ("arrows-collapse") { } }
+public class ArrowsExpandIcon : BaseIcon { public ArrowsExpandIcon() : base ("arrows-expand") { } }
+public class ArrowsFullscreenIcon : BaseIcon { public ArrowsFullscreenIcon() : base ("arrows-fullscreen") { } }
+public class ArrowsMoveIcon : BaseIcon { public ArrowsMoveIcon() : base ("arrows-move") { } }
+public class AspectRatioFillIcon : BaseIcon { public AspectRatioFillIcon() : base ("aspect-ratio-fill") { } }
+public class AspectRatioIcon : BaseIcon { public AspectRatioIcon() : base ("aspect-ratio") { } }
+public class AsteriskIcon : BaseIcon { public AsteriskIcon() : base ("asterisk") { } }
+public class AtIcon : BaseIcon { public AtIcon() : base ("at") { } }
+public class AwardFillIcon : BaseIcon { public AwardFillIcon() : base ("award-fill") { } }
+public class AwardIcon : BaseIcon { public AwardIcon() : base ("award") { } }
+public class BackIcon : BaseIcon { public BackIcon() : base ("back") { } }
+public class BackspaceFillIcon : BaseIcon { public BackspaceFillIcon() : base ("backspace-fill") { } }
+public class BackspaceReverseFillIcon : BaseIcon { public BackspaceReverseFillIcon() : base ("backspace-reverse-fill") { } }
+public class BackspaceReverseIcon : BaseIcon { public BackspaceReverseIcon() : base ("backspace-reverse") { } }
+public class BackspaceIcon : BaseIcon { public BackspaceIcon() : base ("backspace") { } }
+public class Badge3dFillIcon : BaseIcon { public Badge3dFillIcon() : base ("badge-3d-fill") { } }
+public class Badge3dIcon : BaseIcon { public Badge3dIcon() : base ("badge-3d") { } }
+public class Badge4kFillIcon : BaseIcon { public Badge4kFillIcon() : base ("badge-4k-fill") { } }
+public class Badge4kIcon : BaseIcon { public Badge4kIcon() : base ("badge-4k") { } }
+public class Badge8kFillIcon : BaseIcon { public Badge8kFillIcon() : base ("badge-8k-fill") { } }
+public class Badge8kIcon : BaseIcon { public Badge8kIcon() : base ("badge-8k") { } }
+public class BadgeAdFillIcon : BaseIcon { public BadgeAdFillIcon() : base ("badge-ad-fill") { } }
+public class BadgeAdIcon : BaseIcon { public BadgeAdIcon() : base ("badge-ad") { } }
+public class BadgeArFillIcon : BaseIcon { public BadgeArFillIcon() : base ("badge-ar-fill") { } }
+public class BadgeArIcon : BaseIcon { public BadgeArIcon() : base ("badge-ar") { } }
+public class BadgeCcFillIcon : BaseIcon { public BadgeCcFillIcon() : base ("badge-cc-fill") { } }
+public class BadgeCcIcon : BaseIcon { public BadgeCcIcon() : base ("badge-cc") { } }
+public class BadgeHdFillIcon : BaseIcon { public BadgeHdFillIcon() : base ("badge-hd-fill") { } }
+public class BadgeHdIcon : BaseIcon { public BadgeHdIcon() : base ("badge-hd") { } }
+public class BadgeTmFillIcon : BaseIcon { public BadgeTmFillIcon() : base ("badge-tm-fill") { } }
+public class BadgeTmIcon : BaseIcon { public BadgeTmIcon() : base ("badge-tm") { } }
+public class BadgeVoFillIcon : BaseIcon { public BadgeVoFillIcon() : base ("badge-vo-fill") { } }
+public class BadgeVoIcon : BaseIcon { public BadgeVoIcon() : base ("badge-vo") { } }
+public class BadgeVrFillIcon : BaseIcon { public BadgeVrFillIcon() : base ("badge-vr-fill") { } }
+public class BadgeVrIcon : BaseIcon { public BadgeVrIcon() : base ("badge-vr") { } }
+public class BadgeWcFillIcon : BaseIcon { public BadgeWcFillIcon() : base ("badge-wc-fill") { } }
+public class BadgeWcIcon : BaseIcon { public BadgeWcIcon() : base ("badge-wc") { } }
+public class BagCheckFillIcon : BaseIcon { public BagCheckFillIcon() : base ("bag-check-fill") { } }
+public class BagCheckIcon : BaseIcon { public BagCheckIcon() : base ("bag-check") { } }
+public class BagDashFillIcon : BaseIcon { public BagDashFillIcon() : base ("bag-dash-fill") { } }
+public class BagDashIcon : BaseIcon { public BagDashIcon() : base ("bag-dash") { } }
+public class BagFillIcon : BaseIcon { public BagFillIcon() : base ("bag-fill") { } }
+public class BagPlusFillIcon : BaseIcon { public BagPlusFillIcon() : base ("bag-plus-fill") { } }
+public class BagPlusIcon : BaseIcon { public BagPlusIcon() : base ("bag-plus") { } }
+public class BagXFillIcon : BaseIcon { public BagXFillIcon() : base ("bag-x-fill") { } }
+public class BagXIcon : BaseIcon { public BagXIcon() : base ("bag-x") { } }
+public class BagIcon : BaseIcon { public BagIcon() : base ("bag") { } }
+public class BarChartFillIcon : BaseIcon { public BarChartFillIcon() : base ("bar-chart-fill") { } }
+public class BarChartLineFillIcon : BaseIcon { public BarChartLineFillIcon() : base ("bar-chart-line-fill") { } }
+public class BarChartLineIcon : BaseIcon { public BarChartLineIcon() : base ("bar-chart-line") { } }
+public class BarChartStepsIcon : BaseIcon { public BarChartStepsIcon() : base ("bar-chart-steps") { } }
+public class BarChartIcon : BaseIcon { public BarChartIcon() : base ("bar-chart") { } }
+public class BasketFillIcon : BaseIcon { public BasketFillIcon() : base ("basket-fill") { } }
+public class BasketIcon : BaseIcon { public BasketIcon() : base ("basket") { } }
+public class Basket2FillIcon : BaseIcon { public Basket2FillIcon() : base ("basket2-fill") { } }
+public class Basket2Icon : BaseIcon { public Basket2Icon() : base ("basket2") { } }
+public class Basket3FillIcon : BaseIcon { public Basket3FillIcon() : base ("basket3-fill") { } }
+public class Basket3Icon : BaseIcon { public Basket3Icon() : base ("basket3") { } }
+public class BatteryChargingIcon : BaseIcon { public BatteryChargingIcon() : base ("battery-charging") { } }
+public class BatteryFullIcon : BaseIcon { public BatteryFullIcon() : base ("battery-full") { } }
+public class BatteryHalfIcon : BaseIcon { public BatteryHalfIcon() : base ("battery-half") { } }
+public class BatteryIcon : BaseIcon { public BatteryIcon() : base ("battery") { } }
+public class BellFillIcon : BaseIcon { public BellFillIcon() : base ("bell-fill") { } }
+public class BellIcon : BaseIcon { public BellIcon() : base ("bell") { } }
+public class BezierIcon : BaseIcon { public BezierIcon() : base ("bezier") { } }
+public class Bezier2Icon : BaseIcon { public Bezier2Icon() : base ("bezier2") { } }
+public class BicycleIcon : BaseIcon { public BicycleIcon() : base ("bicycle") { } }
+public class BinocularsFillIcon : BaseIcon { public BinocularsFillIcon() : base ("binoculars-fill") { } }
+public class BinocularsIcon : BaseIcon { public BinocularsIcon() : base ("binoculars") { } }
+public class BlockquoteLeftIcon : BaseIcon { public BlockquoteLeftIcon() : base ("blockquote-left") { } }
+public class BlockquoteRightIcon : BaseIcon { public BlockquoteRightIcon() : base ("blockquote-right") { } }
+public class BookFillIcon : BaseIcon { public BookFillIcon() : base ("book-fill") { } }
+public class BookHalfIcon : BaseIcon { public BookHalfIcon() : base ("book-half") { } }
+public class BookIcon : BaseIcon { public BookIcon() : base ("book") { } }
+public class BookmarkCheckFillIcon : BaseIcon { public BookmarkCheckFillIcon() : base ("bookmark-check-fill") { } }
+public class BookmarkCheckIcon : BaseIcon { public BookmarkCheckIcon() : base ("bookmark-check") { } }
+public class BookmarkDashFillIcon : BaseIcon { public BookmarkDashFillIcon() : base ("bookmark-dash-fill") { } }
+public class BookmarkDashIcon : BaseIcon { public BookmarkDashIcon() : base ("bookmark-dash") { } }
+public class BookmarkFillIcon : BaseIcon { public BookmarkFillIcon() : base ("bookmark-fill") { } }
+public class BookmarkHeartFillIcon : BaseIcon { public BookmarkHeartFillIcon() : base ("bookmark-heart-fill") { } }
+public class BookmarkHeartIcon : BaseIcon { public BookmarkHeartIcon() : base ("bookmark-heart") { } }
+public class BookmarkPlusFillIcon : BaseIcon { public BookmarkPlusFillIcon() : base ("bookmark-plus-fill") { } }
+public class BookmarkPlusIcon : BaseIcon { public BookmarkPlusIcon() : base ("bookmark-plus") { } }
+public class BookmarkStarFillIcon : BaseIcon { public BookmarkStarFillIcon() : base ("bookmark-star-fill") { } }
+public class BookmarkStarIcon : BaseIcon { public BookmarkStarIcon() : base ("bookmark-star") { } }
+public class BookmarkXFillIcon : BaseIcon { public BookmarkXFillIcon() : base ("bookmark-x-fill") { } }
+public class BookmarkXIcon : BaseIcon { public BookmarkXIcon() : base ("bookmark-x") { } }
+public class BookmarkIcon : BaseIcon { public BookmarkIcon() : base ("bookmark") { } }
+public class BookmarksFillIcon : BaseIcon { public BookmarksFillIcon() : base ("bookmarks-fill") { } }
+public class BookmarksIcon : BaseIcon { public BookmarksIcon() : base ("bookmarks") { } }
+public class BookshelfIcon : BaseIcon { public BookshelfIcon() : base ("bookshelf") { } }
+public class BootstrapFillIcon : BaseIcon { public BootstrapFillIcon() : base ("bootstrap-fill") { } }
+public class BootstrapRebootIcon : BaseIcon { public BootstrapRebootIcon() : base ("bootstrap-reboot") { } }
+public class BootstrapIcon : BaseIcon { public BootstrapIcon() : base ("bootstrap") { } }
+public class BorderAllIcon : BaseIcon { public BorderAllIcon() : base ("border-all") { } }
+public class BorderBottomIcon : BaseIcon { public BorderBottomIcon() : base ("border-bottom") { } }
+public class BorderCenterIcon : BaseIcon { public BorderCenterIcon() : base ("border-center") { } }
+public class BorderInnerIcon : BaseIcon { public BorderInnerIcon() : base ("border-inner") { } }
+public class BorderLeftIcon : BaseIcon { public BorderLeftIcon() : base ("border-left") { } }
+public class BorderMiddleIcon : BaseIcon { public BorderMiddleIcon() : base ("border-middle") { } }
+public class BorderOuterIcon : BaseIcon { public BorderOuterIcon() : base ("border-outer") { } }
+public class BorderRightIcon : BaseIcon { public BorderRightIcon() : base ("border-right") { } }
+public class BorderStyleIcon : BaseIcon { public BorderStyleIcon() : base ("border-style") { } }
+public class BorderTopIcon : BaseIcon { public BorderTopIcon() : base ("border-top") { } }
+public class BorderWidthIcon : BaseIcon { public BorderWidthIcon() : base ("border-width") { } }
+public class BorderIcon : BaseIcon { public BorderIcon() : base ("border") { } }
+public class BoundingBoxCirclesIcon : BaseIcon { public BoundingBoxCirclesIcon() : base ("bounding-box-circles") { } }
+public class BoundingBoxIcon : BaseIcon { public BoundingBoxIcon() : base ("bounding-box") { } }
+public class BoxArrowDownLeftIcon : BaseIcon { public BoxArrowDownLeftIcon() : base ("box-arrow-down-left") { } }
+public class BoxArrowDownRightIcon : BaseIcon { public BoxArrowDownRightIcon() : base ("box-arrow-down-right") { } }
+public class BoxArrowDownIcon : BaseIcon { public BoxArrowDownIcon() : base ("box-arrow-down") { } }
+public class BoxArrowInDownLeftIcon : BaseIcon { public BoxArrowInDownLeftIcon() : base ("box-arrow-in-down-left") { } }
+public class BoxArrowInDownRightIcon : BaseIcon { public BoxArrowInDownRightIcon() : base ("box-arrow-in-down-right") { } }
+public class BoxArrowInDownIcon : BaseIcon { public BoxArrowInDownIcon() : base ("box-arrow-in-down") { } }
+public class BoxArrowInLeftIcon : BaseIcon { public BoxArrowInLeftIcon() : base ("box-arrow-in-left") { } }
+public class BoxArrowInRightIcon : BaseIcon { public BoxArrowInRightIcon() : base ("box-arrow-in-right") { } }
+public class BoxArrowInUpLeftIcon : BaseIcon { public BoxArrowInUpLeftIcon() : base ("box-arrow-in-up-left") { } }
+public class BoxArrowInUpRightIcon : BaseIcon { public BoxArrowInUpRightIcon() : base ("box-arrow-in-up-right") { } }
+public class BoxArrowInUpIcon : BaseIcon { public BoxArrowInUpIcon() : base ("box-arrow-in-up") { } }
+public class BoxArrowLeftIcon : BaseIcon { public BoxArrowLeftIcon() : base ("box-arrow-left") { } }
+public class BoxArrowRightIcon : BaseIcon { public BoxArrowRightIcon() : base ("box-arrow-right") { } }
+public class BoxArrowUpLeftIcon : BaseIcon { public BoxArrowUpLeftIcon() : base ("box-arrow-up-left") { } }
+public class BoxArrowUpRightIcon : BaseIcon { public BoxArrowUpRightIcon() : base ("box-arrow-up-right") { } }
+public class BoxArrowUpIcon : BaseIcon { public BoxArrowUpIcon() : base ("box-arrow-up") { } }
+public class BoxSeamIcon : BaseIcon { public BoxSeamIcon() : base ("box-seam") { } }
+public class BoxIcon : BaseIcon { public BoxIcon() : base ("box") { } }
+public class BracesIcon : BaseIcon { public BracesIcon() : base ("braces") { } }
+public class BricksIcon : BaseIcon { public BricksIcon() : base ("bricks") { } }
+public class BriefcaseFillIcon : BaseIcon { public BriefcaseFillIcon() : base ("briefcase-fill") { } }
+public class BriefcaseIcon : BaseIcon { public BriefcaseIcon() : base ("briefcase") { } }
+public class BrightnessAltHighFillIcon : BaseIcon { public BrightnessAltHighFillIcon() : base ("brightness-alt-high-fill") { } }
+public class BrightnessAltHighIcon : BaseIcon { public BrightnessAltHighIcon() : base ("brightness-alt-high") { } }
+public class BrightnessAltLowFillIcon : BaseIcon { public BrightnessAltLowFillIcon() : base ("brightness-alt-low-fill") { } }
+public class BrightnessAltLowIcon : BaseIcon { public BrightnessAltLowIcon() : base ("brightness-alt-low") { } }
+public class BrightnessHighFillIcon : BaseIcon { public BrightnessHighFillIcon() : base ("brightness-high-fill") { } }
+public class BrightnessHighIcon : BaseIcon { public BrightnessHighIcon() : base ("brightness-high") { } }
+public class BrightnessLowFillIcon : BaseIcon { public BrightnessLowFillIcon() : base ("brightness-low-fill") { } }
+public class BrightnessLowIcon : BaseIcon { public BrightnessLowIcon() : base ("brightness-low") { } }
+public class BroadcastPinIcon : BaseIcon { public BroadcastPinIcon() : base ("broadcast-pin") { } }
+public class BroadcastIcon : BaseIcon { public BroadcastIcon() : base ("broadcast") { } }
+public class BrushFillIcon : BaseIcon { public BrushFillIcon() : base ("brush-fill") { } }
+public class BrushIcon : BaseIcon { public BrushIcon() : base ("brush") { } }
+public class BucketFillIcon : BaseIcon { public BucketFillIcon() : base ("bucket-fill") { } }
+public class BucketIcon : BaseIcon { public BucketIcon() : base ("bucket") { } }
+public class BugFillIcon : BaseIcon { public BugFillIcon() : base ("bug-fill") { } }
+public class BugIcon : BaseIcon { public BugIcon() : base ("bug") { } }
+public class BuildingIcon : BaseIcon { public BuildingIcon() : base ("building") { } }
+public class BullseyeIcon : BaseIcon { public BullseyeIcon() : base ("bullseye") { } }
+public class CalculatorFillIcon : BaseIcon { public CalculatorFillIcon() : base ("calculator-fill") { } }
+public class CalculatorIcon : BaseIcon { public CalculatorIcon() : base ("calculator") { } }
+public class CalendarCheckFillIcon : BaseIcon { public CalendarCheckFillIcon() : base ("calendar-check-fill") { } }
+public class CalendarCheckIcon : BaseIcon { public CalendarCheckIcon() : base ("calendar-check") { } }
+public class CalendarDateFillIcon : BaseIcon { public CalendarDateFillIcon() : base ("calendar-date-fill") { } }
+public class CalendarDateIcon : BaseIcon { public CalendarDateIcon() : base ("calendar-date") { } }
+public class CalendarDayFillIcon : BaseIcon { public CalendarDayFillIcon() : base ("calendar-day-fill") { } }
+public class CalendarDayIcon : BaseIcon { public CalendarDayIcon() : base ("calendar-day") { } }
+public class CalendarEventFillIcon : BaseIcon { public CalendarEventFillIcon() : base ("calendar-event-fill") { } }
+public class CalendarEventIcon : BaseIcon { public CalendarEventIcon() : base ("calendar-event") { } }
+public class CalendarFillIcon : BaseIcon { public CalendarFillIcon() : base ("calendar-fill") { } }
+public class CalendarMinusFillIcon : BaseIcon { public CalendarMinusFillIcon() : base ("calendar-minus-fill") { } }
+public class CalendarMinusIcon : BaseIcon { public CalendarMinusIcon() : base ("calendar-minus") { } }
+public class CalendarMonthFillIcon : BaseIcon { public CalendarMonthFillIcon() : base ("calendar-month-fill") { } }
+public class CalendarMonthIcon : BaseIcon { public CalendarMonthIcon() : base ("calendar-month") { } }
+public class CalendarPlusFillIcon : BaseIcon { public CalendarPlusFillIcon() : base ("calendar-plus-fill") { } }
+public class CalendarPlusIcon : BaseIcon { public CalendarPlusIcon() : base ("calendar-plus") { } }
+public class CalendarRangeFillIcon : BaseIcon { public CalendarRangeFillIcon() : base ("calendar-range-fill") { } }
+public class CalendarRangeIcon : BaseIcon { public CalendarRangeIcon() : base ("calendar-range") { } }
+public class CalendarWeekFillIcon : BaseIcon { public CalendarWeekFillIcon() : base ("calendar-week-fill") { } }
+public class CalendarWeekIcon : BaseIcon { public CalendarWeekIcon() : base ("calendar-week") { } }
+public class CalendarXFillIcon : BaseIcon { public CalendarXFillIcon() : base ("calendar-x-fill") { } }
+public class CalendarXIcon : BaseIcon { public CalendarXIcon() : base ("calendar-x") { } }
+public class CalendarIcon : BaseIcon { public CalendarIcon() : base ("calendar") { } }
+public class Calendar2CheckFillIcon : BaseIcon { public Calendar2CheckFillIcon() : base ("calendar2-check-fill") { } }
+public class Calendar2CheckIcon : BaseIcon { public Calendar2CheckIcon() : base ("calendar2-check") { } }
+public class Calendar2DateFillIcon : BaseIcon { public Calendar2DateFillIcon() : base ("calendar2-date-fill") { } }
+public class Calendar2DateIcon : BaseIcon { public Calendar2DateIcon() : base ("calendar2-date") { } }
+public class Calendar2DayFillIcon : BaseIcon { public Calendar2DayFillIcon() : base ("calendar2-day-fill") { } }
+public class Calendar2DayIcon : BaseIcon { public Calendar2DayIcon() : base ("calendar2-day") { } }
+public class Calendar2EventFillIcon : BaseIcon { public Calendar2EventFillIcon() : base ("calendar2-event-fill") { } }
+public class Calendar2EventIcon : BaseIcon { public Calendar2EventIcon() : base ("calendar2-event") { } }
+public class Calendar2FillIcon : BaseIcon { public Calendar2FillIcon() : base ("calendar2-fill") { } }
+public class Calendar2MinusFillIcon : BaseIcon { public Calendar2MinusFillIcon() : base ("calendar2-minus-fill") { } }
+public class Calendar2MinusIcon : BaseIcon { public Calendar2MinusIcon() : base ("calendar2-minus") { } }
+public class Calendar2MonthFillIcon : BaseIcon { public Calendar2MonthFillIcon() : base ("calendar2-month-fill") { } }
+public class Calendar2MonthIcon : BaseIcon { public Calendar2MonthIcon() : base ("calendar2-month") { } }
+public class Calendar2PlusFillIcon : BaseIcon { public Calendar2PlusFillIcon() : base ("calendar2-plus-fill") { } }
+public class Calendar2PlusIcon : BaseIcon { public Calendar2PlusIcon() : base ("calendar2-plus") { } }
+public class Calendar2RangeFillIcon : BaseIcon { public Calendar2RangeFillIcon() : base ("calendar2-range-fill") { } }
+public class Calendar2RangeIcon : BaseIcon { public Calendar2RangeIcon() : base ("calendar2-range") { } }
+public class Calendar2WeekFillIcon : BaseIcon { public Calendar2WeekFillIcon() : base ("calendar2-week-fill") { } }
+public class Calendar2WeekIcon : BaseIcon { public Calendar2WeekIcon() : base ("calendar2-week") { } }
+public class Calendar2XFillIcon : BaseIcon { public Calendar2XFillIcon() : base ("calendar2-x-fill") { } }
+public class Calendar2XIcon : BaseIcon { public Calendar2XIcon() : base ("calendar2-x") { } }
+public class Calendar2Icon : BaseIcon { public Calendar2Icon() : base ("calendar2") { } }
+public class Calendar3EventFillIcon : BaseIcon { public Calendar3EventFillIcon() : base ("calendar3-event-fill") { } }
+public class Calendar3EventIcon : BaseIcon { public Calendar3EventIcon() : base ("calendar3-event") { } }
+public class Calendar3FillIcon : BaseIcon { public Calendar3FillIcon() : base ("calendar3-fill") { } }
+public class Calendar3RangeFillIcon : BaseIcon { public Calendar3RangeFillIcon() : base ("calendar3-range-fill") { } }
+public class Calendar3RangeIcon : BaseIcon { public Calendar3RangeIcon() : base ("calendar3-range") { } }
+public class Calendar3WeekFillIcon : BaseIcon { public Calendar3WeekFillIcon() : base ("calendar3-week-fill") { } }
+public class Calendar3WeekIcon : BaseIcon { public Calendar3WeekIcon() : base ("calendar3-week") { } }
+public class Calendar3Icon : BaseIcon { public Calendar3Icon() : base ("calendar3") { } }
+public class Calendar4EventIcon : BaseIcon { public Calendar4EventIcon() : base ("calendar4-event") { } }
+public class Calendar4RangeIcon : BaseIcon { public Calendar4RangeIcon() : base ("calendar4-range") { } }
+public class Calendar4WeekIcon : BaseIcon { public Calendar4WeekIcon() : base ("calendar4-week") { } }
+public class Calendar4Icon : BaseIcon { public Calendar4Icon() : base ("calendar4") { } }
+public class CameraFillIcon : BaseIcon { public CameraFillIcon() : base ("camera-fill") { } }
+public class CameraReelsFillIcon : BaseIcon { public CameraReelsFillIcon() : base ("camera-reels-fill") { } }
+public class CameraReelsIcon : BaseIcon { public CameraReelsIcon() : base ("camera-reels") { } }
+public class CameraVideoFillIcon : BaseIcon { public CameraVideoFillIcon() : base ("camera-video-fill") { } }
+public class CameraVideoOffFillIcon : BaseIcon { public CameraVideoOffFillIcon() : base ("camera-video-off-fill") { } }
+public class CameraVideoOffIcon : BaseIcon { public CameraVideoOffIcon() : base ("camera-video-off") { } }
+public class CameraVideoIcon : BaseIcon { public CameraVideoIcon() : base ("camera-video") { } }
+public class CameraIcon : BaseIcon { public CameraIcon() : base ("camera") { } }
+public class Camera2Icon : BaseIcon { public Camera2Icon() : base ("camera2") { } }
+public class CapslockFillIcon : BaseIcon { public CapslockFillIcon() : base ("capslock-fill") { } }
+public class CapslockIcon : BaseIcon { public CapslockIcon() : base ("capslock") { } }
+public class CardChecklistIcon : BaseIcon { public CardChecklistIcon() : base ("card-checklist") { } }
+public class CardHeadingIcon : BaseIcon { public CardHeadingIcon() : base ("card-heading") { } }
+public class CardImageIcon : BaseIcon { public CardImageIcon() : base ("card-image") { } }
+public class CardListIcon : BaseIcon { public CardListIcon() : base ("card-list") { } }
+public class CardTextIcon : BaseIcon { public CardTextIcon() : base ("card-text") { } }
+public class CaretDownFillIcon : BaseIcon { public CaretDownFillIcon() : base ("caret-down-fill") { } }
+public class CaretDownSquareFillIcon : BaseIcon { public CaretDownSquareFillIcon() : base ("caret-down-square-fill") { } }
+public class CaretDownSquareIcon : BaseIcon { public CaretDownSquareIcon() : base ("caret-down-square") { } }
+public class CaretDownIcon : BaseIcon { public CaretDownIcon() : base ("caret-down") { } }
+public class CaretLeftFillIcon : BaseIcon { public CaretLeftFillIcon() : base ("caret-left-fill") { } }
+public class CaretLeftSquareFillIcon : BaseIcon { public CaretLeftSquareFillIcon() : base ("caret-left-square-fill") { } }
+public class CaretLeftSquareIcon : BaseIcon { public CaretLeftSquareIcon() : base ("caret-left-square") { } }
+public class CaretLeftIcon : BaseIcon { public CaretLeftIcon() : base ("caret-left") { } }
+public class CaretRightFillIcon : BaseIcon { public CaretRightFillIcon() : base ("caret-right-fill") { } }
+public class CaretRightSquareFillIcon : BaseIcon { public CaretRightSquareFillIcon() : base ("caret-right-square-fill") { } }
+public class CaretRightSquareIcon : BaseIcon { public CaretRightSquareIcon() : base ("caret-right-square") { } }
+public class CaretRightIcon : BaseIcon { public CaretRightIcon() : base ("caret-right") { } }
+public class CaretUpFillIcon : BaseIcon { public CaretUpFillIcon() : base ("caret-up-fill") { } }
+public class CaretUpSquareFillIcon : BaseIcon { public CaretUpSquareFillIcon() : base ("caret-up-square-fill") { } }
+public class CaretUpSquareIcon : BaseIcon { public CaretUpSquareIcon() : base ("caret-up-square") { } }
+public class CaretUpIcon : BaseIcon { public CaretUpIcon() : base ("caret-up") { } }
+public class CartCheckFillIcon : BaseIcon { public CartCheckFillIcon() : base ("cart-check-fill") { } }
+public class CartCheckIcon : BaseIcon { public CartCheckIcon() : base ("cart-check") { } }
+public class CartDashFillIcon : BaseIcon { public CartDashFillIcon() : base ("cart-dash-fill") { } }
+public class CartDashIcon : BaseIcon { public CartDashIcon() : base ("cart-dash") { } }
+public class CartFillIcon : BaseIcon { public CartFillIcon() : base ("cart-fill") { } }
+public class CartPlusFillIcon : BaseIcon { public CartPlusFillIcon() : base ("cart-plus-fill") { } }
+public class CartPlusIcon : BaseIcon { public CartPlusIcon() : base ("cart-plus") { } }
+public class CartXFillIcon : BaseIcon { public CartXFillIcon() : base ("cart-x-fill") { } }
+public class CartXIcon : BaseIcon { public CartXIcon() : base ("cart-x") { } }
+public class CartIcon : BaseIcon { public CartIcon() : base ("cart") { } }
+public class Cart2Icon : BaseIcon { public Cart2Icon() : base ("cart2") { } }
+public class Cart3Icon : BaseIcon { public Cart3Icon() : base ("cart3") { } }
+public class Cart4Icon : BaseIcon { public Cart4Icon() : base ("cart4") { } }
+public class CashStackIcon : BaseIcon { public CashStackIcon() : base ("cash-stack") { } }
+public class CashIcon : BaseIcon { public CashIcon() : base ("cash") { } }
+public class CastIcon : BaseIcon { public CastIcon() : base ("cast") { } }
+public class ChatDotsFillIcon : BaseIcon { public ChatDotsFillIcon() : base ("chat-dots-fill") { } }
+public class ChatDotsIcon : BaseIcon { public ChatDotsIcon() : base ("chat-dots") { } }
+public class ChatFillIcon : BaseIcon { public ChatFillIcon() : base ("chat-fill") { } }
+public class ChatLeftDotsFillIcon : BaseIcon { public ChatLeftDotsFillIcon() : base ("chat-left-dots-fill") { } }
+public class ChatLeftDotsIcon : BaseIcon { public ChatLeftDotsIcon() : base ("chat-left-dots") { } }
+public class ChatLeftFillIcon : BaseIcon { public ChatLeftFillIcon() : base ("chat-left-fill") { } }
+public class ChatLeftQuoteFillIcon : BaseIcon { public ChatLeftQuoteFillIcon() : base ("chat-left-quote-fill") { } }
+public class ChatLeftQuoteIcon : BaseIcon { public ChatLeftQuoteIcon() : base ("chat-left-quote") { } }
+public class ChatLeftTextFillIcon : BaseIcon { public ChatLeftTextFillIcon() : base ("chat-left-text-fill") { } }
+public class ChatLeftTextIcon : BaseIcon { public ChatLeftTextIcon() : base ("chat-left-text") { } }
+public class ChatLeftIcon : BaseIcon { public ChatLeftIcon() : base ("chat-left") { } }
+public class ChatQuoteFillIcon : BaseIcon { public ChatQuoteFillIcon() : base ("chat-quote-fill") { } }
+public class ChatQuoteIcon : BaseIcon { public ChatQuoteIcon() : base ("chat-quote") { } }
+public class ChatRightDotsFillIcon : BaseIcon { public ChatRightDotsFillIcon() : base ("chat-right-dots-fill") { } }
+public class ChatRightDotsIcon : BaseIcon { public ChatRightDotsIcon() : base ("chat-right-dots") { } }
+public class ChatRightFillIcon : BaseIcon { public ChatRightFillIcon() : base ("chat-right-fill") { } }
+public class ChatRightQuoteFillIcon : BaseIcon { public ChatRightQuoteFillIcon() : base ("chat-right-quote-fill") { } }
+public class ChatRightQuoteIcon : BaseIcon { public ChatRightQuoteIcon() : base ("chat-right-quote") { } }
+public class ChatRightTextFillIcon : BaseIcon { public ChatRightTextFillIcon() : base ("chat-right-text-fill") { } }
+public class ChatRightTextIcon : BaseIcon { public ChatRightTextIcon() : base ("chat-right-text") { } }
+public class ChatRightIcon : BaseIcon { public ChatRightIcon() : base ("chat-right") { } }
+public class ChatSquareDotsFillIcon : BaseIcon { public ChatSquareDotsFillIcon() : base ("chat-square-dots-fill") { } }
+public class ChatSquareDotsIcon : BaseIcon { public ChatSquareDotsIcon() : base ("chat-square-dots") { } }
+public class ChatSquareFillIcon : BaseIcon { public ChatSquareFillIcon() : base ("chat-square-fill") { } }
+public class ChatSquareQuoteFillIcon : BaseIcon { public ChatSquareQuoteFillIcon() : base ("chat-square-quote-fill") { } }
+public class ChatSquareQuoteIcon : BaseIcon { public ChatSquareQuoteIcon() : base ("chat-square-quote") { } }
+public class ChatSquareTextFillIcon : BaseIcon { public ChatSquareTextFillIcon() : base ("chat-square-text-fill") { } }
+public class ChatSquareTextIcon : BaseIcon { public ChatSquareTextIcon() : base ("chat-square-text") { } }
+public class ChatSquareIcon : BaseIcon { public ChatSquareIcon() : base ("chat-square") { } }
+public class ChatTextFillIcon : BaseIcon { public ChatTextFillIcon() : base ("chat-text-fill") { } }
+public class ChatTextIcon : BaseIcon { public ChatTextIcon() : base ("chat-text") { } }
+public class ChatIcon : BaseIcon { public ChatIcon() : base ("chat") { } }
+public class CheckAllIcon : BaseIcon { public CheckAllIcon() : base ("check-all") { } }
+public class CheckCircleFillIcon : BaseIcon { public CheckCircleFillIcon() : base ("check-circle-fill") { } }
+public class CheckCircleIcon : BaseIcon { public CheckCircleIcon() : base ("check-circle") { } }
+public class CheckSquareFillIcon : BaseIcon { public CheckSquareFillIcon() : base ("check-square-fill") { } }
+public class CheckSquareIcon : BaseIcon { public CheckSquareIcon() : base ("check-square") { } }
+public class CheckIcon : BaseIcon { public CheckIcon() : base ("check") { } }
+public class Check2AllIcon : BaseIcon { public Check2AllIcon() : base ("check2-all") { } }
+public class Check2CircleIcon : BaseIcon { public Check2CircleIcon() : base ("check2-circle") { } }
+public class Check2SquareIcon : BaseIcon { public Check2SquareIcon() : base ("check2-square") { } }
+public class Check2Icon : BaseIcon { public Check2Icon() : base ("check2") { } }
+public class ChevronBarContractIcon : BaseIcon { public ChevronBarContractIcon() : base ("chevron-bar-contract") { } }
+public class ChevronBarDownIcon : BaseIcon { public ChevronBarDownIcon() : base ("chevron-bar-down") { } }
+public class ChevronBarExpandIcon : BaseIcon { public ChevronBarExpandIcon() : base ("chevron-bar-expand") { } }
+public class ChevronBarLeftIcon : BaseIcon { public ChevronBarLeftIcon() : base ("chevron-bar-left") { } }
+public class ChevronBarRightIcon : BaseIcon { public ChevronBarRightIcon() : base ("chevron-bar-right") { } }
+public class ChevronBarUpIcon : BaseIcon { public ChevronBarUpIcon() : base ("chevron-bar-up") { } }
+public class ChevronCompactDownIcon : BaseIcon { public ChevronCompactDownIcon() : base ("chevron-compact-down") { } }
+public class ChevronCompactLeftIcon : BaseIcon { public ChevronCompactLeftIcon() : base ("chevron-compact-left") { } }
+public class ChevronCompactRightIcon : BaseIcon { public ChevronCompactRightIcon() : base ("chevron-compact-right") { } }
+public class ChevronCompactUpIcon : BaseIcon { public ChevronCompactUpIcon() : base ("chevron-compact-up") { } }
+public class ChevronContractIcon : BaseIcon { public ChevronContractIcon() : base ("chevron-contract") { } }
+public class ChevronDoubleDownIcon : BaseIcon { public ChevronDoubleDownIcon() : base ("chevron-double-down") { } }
+public class ChevronDoubleLeftIcon : BaseIcon { public ChevronDoubleLeftIcon() : base ("chevron-double-left") { } }
+public class ChevronDoubleRightIcon : BaseIcon { public ChevronDoubleRightIcon() : base ("chevron-double-right") { } }
+public class ChevronDoubleUpIcon : BaseIcon { public ChevronDoubleUpIcon() : base ("chevron-double-up") { } }
+public class ChevronDownIcon : BaseIcon { public ChevronDownIcon() : base ("chevron-down") { } }
+public class ChevronExpandIcon : BaseIcon { public ChevronExpandIcon() : base ("chevron-expand") { } }
+public class ChevronLeftIcon : BaseIcon { public ChevronLeftIcon() : base ("chevron-left") { } }
+public class ChevronRightIcon : BaseIcon { public ChevronRightIcon() : base ("chevron-right") { } }
+public class ChevronUpIcon : BaseIcon { public ChevronUpIcon() : base ("chevron-up") { } }
+public class CircleFillIcon : BaseIcon { public CircleFillIcon() : base ("circle-fill") { } }
+public class CircleHalfIcon : BaseIcon { public CircleHalfIcon() : base ("circle-half") { } }
+public class CircleSquareIcon : BaseIcon { public CircleSquareIcon() : base ("circle-square") { } }
+public class CircleIcon : BaseIcon { public CircleIcon() : base ("circle") { } }
+public class ClipboardCheckIcon : BaseIcon { public ClipboardCheckIcon() : base ("clipboard-check") { } }
+public class ClipboardDataIcon : BaseIcon { public ClipboardDataIcon() : base ("clipboard-data") { } }
+public class ClipboardMinusIcon : BaseIcon { public ClipboardMinusIcon() : base ("clipboard-minus") { } }
+public class ClipboardPlusIcon : BaseIcon { public ClipboardPlusIcon() : base ("clipboard-plus") { } }
+public class ClipboardXIcon : BaseIcon { public ClipboardXIcon() : base ("clipboard-x") { } }
+public class ClipboardIcon : BaseIcon { public ClipboardIcon() : base ("clipboard") { } }
+public class ClockFillIcon : BaseIcon { public ClockFillIcon() : base ("clock-fill") { } }
+public class ClockHistoryIcon : BaseIcon { public ClockHistoryIcon() : base ("clock-history") { } }
+public class ClockIcon : BaseIcon { public ClockIcon() : base ("clock") { } }
+public class CloudArrowDownFillIcon : BaseIcon { public CloudArrowDownFillIcon() : base ("cloud-arrow-down-fill") { } }
+public class CloudArrowDownIcon : BaseIcon { public CloudArrowDownIcon() : base ("cloud-arrow-down") { } }
+public class CloudArrowUpFillIcon : BaseIcon { public CloudArrowUpFillIcon() : base ("cloud-arrow-up-fill") { } }
+public class CloudArrowUpIcon : BaseIcon { public CloudArrowUpIcon() : base ("cloud-arrow-up") { } }
+public class CloudCheckFillIcon : BaseIcon { public CloudCheckFillIcon() : base ("cloud-check-fill") { } }
+public class CloudCheckIcon : BaseIcon { public CloudCheckIcon() : base ("cloud-check") { } }
+public class CloudDownloadFillIcon : BaseIcon { public CloudDownloadFillIcon() : base ("cloud-download-fill") { } }
+public class CloudDownloadIcon : BaseIcon { public CloudDownloadIcon() : base ("cloud-download") { } }
+public class CloudDrizzleFillIcon : BaseIcon { public CloudDrizzleFillIcon() : base ("cloud-drizzle-fill") { } }
+public class CloudDrizzleIcon : BaseIcon { public CloudDrizzleIcon() : base ("cloud-drizzle") { } }
+public class CloudFillIcon : BaseIcon { public CloudFillIcon() : base ("cloud-fill") { } }
+public class CloudFogFillIcon : BaseIcon { public CloudFogFillIcon() : base ("cloud-fog-fill") { } }
+public class CloudFogIcon : BaseIcon { public CloudFogIcon() : base ("cloud-fog") { } }
+public class CloudFog2FillIcon : BaseIcon { public CloudFog2FillIcon() : base ("cloud-fog2-fill") { } }
+public class CloudFog2Icon : BaseIcon { public CloudFog2Icon() : base ("cloud-fog2") { } }
+public class CloudHailFillIcon : BaseIcon { public CloudHailFillIcon() : base ("cloud-hail-fill") { } }
+public class CloudHailIcon : BaseIcon { public CloudHailIcon() : base ("cloud-hail") { } }
+public class CloudHaze1Icon : BaseIcon { public CloudHaze1Icon() : base ("cloud-haze-1") { } }
+public class CloudHazeFillIcon : BaseIcon { public CloudHazeFillIcon() : base ("cloud-haze-fill") { } }
+public class CloudHazeIcon : BaseIcon { public CloudHazeIcon() : base ("cloud-haze") { } }
+public class CloudHaze2FillIcon : BaseIcon { public CloudHaze2FillIcon() : base ("cloud-haze2-fill") { } }
+public class CloudLightningFillIcon : BaseIcon { public CloudLightningFillIcon() : base ("cloud-lightning-fill") { } }
+public class CloudLightningRainFillIcon : BaseIcon { public CloudLightningRainFillIcon() : base ("cloud-lightning-rain-fill") { } }
+public class CloudLightningRainIcon : BaseIcon { public CloudLightningRainIcon() : base ("cloud-lightning-rain") { } }
+public class CloudLightningIcon : BaseIcon { public CloudLightningIcon() : base ("cloud-lightning") { } }
+public class CloudMinusFillIcon : BaseIcon { public CloudMinusFillIcon() : base ("cloud-minus-fill") { } }
+public class CloudMinusIcon : BaseIcon { public CloudMinusIcon() : base ("cloud-minus") { } }
+public class CloudMoonFillIcon : BaseIcon { public CloudMoonFillIcon() : base ("cloud-moon-fill") { } }
+public class CloudMoonIcon : BaseIcon { public CloudMoonIcon() : base ("cloud-moon") { } }
+public class CloudPlusFillIcon : BaseIcon { public CloudPlusFillIcon() : base ("cloud-plus-fill") { } }
+public class CloudPlusIcon : BaseIcon { public CloudPlusIcon() : base ("cloud-plus") { } }
+public class CloudRainFillIcon : BaseIcon { public CloudRainFillIcon() : base ("cloud-rain-fill") { } }
+public class CloudRainHeavyFillIcon : BaseIcon { public CloudRainHeavyFillIcon() : base ("cloud-rain-heavy-fill") { } }
+public class CloudRainHeavyIcon : BaseIcon { public CloudRainHeavyIcon() : base ("cloud-rain-heavy") { } }
+public class CloudRainIcon : BaseIcon { public CloudRainIcon() : base ("cloud-rain") { } }
+public class CloudSlashFillIcon : BaseIcon { public CloudSlashFillIcon() : base ("cloud-slash-fill") { } }
+public class CloudSlashIcon : BaseIcon { public CloudSlashIcon() : base ("cloud-slash") { } }
+public class CloudSleetFillIcon : BaseIcon { public CloudSleetFillIcon() : base ("cloud-sleet-fill") { } }
+public class CloudSleetIcon : BaseIcon { public CloudSleetIcon() : base ("cloud-sleet") { } }
+public class CloudSnowFillIcon : BaseIcon { public CloudSnowFillIcon() : base ("cloud-snow-fill") { } }
+public class CloudSnowIcon : BaseIcon { public CloudSnowIcon() : base ("cloud-snow") { } }
+public class CloudSunFillIcon : BaseIcon { public CloudSunFillIcon() : base ("cloud-sun-fill") { } }
+public class CloudSunIcon : BaseIcon { public CloudSunIcon() : base ("cloud-sun") { } }
+public class CloudUploadFillIcon : BaseIcon { public CloudUploadFillIcon() : base ("cloud-upload-fill") { } }
+public class CloudUploadIcon : BaseIcon { public CloudUploadIcon() : base ("cloud-upload") { } }
+public class CloudIcon : BaseIcon { public CloudIcon() : base ("cloud") { } }
+public class CloudsFillIcon : BaseIcon { public CloudsFillIcon() : base ("clouds-fill") { } }
+public class CloudsIcon : BaseIcon { public CloudsIcon() : base ("clouds") { } }
+public class CloudyFillIcon : BaseIcon { public CloudyFillIcon() : base ("cloudy-fill") { } }
+public class CloudyIcon : BaseIcon { public CloudyIcon() : base ("cloudy") { } }
+public class CodeSlashIcon : BaseIcon { public CodeSlashIcon() : base ("code-slash") { } }
+public class CodeSquareIcon : BaseIcon { public CodeSquareIcon() : base ("code-square") { } }
+public class CodeIcon : BaseIcon { public CodeIcon() : base ("code") { } }
+public class CollectionFillIcon : BaseIcon { public CollectionFillIcon() : base ("collection-fill") { } }
+public class CollectionPlayFillIcon : BaseIcon { public CollectionPlayFillIcon() : base ("collection-play-fill") { } }
+public class CollectionPlayIcon : BaseIcon { public CollectionPlayIcon() : base ("collection-play") { } }
+public class CollectionIcon : BaseIcon { public CollectionIcon() : base ("collection") { } }
+public class ColumnsGapIcon : BaseIcon { public ColumnsGapIcon() : base ("columns-gap") { } }
+public class ColumnsIcon : BaseIcon { public ColumnsIcon() : base ("columns") { } }
+public class CommandIcon : BaseIcon { public CommandIcon() : base ("command") { } }
+public class CompassFillIcon : BaseIcon { public CompassFillIcon() : base ("compass-fill") { } }
+public class CompassIcon : BaseIcon { public CompassIcon() : base ("compass") { } }
+public class ConeStripedIcon : BaseIcon { public ConeStripedIcon() : base ("cone-striped") { } }
+public class ConeIcon : BaseIcon { public ConeIcon() : base ("cone") { } }
+public class ControllerIcon : BaseIcon { public ControllerIcon() : base ("controller") { } }
+public class CpuFillIcon : BaseIcon { public CpuFillIcon() : base ("cpu-fill") { } }
+public class CpuIcon : BaseIcon { public CpuIcon() : base ("cpu") { } }
+public class CreditCard2BackFillIcon : BaseIcon { public CreditCard2BackFillIcon() : base ("credit-card-2-back-fill") { } }
+public class CreditCard2BackIcon : BaseIcon { public CreditCard2BackIcon() : base ("credit-card-2-back") { } }
+public class CreditCard2FrontFillIcon : BaseIcon { public CreditCard2FrontFillIcon() : base ("credit-card-2-front-fill") { } }
+public class CreditCard2FrontIcon : BaseIcon { public CreditCard2FrontIcon() : base ("credit-card-2-front") { } }
+public class CreditCardFillIcon : BaseIcon { public CreditCardFillIcon() : base ("credit-card-fill") { } }
+public class CreditCardIcon : BaseIcon { public CreditCardIcon() : base ("credit-card") { } }
+public class CropIcon : BaseIcon { public CropIcon() : base ("crop") { } }
+public class CupFillIcon : BaseIcon { public CupFillIcon() : base ("cup-fill") { } }
+public class CupStrawIcon : BaseIcon { public CupStrawIcon() : base ("cup-straw") { } }
+public class CupIcon : BaseIcon { public CupIcon() : base ("cup") { } }
+public class CursorFillIcon : BaseIcon { public CursorFillIcon() : base ("cursor-fill") { } }
+public class CursorTextIcon : BaseIcon { public CursorTextIcon() : base ("cursor-text") { } }
+public class CursorIcon : BaseIcon { public CursorIcon() : base ("cursor") { } }
+public class DashCircleDottedIcon : BaseIcon { public DashCircleDottedIcon() : base ("dash-circle-dotted") { } }
+public class DashCircleFillIcon : BaseIcon { public DashCircleFillIcon() : base ("dash-circle-fill") { } }
+public class DashCircleIcon : BaseIcon { public DashCircleIcon() : base ("dash-circle") { } }
+public class DashSquareDottedIcon : BaseIcon { public DashSquareDottedIcon() : base ("dash-square-dotted") { } }
+public class DashSquareFillIcon : BaseIcon { public DashSquareFillIcon() : base ("dash-square-fill") { } }
+public class DashSquareIcon : BaseIcon { public DashSquareIcon() : base ("dash-square") { } }
+public class DashIcon : BaseIcon { public DashIcon() : base ("dash") { } }
+public class Diagram2FillIcon : BaseIcon { public Diagram2FillIcon() : base ("diagram-2-fill") { } }
+public class Diagram2Icon : BaseIcon { public Diagram2Icon() : base ("diagram-2") { } }
+public class Diagram3FillIcon : BaseIcon { public Diagram3FillIcon() : base ("diagram-3-fill") { } }
+public class Diagram3Icon : BaseIcon { public Diagram3Icon() : base ("diagram-3") { } }
+public class DiamondFillIcon : BaseIcon { public DiamondFillIcon() : base ("diamond-fill") { } }
+public class DiamondHalfIcon : BaseIcon { public DiamondHalfIcon() : base ("diamond-half") { } }
+public class DiamondIcon : BaseIcon { public DiamondIcon() : base ("diamond") { } }
+public class Dice1FillIcon : BaseIcon { public Dice1FillIcon() : base ("dice-1-fill") { } }
+public class Dice1Icon : BaseIcon { public Dice1Icon() : base ("dice-1") { } }
+public class Dice2FillIcon : BaseIcon { public Dice2FillIcon() : base ("dice-2-fill") { } }
+public class Dice2Icon : BaseIcon { public Dice2Icon() : base ("dice-2") { } }
+public class Dice3FillIcon : BaseIcon { public Dice3FillIcon() : base ("dice-3-fill") { } }
+public class Dice3Icon : BaseIcon { public Dice3Icon() : base ("dice-3") { } }
+public class Dice4FillIcon : BaseIcon { public Dice4FillIcon() : base ("dice-4-fill") { } }
+public class Dice4Icon : BaseIcon { public Dice4Icon() : base ("dice-4") { } }
+public class Dice5FillIcon : BaseIcon { public Dice5FillIcon() : base ("dice-5-fill") { } }
+public class Dice5Icon : BaseIcon { public Dice5Icon() : base ("dice-5") { } }
+public class Dice6FillIcon : BaseIcon { public Dice6FillIcon() : base ("dice-6-fill") { } }
+public class Dice6Icon : BaseIcon { public Dice6Icon() : base ("dice-6") { } }
+public class DiscFillIcon : BaseIcon { public DiscFillIcon() : base ("disc-fill") { } }
+public class DiscIcon : BaseIcon { public DiscIcon() : base ("disc") { } }
+public class DiscordIcon : BaseIcon { public DiscordIcon() : base ("discord") { } }
+public class DisplayFillIcon : BaseIcon { public DisplayFillIcon() : base ("display-fill") { } }
+public class DisplayIcon : BaseIcon { public DisplayIcon() : base ("display") { } }
+public class DistributeHorizontalIcon : BaseIcon { public DistributeHorizontalIcon() : base ("distribute-horizontal") { } }
+public class DistributeVerticalIcon : BaseIcon { public DistributeVerticalIcon() : base ("distribute-vertical") { } }
+public class DoorClosedFillIcon : BaseIcon { public DoorClosedFillIcon() : base ("door-closed-fill") { } }
+public class DoorClosedIcon : BaseIcon { public DoorClosedIcon() : base ("door-closed") { } }
+public class DoorOpenFillIcon : BaseIcon { public DoorOpenFillIcon() : base ("door-open-fill") { } }
+public class DoorOpenIcon : BaseIcon { public DoorOpenIcon() : base ("door-open") { } }
+public class DotIcon : BaseIcon { public DotIcon() : base ("dot") { } }
+public class DownloadIcon : BaseIcon { public DownloadIcon() : base ("download") { } }
+public class DropletFillIcon : BaseIcon { public DropletFillIcon() : base ("droplet-fill") { } }
+public class DropletHalfIcon : BaseIcon { public DropletHalfIcon() : base ("droplet-half") { } }
+public class DropletIcon : BaseIcon { public DropletIcon() : base ("droplet") { } }
+public class EarbudsIcon : BaseIcon { public EarbudsIcon() : base ("earbuds") { } }
+public class EaselFillIcon : BaseIcon { public EaselFillIcon() : base ("easel-fill") { } }
+public class EaselIcon : BaseIcon { public EaselIcon() : base ("easel") { } }
+public class EggFillIcon : BaseIcon { public EggFillIcon() : base ("egg-fill") { } }
+public class EggFriedIcon : BaseIcon { public EggFriedIcon() : base ("egg-fried") { } }
+public class EggIcon : BaseIcon { public EggIcon() : base ("egg") { } }
+public class EjectFillIcon : BaseIcon { public EjectFillIcon() : base ("eject-fill") { } }
+public class EjectIcon : BaseIcon { public EjectIcon() : base ("eject") { } }
+public class EmojiAngryFillIcon : BaseIcon { public EmojiAngryFillIcon() : base ("emoji-angry-fill") { } }
+public class EmojiAngryIcon : BaseIcon { public EmojiAngryIcon() : base ("emoji-angry") { } }
+public class EmojiDizzyFillIcon : BaseIcon { public EmojiDizzyFillIcon() : base ("emoji-dizzy-fill") { } }
+public class EmojiDizzyIcon : BaseIcon { public EmojiDizzyIcon() : base ("emoji-dizzy") { } }
+public class EmojiExpressionlessFillIcon : BaseIcon { public EmojiExpressionlessFillIcon() : base ("emoji-expressionless-fill") { } }
+public class EmojiExpressionlessIcon : BaseIcon { public EmojiExpressionlessIcon() : base ("emoji-expressionless") { } }
+public class EmojiFrownFillIcon : BaseIcon { public EmojiFrownFillIcon() : base ("emoji-frown-fill") { } }
+public class EmojiFrownIcon : BaseIcon { public EmojiFrownIcon() : base ("emoji-frown") { } }
+public class EmojiHeartEyesFillIcon : BaseIcon { public EmojiHeartEyesFillIcon() : base ("emoji-heart-eyes-fill") { } }
+public class EmojiHeartEyesIcon : BaseIcon { public EmojiHeartEyesIcon() : base ("emoji-heart-eyes") { } }
+public class EmojiLaughingFillIcon : BaseIcon { public EmojiLaughingFillIcon() : base ("emoji-laughing-fill") { } }
+public class EmojiLaughingIcon : BaseIcon { public EmojiLaughingIcon() : base ("emoji-laughing") { } }
+public class EmojiNeutralFillIcon : BaseIcon { public EmojiNeutralFillIcon() : base ("emoji-neutral-fill") { } }
+public class EmojiNeutralIcon : BaseIcon { public EmojiNeutralIcon() : base ("emoji-neutral") { } }
+public class EmojiSmileFillIcon : BaseIcon { public EmojiSmileFillIcon() : base ("emoji-smile-fill") { } }
+public class EmojiSmileUpsideDownFillIcon : BaseIcon { public EmojiSmileUpsideDownFillIcon() : base ("emoji-smile-upside-down-fill") { } }
+public class EmojiSmileUpsideDownIcon : BaseIcon { public EmojiSmileUpsideDownIcon() : base ("emoji-smile-upside-down") { } }
+public class EmojiSmileIcon : BaseIcon { public EmojiSmileIcon() : base ("emoji-smile") { } }
+public class EmojiSunglassesFillIcon : BaseIcon { public EmojiSunglassesFillIcon() : base ("emoji-sunglasses-fill") { } }
+public class EmojiSunglassesIcon : BaseIcon { public EmojiSunglassesIcon() : base ("emoji-sunglasses") { } }
+public class EmojiWinkFillIcon : BaseIcon { public EmojiWinkFillIcon() : base ("emoji-wink-fill") { } }
+public class EmojiWinkIcon : BaseIcon { public EmojiWinkIcon() : base ("emoji-wink") { } }
+public class EnvelopeFillIcon : BaseIcon { public EnvelopeFillIcon() : base ("envelope-fill") { } }
+public class EnvelopeOpenFillIcon : BaseIcon { public EnvelopeOpenFillIcon() : base ("envelope-open-fill") { } }
+public class EnvelopeOpenIcon : BaseIcon { public EnvelopeOpenIcon() : base ("envelope-open") { } }
+public class EnvelopeIcon : BaseIcon { public EnvelopeIcon() : base ("envelope") { } }
+public class EraserFillIcon : BaseIcon { public EraserFillIcon() : base ("eraser-fill") { } }
+public class EraserIcon : BaseIcon { public EraserIcon() : base ("eraser") { } }
+public class ExclamationCircleFillIcon : BaseIcon { public ExclamationCircleFillIcon() : base ("exclamation-circle-fill") { } }
+public class ExclamationCircleIcon : BaseIcon { public ExclamationCircleIcon() : base ("exclamation-circle") { } }
+public class ExclamationDiamondFillIcon : BaseIcon { public ExclamationDiamondFillIcon() : base ("exclamation-diamond-fill") { } }
+public class ExclamationDiamondIcon : BaseIcon { public ExclamationDiamondIcon() : base ("exclamation-diamond") { } }
+public class ExclamationOctagonFillIcon : BaseIcon { public ExclamationOctagonFillIcon() : base ("exclamation-octagon-fill") { } }
+public class ExclamationOctagonIcon : BaseIcon { public ExclamationOctagonIcon() : base ("exclamation-octagon") { } }
+public class ExclamationSquareFillIcon : BaseIcon { public ExclamationSquareFillIcon() : base ("exclamation-square-fill") { } }
+public class ExclamationSquareIcon : BaseIcon { public ExclamationSquareIcon() : base ("exclamation-square") { } }
+public class ExclamationTriangleFillIcon : BaseIcon { public ExclamationTriangleFillIcon() : base ("exclamation-triangle-fill") { } }
+public class ExclamationTriangleIcon : BaseIcon { public ExclamationTriangleIcon() : base ("exclamation-triangle") { } }
+public class ExclamationIcon : BaseIcon { public ExclamationIcon() : base ("exclamation") { } }
+public class ExcludeIcon : BaseIcon { public ExcludeIcon() : base ("exclude") { } }
+public class EyeFillIcon : BaseIcon { public EyeFillIcon() : base ("eye-fill") { } }
+public class EyeSlashFillIcon : BaseIcon { public EyeSlashFillIcon() : base ("eye-slash-fill") { } }
+public class EyeSlashIcon : BaseIcon { public EyeSlashIcon() : base ("eye-slash") { } }
+public class EyeIcon : BaseIcon { public EyeIcon() : base ("eye") { } }
+public class EyedropperIcon : BaseIcon { public EyedropperIcon() : base ("eyedropper") { } }
+public class EyeglassesIcon : BaseIcon { public EyeglassesIcon() : base ("eyeglasses") { } }
+public class FacebookIcon : BaseIcon { public FacebookIcon() : base ("facebook") { } }
+public class FileArrowDownFillIcon : BaseIcon { public FileArrowDownFillIcon() : base ("file-arrow-down-fill") { } }
+public class FileArrowDownIcon : BaseIcon { public FileArrowDownIcon() : base ("file-arrow-down") { } }
+public class FileArrowUpFillIcon : BaseIcon { public FileArrowUpFillIcon() : base ("file-arrow-up-fill") { } }
+public class FileArrowUpIcon : BaseIcon { public FileArrowUpIcon() : base ("file-arrow-up") { } }
+public class FileBarGraphFillIcon : BaseIcon { public FileBarGraphFillIcon() : base ("file-bar-graph-fill") { } }
+public class FileBarGraphIcon : BaseIcon { public FileBarGraphIcon() : base ("file-bar-graph") { } }
+public class FileBinaryFillIcon : BaseIcon { public FileBinaryFillIcon() : base ("file-binary-fill") { } }
+public class FileBinaryIcon : BaseIcon { public FileBinaryIcon() : base ("file-binary") { } }
+public class FileBreakFillIcon : BaseIcon { public FileBreakFillIcon() : base ("file-break-fill") { } }
+public class FileBreakIcon : BaseIcon { public FileBreakIcon() : base ("file-break") { } }
+public class FileCheckFillIcon : BaseIcon { public FileCheckFillIcon() : base ("file-check-fill") { } }
+public class FileCheckIcon : BaseIcon { public FileCheckIcon() : base ("file-check") { } }
+public class FileCodeFillIcon : BaseIcon { public FileCodeFillIcon() : base ("file-code-fill") { } }
+public class FileCodeIcon : BaseIcon { public FileCodeIcon() : base ("file-code") { } }
+public class FileDiffFillIcon : BaseIcon { public FileDiffFillIcon() : base ("file-diff-fill") { } }
+public class FileDiffIcon : BaseIcon { public FileDiffIcon() : base ("file-diff") { } }
+public class FileEarmarkArrowDownFillIcon : BaseIcon { public FileEarmarkArrowDownFillIcon() : base ("file-earmark-arrow-down-fill") { } }
+public class FileEarmarkArrowDownIcon : BaseIcon { public FileEarmarkArrowDownIcon() : base ("file-earmark-arrow-down") { } }
+public class FileEarmarkArrowUpFillIcon : BaseIcon { public FileEarmarkArrowUpFillIcon() : base ("file-earmark-arrow-up-fill") { } }
+public class FileEarmarkArrowUpIcon : BaseIcon { public FileEarmarkArrowUpIcon() : base ("file-earmark-arrow-up") { } }
+public class FileEarmarkBarGraphFillIcon : BaseIcon { public FileEarmarkBarGraphFillIcon() : base ("file-earmark-bar-graph-fill") { } }
+public class FileEarmarkBarGraphIcon : BaseIcon { public FileEarmarkBarGraphIcon() : base ("file-earmark-bar-graph") { } }
+public class FileEarmarkBinaryFillIcon : BaseIcon { public FileEarmarkBinaryFillIcon() : base ("file-earmark-binary-fill") { } }
+public class FileEarmarkBinaryIcon : BaseIcon { public FileEarmarkBinaryIcon() : base ("file-earmark-binary") { } }
+public class FileEarmarkBreakFillIcon : BaseIcon { public FileEarmarkBreakFillIcon() : base ("file-earmark-break-fill") { } }
+public class FileEarmarkBreakIcon : BaseIcon { public FileEarmarkBreakIcon() : base ("file-earmark-break") { } }
+public class FileEarmarkCheckFillIcon : BaseIcon { public FileEarmarkCheckFillIcon() : base ("file-earmark-check-fill") { } }
+public class FileEarmarkCheckIcon : BaseIcon { public FileEarmarkCheckIcon() : base ("file-earmark-check") { } }
+public class FileEarmarkCodeFillIcon : BaseIcon { public FileEarmarkCodeFillIcon() : base ("file-earmark-code-fill") { } }
+public class FileEarmarkCodeIcon : BaseIcon { public FileEarmarkCodeIcon() : base ("file-earmark-code") { } }
+public class FileEarmarkDiffFillIcon : BaseIcon { public FileEarmarkDiffFillIcon() : base ("file-earmark-diff-fill") { } }
+public class FileEarmarkDiffIcon : BaseIcon { public FileEarmarkDiffIcon() : base ("file-earmark-diff") { } }
+public class FileEarmarkEaselFillIcon : BaseIcon { public FileEarmarkEaselFillIcon() : base ("file-earmark-easel-fill") { } }
+public class FileEarmarkEaselIcon : BaseIcon { public FileEarmarkEaselIcon() : base ("file-earmark-easel") { } }
+public class FileEarmarkExcelFillIcon : BaseIcon { public FileEarmarkExcelFillIcon() : base ("file-earmark-excel-fill") { } }
+public class FileEarmarkExcelIcon : BaseIcon { public FileEarmarkExcelIcon() : base ("file-earmark-excel") { } }
+public class FileEarmarkFillIcon : BaseIcon { public FileEarmarkFillIcon() : base ("file-earmark-fill") { } }
+public class FileEarmarkFontFillIcon : BaseIcon { public FileEarmarkFontFillIcon() : base ("file-earmark-font-fill") { } }
+public class FileEarmarkFontIcon : BaseIcon { public FileEarmarkFontIcon() : base ("file-earmark-font") { } }
+public class FileEarmarkImageFillIcon : BaseIcon { public FileEarmarkImageFillIcon() : base ("file-earmark-image-fill") { } }
+public class FileEarmarkImageIcon : BaseIcon { public FileEarmarkImageIcon() : base ("file-earmark-image") { } }
+public class FileEarmarkLockFillIcon : BaseIcon { public FileEarmarkLockFillIcon() : base ("file-earmark-lock-fill") { } }
+public class FileEarmarkLockIcon : BaseIcon { public FileEarmarkLockIcon() : base ("file-earmark-lock") { } }
+public class FileEarmarkLock2FillIcon : BaseIcon { public FileEarmarkLock2FillIcon() : base ("file-earmark-lock2-fill") { } }
+public class FileEarmarkLock2Icon : BaseIcon { public FileEarmarkLock2Icon() : base ("file-earmark-lock2") { } }
+public class FileEarmarkMedicalFillIcon : BaseIcon { public FileEarmarkMedicalFillIcon() : base ("file-earmark-medical-fill") { } }
+public class FileEarmarkMedicalIcon : BaseIcon { public FileEarmarkMedicalIcon() : base ("file-earmark-medical") { } }
+public class FileEarmarkMinusFillIcon : BaseIcon { public FileEarmarkMinusFillIcon() : base ("file-earmark-minus-fill") { } }
+public class FileEarmarkMinusIcon : BaseIcon { public FileEarmarkMinusIcon() : base ("file-earmark-minus") { } }
+public class FileEarmarkMusicFillIcon : BaseIcon { public FileEarmarkMusicFillIcon() : base ("file-earmark-music-fill") { } }
+public class FileEarmarkMusicIcon : BaseIcon { public FileEarmarkMusicIcon() : base ("file-earmark-music") { } }
+public class FileEarmarkPersonFillIcon : BaseIcon { public FileEarmarkPersonFillIcon() : base ("file-earmark-person-fill") { } }
+public class FileEarmarkPersonIcon : BaseIcon { public FileEarmarkPersonIcon() : base ("file-earmark-person") { } }
+public class FileEarmarkPlayFillIcon : BaseIcon { public FileEarmarkPlayFillIcon() : base ("file-earmark-play-fill") { } }
+public class FileEarmarkPlayIcon : BaseIcon { public FileEarmarkPlayIcon() : base ("file-earmark-play") { } }
+public class FileEarmarkPlusFillIcon : BaseIcon { public FileEarmarkPlusFillIcon() : base ("file-earmark-plus-fill") { } }
+public class FileEarmarkPlusIcon : BaseIcon { public FileEarmarkPlusIcon() : base ("file-earmark-plus") { } }
+public class FileEarmarkPostFillIcon : BaseIcon { public FileEarmarkPostFillIcon() : base ("file-earmark-post-fill") { } }
+public class FileEarmarkPostIcon : BaseIcon { public FileEarmarkPostIcon() : base ("file-earmark-post") { } }
+public class FileEarmarkPptFillIcon : BaseIcon { public FileEarmarkPptFillIcon() : base ("file-earmark-ppt-fill") { } }
+public class FileEarmarkPptIcon : BaseIcon { public FileEarmarkPptIcon() : base ("file-earmark-ppt") { } }
+public class FileEarmarkRichtextFillIcon : BaseIcon { public FileEarmarkRichtextFillIcon() : base ("file-earmark-richtext-fill") { } }
+public class FileEarmarkRichtextIcon : BaseIcon { public FileEarmarkRichtextIcon() : base ("file-earmark-richtext") { } }
+public class FileEarmarkRuledFillIcon : BaseIcon { public FileEarmarkRuledFillIcon() : base ("file-earmark-ruled-fill") { } }
+public class FileEarmarkRuledIcon : BaseIcon { public FileEarmarkRuledIcon() : base ("file-earmark-ruled") { } }
+public class FileEarmarkSlidesFillIcon : BaseIcon { public FileEarmarkSlidesFillIcon() : base ("file-earmark-slides-fill") { } }
+public class FileEarmarkSlidesIcon : BaseIcon { public FileEarmarkSlidesIcon() : base ("file-earmark-slides") { } }
+public class FileEarmarkSpreadsheetFillIcon : BaseIcon { public FileEarmarkSpreadsheetFillIcon() : base ("file-earmark-spreadsheet-fill") { } }
+public class FileEarmarkSpreadsheetIcon : BaseIcon { public FileEarmarkSpreadsheetIcon() : base ("file-earmark-spreadsheet") { } }
+public class FileEarmarkTextFillIcon : BaseIcon { public FileEarmarkTextFillIcon() : base ("file-earmark-text-fill") { } }
+public class FileEarmarkTextIcon : BaseIcon { public FileEarmarkTextIcon() : base ("file-earmark-text") { } }
+public class FileEarmarkWordFillIcon : BaseIcon { public FileEarmarkWordFillIcon() : base ("file-earmark-word-fill") { } }
+public class FileEarmarkWordIcon : BaseIcon { public FileEarmarkWordIcon() : base ("file-earmark-word") { } }
+public class FileEarmarkXFillIcon : BaseIcon { public FileEarmarkXFillIcon() : base ("file-earmark-x-fill") { } }
+public class FileEarmarkXIcon : BaseIcon { public FileEarmarkXIcon() : base ("file-earmark-x") { } }
+public class FileEarmarkZipFillIcon : BaseIcon { public FileEarmarkZipFillIcon() : base ("file-earmark-zip-fill") { } }
+public class FileEarmarkZipIcon : BaseIcon { public FileEarmarkZipIcon() : base ("file-earmark-zip") { } }
+public class FileEarmarkIcon : BaseIcon { public FileEarmarkIcon() : base ("file-earmark") { } }
+public class FileEaselFillIcon : BaseIcon { public FileEaselFillIcon() : base ("file-easel-fill") { } }
+public class FileEaselIcon : BaseIcon { public FileEaselIcon() : base ("file-easel") { } }
+public class FileExcelFillIcon : BaseIcon { public FileExcelFillIcon() : base ("file-excel-fill") { } }
+public class FileExcelIcon : BaseIcon { public FileExcelIcon() : base ("file-excel") { } }
+public class FileFillIcon : BaseIcon { public FileFillIcon() : base ("file-fill") { } }
+public class FileFontFillIcon : BaseIcon { public FileFontFillIcon() : base ("file-font-fill") { } }
+public class FileFontIcon : BaseIcon { public FileFontIcon() : base ("file-font") { } }
+public class FileImageFillIcon : BaseIcon { public FileImageFillIcon() : base ("file-image-fill") { } }
+public class FileImageIcon : BaseIcon { public FileImageIcon() : base ("file-image") { } }
+public class FileLockFillIcon : BaseIcon { public FileLockFillIcon() : base ("file-lock-fill") { } }
+public class FileLockIcon : BaseIcon { public FileLockIcon() : base ("file-lock") { } }
+public class FileLock2FillIcon : BaseIcon { public FileLock2FillIcon() : base ("file-lock2-fill") { } }
+public class FileLock2Icon : BaseIcon { public FileLock2Icon() : base ("file-lock2") { } }
+public class FileMedicalFillIcon : BaseIcon { public FileMedicalFillIcon() : base ("file-medical-fill") { } }
+public class FileMedicalIcon : BaseIcon { public FileMedicalIcon() : base ("file-medical") { } }
+public class FileMinusFillIcon : BaseIcon { public FileMinusFillIcon() : base ("file-minus-fill") { } }
+public class FileMinusIcon : BaseIcon { public FileMinusIcon() : base ("file-minus") { } }
+public class FileMusicFillIcon : BaseIcon { public FileMusicFillIcon() : base ("file-music-fill") { } }
+public class FileMusicIcon : BaseIcon { public FileMusicIcon() : base ("file-music") { } }
+public class FilePersonFillIcon : BaseIcon { public FilePersonFillIcon() : base ("file-person-fill") { } }
+public class FilePersonIcon : BaseIcon { public FilePersonIcon() : base ("file-person") { } }
+public class FilePlayFillIcon : BaseIcon { public FilePlayFillIcon() : base ("file-play-fill") { } }
+public class FilePlayIcon : BaseIcon { public FilePlayIcon() : base ("file-play") { } }
+public class FilePlusFillIcon : BaseIcon { public FilePlusFillIcon() : base ("file-plus-fill") { } }
+public class FilePlusIcon : BaseIcon { public FilePlusIcon() : base ("file-plus") { } }
+public class FilePostFillIcon : BaseIcon { public FilePostFillIcon() : base ("file-post-fill") { } }
+public class FilePostIcon : BaseIcon { public FilePostIcon() : base ("file-post") { } }
+public class FilePptFillIcon : BaseIcon { public FilePptFillIcon() : base ("file-ppt-fill") { } }
+public class FilePptIcon : BaseIcon { public FilePptIcon() : base ("file-ppt") { } }
+public class FileRichtextFillIcon : BaseIcon { public FileRichtextFillIcon() : base ("file-richtext-fill") { } }
+public class FileRichtextIcon : BaseIcon { public FileRichtextIcon() : base ("file-richtext") { } }
+public class FileRuledFillIcon : BaseIcon { public FileRuledFillIcon() : base ("file-ruled-fill") { } }
+public class FileRuledIcon : BaseIcon { public FileRuledIcon() : base ("file-ruled") { } }
+public class FileSlidesFillIcon : BaseIcon { public FileSlidesFillIcon() : base ("file-slides-fill") { } }
+public class FileSlidesIcon : BaseIcon { public FileSlidesIcon() : base ("file-slides") { } }
+public class FileSpreadsheetFillIcon : BaseIcon { public FileSpreadsheetFillIcon() : base ("file-spreadsheet-fill") { } }
+public class FileSpreadsheetIcon : BaseIcon { public FileSpreadsheetIcon() : base ("file-spreadsheet") { } }
+public class FileTextFillIcon : BaseIcon { public FileTextFillIcon() : base ("file-text-fill") { } }
+public class FileTextIcon : BaseIcon { public FileTextIcon() : base ("file-text") { } }
+public class FileWordFillIcon : BaseIcon { public FileWordFillIcon() : base ("file-word-fill") { } }
+public class FileWordIcon : BaseIcon { public FileWordIcon() : base ("file-word") { } }
+public class FileXFillIcon : BaseIcon { public FileXFillIcon() : base ("file-x-fill") { } }
+public class FileXIcon : BaseIcon { public FileXIcon() : base ("file-x") { } }
+public class FileZipFillIcon : BaseIcon { public FileZipFillIcon() : base ("file-zip-fill") { } }
+public class FileZipIcon : BaseIcon { public FileZipIcon() : base ("file-zip") { } }
+public class FileIcon : BaseIcon { public FileIcon() : base ("file") { } }
+public class FilesAltIcon : BaseIcon { public FilesAltIcon() : base ("files-alt") { } }
+public class FilesIcon : BaseIcon { public FilesIcon() : base ("files") { } }
+public class FilmIcon : BaseIcon { public FilmIcon() : base ("film") { } }
+public class FilterCircleFillIcon : BaseIcon { public FilterCircleFillIcon() : base ("filter-circle-fill") { } }
+public class FilterCircleIcon : BaseIcon { public FilterCircleIcon() : base ("filter-circle") { } }
+public class FilterLeftIcon : BaseIcon { public FilterLeftIcon() : base ("filter-left") { } }
+public class FilterRightIcon : BaseIcon { public FilterRightIcon() : base ("filter-right") { } }
+public class FilterSquareFillIcon : BaseIcon { public FilterSquareFillIcon() : base ("filter-square-fill") { } }
+public class FilterSquareIcon : BaseIcon { public FilterSquareIcon() : base ("filter-square") { } }
+public class FilterIcon : BaseIcon { public FilterIcon() : base ("filter") { } }
+public class FlagFillIcon : BaseIcon { public FlagFillIcon() : base ("flag-fill") { } }
+public class FlagIcon : BaseIcon { public FlagIcon() : base ("flag") { } }
+public class Flower1Icon : BaseIcon { public Flower1Icon() : base ("flower1") { } }
+public class Flower2Icon : BaseIcon { public Flower2Icon() : base ("flower2") { } }
+public class Flower3Icon : BaseIcon { public Flower3Icon() : base ("flower3") { } }
+public class FolderCheckIcon : BaseIcon { public FolderCheckIcon() : base ("folder-check") { } }
+public class FolderFillIcon : BaseIcon { public FolderFillIcon() : base ("folder-fill") { } }
+public class FolderMinusIcon : BaseIcon { public FolderMinusIcon() : base ("folder-minus") { } }
+public class FolderPlusIcon : BaseIcon { public FolderPlusIcon() : base ("folder-plus") { } }
+public class FolderSymlinkFillIcon : BaseIcon { public FolderSymlinkFillIcon() : base ("folder-symlink-fill") { } }
+public class FolderSymlinkIcon : BaseIcon { public FolderSymlinkIcon() : base ("folder-symlink") { } }
+public class FolderXIcon : BaseIcon { public FolderXIcon() : base ("folder-x") { } }
+public class FolderIcon : BaseIcon { public FolderIcon() : base ("folder") { } }
+public class Folder2OpenIcon : BaseIcon { public Folder2OpenIcon() : base ("folder2-open") { } }
+public class Folder2Icon : BaseIcon { public Folder2Icon() : base ("folder2") { } }
+public class FontsIcon : BaseIcon { public FontsIcon() : base ("fonts") { } }
+public class ForwardFillIcon : BaseIcon { public ForwardFillIcon() : base ("forward-fill") { } }
+public class ForwardIcon : BaseIcon { public ForwardIcon() : base ("forward") { } }
+public class FrontIcon : BaseIcon { public FrontIcon() : base ("front") { } }
+public class FullscreenExitIcon : BaseIcon { public FullscreenExitIcon() : base ("fullscreen-exit") { } }
+public class FullscreenIcon : BaseIcon { public FullscreenIcon() : base ("fullscreen") { } }
+public class FunnelFillIcon : BaseIcon { public FunnelFillIcon() : base ("funnel-fill") { } }
+public class FunnelIcon : BaseIcon { public FunnelIcon() : base ("funnel") { } }
+public class GearFillIcon : BaseIcon { public GearFillIcon() : base ("gear-fill") { } }
+public class GearWideConnectedIcon : BaseIcon { public GearWideConnectedIcon() : base ("gear-wide-connected") { } }
+public class GearWideIcon : BaseIcon { public GearWideIcon() : base ("gear-wide") { } }
+public class GearIcon : BaseIcon { public GearIcon() : base ("gear") { } }
+public class GemIcon : BaseIcon { public GemIcon() : base ("gem") { } }
+public class GeoAltFillIcon : BaseIcon { public GeoAltFillIcon() : base ("geo-alt-fill") { } }
+public class GeoAltIcon : BaseIcon { public GeoAltIcon() : base ("geo-alt") { } }
+public class GeoFillIcon : BaseIcon { public GeoFillIcon() : base ("geo-fill") { } }
+public class GeoIcon : BaseIcon { public GeoIcon() : base ("geo") { } }
+public class GiftFillIcon : BaseIcon { public GiftFillIcon() : base ("gift-fill") { } }
+public class GiftIcon : BaseIcon { public GiftIcon() : base ("gift") { } }
+public class GithubIcon : BaseIcon { public GithubIcon() : base ("github") { } }
+public class GlobeIcon : BaseIcon { public GlobeIcon() : base ("globe") { } }
+public class Globe2Icon : BaseIcon { public Globe2Icon() : base ("globe2") { } }
+public class GoogleIcon : BaseIcon { public GoogleIcon() : base ("google") { } }
+public class GraphDownIcon : BaseIcon { public GraphDownIcon() : base ("graph-down") { } }
+public class GraphUpIcon : BaseIcon { public GraphUpIcon() : base ("graph-up") { } }
+public class Grid1x2FillIcon : BaseIcon { public Grid1x2FillIcon() : base ("grid-1x2-fill") { } }
+public class Grid1x2Icon : BaseIcon { public Grid1x2Icon() : base ("grid-1x2") { } }
+public class Grid3x2GapFillIcon : BaseIcon { public Grid3x2GapFillIcon() : base ("grid-3x2-gap-fill") { } }
+public class Grid3x2GapIcon : BaseIcon { public Grid3x2GapIcon() : base ("grid-3x2-gap") { } }
+public class Grid3x2Icon : BaseIcon { public Grid3x2Icon() : base ("grid-3x2") { } }
+public class Grid3x3GapFillIcon : BaseIcon { public Grid3x3GapFillIcon() : base ("grid-3x3-gap-fill") { } }
+public class Grid3x3GapIcon : BaseIcon { public Grid3x3GapIcon() : base ("grid-3x3-gap") { } }
+public class Grid3x3Icon : BaseIcon { public Grid3x3Icon() : base ("grid-3x3") { } }
+public class GridFillIcon : BaseIcon { public GridFillIcon() : base ("grid-fill") { } }
+public class GridIcon : BaseIcon { public GridIcon() : base ("grid") { } }
+public class GripHorizontalIcon : BaseIcon { public GripHorizontalIcon() : base ("grip-horizontal") { } }
+public class GripVerticalIcon : BaseIcon { public GripVerticalIcon() : base ("grip-vertical") { } }
+public class HammerIcon : BaseIcon { public HammerIcon() : base ("hammer") { } }
+public class HandIndexFillIcon : BaseIcon { public HandIndexFillIcon() : base ("hand-index-fill") { } }
+public class HandIndexThumbFillIcon : BaseIcon { public HandIndexThumbFillIcon() : base ("hand-index-thumb-fill") { } }
+public class HandIndexThumbIcon : BaseIcon { public HandIndexThumbIcon() : base ("hand-index-thumb") { } }
+public class HandIndexIcon : BaseIcon { public HandIndexIcon() : base ("hand-index") { } }
+public class HandThumbsDownFillIcon : BaseIcon { public HandThumbsDownFillIcon() : base ("hand-thumbs-down-fill") { } }
+public class HandThumbsDownIcon : BaseIcon { public HandThumbsDownIcon() : base ("hand-thumbs-down") { } }
+public class HandThumbsUpFillIcon : BaseIcon { public HandThumbsUpFillIcon() : base ("hand-thumbs-up-fill") { } }
+public class HandThumbsUpIcon : BaseIcon { public HandThumbsUpIcon() : base ("hand-thumbs-up") { } }
+public class HandbagFillIcon : BaseIcon { public HandbagFillIcon() : base ("handbag-fill") { } }
+public class HandbagIcon : BaseIcon { public HandbagIcon() : base ("handbag") { } }
+public class HashIcon : BaseIcon { public HashIcon() : base ("hash") { } }
+public class HddFillIcon : BaseIcon { public HddFillIcon() : base ("hdd-fill") { } }
+public class HddNetworkFillIcon : BaseIcon { public HddNetworkFillIcon() : base ("hdd-network-fill") { } }
+public class HddNetworkIcon : BaseIcon { public HddNetworkIcon() : base ("hdd-network") { } }
+public class HddRackFillIcon : BaseIcon { public HddRackFillIcon() : base ("hdd-rack-fill") { } }
+public class HddRackIcon : BaseIcon { public HddRackIcon() : base ("hdd-rack") { } }
+public class HddStackFillIcon : BaseIcon { public HddStackFillIcon() : base ("hdd-stack-fill") { } }
+public class HddStackIcon : BaseIcon { public HddStackIcon() : base ("hdd-stack") { } }
+public class HddIcon : BaseIcon { public HddIcon() : base ("hdd") { } }
+public class HeadphonesIcon : BaseIcon { public HeadphonesIcon() : base ("headphones") { } }
+public class HeadsetIcon : BaseIcon { public HeadsetIcon() : base ("headset") { } }
+public class HeartFillIcon : BaseIcon { public HeartFillIcon() : base ("heart-fill") { } }
+public class HeartHalfIcon : BaseIcon { public HeartHalfIcon() : base ("heart-half") { } }
+public class HeartIcon : BaseIcon { public HeartIcon() : base ("heart") { } }
+public class HeptagonFillIcon : BaseIcon { public HeptagonFillIcon() : base ("heptagon-fill") { } }
+public class HeptagonHalfIcon : BaseIcon { public HeptagonHalfIcon() : base ("heptagon-half") { } }
+public class HeptagonIcon : BaseIcon { public HeptagonIcon() : base ("heptagon") { } }
+public class HexagonFillIcon : BaseIcon { public HexagonFillIcon() : base ("hexagon-fill") { } }
+public class HexagonHalfIcon : BaseIcon { public HexagonHalfIcon() : base ("hexagon-half") { } }
+public class HexagonIcon : BaseIcon { public HexagonIcon() : base ("hexagon") { } }
+public class HourglassBottomIcon : BaseIcon { public HourglassBottomIcon() : base ("hourglass-bottom") { } }
+public class HourglassSplitIcon : BaseIcon { public HourglassSplitIcon() : base ("hourglass-split") { } }
+public class HourglassTopIcon : BaseIcon { public HourglassTopIcon() : base ("hourglass-top") { } }
+public class HourglassIcon : BaseIcon { public HourglassIcon() : base ("hourglass") { } }
+public class HouseDoorFillIcon : BaseIcon { public HouseDoorFillIcon() : base ("house-door-fill") { } }
+public class HouseDoorIcon : BaseIcon { public HouseDoorIcon() : base ("house-door") { } }
+public class HouseFillIcon : BaseIcon { public HouseFillIcon() : base ("house-fill") { } }
+public class HouseIcon : BaseIcon { public HouseIcon() : base ("house") { } }
+public class HrIcon : BaseIcon { public HrIcon() : base ("hr") { } }
+public class HurricaneIcon : BaseIcon { public HurricaneIcon() : base ("hurricane") { } }
+public class ImageAltIcon : BaseIcon { public ImageAltIcon() : base ("image-alt") { } }
+public class ImageFillIcon : BaseIcon { public ImageFillIcon() : base ("image-fill") { } }
+public class ImageIcon : BaseIcon { public ImageIcon() : base ("image") { } }
+public class ImagesIcon : BaseIcon { public ImagesIcon() : base ("images") { } }
+public class InboxFillIcon : BaseIcon { public InboxFillIcon() : base ("inbox-fill") { } }
+public class InboxIcon : BaseIcon { public InboxIcon() : base ("inbox") { } }
+public class InboxesFillIcon : BaseIcon { public InboxesFillIcon() : base ("inboxes-fill") { } }
+public class InboxesIcon : BaseIcon { public InboxesIcon() : base ("inboxes") { } }
+public class InfoCircleFillIcon : BaseIcon { public InfoCircleFillIcon() : base ("info-circle-fill") { } }
+public class InfoCircleIcon : BaseIcon { public InfoCircleIcon() : base ("info-circle") { } }
+public class InfoSquareFillIcon : BaseIcon { public InfoSquareFillIcon() : base ("info-square-fill") { } }
+public class InfoSquareIcon : BaseIcon { public InfoSquareIcon() : base ("info-square") { } }
+public class InfoIcon : BaseIcon { public InfoIcon() : base ("info") { } }
+public class InputCursorTextIcon : BaseIcon { public InputCursorTextIcon() : base ("input-cursor-text") { } }
+public class InputCursorIcon : BaseIcon { public InputCursorIcon() : base ("input-cursor") { } }
+public class InstagramIcon : BaseIcon { public InstagramIcon() : base ("instagram") { } }
+public class IntersectIcon : BaseIcon { public IntersectIcon() : base ("intersect") { } }
+public class JournalAlbumIcon : BaseIcon { public JournalAlbumIcon() : base ("journal-album") { } }
+public class JournalArrowDownIcon : BaseIcon { public JournalArrowDownIcon() : base ("journal-arrow-down") { } }
+public class JournalArrowUpIcon : BaseIcon { public JournalArrowUpIcon() : base ("journal-arrow-up") { } }
+public class JournalBookmarkFillIcon : BaseIcon { public JournalBookmarkFillIcon() : base ("journal-bookmark-fill") { } }
+public class JournalBookmarkIcon : BaseIcon { public JournalBookmarkIcon() : base ("journal-bookmark") { } }
+public class JournalCheckIcon : BaseIcon { public JournalCheckIcon() : base ("journal-check") { } }
+public class JournalCodeIcon : BaseIcon { public JournalCodeIcon() : base ("journal-code") { } }
+public class JournalMedicalIcon : BaseIcon { public JournalMedicalIcon() : base ("journal-medical") { } }
+public class JournalMinusIcon : BaseIcon { public JournalMinusIcon() : base ("journal-minus") { } }
+public class JournalPlusIcon : BaseIcon { public JournalPlusIcon() : base ("journal-plus") { } }
+public class JournalRichtextIcon : BaseIcon { public JournalRichtextIcon() : base ("journal-richtext") { } }
+public class JournalTextIcon : BaseIcon { public JournalTextIcon() : base ("journal-text") { } }
+public class JournalXIcon : BaseIcon { public JournalXIcon() : base ("journal-x") { } }
+public class JournalIcon : BaseIcon { public JournalIcon() : base ("journal") { } }
+public class JournalsIcon : BaseIcon { public JournalsIcon() : base ("journals") { } }
+public class JoystickIcon : BaseIcon { public JoystickIcon() : base ("joystick") { } }
+public class JustifyLeftIcon : BaseIcon { public JustifyLeftIcon() : base ("justify-left") { } }
+public class JustifyRightIcon : BaseIcon { public JustifyRightIcon() : base ("justify-right") { } }
+public class JustifyIcon : BaseIcon { public JustifyIcon() : base ("justify") { } }
+public class KanbanFillIcon : BaseIcon { public KanbanFillIcon() : base ("kanban-fill") { } }
+public class KanbanIcon : BaseIcon { public KanbanIcon() : base ("kanban") { } }
+public class KeyFillIcon : BaseIcon { public KeyFillIcon() : base ("key-fill") { } }
+public class KeyIcon : BaseIcon { public KeyIcon() : base ("key") { } }
+public class KeyboardFillIcon : BaseIcon { public KeyboardFillIcon() : base ("keyboard-fill") { } }
+public class KeyboardIcon : BaseIcon { public KeyboardIcon() : base ("keyboard") { } }
+public class LadderIcon : BaseIcon { public LadderIcon() : base ("ladder") { } }
+public class LampFillIcon : BaseIcon { public LampFillIcon() : base ("lamp-fill") { } }
+public class LampIcon : BaseIcon { public LampIcon() : base ("lamp") { } }
+public class LaptopFillIcon : BaseIcon { public LaptopFillIcon() : base ("laptop-fill") { } }
+public class LaptopIcon : BaseIcon { public LaptopIcon() : base ("laptop") { } }
+public class LayerBackwardIcon : BaseIcon { public LayerBackwardIcon() : base ("layer-backward") { } }
+public class LayerForwardIcon : BaseIcon { public LayerForwardIcon() : base ("layer-forward") { } }
+public class LayersFillIcon : BaseIcon { public LayersFillIcon() : base ("layers-fill") { } }
+public class LayersHalfIcon : BaseIcon { public LayersHalfIcon() : base ("layers-half") { } }
+public class LayersIcon : BaseIcon { public LayersIcon() : base ("layers") { } }
+public class LayoutSidebarInsetReverseIcon : BaseIcon { public LayoutSidebarInsetReverseIcon() : base ("layout-sidebar-inset-reverse") { } }
+public class LayoutSidebarInsetIcon : BaseIcon { public LayoutSidebarInsetIcon() : base ("layout-sidebar-inset") { } }
+public class LayoutSidebarReverseIcon : BaseIcon { public LayoutSidebarReverseIcon() : base ("layout-sidebar-reverse") { } }
+public class LayoutSidebarIcon : BaseIcon { public LayoutSidebarIcon() : base ("layout-sidebar") { } }
+public class LayoutSplitIcon : BaseIcon { public LayoutSplitIcon() : base ("layout-split") { } }
+public class LayoutTextSidebarReverseIcon : BaseIcon { public LayoutTextSidebarReverseIcon() : base ("layout-text-sidebar-reverse") { } }
+public class LayoutTextSidebarIcon : BaseIcon { public LayoutTextSidebarIcon() : base ("layout-text-sidebar") { } }
+public class LayoutTextWindowReverseIcon : BaseIcon { public LayoutTextWindowReverseIcon() : base ("layout-text-window-reverse") { } }
+public class LayoutTextWindowIcon : BaseIcon { public LayoutTextWindowIcon() : base ("layout-text-window") { } }
+public class LayoutThreeColumnsIcon : BaseIcon { public LayoutThreeColumnsIcon() : base ("layout-three-columns") { } }
+public class LayoutWtfIcon : BaseIcon { public LayoutWtfIcon() : base ("layout-wtf") { } }
+public class LifePreserverIcon : BaseIcon { public LifePreserverIcon() : base ("life-preserver") { } }
+public class LightbulbFillIcon : BaseIcon { public LightbulbFillIcon() : base ("lightbulb-fill") { } }
+public class LightbulbOffFillIcon : BaseIcon { public LightbulbOffFillIcon() : base ("lightbulb-off-fill") { } }
+public class LightbulbOffIcon : BaseIcon { public LightbulbOffIcon() : base ("lightbulb-off") { } }
+public class LightbulbIcon : BaseIcon { public LightbulbIcon() : base ("lightbulb") { } }
+public class LightningChargeFillIcon : BaseIcon { public LightningChargeFillIcon() : base ("lightning-charge-fill") { } }
+public class LightningChargeIcon : BaseIcon { public LightningChargeIcon() : base ("lightning-charge") { } }
+public class LightningFillIcon : BaseIcon { public LightningFillIcon() : base ("lightning-fill") { } }
+public class LightningIcon : BaseIcon { public LightningIcon() : base ("lightning") { } }
+public class Link45degIcon : BaseIcon { public Link45degIcon() : base ("link-45deg") { } }
+public class LinkIcon : BaseIcon { public LinkIcon() : base ("link") { } }
+public class LinkedinIcon : BaseIcon { public LinkedinIcon() : base ("linkedin") { } }
+public class ListCheckIcon : BaseIcon { public ListCheckIcon() : base ("list-check") { } }
+public class ListNestedIcon : BaseIcon { public ListNestedIcon() : base ("list-nested") { } }
+public class ListOlIcon : BaseIcon { public ListOlIcon() : base ("list-ol") { } }
+public class ListStarsIcon : BaseIcon { public ListStarsIcon() : base ("list-stars") { } }
+public class ListTaskIcon : BaseIcon { public ListTaskIcon() : base ("list-task") { } }
+public class ListUlIcon : BaseIcon { public ListUlIcon() : base ("list-ul") { } }
+public class ListIcon : BaseIcon { public ListIcon() : base ("list") { } }
+public class LockFillIcon : BaseIcon { public LockFillIcon() : base ("lock-fill") { } }
+public class LockIcon : BaseIcon { public LockIcon() : base ("lock") { } }
+public class MailboxIcon : BaseIcon { public MailboxIcon() : base ("mailbox") { } }
+public class Mailbox2Icon : BaseIcon { public Mailbox2Icon() : base ("mailbox2") { } }
+public class MapFillIcon : BaseIcon { public MapFillIcon() : base ("map-fill") { } }
+public class MapIcon : BaseIcon { public MapIcon() : base ("map") { } }
+public class MarkdownFillIcon : BaseIcon { public MarkdownFillIcon() : base ("markdown-fill") { } }
+public class MarkdownIcon : BaseIcon { public MarkdownIcon() : base ("markdown") { } }
+public class MaskIcon : BaseIcon { public MaskIcon() : base ("mask") { } }
+public class MegaphoneFillIcon : BaseIcon { public MegaphoneFillIcon() : base ("megaphone-fill") { } }
+public class MegaphoneIcon : BaseIcon { public MegaphoneIcon() : base ("megaphone") { } }
+public class MenuAppFillIcon : BaseIcon { public MenuAppFillIcon() : base ("menu-app-fill") { } }
+public class MenuAppIcon : BaseIcon { public MenuAppIcon() : base ("menu-app") { } }
+public class MenuButtonFillIcon : BaseIcon { public MenuButtonFillIcon() : base ("menu-button-fill") { } }
+public class MenuButtonWideFillIcon : BaseIcon { public MenuButtonWideFillIcon() : base ("menu-button-wide-fill") { } }
+public class MenuButtonWideIcon : BaseIcon { public MenuButtonWideIcon() : base ("menu-button-wide") { } }
+public class MenuButtonIcon : BaseIcon { public MenuButtonIcon() : base ("menu-button") { } }
+public class MenuDownIcon : BaseIcon { public MenuDownIcon() : base ("menu-down") { } }
+public class MenuUpIcon : BaseIcon { public MenuUpIcon() : base ("menu-up") { } }
+public class MicFillIcon : BaseIcon { public MicFillIcon() : base ("mic-fill") { } }
+public class MicMuteFillIcon : BaseIcon { public MicMuteFillIcon() : base ("mic-mute-fill") { } }
+public class MicMuteIcon : BaseIcon { public MicMuteIcon() : base ("mic-mute") { } }
+public class MicIcon : BaseIcon { public MicIcon() : base ("mic") { } }
+public class MinecartLoadedIcon : BaseIcon { public MinecartLoadedIcon() : base ("minecart-loaded") { } }
+public class MinecartIcon : BaseIcon { public MinecartIcon() : base ("minecart") { } }
+public class MoistureIcon : BaseIcon { public MoistureIcon() : base ("moisture") { } }
+public class MoonFillIcon : BaseIcon { public MoonFillIcon() : base ("moon-fill") { } }
+public class MoonStarsFillIcon : BaseIcon { public MoonStarsFillIcon() : base ("moon-stars-fill") { } }
+public class MoonStarsIcon : BaseIcon { public MoonStarsIcon() : base ("moon-stars") { } }
+public class MoonIcon : BaseIcon { public MoonIcon() : base ("moon") { } }
+public class MouseFillIcon : BaseIcon { public MouseFillIcon() : base ("mouse-fill") { } }
+public class MouseIcon : BaseIcon { public MouseIcon() : base ("mouse") { } }
+public class Mouse2FillIcon : BaseIcon { public Mouse2FillIcon() : base ("mouse2-fill") { } }
+public class Mouse2Icon : BaseIcon { public Mouse2Icon() : base ("mouse2") { } }
+public class Mouse3FillIcon : BaseIcon { public Mouse3FillIcon() : base ("mouse3-fill") { } }
+public class Mouse3Icon : BaseIcon { public Mouse3Icon() : base ("mouse3") { } }
+public class MusicNoteBeamedIcon : BaseIcon { public MusicNoteBeamedIcon() : base ("music-note-beamed") { } }
+public class MusicNoteListIcon : BaseIcon { public MusicNoteListIcon() : base ("music-note-list") { } }
+public class MusicNoteIcon : BaseIcon { public MusicNoteIcon() : base ("music-note") { } }
+public class MusicPlayerFillIcon : BaseIcon { public MusicPlayerFillIcon() : base ("music-player-fill") { } }
+public class MusicPlayerIcon : BaseIcon { public MusicPlayerIcon() : base ("music-player") { } }
+public class NewspaperIcon : BaseIcon { public NewspaperIcon() : base ("newspaper") { } }
+public class NodeMinusFillIcon : BaseIcon { public NodeMinusFillIcon() : base ("node-minus-fill") { } }
+public class NodeMinusIcon : BaseIcon { public NodeMinusIcon() : base ("node-minus") { } }
+public class NodePlusFillIcon : BaseIcon { public NodePlusFillIcon() : base ("node-plus-fill") { } }
+public class NodePlusIcon : BaseIcon { public NodePlusIcon() : base ("node-plus") { } }
+public class NutFillIcon : BaseIcon { public NutFillIcon() : base ("nut-fill") { } }
+public class NutIcon : BaseIcon { public NutIcon() : base ("nut") { } }
+public class OctagonFillIcon : BaseIcon { public OctagonFillIcon() : base ("octagon-fill") { } }
+public class OctagonHalfIcon : BaseIcon { public OctagonHalfIcon() : base ("octagon-half") { } }
+public class OctagonIcon : BaseIcon { public OctagonIcon() : base ("octagon") { } }
+public class OptionIcon : BaseIcon { public OptionIcon() : base ("option") { } }
+public class OutletIcon : BaseIcon { public OutletIcon() : base ("outlet") { } }
+public class PaintBucketIcon : BaseIcon { public PaintBucketIcon() : base ("paint-bucket") { } }
+public class PaletteFillIcon : BaseIcon { public PaletteFillIcon() : base ("palette-fill") { } }
+public class PaletteIcon : BaseIcon { public PaletteIcon() : base ("palette") { } }
+public class Palette2Icon : BaseIcon { public Palette2Icon() : base ("palette2") { } }
+public class PaperclipIcon : BaseIcon { public PaperclipIcon() : base ("paperclip") { } }
+public class ParagraphIcon : BaseIcon { public ParagraphIcon() : base ("paragraph") { } }
+public class PatchCheckFillIcon : BaseIcon { public PatchCheckFillIcon() : base ("patch-check-fill") { } }
+public class PatchCheckIcon : BaseIcon { public PatchCheckIcon() : base ("patch-check") { } }
+public class PatchExclamationFillIcon : BaseIcon { public PatchExclamationFillIcon() : base ("patch-exclamation-fill") { } }
+public class PatchExclamationIcon : BaseIcon { public PatchExclamationIcon() : base ("patch-exclamation") { } }
+public class PatchMinusFillIcon : BaseIcon { public PatchMinusFillIcon() : base ("patch-minus-fill") { } }
+public class PatchMinusIcon : BaseIcon { public PatchMinusIcon() : base ("patch-minus") { } }
+public class PatchPlusFillIcon : BaseIcon { public PatchPlusFillIcon() : base ("patch-plus-fill") { } }
+public class PatchPlusIcon : BaseIcon { public PatchPlusIcon() : base ("patch-plus") { } }
+public class PatchQuestionFillIcon : BaseIcon { public PatchQuestionFillIcon() : base ("patch-question-fill") { } }
+public class PatchQuestionIcon : BaseIcon { public PatchQuestionIcon() : base ("patch-question") { } }
+public class PauseBtnFillIcon : BaseIcon { public PauseBtnFillIcon() : base ("pause-btn-fill") { } }
+public class PauseBtnIcon : BaseIcon { public PauseBtnIcon() : base ("pause-btn") { } }
+public class PauseCircleFillIcon : BaseIcon { public PauseCircleFillIcon() : base ("pause-circle-fill") { } }
+public class PauseCircleIcon : BaseIcon { public PauseCircleIcon() : base ("pause-circle") { } }
+public class PauseFillIcon : BaseIcon { public PauseFillIcon() : base ("pause-fill") { } }
+public class PauseIcon : BaseIcon { public PauseIcon() : base ("pause") { } }
+public class PeaceFillIcon : BaseIcon { public PeaceFillIcon() : base ("peace-fill") { } }
+public class PeaceIcon : BaseIcon { public PeaceIcon() : base ("peace") { } }
+public class PenFillIcon : BaseIcon { public PenFillIcon() : base ("pen-fill") { } }
+public class PenIcon : BaseIcon { public PenIcon() : base ("pen") { } }
+public class PencilFillIcon : BaseIcon { public PencilFillIcon() : base ("pencil-fill") { } }
+public class PencilSquareIcon : BaseIcon { public PencilSquareIcon() : base ("pencil-square") { } }
+public class PencilIcon : BaseIcon { public PencilIcon() : base ("pencil") { } }
+public class PentagonFillIcon : BaseIcon { public PentagonFillIcon() : base ("pentagon-fill") { } }
+public class PentagonHalfIcon : BaseIcon { public PentagonHalfIcon() : base ("pentagon-half") { } }
+public class PentagonIcon : BaseIcon { public PentagonIcon() : base ("pentagon") { } }
+public class PeopleFillIcon : BaseIcon { public PeopleFillIcon() : base ("people-fill") { } }
+public class PeopleIcon : BaseIcon { public PeopleIcon() : base ("people") { } }
+public class PercentIcon : BaseIcon { public PercentIcon() : base ("percent") { } }
+public class PersonBadgeFillIcon : BaseIcon { public PersonBadgeFillIcon() : base ("person-badge-fill") { } }
+public class PersonBadgeIcon : BaseIcon { public PersonBadgeIcon() : base ("person-badge") { } }
+public class PersonBoundingBoxIcon : BaseIcon { public PersonBoundingBoxIcon() : base ("person-bounding-box") { } }
+public class PersonCheckFillIcon : BaseIcon { public PersonCheckFillIcon() : base ("person-check-fill") { } }
+public class PersonCheckIcon : BaseIcon { public PersonCheckIcon() : base ("person-check") { } }
+public class PersonCircleIcon : BaseIcon { public PersonCircleIcon() : base ("person-circle") { } }
+public class PersonDashFillIcon : BaseIcon { public PersonDashFillIcon() : base ("person-dash-fill") { } }
+public class PersonDashIcon : BaseIcon { public PersonDashIcon() : base ("person-dash") { } }
+public class PersonFillIcon : BaseIcon { public PersonFillIcon() : base ("person-fill") { } }
+public class PersonLinesFillIcon : BaseIcon { public PersonLinesFillIcon() : base ("person-lines-fill") { } }
+public class PersonPlusFillIcon : BaseIcon { public PersonPlusFillIcon() : base ("person-plus-fill") { } }
+public class PersonPlusIcon : BaseIcon { public PersonPlusIcon() : base ("person-plus") { } }
+public class PersonSquareIcon : BaseIcon { public PersonSquareIcon() : base ("person-square") { } }
+public class PersonXFillIcon : BaseIcon { public PersonXFillIcon() : base ("person-x-fill") { } }
+public class PersonXIcon : BaseIcon { public PersonXIcon() : base ("person-x") { } }
+public class PersonIcon : BaseIcon { public PersonIcon() : base ("person") { } }
+public class PhoneFillIcon : BaseIcon { public PhoneFillIcon() : base ("phone-fill") { } }
+public class PhoneLandscapeFillIcon : BaseIcon { public PhoneLandscapeFillIcon() : base ("phone-landscape-fill") { } }
+public class PhoneLandscapeIcon : BaseIcon { public PhoneLandscapeIcon() : base ("phone-landscape") { } }
+public class PhoneVibrateFillIcon : BaseIcon { public PhoneVibrateFillIcon() : base ("phone-vibrate-fill") { } }
+public class PhoneVibrateIcon : BaseIcon { public PhoneVibrateIcon() : base ("phone-vibrate") { } }
+public class PhoneIcon : BaseIcon { public PhoneIcon() : base ("phone") { } }
+public class PieChartFillIcon : BaseIcon { public PieChartFillIcon() : base ("pie-chart-fill") { } }
+public class PieChartIcon : BaseIcon { public PieChartIcon() : base ("pie-chart") { } }
+public class PinAngleFillIcon : BaseIcon { public PinAngleFillIcon() : base ("pin-angle-fill") { } }
+public class PinAngleIcon : BaseIcon { public PinAngleIcon() : base ("pin-angle") { } }
+public class PinFillIcon : BaseIcon { public PinFillIcon() : base ("pin-fill") { } }
+public class PinIcon : BaseIcon { public PinIcon() : base ("pin") { } }
+public class PipFillIcon : BaseIcon { public PipFillIcon() : base ("pip-fill") { } }
+public class PipIcon : BaseIcon { public PipIcon() : base ("pip") { } }
+public class PlayBtnFillIcon : BaseIcon { public PlayBtnFillIcon() : base ("play-btn-fill") { } }
+public class PlayBtnIcon : BaseIcon { public PlayBtnIcon() : base ("play-btn") { } }
+public class PlayCircleFillIcon : BaseIcon { public PlayCircleFillIcon() : base ("play-circle-fill") { } }
+public class PlayCircleIcon : BaseIcon { public PlayCircleIcon() : base ("play-circle") { } }
+public class PlayFillIcon : BaseIcon { public PlayFillIcon() : base ("play-fill") { } }
+public class PlayIcon : BaseIcon { public PlayIcon() : base ("play") { } }
+public class PlugFillIcon : BaseIcon { public PlugFillIcon() : base ("plug-fill") { } }
+public class PlugIcon : BaseIcon { public PlugIcon() : base ("plug") { } }
+public class PlusCircleDottedIcon : BaseIcon { public PlusCircleDottedIcon() : base ("plus-circle-dotted") { } }
+public class PlusCircleFillIcon : BaseIcon { public PlusCircleFillIcon() : base ("plus-circle-fill") { } }
+public class PlusCircleIcon : BaseIcon { public PlusCircleIcon() : base ("plus-circle") { } }
+public class PlusSquareDottedIcon : BaseIcon { public PlusSquareDottedIcon() : base ("plus-square-dotted") { } }
+public class PlusSquareFillIcon : BaseIcon { public PlusSquareFillIcon() : base ("plus-square-fill") { } }
+public class PlusSquareIcon : BaseIcon { public PlusSquareIcon() : base ("plus-square") { } }
+public class PlusIcon : BaseIcon { public PlusIcon() : base ("plus") { } }
+public class PowerIcon : BaseIcon { public PowerIcon() : base ("power") { } }
+public class PrinterFillIcon : BaseIcon { public PrinterFillIcon() : base ("printer-fill") { } }
+public class PrinterIcon : BaseIcon { public PrinterIcon() : base ("printer") { } }
+public class PuzzleFillIcon : BaseIcon { public PuzzleFillIcon() : base ("puzzle-fill") { } }
+public class PuzzleIcon : BaseIcon { public PuzzleIcon() : base ("puzzle") { } }
+public class QuestionCircleFillIcon : BaseIcon { public QuestionCircleFillIcon() : base ("question-circle-fill") { } }
+public class QuestionCircleIcon : BaseIcon { public QuestionCircleIcon() : base ("question-circle") { } }
+public class QuestionDiamondFillIcon : BaseIcon { public QuestionDiamondFillIcon() : base ("question-diamond-fill") { } }
+public class QuestionDiamondIcon : BaseIcon { public QuestionDiamondIcon() : base ("question-diamond") { } }
+public class QuestionOctagonFillIcon : BaseIcon { public QuestionOctagonFillIcon() : base ("question-octagon-fill") { } }
+public class QuestionOctagonIcon : BaseIcon { public QuestionOctagonIcon() : base ("question-octagon") { } }
+public class QuestionSquareFillIcon : BaseIcon { public QuestionSquareFillIcon() : base ("question-square-fill") { } }
+public class QuestionSquareIcon : BaseIcon { public QuestionSquareIcon() : base ("question-square") { } }
+public class QuestionIcon : BaseIcon { public QuestionIcon() : base ("question") { } }
+public class RainbowIcon : BaseIcon { public RainbowIcon() : base ("rainbow") { } }
+public class ReceiptCutoffIcon : BaseIcon { public ReceiptCutoffIcon() : base ("receipt-cutoff") { } }
+public class ReceiptIcon : BaseIcon { public ReceiptIcon() : base ("receipt") { } }
+public class Reception0Icon : BaseIcon { public Reception0Icon() : base ("reception-0") { } }
+public class Reception1Icon : BaseIcon { public Reception1Icon() : base ("reception-1") { } }
+public class Reception2Icon : BaseIcon { public Reception2Icon() : base ("reception-2") { } }
+public class Reception3Icon : BaseIcon { public Reception3Icon() : base ("reception-3") { } }
+public class Reception4Icon : BaseIcon { public Reception4Icon() : base ("reception-4") { } }
+public class RecordBtnFillIcon : BaseIcon { public RecordBtnFillIcon() : base ("record-btn-fill") { } }
+public class RecordBtnIcon : BaseIcon { public RecordBtnIcon() : base ("record-btn") { } }
+public class RecordCircleFillIcon : BaseIcon { public RecordCircleFillIcon() : base ("record-circle-fill") { } }
+public class RecordCircleIcon : BaseIcon { public RecordCircleIcon() : base ("record-circle") { } }
+public class RecordFillIcon : BaseIcon { public RecordFillIcon() : base ("record-fill") { } }
+public class RecordIcon : BaseIcon { public RecordIcon() : base ("record") { } }
+public class Record2FillIcon : BaseIcon { public Record2FillIcon() : base ("record2-fill") { } }
+public class Record2Icon : BaseIcon { public Record2Icon() : base ("record2") { } }
+public class ReplyAllFillIcon : BaseIcon { public ReplyAllFillIcon() : base ("reply-all-fill") { } }
+public class ReplyAllIcon : BaseIcon { public ReplyAllIcon() : base ("reply-all") { } }
+public class ReplyFillIcon : BaseIcon { public ReplyFillIcon() : base ("reply-fill") { } }
+public class ReplyIcon : BaseIcon { public ReplyIcon() : base ("reply") { } }
+public class RssFillIcon : BaseIcon { public RssFillIcon() : base ("rss-fill") { } }
+public class RssIcon : BaseIcon { public RssIcon() : base ("rss") { } }
+public class RulersIcon : BaseIcon { public RulersIcon() : base ("rulers") { } }
+public class SaveFillIcon : BaseIcon { public SaveFillIcon() : base ("save-fill") { } }
+public class SaveIcon : BaseIcon { public SaveIcon() : base ("save") { } }
+public class Save2FillIcon : BaseIcon { public Save2FillIcon() : base ("save2-fill") { } }
+public class Save2Icon : BaseIcon { public Save2Icon() : base ("save2") { } }
+public class ScissorsIcon : BaseIcon { public ScissorsIcon() : base ("scissors") { } }
+public class ScrewdriverIcon : BaseIcon { public ScrewdriverIcon() : base ("screwdriver") { } }
+public class SearchIcon : BaseIcon { public SearchIcon() : base ("search") { } }
+public class SegmentedNavIcon : BaseIcon { public SegmentedNavIcon() : base ("segmented-nav") { } }
+public class ServerIcon : BaseIcon { public ServerIcon() : base ("server") { } }
+public class ShareFillIcon : BaseIcon { public ShareFillIcon() : base ("share-fill") { } }
+public class ShareIcon : BaseIcon { public ShareIcon() : base ("share") { } }
+public class ShieldCheckIcon : BaseIcon { public ShieldCheckIcon() : base ("shield-check") { } }
+public class ShieldExclamationIcon : BaseIcon { public ShieldExclamationIcon() : base ("shield-exclamation") { } }
+public class ShieldFillCheckIcon : BaseIcon { public ShieldFillCheckIcon() : base ("shield-fill-check") { } }
+public class ShieldFillExclamationIcon : BaseIcon { public ShieldFillExclamationIcon() : base ("shield-fill-exclamation") { } }
+public class ShieldFillMinusIcon : BaseIcon { public ShieldFillMinusIcon() : base ("shield-fill-minus") { } }
+public class ShieldFillPlusIcon : BaseIcon { public ShieldFillPlusIcon() : base ("shield-fill-plus") { } }
+public class ShieldFillXIcon : BaseIcon { public ShieldFillXIcon() : base ("shield-fill-x") { } }
+public class ShieldFillIcon : BaseIcon { public ShieldFillIcon() : base ("shield-fill") { } }
+public class ShieldLockFillIcon : BaseIcon { public ShieldLockFillIcon() : base ("shield-lock-fill") { } }
+public class ShieldLockIcon : BaseIcon { public ShieldLockIcon() : base ("shield-lock") { } }
+public class ShieldMinusIcon : BaseIcon { public ShieldMinusIcon() : base ("shield-minus") { } }
+public class ShieldPlusIcon : BaseIcon { public ShieldPlusIcon() : base ("shield-plus") { } }
+public class ShieldShadedIcon : BaseIcon { public ShieldShadedIcon() : base ("shield-shaded") { } }
+public class ShieldSlashFillIcon : BaseIcon { public ShieldSlashFillIcon() : base ("shield-slash-fill") { } }
+public class ShieldSlashIcon : BaseIcon { public ShieldSlashIcon() : base ("shield-slash") { } }
+public class ShieldXIcon : BaseIcon { public ShieldXIcon() : base ("shield-x") { } }
+public class ShieldIcon : BaseIcon { public ShieldIcon() : base ("shield") { } }
+public class ShiftFillIcon : BaseIcon { public ShiftFillIcon() : base ("shift-fill") { } }
+public class ShiftIcon : BaseIcon { public ShiftIcon() : base ("shift") { } }
+public class ShopWindowIcon : BaseIcon { public ShopWindowIcon() : base ("shop-window") { } }
+public class ShopIcon : BaseIcon { public ShopIcon() : base ("shop") { } }
+public class ShuffleIcon : BaseIcon { public ShuffleIcon() : base ("shuffle") { } }
+public class Signpost2FillIcon : BaseIcon { public Signpost2FillIcon() : base ("signpost-2-fill") { } }
+public class Signpost2Icon : BaseIcon { public Signpost2Icon() : base ("signpost-2") { } }
+public class SignpostFillIcon : BaseIcon { public SignpostFillIcon() : base ("signpost-fill") { } }
+public class SignpostSplitFillIcon : BaseIcon { public SignpostSplitFillIcon() : base ("signpost-split-fill") { } }
+public class SignpostSplitIcon : BaseIcon { public SignpostSplitIcon() : base ("signpost-split") { } }
+public class SignpostIcon : BaseIcon { public SignpostIcon() : base ("signpost") { } }
+public class SimFillIcon : BaseIcon { public SimFillIcon() : base ("sim-fill") { } }
+public class SimIcon : BaseIcon { public SimIcon() : base ("sim") { } }
+public class SkipBackwardBtnFillIcon : BaseIcon { public SkipBackwardBtnFillIcon() : base ("skip-backward-btn-fill") { } }
+public class SkipBackwardBtnIcon : BaseIcon { public SkipBackwardBtnIcon() : base ("skip-backward-btn") { } }
+public class SkipBackwardCircleFillIcon : BaseIcon { public SkipBackwardCircleFillIcon() : base ("skip-backward-circle-fill") { } }
+public class SkipBackwardCircleIcon : BaseIcon { public SkipBackwardCircleIcon() : base ("skip-backward-circle") { } }
+public class SkipBackwardFillIcon : BaseIcon { public SkipBackwardFillIcon() : base ("skip-backward-fill") { } }
+public class SkipBackwardIcon : BaseIcon { public SkipBackwardIcon() : base ("skip-backward") { } }
+public class SkipEndBtnFillIcon : BaseIcon { public SkipEndBtnFillIcon() : base ("skip-end-btn-fill") { } }
+public class SkipEndBtnIcon : BaseIcon { public SkipEndBtnIcon() : base ("skip-end-btn") { } }
+public class SkipEndCircleFillIcon : BaseIcon { public SkipEndCircleFillIcon() : base ("skip-end-circle-fill") { } }
+public class SkipEndCircleIcon : BaseIcon { public SkipEndCircleIcon() : base ("skip-end-circle") { } }
+public class SkipEndFillIcon : BaseIcon { public SkipEndFillIcon() : base ("skip-end-fill") { } }
+public class SkipEndIcon : BaseIcon { public SkipEndIcon() : base ("skip-end") { } }
+public class SkipForwardBtnFillIcon : BaseIcon { public SkipForwardBtnFillIcon() : base ("skip-forward-btn-fill") { } }
+public class SkipForwardBtnIcon : BaseIcon { public SkipForwardBtnIcon() : base ("skip-forward-btn") { } }
+public class SkipForwardCircleFillIcon : BaseIcon { public SkipForwardCircleFillIcon() : base ("skip-forward-circle-fill") { } }
+public class SkipForwardCircleIcon : BaseIcon { public SkipForwardCircleIcon() : base ("skip-forward-circle") { } }
+public class SkipForwardFillIcon : BaseIcon { public SkipForwardFillIcon() : base ("skip-forward-fill") { } }
+public class SkipForwardIcon : BaseIcon { public SkipForwardIcon() : base ("skip-forward") { } }
+public class SkipStartBtnFillIcon : BaseIcon { public SkipStartBtnFillIcon() : base ("skip-start-btn-fill") { } }
+public class SkipStartBtnIcon : BaseIcon { public SkipStartBtnIcon() : base ("skip-start-btn") { } }
+public class SkipStartCircleFillIcon : BaseIcon { public SkipStartCircleFillIcon() : base ("skip-start-circle-fill") { } }
+public class SkipStartCircleIcon : BaseIcon { public SkipStartCircleIcon() : base ("skip-start-circle") { } }
+public class SkipStartFillIcon : BaseIcon { public SkipStartFillIcon() : base ("skip-start-fill") { } }
+public class SkipStartIcon : BaseIcon { public SkipStartIcon() : base ("skip-start") { } }
+public class SlackIcon : BaseIcon { public SlackIcon() : base ("slack") { } }
+public class SlashCircleFillIcon : BaseIcon { public SlashCircleFillIcon() : base ("slash-circle-fill") { } }
+public class SlashCircleIcon : BaseIcon { public SlashCircleIcon() : base ("slash-circle") { } }
+public class SlashSquareFillIcon : BaseIcon { public SlashSquareFillIcon() : base ("slash-square-fill") { } }
+public class SlashSquareIcon : BaseIcon { public SlashSquareIcon() : base ("slash-square") { } }
+public class SlashIcon : BaseIcon { public SlashIcon() : base ("slash") { } }
+public class SlidersIcon : BaseIcon { public SlidersIcon() : base ("sliders") { } }
+public class SmartwatchIcon : BaseIcon { public SmartwatchIcon() : base ("smartwatch") { } }
+public class SnowIcon : BaseIcon { public SnowIcon() : base ("snow") { } }
+public class Snow2Icon : BaseIcon { public Snow2Icon() : base ("snow2") { } }
+public class Snow3Icon : BaseIcon { public Snow3Icon() : base ("snow3") { } }
+public class SortAlphaDownAltIcon : BaseIcon { public SortAlphaDownAltIcon() : base ("sort-alpha-down-alt") { } }
+public class SortAlphaDownIcon : BaseIcon { public SortAlphaDownIcon() : base ("sort-alpha-down") { } }
+public class SortAlphaUpAltIcon : BaseIcon { public SortAlphaUpAltIcon() : base ("sort-alpha-up-alt") { } }
+public class SortAlphaUpIcon : BaseIcon { public SortAlphaUpIcon() : base ("sort-alpha-up") { } }
+public class SortDownAltIcon : BaseIcon { public SortDownAltIcon() : base ("sort-down-alt") { } }
+public class SortDownIcon : BaseIcon { public SortDownIcon() : base ("sort-down") { } }
+public class SortNumericDownAltIcon : BaseIcon { public SortNumericDownAltIcon() : base ("sort-numeric-down-alt") { } }
+public class SortNumericDownIcon : BaseIcon { public SortNumericDownIcon() : base ("sort-numeric-down") { } }
+public class SortNumericUpAltIcon : BaseIcon { public SortNumericUpAltIcon() : base ("sort-numeric-up-alt") { } }
+public class SortNumericUpIcon : BaseIcon { public SortNumericUpIcon() : base ("sort-numeric-up") { } }
+public class SortUpAltIcon : BaseIcon { public SortUpAltIcon() : base ("sort-up-alt") { } }
+public class SortUpIcon : BaseIcon { public SortUpIcon() : base ("sort-up") { } }
+public class SoundwaveIcon : BaseIcon { public SoundwaveIcon() : base ("soundwave") { } }
+public class SpeakerFillIcon : BaseIcon { public SpeakerFillIcon() : base ("speaker-fill") { } }
+public class SpeakerIcon : BaseIcon { public SpeakerIcon() : base ("speaker") { } }
+public class SpeedometerIcon : BaseIcon { public SpeedometerIcon() : base ("speedometer") { } }
+public class Speedometer2Icon : BaseIcon { public Speedometer2Icon() : base ("speedometer2") { } }
+public class SpellcheckIcon : BaseIcon { public SpellcheckIcon() : base ("spellcheck") { } }
+public class SquareFillIcon : BaseIcon { public SquareFillIcon() : base ("square-fill") { } }
+public class SquareHalfIcon : BaseIcon { public SquareHalfIcon() : base ("square-half") { } }
+public class SquareIcon : BaseIcon { public SquareIcon() : base ("square") { } }
+public class StackIcon : BaseIcon { public StackIcon() : base ("stack") { } }
+public class StarFillIcon : BaseIcon { public StarFillIcon() : base ("star-fill") { } }
+public class StarHalfIcon : BaseIcon { public StarHalfIcon() : base ("star-half") { } }
+public class StarIcon : BaseIcon { public StarIcon() : base ("star") { } }
+public class StarsIcon : BaseIcon { public StarsIcon() : base ("stars") { } }
+public class StickiesFillIcon : BaseIcon { public StickiesFillIcon() : base ("stickies-fill") { } }
+public class StickiesIcon : BaseIcon { public StickiesIcon() : base ("stickies") { } }
+public class StickyFillIcon : BaseIcon { public StickyFillIcon() : base ("sticky-fill") { } }
+public class StickyIcon : BaseIcon { public StickyIcon() : base ("sticky") { } }
+public class StopBtnFillIcon : BaseIcon { public StopBtnFillIcon() : base ("stop-btn-fill") { } }
+public class StopBtnIcon : BaseIcon { public StopBtnIcon() : base ("stop-btn") { } }
+public class StopCircleFillIcon : BaseIcon { public StopCircleFillIcon() : base ("stop-circle-fill") { } }
+public class StopCircleIcon : BaseIcon { public StopCircleIcon() : base ("stop-circle") { } }
+public class StopFillIcon : BaseIcon { public StopFillIcon() : base ("stop-fill") { } }
+public class StopIcon : BaseIcon { public StopIcon() : base ("stop") { } }
+public class StoplightsFillIcon : BaseIcon { public StoplightsFillIcon() : base ("stoplights-fill") { } }
+public class StoplightsIcon : BaseIcon { public StoplightsIcon() : base ("stoplights") { } }
+public class StopwatchFillIcon : BaseIcon { public StopwatchFillIcon() : base ("stopwatch-fill") { } }
+public class StopwatchIcon : BaseIcon { public StopwatchIcon() : base ("stopwatch") { } }
+public class SubtractIcon : BaseIcon { public SubtractIcon() : base ("subtract") { } }
+public class SuitClubFillIcon : BaseIcon { public SuitClubFillIcon() : base ("suit-club-fill") { } }
+public class SuitClubIcon : BaseIcon { public SuitClubIcon() : base ("suit-club") { } }
+public class SuitDiamondFillIcon : BaseIcon { public SuitDiamondFillIcon() : base ("suit-diamond-fill") { } }
+public class SuitDiamondIcon : BaseIcon { public SuitDiamondIcon() : base ("suit-diamond") { } }
+public class SuitHeartFillIcon : BaseIcon { public SuitHeartFillIcon() : base ("suit-heart-fill") { } }
+public class SuitHeartIcon : BaseIcon { public SuitHeartIcon() : base ("suit-heart") { } }
+public class SuitSpadeFillIcon : BaseIcon { public SuitSpadeFillIcon() : base ("suit-spade-fill") { } }
+public class SuitSpadeIcon : BaseIcon { public SuitSpadeIcon() : base ("suit-spade") { } }
+public class SunFillIcon : BaseIcon { public SunFillIcon() : base ("sun-fill") { } }
+public class SunIcon : BaseIcon { public SunIcon() : base ("sun") { } }
+public class SunglassesIcon : BaseIcon { public SunglassesIcon() : base ("sunglasses") { } }
+public class SunriseFillIcon : BaseIcon { public SunriseFillIcon() : base ("sunrise-fill") { } }
+public class SunriseIcon : BaseIcon { public SunriseIcon() : base ("sunrise") { } }
+public class SunsetFillIcon : BaseIcon { public SunsetFillIcon() : base ("sunset-fill") { } }
+public class SunsetIcon : BaseIcon { public SunsetIcon() : base ("sunset") { } }
+public class SymmetryHorizontalIcon : BaseIcon { public SymmetryHorizontalIcon() : base ("symmetry-horizontal") { } }
+public class SymmetryVerticalIcon : BaseIcon { public SymmetryVerticalIcon() : base ("symmetry-vertical") { } }
+public class TableIcon : BaseIcon { public TableIcon() : base ("table") { } }
+public class TabletFillIcon : BaseIcon { public TabletFillIcon() : base ("tablet-fill") { } }
+public class TabletLandscapeFillIcon : BaseIcon { public TabletLandscapeFillIcon() : base ("tablet-landscape-fill") { } }
+public class TabletLandscapeIcon : BaseIcon { public TabletLandscapeIcon() : base ("tablet-landscape") { } }
+public class TabletIcon : BaseIcon { public TabletIcon() : base ("tablet") { } }
+public class TagFillIcon : BaseIcon { public TagFillIcon() : base ("tag-fill") { } }
+public class TagIcon : BaseIcon { public TagIcon() : base ("tag") { } }
+public class TagsFillIcon : BaseIcon { public TagsFillIcon() : base ("tags-fill") { } }
+public class TagsIcon : BaseIcon { public TagsIcon() : base ("tags") { } }
+public class TelegramIcon : BaseIcon { public TelegramIcon() : base ("telegram") { } }
+public class TelephoneFillIcon : BaseIcon { public TelephoneFillIcon() : base ("telephone-fill") { } }
+public class TelephoneForwardFillIcon : BaseIcon { public TelephoneForwardFillIcon() : base ("telephone-forward-fill") { } }
+public class TelephoneForwardIcon : BaseIcon { public TelephoneForwardIcon() : base ("telephone-forward") { } }
+public class TelephoneInboundFillIcon : BaseIcon { public TelephoneInboundFillIcon() : base ("telephone-inbound-fill") { } }
+public class TelephoneInboundIcon : BaseIcon { public TelephoneInboundIcon() : base ("telephone-inbound") { } }
+public class TelephoneMinusFillIcon : BaseIcon { public TelephoneMinusFillIcon() : base ("telephone-minus-fill") { } }
+public class TelephoneMinusIcon : BaseIcon { public TelephoneMinusIcon() : base ("telephone-minus") { } }
+public class TelephoneOutboundFillIcon : BaseIcon { public TelephoneOutboundFillIcon() : base ("telephone-outbound-fill") { } }
+public class TelephoneOutboundIcon : BaseIcon { public TelephoneOutboundIcon() : base ("telephone-outbound") { } }
+public class TelephonePlusFillIcon : BaseIcon { public TelephonePlusFillIcon() : base ("telephone-plus-fill") { } }
+public class TelephonePlusIcon : BaseIcon { public TelephonePlusIcon() : base ("telephone-plus") { } }
+public class TelephoneXFillIcon : BaseIcon { public TelephoneXFillIcon() : base ("telephone-x-fill") { } }
+public class TelephoneXIcon : BaseIcon { public TelephoneXIcon() : base ("telephone-x") { } }
+public class TelephoneIcon : BaseIcon { public TelephoneIcon() : base ("telephone") { } }
+public class TerminalFillIcon : BaseIcon { public TerminalFillIcon() : base ("terminal-fill") { } }
+public class TerminalIcon : BaseIcon { public TerminalIcon() : base ("terminal") { } }
+public class TextCenterIcon : BaseIcon { public TextCenterIcon() : base ("text-center") { } }
+public class TextIndentLeftIcon : BaseIcon { public TextIndentLeftIcon() : base ("text-indent-left") { } }
+public class TextIndentRightIcon : BaseIcon { public TextIndentRightIcon() : base ("text-indent-right") { } }
+public class TextLeftIcon : BaseIcon { public TextLeftIcon() : base ("text-left") { } }
+public class TextParagraphIcon : BaseIcon { public TextParagraphIcon() : base ("text-paragraph") { } }
+public class TextRightIcon : BaseIcon { public TextRightIcon() : base ("text-right") { } }
+public class TextareaResizeIcon : BaseIcon { public TextareaResizeIcon() : base ("textarea-resize") { } }
+public class TextareaTIcon : BaseIcon { public TextareaTIcon() : base ("textarea-t") { } }
+public class TextareaIcon : BaseIcon { public TextareaIcon() : base ("textarea") { } }
+public class ThermometerHalfIcon : BaseIcon { public ThermometerHalfIcon() : base ("thermometer-half") { } }
+public class ThermometerHighIcon : BaseIcon { public ThermometerHighIcon() : base ("thermometer-high") { } }
+public class ThermometerLowIcon : BaseIcon { public ThermometerLowIcon() : base ("thermometer-low") { } }
+public class ThermometerSnowIcon : BaseIcon { public ThermometerSnowIcon() : base ("thermometer-snow") { } }
+public class ThermometerSunIcon : BaseIcon { public ThermometerSunIcon() : base ("thermometer-sun") { } }
+public class ThermometerIcon : BaseIcon { public ThermometerIcon() : base ("thermometer") { } }
+public class ThreeDotsVerticalIcon : BaseIcon { public ThreeDotsVerticalIcon() : base ("three-dots-vertical") { } }
+public class ThreeDotsIcon : BaseIcon { public ThreeDotsIcon() : base ("three-dots") { } }
+public class ToggleOffIcon : BaseIcon { public ToggleOffIcon() : base ("toggle-off") { } }
+public class ToggleOnIcon : BaseIcon { public ToggleOnIcon() : base ("toggle-on") { } }
+public class Toggle2OffIcon : BaseIcon { public Toggle2OffIcon() : base ("toggle2-off") { } }
+public class Toggle2OnIcon : BaseIcon { public Toggle2OnIcon() : base ("toggle2-on") { } }
+public class TogglesIcon : BaseIcon { public TogglesIcon() : base ("toggles") { } }
+public class Toggles2Icon : BaseIcon { public Toggles2Icon() : base ("toggles2") { } }
+public class ToolsIcon : BaseIcon { public ToolsIcon() : base ("tools") { } }
+public class TornadoIcon : BaseIcon { public TornadoIcon() : base ("tornado") { } }
+public class TrashFillIcon : BaseIcon { public TrashFillIcon() : base ("trash-fill") { } }
+public class TrashIcon : BaseIcon { public TrashIcon() : base ("trash") { } }
+public class Trash2FillIcon : BaseIcon { public Trash2FillIcon() : base ("trash2-fill") { } }
+public class Trash2Icon : BaseIcon { public Trash2Icon() : base ("trash2") { } }
+public class TreeFillIcon : BaseIcon { public TreeFillIcon() : base ("tree-fill") { } }
+public class TreeIcon : BaseIcon { public TreeIcon() : base ("tree") { } }
+public class TriangleFillIcon : BaseIcon { public TriangleFillIcon() : base ("triangle-fill") { } }
+public class TriangleHalfIcon : BaseIcon { public TriangleHalfIcon() : base ("triangle-half") { } }
+public class TriangleIcon : BaseIcon { public TriangleIcon() : base ("triangle") { } }
+public class TrophyFillIcon : BaseIcon { public TrophyFillIcon() : base ("trophy-fill") { } }
+public class TrophyIcon : BaseIcon { public TrophyIcon() : base ("trophy") { } }
+public class TropicalStormIcon : BaseIcon { public TropicalStormIcon() : base ("tropical-storm") { } }
+public class TruckFlatbedIcon : BaseIcon { public TruckFlatbedIcon() : base ("truck-flatbed") { } }
+public class TruckIcon : BaseIcon { public TruckIcon() : base ("truck") { } }
+public class TsunamiIcon : BaseIcon { public TsunamiIcon() : base ("tsunami") { } }
+public class TvFillIcon : BaseIcon { public TvFillIcon() : base ("tv-fill") { } }
+public class TvIcon : BaseIcon { public TvIcon() : base ("tv") { } }
+public class TwitchIcon : BaseIcon { public TwitchIcon() : base ("twitch") { } }
+public class TwitterIcon : BaseIcon { public TwitterIcon() : base ("twitter") { } }
+public class TypeBoldIcon : BaseIcon { public TypeBoldIcon() : base ("type-bold") { } }
+public class TypeH1Icon : BaseIcon { public TypeH1Icon() : base ("type-h1") { } }
+public class TypeH2Icon : BaseIcon { public TypeH2Icon() : base ("type-h2") { } }
+public class TypeH3Icon : BaseIcon { public TypeH3Icon() : base ("type-h3") { } }
+public class TypeItalicIcon : BaseIcon { public TypeItalicIcon() : base ("type-italic") { } }
+public class TypeStrikethroughIcon : BaseIcon { public TypeStrikethroughIcon() : base ("type-strikethrough") { } }
+public class TypeUnderlineIcon : BaseIcon { public TypeUnderlineIcon() : base ("type-underline") { } }
+public class TypeIcon : BaseIcon { public TypeIcon() : base ("type") { } }
+public class UiChecksGridIcon : BaseIcon { public UiChecksGridIcon() : base ("ui-checks-grid") { } }
+public class UiChecksIcon : BaseIcon { public UiChecksIcon() : base ("ui-checks") { } }
+public class UiRadiosGridIcon : BaseIcon { public UiRadiosGridIcon() : base ("ui-radios-grid") { } }
+public class UiRadiosIcon : BaseIcon { public UiRadiosIcon() : base ("ui-radios") { } }
+public class UmbrellaFillIcon : BaseIcon { public UmbrellaFillIcon() : base ("umbrella-fill") { } }
+public class UmbrellaIcon : BaseIcon { public UmbrellaIcon() : base ("umbrella") { } }
+public class UnionIcon : BaseIcon { public UnionIcon() : base ("union") { } }
+public class UnlockFillIcon : BaseIcon { public UnlockFillIcon() : base ("unlock-fill") { } }
+public class UnlockIcon : BaseIcon { public UnlockIcon() : base ("unlock") { } }
+public class UpcScanIcon : BaseIcon { public UpcScanIcon() : base ("upc-scan") { } }
+public class UpcIcon : BaseIcon { public UpcIcon() : base ("upc") { } }
+public class UploadIcon : BaseIcon { public UploadIcon() : base ("upload") { } }
+public class VectorPenIcon : BaseIcon { public VectorPenIcon() : base ("vector-pen") { } }
+public class ViewListIcon : BaseIcon { public ViewListIcon() : base ("view-list") { } }
+public class ViewStackedIcon : BaseIcon { public ViewStackedIcon() : base ("view-stacked") { } }
+public class VinylFillIcon : BaseIcon { public VinylFillIcon() : base ("vinyl-fill") { } }
+public class VinylIcon : BaseIcon { public VinylIcon() : base ("vinyl") { } }
+public class VoicemailIcon : BaseIcon { public VoicemailIcon() : base ("voicemail") { } }
+public class VolumeDownFillIcon : BaseIcon { public VolumeDownFillIcon() : base ("volume-down-fill") { } }
+public class VolumeDownIcon : BaseIcon { public VolumeDownIcon() : base ("volume-down") { } }
+public class VolumeMuteFillIcon : BaseIcon { public VolumeMuteFillIcon() : base ("volume-mute-fill") { } }
+public class VolumeMuteIcon : BaseIcon { public VolumeMuteIcon() : base ("volume-mute") { } }
+public class VolumeOffFillIcon : BaseIcon { public VolumeOffFillIcon() : base ("volume-off-fill") { } }
+public class VolumeOffIcon : BaseIcon { public VolumeOffIcon() : base ("volume-off") { } }
+public class VolumeUpFillIcon : BaseIcon { public VolumeUpFillIcon() : base ("volume-up-fill") { } }
+public class VolumeUpIcon : BaseIcon { public VolumeUpIcon() : base ("volume-up") { } }
+public class VrIcon : BaseIcon { public VrIcon() : base ("vr") { } }
+public class WalletFillIcon : BaseIcon { public WalletFillIcon() : base ("wallet-fill") { } }
+public class WalletIcon : BaseIcon { public WalletIcon() : base ("wallet") { } }
+public class Wallet2Icon : BaseIcon { public Wallet2Icon() : base ("wallet2") { } }
+public class WatchIcon : BaseIcon { public WatchIcon() : base ("watch") { } }
+public class WaterIcon : BaseIcon { public WaterIcon() : base ("water") { } }
+public class WhatsappIcon : BaseIcon { public WhatsappIcon() : base ("whatsapp") { } }
+public class Wifi1Icon : BaseIcon { public Wifi1Icon() : base ("wifi-1") { } }
+public class Wifi2Icon : BaseIcon { public Wifi2Icon() : base ("wifi-2") { } }
+public class WifiOffIcon : BaseIcon { public WifiOffIcon() : base ("wifi-off") { } }
+public class WifiIcon : BaseIcon { public WifiIcon() : base ("wifi") { } }
+public class WindIcon : BaseIcon { public WindIcon() : base ("wind") { } }
+public class WindowDockIcon : BaseIcon { public WindowDockIcon() : base ("window-dock") { } }
+public class WindowSidebarIcon : BaseIcon { public WindowSidebarIcon() : base ("window-sidebar") { } }
+public class WindowIcon : BaseIcon { public WindowIcon() : base ("window") { } }
+public class WrenchIcon : BaseIcon { public WrenchIcon() : base ("wrench") { } }
+public class XCircleFillIcon : BaseIcon { public XCircleFillIcon() : base ("x-circle-fill") { } }
+public class XCircleIcon : BaseIcon { public XCircleIcon() : base ("x-circle") { } }
+public class XDiamondFillIcon : BaseIcon { public XDiamondFillIcon() : base ("x-diamond-fill") { } }
+public class XDiamondIcon : BaseIcon { public XDiamondIcon() : base ("x-diamond") { } }
+public class XOctagonFillIcon : BaseIcon { public XOctagonFillIcon() : base ("x-octagon-fill") { } }
+public class XOctagonIcon : BaseIcon { public XOctagonIcon() : base ("x-octagon") { } }
+public class XSquareFillIcon : BaseIcon { public XSquareFillIcon() : base ("x-square-fill") { } }
+public class XSquareIcon : BaseIcon { public XSquareIcon() : base ("x-square") { } }
+public class XIcon : BaseIcon { public XIcon() : base ("x") { } }
+public class YoutubeIcon : BaseIcon { public YoutubeIcon() : base ("youtube") { } }
+public class ZoomInIcon : BaseIcon { public ZoomInIcon() : base ("zoom-in") { } }
+public class ZoomOutIcon : BaseIcon { public ZoomOutIcon() : base ("zoom-out") { } }
+public class BankIcon : BaseIcon { public BankIcon() : base ("bank") { } }
+public class Bank2Icon : BaseIcon { public Bank2Icon() : base ("bank2") { } }
+public class BellSlashFillIcon : BaseIcon { public BellSlashFillIcon() : base ("bell-slash-fill") { } }
+public class BellSlashIcon : BaseIcon { public BellSlashIcon() : base ("bell-slash") { } }
+public class CashCoinIcon : BaseIcon { public CashCoinIcon() : base ("cash-coin") { } }
+public class CheckLgIcon : BaseIcon { public CheckLgIcon() : base ("check-lg") { } }
+public class CoinIcon : BaseIcon { public CoinIcon() : base ("coin") { } }
+public class CurrencyBitcoinIcon : BaseIcon { public CurrencyBitcoinIcon() : base ("currency-bitcoin") { } }
+public class CurrencyDollarIcon : BaseIcon { public CurrencyDollarIcon() : base ("currency-dollar") { } }
+public class CurrencyEuroIcon : BaseIcon { public CurrencyEuroIcon() : base ("currency-euro") { } }
+public class CurrencyExchangeIcon : BaseIcon { public CurrencyExchangeIcon() : base ("currency-exchange") { } }
+public class CurrencyPoundIcon : BaseIcon { public CurrencyPoundIcon() : base ("currency-pound") { } }
+public class CurrencyYenIcon : BaseIcon { public CurrencyYenIcon() : base ("currency-yen") { } }
+public class DashLgIcon : BaseIcon { public DashLgIcon() : base ("dash-lg") { } }
+public class ExclamationLgIcon : BaseIcon { public ExclamationLgIcon() : base ("exclamation-lg") { } }
+public class FileEarmarkPdfFillIcon : BaseIcon { public FileEarmarkPdfFillIcon() : base ("file-earmark-pdf-fill") { } }
+public class FileEarmarkPdfIcon : BaseIcon { public FileEarmarkPdfIcon() : base ("file-earmark-pdf") { } }
+public class FilePdfFillIcon : BaseIcon { public FilePdfFillIcon() : base ("file-pdf-fill") { } }
+public class FilePdfIcon : BaseIcon { public FilePdfIcon() : base ("file-pdf") { } }
+public class GenderAmbiguousIcon : BaseIcon { public GenderAmbiguousIcon() : base ("gender-ambiguous") { } }
+public class GenderFemaleIcon : BaseIcon { public GenderFemaleIcon() : base ("gender-female") { } }
+public class GenderMaleIcon : BaseIcon { public GenderMaleIcon() : base ("gender-male") { } }
+public class GenderTransIcon : BaseIcon { public GenderTransIcon() : base ("gender-trans") { } }
+public class HeadsetVrIcon : BaseIcon { public HeadsetVrIcon() : base ("headset-vr") { } }
+public class InfoLgIcon : BaseIcon { public InfoLgIcon() : base ("info-lg") { } }
+public class MastodonIcon : BaseIcon { public MastodonIcon() : base ("mastodon") { } }
+public class MessengerIcon : BaseIcon { public MessengerIcon() : base ("messenger") { } }
+public class PiggyBankFillIcon : BaseIcon { public PiggyBankFillIcon() : base ("piggy-bank-fill") { } }
+public class PiggyBankIcon : BaseIcon { public PiggyBankIcon() : base ("piggy-bank") { } }
+public class PinMapFillIcon : BaseIcon { public PinMapFillIcon() : base ("pin-map-fill") { } }
+public class PinMapIcon : BaseIcon { public PinMapIcon() : base ("pin-map") { } }
+public class PlusLgIcon : BaseIcon { public PlusLgIcon() : base ("plus-lg") { } }
+public class QuestionLgIcon : BaseIcon { public QuestionLgIcon() : base ("question-lg") { } }
+public class RecycleIcon : BaseIcon { public RecycleIcon() : base ("recycle") { } }
+public class RedditIcon : BaseIcon { public RedditIcon() : base ("reddit") { } }
+public class SafeFillIcon : BaseIcon { public SafeFillIcon() : base ("safe-fill") { } }
+public class Safe2FillIcon : BaseIcon { public Safe2FillIcon() : base ("safe2-fill") { } }
+public class Safe2Icon : BaseIcon { public Safe2Icon() : base ("safe2") { } }
+public class SdCardFillIcon : BaseIcon { public SdCardFillIcon() : base ("sd-card-fill") { } }
+public class SdCardIcon : BaseIcon { public SdCardIcon() : base ("sd-card") { } }
+public class SkypeIcon : BaseIcon { public SkypeIcon() : base ("skype") { } }
+public class SlashLgIcon : BaseIcon { public SlashLgIcon() : base ("slash-lg") { } }
+public class TranslateIcon : BaseIcon { public TranslateIcon() : base ("translate") { } }
+public class XLgIcon : BaseIcon { public XLgIcon() : base ("x-lg") { } }
+public class SafeIcon : BaseIcon { public SafeIcon() : base ("safe") { } }
+public class AppleIcon : BaseIcon { public AppleIcon() : base ("apple") { } }
+public class MicrosoftIcon : BaseIcon { public MicrosoftIcon() : base ("microsoft") { } }
+public class WindowsIcon : BaseIcon { public WindowsIcon() : base ("windows") { } }
+public class BehanceIcon : BaseIcon { public BehanceIcon() : base ("behance") { } }
+public class DribbbleIcon : BaseIcon { public DribbbleIcon() : base ("dribbble") { } }
+public class LineIcon : BaseIcon { public LineIcon() : base ("line") { } }
+public class MediumIcon : BaseIcon { public MediumIcon() : base ("medium") { } }
+public class PaypalIcon : BaseIcon { public PaypalIcon() : base ("paypal") { } }
+public class PinterestIcon : BaseIcon { public PinterestIcon() : base ("pinterest") { } }
+public class SignalIcon : BaseIcon { public SignalIcon() : base ("signal") { } }
+public class SnapchatIcon : BaseIcon { public SnapchatIcon() : base ("snapchat") { } }
+public class SpotifyIcon : BaseIcon { public SpotifyIcon() : base ("spotify") { } }
+public class StackOverflowIcon : BaseIcon { public StackOverflowIcon() : base ("stack-overflow") { } }
+public class StravaIcon : BaseIcon { public StravaIcon() : base ("strava") { } }
+public class WordpressIcon : BaseIcon { public WordpressIcon() : base ("wordpress") { } }
+public class VimeoIcon : BaseIcon { public VimeoIcon() : base ("vimeo") { } }
+public class ActivityIcon : BaseIcon { public ActivityIcon() : base ("activity") { } }
+public class Easel2FillIcon : BaseIcon { public Easel2FillIcon() : base ("easel2-fill") { } }
+public class Easel2Icon : BaseIcon { public Easel2Icon() : base ("easel2") { } }
+public class Easel3FillIcon : BaseIcon { public Easel3FillIcon() : base ("easel3-fill") { } }
+public class Easel3Icon : BaseIcon { public Easel3Icon() : base ("easel3") { } }
+public class FanIcon : BaseIcon { public FanIcon() : base ("fan") { } }
+public class FingerprintIcon : BaseIcon { public FingerprintIcon() : base ("fingerprint") { } }
+public class GraphDownArrowIcon : BaseIcon { public GraphDownArrowIcon() : base ("graph-down-arrow") { } }
+public class GraphUpArrowIcon : BaseIcon { public GraphUpArrowIcon() : base ("graph-up-arrow") { } }
+public class HypnotizeIcon : BaseIcon { public HypnotizeIcon() : base ("hypnotize") { } }
+public class MagicIcon : BaseIcon { public MagicIcon() : base ("magic") { } }
+public class PersonRolodexIcon : BaseIcon { public PersonRolodexIcon() : base ("person-rolodex") { } }
+public class PersonVideoIcon : BaseIcon { public PersonVideoIcon() : base ("person-video") { } }
+public class PersonVideo2Icon : BaseIcon { public PersonVideo2Icon() : base ("person-video2") { } }
+public class PersonVideo3Icon : BaseIcon { public PersonVideo3Icon() : base ("person-video3") { } }
+public class PersonWorkspaceIcon : BaseIcon { public PersonWorkspaceIcon() : base ("person-workspace") { } }
+public class RadioactiveIcon : BaseIcon { public RadioactiveIcon() : base ("radioactive") { } }
+public class WebcamFillIcon : BaseIcon { public WebcamFillIcon() : base ("webcam-fill") { } }
+public class WebcamIcon : BaseIcon { public WebcamIcon() : base ("webcam") { } }
+public class YinYangIcon : BaseIcon { public YinYangIcon() : base ("yin-yang") { } }
+public class BandaidFillIcon : BaseIcon { public BandaidFillIcon() : base ("bandaid-fill") { } }
+public class BandaidIcon : BaseIcon { public BandaidIcon() : base ("bandaid") { } }
+public class BluetoothIcon : BaseIcon { public BluetoothIcon() : base ("bluetooth") { } }
+public class BodyTextIcon : BaseIcon { public BodyTextIcon() : base ("body-text") { } }
+public class BoomboxIcon : BaseIcon { public BoomboxIcon() : base ("boombox") { } }
+public class BoxesIcon : BaseIcon { public BoxesIcon() : base ("boxes") { } }
+public class DpadFillIcon : BaseIcon { public DpadFillIcon() : base ("dpad-fill") { } }
+public class DpadIcon : BaseIcon { public DpadIcon() : base ("dpad") { } }
+public class EarFillIcon : BaseIcon { public EarFillIcon() : base ("ear-fill") { } }
+public class EarIcon : BaseIcon { public EarIcon() : base ("ear") { } }
+public class EnvelopeCheck1Icon : BaseIcon { public EnvelopeCheck1Icon() : base ("envelope-check-1") { } }
+public class EnvelopeCheckFillIcon : BaseIcon { public EnvelopeCheckFillIcon() : base ("envelope-check-fill") { } }
+public class EnvelopeCheckIcon : BaseIcon { public EnvelopeCheckIcon() : base ("envelope-check") { } }
+public class EnvelopeDash1Icon : BaseIcon { public EnvelopeDash1Icon() : base ("envelope-dash-1") { } }
+public class EnvelopeDashFillIcon : BaseIcon { public EnvelopeDashFillIcon() : base ("envelope-dash-fill") { } }
+public class EnvelopeDashIcon : BaseIcon { public EnvelopeDashIcon() : base ("envelope-dash") { } }
+public class EnvelopeExclamation1Icon : BaseIcon { public EnvelopeExclamation1Icon() : base ("envelope-exclamation-1") { } }
+public class EnvelopeExclamationFillIcon : BaseIcon { public EnvelopeExclamationFillIcon() : base ("envelope-exclamation-fill") { } }
+public class EnvelopeExclamationIcon : BaseIcon { public EnvelopeExclamationIcon() : base ("envelope-exclamation") { } }
+public class EnvelopePlusFillIcon : BaseIcon { public EnvelopePlusFillIcon() : base ("envelope-plus-fill") { } }
+public class EnvelopePlusIcon : BaseIcon { public EnvelopePlusIcon() : base ("envelope-plus") { } }
+public class EnvelopeSlash1Icon : BaseIcon { public EnvelopeSlash1Icon() : base ("envelope-slash-1") { } }
+public class EnvelopeSlashFillIcon : BaseIcon { public EnvelopeSlashFillIcon() : base ("envelope-slash-fill") { } }
+public class EnvelopeSlashIcon : BaseIcon { public EnvelopeSlashIcon() : base ("envelope-slash") { } }
+public class EnvelopeX1Icon : BaseIcon { public EnvelopeX1Icon() : base ("envelope-x-1") { } }
+public class EnvelopeXFillIcon : BaseIcon { public EnvelopeXFillIcon() : base ("envelope-x-fill") { } }
+public class EnvelopeXIcon : BaseIcon { public EnvelopeXIcon() : base ("envelope-x") { } }
+public class ExplicitFillIcon : BaseIcon { public ExplicitFillIcon() : base ("explicit-fill") { } }
+public class ExplicitIcon : BaseIcon { public ExplicitIcon() : base ("explicit") { } }
+public class GitIcon : BaseIcon { public GitIcon() : base ("git") { } }
+public class InfinityIcon : BaseIcon { public InfinityIcon() : base ("infinity") { } }
+public class ListColumnsReverseIcon : BaseIcon { public ListColumnsReverseIcon() : base ("list-columns-reverse") { } }
+public class ListColumnsIcon : BaseIcon { public ListColumnsIcon() : base ("list-columns") { } }
+public class MetaIcon : BaseIcon { public MetaIcon() : base ("meta") { } }
+public class MortorboardFillIcon : BaseIcon { public MortorboardFillIcon() : base ("mortorboard-fill") { } }
+public class MortorboardIcon : BaseIcon { public MortorboardIcon() : base ("mortorboard") { } }
+public class NintendoSwitchIcon : BaseIcon { public NintendoSwitchIcon() : base ("nintendo-switch") { } }
+public class PcDisplayHorizontalIcon : BaseIcon { public PcDisplayHorizontalIcon() : base ("pc-display-horizontal") { } }
+public class PcDisplayIcon : BaseIcon { public PcDisplayIcon() : base ("pc-display") { } }
+public class PcHorizontalIcon : BaseIcon { public PcHorizontalIcon() : base ("pc-horizontal") { } }
+public class PcIcon : BaseIcon { public PcIcon() : base ("pc") { } }
+public class PlaystationIcon : BaseIcon { public PlaystationIcon() : base ("playstation") { } }
+public class PlusSlashMinusIcon : BaseIcon { public PlusSlashMinusIcon() : base ("plus-slash-minus") { } }
+public class ProjectorFillIcon : BaseIcon { public ProjectorFillIcon() : base ("projector-fill") { } }
+public class ProjectorIcon : BaseIcon { public ProjectorIcon() : base ("projector") { } }
+public class QrCodeScanIcon : BaseIcon { public QrCodeScanIcon() : base ("qr-code-scan") { } }
+public class QrCodeIcon : BaseIcon { public QrCodeIcon() : base ("qr-code") { } }
+public class QuoraIcon : BaseIcon { public QuoraIcon() : base ("quora") { } }
+public class QuoteIcon : BaseIcon { public QuoteIcon() : base ("quote") { } }
+public class RobotIcon : BaseIcon { public RobotIcon() : base ("robot") { } }
+public class SendCheckFillIcon : BaseIcon { public SendCheckFillIcon() : base ("send-check-fill") { } }
+public class SendCheckIcon : BaseIcon { public SendCheckIcon() : base ("send-check") { } }
+public class SendDashFillIcon : BaseIcon { public SendDashFillIcon() : base ("send-dash-fill") { } }
+public class SendDashIcon : BaseIcon { public SendDashIcon() : base ("send-dash") { } }
+public class SendExclamation1Icon : BaseIcon { public SendExclamation1Icon() : base ("send-exclamation-1") { } }
+public class SendExclamationFillIcon : BaseIcon { public SendExclamationFillIcon() : base ("send-exclamation-fill") { } }
+public class SendExclamationIcon : BaseIcon { public SendExclamationIcon() : base ("send-exclamation") { } }
+public class SendFillIcon : BaseIcon { public SendFillIcon() : base ("send-fill") { } }
+public class SendPlusFillIcon : BaseIcon { public SendPlusFillIcon() : base ("send-plus-fill") { } }
+public class SendPlusIcon : BaseIcon { public SendPlusIcon() : base ("send-plus") { } }
+public class SendSlashFillIcon : BaseIcon { public SendSlashFillIcon() : base ("send-slash-fill") { } }
+public class SendSlashIcon : BaseIcon { public SendSlashIcon() : base ("send-slash") { } }
+public class SendXFillIcon : BaseIcon { public SendXFillIcon() : base ("send-x-fill") { } }
+public class SendXIcon : BaseIcon { public SendXIcon() : base ("send-x") { } }
+public class SendIcon : BaseIcon { public SendIcon() : base ("send") { } }
+public class SteamIcon : BaseIcon { public SteamIcon() : base ("steam") { } }
+public class TerminalDash1Icon : BaseIcon { public TerminalDash1Icon() : base ("terminal-dash-1") { } }
+public class TerminalDashIcon : BaseIcon { public TerminalDashIcon() : base ("terminal-dash") { } }
+public class TerminalPlusIcon : BaseIcon { public TerminalPlusIcon() : base ("terminal-plus") { } }
+public class TerminalSplitIcon : BaseIcon { public TerminalSplitIcon() : base ("terminal-split") { } }
+public class TicketDetailedFillIcon : BaseIcon { public TicketDetailedFillIcon() : base ("ticket-detailed-fill") { } }
+public class TicketDetailedIcon : BaseIcon { public TicketDetailedIcon() : base ("ticket-detailed") { } }
+public class TicketFillIcon : BaseIcon { public TicketFillIcon() : base ("ticket-fill") { } }
+public class TicketPerforatedFillIcon : BaseIcon { public TicketPerforatedFillIcon() : base ("ticket-perforated-fill") { } }
+public class TicketPerforatedIcon : BaseIcon { public TicketPerforatedIcon() : base ("ticket-perforated") { } }
+public class TicketIcon : BaseIcon { public TicketIcon() : base ("ticket") { } }
+public class TiktokIcon : BaseIcon { public TiktokIcon() : base ("tiktok") { } }
+public class WindowDashIcon : BaseIcon { public WindowDashIcon() : base ("window-dash") { } }
+public class WindowDesktopIcon : BaseIcon { public WindowDesktopIcon() : base ("window-desktop") { } }
+public class WindowFullscreenIcon : BaseIcon { public WindowFullscreenIcon() : base ("window-fullscreen") { } }
+public class WindowPlusIcon : BaseIcon { public WindowPlusIcon() : base ("window-plus") { } }
+public class WindowSplitIcon : BaseIcon { public WindowSplitIcon() : base ("window-split") { } }
+public class WindowStackIcon : BaseIcon { public WindowStackIcon() : base ("window-stack") { } }
+public class WindowXIcon : BaseIcon { public WindowXIcon() : base ("window-x") { } }
+public class XboxIcon : BaseIcon { public XboxIcon() : base ("xbox") { } }
+public class EthernetIcon : BaseIcon { public EthernetIcon() : base ("ethernet") { } }
+public class HdmiFillIcon : BaseIcon { public HdmiFillIcon() : base ("hdmi-fill") { } }
+public class HdmiIcon : BaseIcon { public HdmiIcon() : base ("hdmi") { } }
+public class UsbCFillIcon : BaseIcon { public UsbCFillIcon() : base ("usb-c-fill") { } }
+public class UsbCIcon : BaseIcon { public UsbCIcon() : base ("usb-c") { } }
+public class UsbFillIcon : BaseIcon { public UsbFillIcon() : base ("usb-fill") { } }
+public class UsbPlugFillIcon : BaseIcon { public UsbPlugFillIcon() : base ("usb-plug-fill") { } }
+public class UsbPlugIcon : BaseIcon { public UsbPlugIcon() : base ("usb-plug") { } }
+public class UsbSymbolIcon : BaseIcon { public UsbSymbolIcon() : base ("usb-symbol") { } }
+public class UsbIcon : BaseIcon { public UsbIcon() : base ("usb") { } }
+public class BoomboxFillIcon : BaseIcon { public BoomboxFillIcon() : base ("boombox-fill") { } }
+public class Displayport1Icon : BaseIcon { public Displayport1Icon() : base ("displayport-1") { } }
+public class DisplayportIcon : BaseIcon { public DisplayportIcon() : base ("displayport") { } }
+public class GpuCardIcon : BaseIcon { public GpuCardIcon() : base ("gpu-card") { } }
+public class MemoryIcon : BaseIcon { public MemoryIcon() : base ("memory") { } }
+public class ModemFillIcon : BaseIcon { public ModemFillIcon() : base ("modem-fill") { } }
+public class ModemIcon : BaseIcon { public ModemIcon() : base ("modem") { } }
+public class MotherboardFillIcon : BaseIcon { public MotherboardFillIcon() : base ("motherboard-fill") { } }
+public class MotherboardIcon : BaseIcon { public MotherboardIcon() : base ("motherboard") { } }
+public class OpticalAudioFillIcon : BaseIcon { public OpticalAudioFillIcon() : base ("optical-audio-fill") { } }
+public class OpticalAudioIcon : BaseIcon { public OpticalAudioIcon() : base ("optical-audio") { } }
+public class PciCardIcon : BaseIcon { public PciCardIcon() : base ("pci-card") { } }
+public class RouterFillIcon : BaseIcon { public RouterFillIcon() : base ("router-fill") { } }
+public class RouterIcon : BaseIcon { public RouterIcon() : base ("router") { } }
+public class SsdFillIcon : BaseIcon { public SsdFillIcon() : base ("ssd-fill") { } }
+public class SsdIcon : BaseIcon { public SsdIcon() : base ("ssd") { } }
+public class ThunderboltFillIcon : BaseIcon { public ThunderboltFillIcon() : base ("thunderbolt-fill") { } }
+public class ThunderboltIcon : BaseIcon { public ThunderboltIcon() : base ("thunderbolt") { } }
+public class UsbDriveFillIcon : BaseIcon { public UsbDriveFillIcon() : base ("usb-drive-fill") { } }
+public class UsbDriveIcon : BaseIcon { public UsbDriveIcon() : base ("usb-drive") { } }
+public class UsbMicroFillIcon : BaseIcon { public UsbMicroFillIcon() : base ("usb-micro-fill") { } }
+public class UsbMicroIcon : BaseIcon { public UsbMicroIcon() : base ("usb-micro") { } }
+public class UsbMiniFillIcon : BaseIcon { public UsbMiniFillIcon() : base ("usb-mini-fill") { } }
+public class UsbMiniIcon : BaseIcon { public UsbMiniIcon() : base ("usb-mini") { } }
+public class CloudHaze2Icon : BaseIcon { public CloudHaze2Icon() : base ("cloud-haze2") { } }
+public class DeviceHddFillIcon : BaseIcon { public DeviceHddFillIcon() : base ("device-hdd-fill") { } }
+public class DeviceHddIcon : BaseIcon { public DeviceHddIcon() : base ("device-hdd") { } }
+public class DeviceSsdFillIcon : BaseIcon { public DeviceSsdFillIcon() : base ("device-ssd-fill") { } }
+public class DeviceSsdIcon : BaseIcon { public DeviceSsdIcon() : base ("device-ssd") { } }
+public class DisplayportFillIcon : BaseIcon { public DisplayportFillIcon() : base ("displayport-fill") { } }
+public class MortarboardFillIcon : BaseIcon { public MortarboardFillIcon() : base ("mortarboard-fill") { } }
+public class MortarboardIcon : BaseIcon { public MortarboardIcon() : base ("mortarboard") { } }
+public class TerminalXIcon : BaseIcon { public TerminalXIcon() : base ("terminal-x") { } }
+public class ArrowThroughHeartFillIcon : BaseIcon { public ArrowThroughHeartFillIcon() : base ("arrow-through-heart-fill") { } }
+public class ArrowThroughHeartIcon : BaseIcon { public ArrowThroughHeartIcon() : base ("arrow-through-heart") { } }
+public class BadgeSdFillIcon : BaseIcon { public BadgeSdFillIcon() : base ("badge-sd-fill") { } }
+public class BadgeSdIcon : BaseIcon { public BadgeSdIcon() : base ("badge-sd") { } }
+public class BagHeartFillIcon : BaseIcon { public BagHeartFillIcon() : base ("bag-heart-fill") { } }
+public class BagHeartIcon : BaseIcon { public BagHeartIcon() : base ("bag-heart") { } }
+public class BalloonFillIcon : BaseIcon { public BalloonFillIcon() : base ("balloon-fill") { } }
+public class BalloonHeartFillIcon : BaseIcon { public BalloonHeartFillIcon() : base ("balloon-heart-fill") { } }
+public class BalloonHeartIcon : BaseIcon { public BalloonHeartIcon() : base ("balloon-heart") { } }
+public class BalloonIcon : BaseIcon { public BalloonIcon() : base ("balloon") { } }
+public class Box2FillIcon : BaseIcon { public Box2FillIcon() : base ("box2-fill") { } }
+public class Box2HeartFillIcon : BaseIcon { public Box2HeartFillIcon() : base ("box2-heart-fill") { } }
+public class Box2HeartIcon : BaseIcon { public Box2HeartIcon() : base ("box2-heart") { } }
+public class Box2Icon : BaseIcon { public Box2Icon() : base ("box2") { } }
+public class BracesAsteriskIcon : BaseIcon { public BracesAsteriskIcon() : base ("braces-asterisk") { } }
+public class CalendarHeartFillIcon : BaseIcon { public CalendarHeartFillIcon() : base ("calendar-heart-fill") { } }
+public class CalendarHeartIcon : BaseIcon { public CalendarHeartIcon() : base ("calendar-heart") { } }
+public class Calendar2HeartFillIcon : BaseIcon { public Calendar2HeartFillIcon() : base ("calendar2-heart-fill") { } }
+public class Calendar2HeartIcon : BaseIcon { public Calendar2HeartIcon() : base ("calendar2-heart") { } }
+public class ChatHeartFillIcon : BaseIcon { public ChatHeartFillIcon() : base ("chat-heart-fill") { } }
+public class ChatHeartIcon : BaseIcon { public ChatHeartIcon() : base ("chat-heart") { } }
+public class ChatLeftHeartFillIcon : BaseIcon { public ChatLeftHeartFillIcon() : base ("chat-left-heart-fill") { } }
+public class ChatLeftHeartIcon : BaseIcon { public ChatLeftHeartIcon() : base ("chat-left-heart") { } }
+public class ChatRightHeartFillIcon : BaseIcon { public ChatRightHeartFillIcon() : base ("chat-right-heart-fill") { } }
+public class ChatRightHeartIcon : BaseIcon { public ChatRightHeartIcon() : base ("chat-right-heart") { } }
+public class ChatSquareHeartFillIcon : BaseIcon { public ChatSquareHeartFillIcon() : base ("chat-square-heart-fill") { } }
+public class ChatSquareHeartIcon : BaseIcon { public ChatSquareHeartIcon() : base ("chat-square-heart") { } }
+public class ClipboardCheckFillIcon : BaseIcon { public ClipboardCheckFillIcon() : base ("clipboard-check-fill") { } }
+public class ClipboardDataFillIcon : BaseIcon { public ClipboardDataFillIcon() : base ("clipboard-data-fill") { } }
+public class ClipboardFillIcon : BaseIcon { public ClipboardFillIcon() : base ("clipboard-fill") { } }
+public class ClipboardHeartFillIcon : BaseIcon { public ClipboardHeartFillIcon() : base ("clipboard-heart-fill") { } }
+public class ClipboardHeartIcon : BaseIcon { public ClipboardHeartIcon() : base ("clipboard-heart") { } }
+public class ClipboardMinusFillIcon : BaseIcon { public ClipboardMinusFillIcon() : base ("clipboard-minus-fill") { } }
+public class ClipboardPlusFillIcon : BaseIcon { public ClipboardPlusFillIcon() : base ("clipboard-plus-fill") { } }
+public class ClipboardPulseIcon : BaseIcon { public ClipboardPulseIcon() : base ("clipboard-pulse") { } }
+public class ClipboardXFillIcon : BaseIcon { public ClipboardXFillIcon() : base ("clipboard-x-fill") { } }
+public class Clipboard2CheckFillIcon : BaseIcon { public Clipboard2CheckFillIcon() : base ("clipboard2-check-fill") { } }
+public class Clipboard2CheckIcon : BaseIcon { public Clipboard2CheckIcon() : base ("clipboard2-check") { } }
+public class Clipboard2DataFillIcon : BaseIcon { public Clipboard2DataFillIcon() : base ("clipboard2-data-fill") { } }
+public class Clipboard2DataIcon : BaseIcon { public Clipboard2DataIcon() : base ("clipboard2-data") { } }
+public class Clipboard2FillIcon : BaseIcon { public Clipboard2FillIcon() : base ("clipboard2-fill") { } }
+public class Clipboard2HeartFillIcon : BaseIcon { public Clipboard2HeartFillIcon() : base ("clipboard2-heart-fill") { } }
+public class Clipboard2HeartIcon : BaseIcon { public Clipboard2HeartIcon() : base ("clipboard2-heart") { } }
+public class Clipboard2MinusFillIcon : BaseIcon { public Clipboard2MinusFillIcon() : base ("clipboard2-minus-fill") { } }
+public class Clipboard2MinusIcon : BaseIcon { public Clipboard2MinusIcon() : base ("clipboard2-minus") { } }
+public class Clipboard2PlusFillIcon : BaseIcon { public Clipboard2PlusFillIcon() : base ("clipboard2-plus-fill") { } }
+public class Clipboard2PlusIcon : BaseIcon { public Clipboard2PlusIcon() : base ("clipboard2-plus") { } }
+public class Clipboard2PulseFillIcon : BaseIcon { public Clipboard2PulseFillIcon() : base ("clipboard2-pulse-fill") { } }
+public class Clipboard2PulseIcon : BaseIcon { public Clipboard2PulseIcon() : base ("clipboard2-pulse") { } }
+public class Clipboard2XFillIcon : BaseIcon { public Clipboard2XFillIcon() : base ("clipboard2-x-fill") { } }
+public class Clipboard2XIcon : BaseIcon { public Clipboard2XIcon() : base ("clipboard2-x") { } }
+public class Clipboard2Icon : BaseIcon { public Clipboard2Icon() : base ("clipboard2") { } }
+public class EmojiKissFillIcon : BaseIcon { public EmojiKissFillIcon() : base ("emoji-kiss-fill") { } }
+public class EmojiKissIcon : BaseIcon { public EmojiKissIcon() : base ("emoji-kiss") { } }
+public class EnvelopeHeartFillIcon : BaseIcon { public EnvelopeHeartFillIcon() : base ("envelope-heart-fill") { } }
+public class EnvelopeHeartIcon : BaseIcon { public EnvelopeHeartIcon() : base ("envelope-heart") { } }
+public class EnvelopeOpenHeartFillIcon : BaseIcon { public EnvelopeOpenHeartFillIcon() : base ("envelope-open-heart-fill") { } }
+public class EnvelopeOpenHeartIcon : BaseIcon { public EnvelopeOpenHeartIcon() : base ("envelope-open-heart") { } }
+public class EnvelopePaperFillIcon : BaseIcon { public EnvelopePaperFillIcon() : base ("envelope-paper-fill") { } }
+public class EnvelopePaperHeartFillIcon : BaseIcon { public EnvelopePaperHeartFillIcon() : base ("envelope-paper-heart-fill") { } }
+public class EnvelopePaperHeartIcon : BaseIcon { public EnvelopePaperHeartIcon() : base ("envelope-paper-heart") { } }
+public class EnvelopePaperIcon : BaseIcon { public EnvelopePaperIcon() : base ("envelope-paper") { } }
+public class FiletypeAacIcon : BaseIcon { public FiletypeAacIcon() : base ("filetype-aac") { } }
+public class FiletypeAiIcon : BaseIcon { public FiletypeAiIcon() : base ("filetype-ai") { } }
+public class FiletypeBmpIcon : BaseIcon { public FiletypeBmpIcon() : base ("filetype-bmp") { } }
+public class FiletypeCsIcon : BaseIcon { public FiletypeCsIcon() : base ("filetype-cs") { } }
+public class FiletypeCssIcon : BaseIcon { public FiletypeCssIcon() : base ("filetype-css") { } }
+public class FiletypeCsvIcon : BaseIcon { public FiletypeCsvIcon() : base ("filetype-csv") { } }
+public class FiletypeDocIcon : BaseIcon { public FiletypeDocIcon() : base ("filetype-doc") { } }
+public class FiletypeDocxIcon : BaseIcon { public FiletypeDocxIcon() : base ("filetype-docx") { } }
+public class FiletypeExeIcon : BaseIcon { public FiletypeExeIcon() : base ("filetype-exe") { } }
+public class FiletypeGifIcon : BaseIcon { public FiletypeGifIcon() : base ("filetype-gif") { } }
+public class FiletypeHeicIcon : BaseIcon { public FiletypeHeicIcon() : base ("filetype-heic") { } }
+public class FiletypeHtmlIcon : BaseIcon { public FiletypeHtmlIcon() : base ("filetype-html") { } }
+public class FiletypeJavaIcon : BaseIcon { public FiletypeJavaIcon() : base ("filetype-java") { } }
+public class FiletypeJpgIcon : BaseIcon { public FiletypeJpgIcon() : base ("filetype-jpg") { } }
+public class FiletypeJsIcon : BaseIcon { public FiletypeJsIcon() : base ("filetype-js") { } }
+public class FiletypeJsxIcon : BaseIcon { public FiletypeJsxIcon() : base ("filetype-jsx") { } }
+public class FiletypeKeyIcon : BaseIcon { public FiletypeKeyIcon() : base ("filetype-key") { } }
+public class FiletypeM4pIcon : BaseIcon { public FiletypeM4pIcon() : base ("filetype-m4p") { } }
+public class FiletypeMdIcon : BaseIcon { public FiletypeMdIcon() : base ("filetype-md") { } }
+public class FiletypeMdxIcon : BaseIcon { public FiletypeMdxIcon() : base ("filetype-mdx") { } }
+public class FiletypeMovIcon : BaseIcon { public FiletypeMovIcon() : base ("filetype-mov") { } }
+public class FiletypeMp3Icon : BaseIcon { public FiletypeMp3Icon() : base ("filetype-mp3") { } }
+public class FiletypeMp4Icon : BaseIcon { public FiletypeMp4Icon() : base ("filetype-mp4") { } }
+public class FiletypeOtfIcon : BaseIcon { public FiletypeOtfIcon() : base ("filetype-otf") { } }
+public class FiletypePdfIcon : BaseIcon { public FiletypePdfIcon() : base ("filetype-pdf") { } }
+public class FiletypePhpIcon : BaseIcon { public FiletypePhpIcon() : base ("filetype-php") { } }
+public class FiletypePngIcon : BaseIcon { public FiletypePngIcon() : base ("filetype-png") { } }
+public class FiletypePpt1Icon : BaseIcon { public FiletypePpt1Icon() : base ("filetype-ppt-1") { } }
+public class FiletypePptIcon : BaseIcon { public FiletypePptIcon() : base ("filetype-ppt") { } }
+public class FiletypePsdIcon : BaseIcon { public FiletypePsdIcon() : base ("filetype-psd") { } }
+public class FiletypePyIcon : BaseIcon { public FiletypePyIcon() : base ("filetype-py") { } }
+public class FiletypeRawIcon : BaseIcon { public FiletypeRawIcon() : base ("filetype-raw") { } }
+public class FiletypeRbIcon : BaseIcon { public FiletypeRbIcon() : base ("filetype-rb") { } }
+public class FiletypeSassIcon : BaseIcon { public FiletypeSassIcon() : base ("filetype-sass") { } }
+public class FiletypeScssIcon : BaseIcon { public FiletypeScssIcon() : base ("filetype-scss") { } }
+public class FiletypeShIcon : BaseIcon { public FiletypeShIcon() : base ("filetype-sh") { } }
+public class FiletypeSvgIcon : BaseIcon { public FiletypeSvgIcon() : base ("filetype-svg") { } }
+public class FiletypeTiffIcon : BaseIcon { public FiletypeTiffIcon() : base ("filetype-tiff") { } }
+public class FiletypeTsxIcon : BaseIcon { public FiletypeTsxIcon() : base ("filetype-tsx") { } }
+public class FiletypeTtfIcon : BaseIcon { public FiletypeTtfIcon() : base ("filetype-ttf") { } }
+public class FiletypeTxtIcon : BaseIcon { public FiletypeTxtIcon() : base ("filetype-txt") { } }
+public class FiletypeWavIcon : BaseIcon { public FiletypeWavIcon() : base ("filetype-wav") { } }
+public class FiletypeWoffIcon : BaseIcon { public FiletypeWoffIcon() : base ("filetype-woff") { } }
+public class FiletypeXls1Icon : BaseIcon { public FiletypeXls1Icon() : base ("filetype-xls-1") { } }
+public class FiletypeXlsIcon : BaseIcon { public FiletypeXlsIcon() : base ("filetype-xls") { } }
+public class FiletypeXmlIcon : BaseIcon { public FiletypeXmlIcon() : base ("filetype-xml") { } }
+public class FiletypeYmlIcon : BaseIcon { public FiletypeYmlIcon() : base ("filetype-yml") { } }
+public class HeartArrowIcon : BaseIcon { public HeartArrowIcon() : base ("heart-arrow") { } }
+public class HeartPulseFillIcon : BaseIcon { public HeartPulseFillIcon() : base ("heart-pulse-fill") { } }
+public class HeartPulseIcon : BaseIcon { public HeartPulseIcon() : base ("heart-pulse") { } }
+public class HeartbreakFillIcon : BaseIcon { public HeartbreakFillIcon() : base ("heartbreak-fill") { } }
+public class HeartbreakIcon : BaseIcon { public HeartbreakIcon() : base ("heartbreak") { } }
+public class HeartsIcon : BaseIcon { public HeartsIcon() : base ("hearts") { } }
+public class HospitalFillIcon : BaseIcon { public HospitalFillIcon() : base ("hospital-fill") { } }
+public class HospitalIcon : BaseIcon { public HospitalIcon() : base ("hospital") { } }
+public class HouseHeartFillIcon : BaseIcon { public HouseHeartFillIcon() : base ("house-heart-fill") { } }
+public class HouseHeartIcon : BaseIcon { public HouseHeartIcon() : base ("house-heart") { } }
+public class IncognitoIcon : BaseIcon { public IncognitoIcon() : base ("incognito") { } }
+public class MagnetFillIcon : BaseIcon { public MagnetFillIcon() : base ("magnet-fill") { } }
+public class MagnetIcon : BaseIcon { public MagnetIcon() : base ("magnet") { } }
+public class PersonHeartIcon : BaseIcon { public PersonHeartIcon() : base ("person-heart") { } }
+public class PersonHeartsIcon : BaseIcon { public PersonHeartsIcon() : base ("person-hearts") { } }
+public class PhoneFlipIcon : BaseIcon { public PhoneFlipIcon() : base ("phone-flip") { } }
+public class PluginIcon : BaseIcon { public PluginIcon() : base ("plugin") { } }
+public class PostageFillIcon : BaseIcon { public PostageFillIcon() : base ("postage-fill") { } }
+public class PostageHeartFillIcon : BaseIcon { public PostageHeartFillIcon() : base ("postage-heart-fill") { } }
+public class PostageHeartIcon : BaseIcon { public PostageHeartIcon() : base ("postage-heart") { } }
+public class PostageIcon : BaseIcon { public PostageIcon() : base ("postage") { } }
+public class PostcardFillIcon : BaseIcon { public PostcardFillIcon() : base ("postcard-fill") { } }
+public class PostcardHeartFillIcon : BaseIcon { public PostcardHeartFillIcon() : base ("postcard-heart-fill") { } }
+public class PostcardHeartIcon : BaseIcon { public PostcardHeartIcon() : base ("postcard-heart") { } }
+public class PostcardIcon : BaseIcon { public PostcardIcon() : base ("postcard") { } }
+public class SearchHeartFillIcon : BaseIcon { public SearchHeartFillIcon() : base ("search-heart-fill") { } }
+public class SearchHeartIcon : BaseIcon { public SearchHeartIcon() : base ("search-heart") { } }
+public class Sliders2VerticalIcon : BaseIcon { public Sliders2VerticalIcon() : base ("sliders2-vertical") { } }
+public class Sliders2Icon : BaseIcon { public Sliders2Icon() : base ("sliders2") { } }
+public class Trash3FillIcon : BaseIcon { public Trash3FillIcon() : base ("trash3-fill") { } }
+public class Trash3Icon : BaseIcon { public Trash3Icon() : base ("trash3") { } }
+public class ValentineIcon : BaseIcon { public ValentineIcon() : base ("valentine") { } }
+public class Valentine2Icon : BaseIcon { public Valentine2Icon() : base ("valentine2") { } }
+public class WrenchAdjustableCircleFillIcon : BaseIcon { public WrenchAdjustableCircleFillIcon() : base ("wrench-adjustable-circle-fill") { } }
+public class WrenchAdjustableCircleIcon : BaseIcon { public WrenchAdjustableCircleIcon() : base ("wrench-adjustable-circle") { } }
+public class WrenchAdjustableIcon : BaseIcon { public WrenchAdjustableIcon() : base ("wrench-adjustable") { } }
+public class FiletypeJsonIcon : BaseIcon { public FiletypeJsonIcon() : base ("filetype-json") { } }
+public class FiletypePptxIcon : BaseIcon { public FiletypePptxIcon() : base ("filetype-pptx") { } }
+public class FiletypeXlsxIcon : BaseIcon { public FiletypeXlsxIcon() : base ("filetype-xlsx") { } }

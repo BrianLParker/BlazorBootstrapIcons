@@ -1,6 +1,62 @@
-﻿## Blazor Components for Bootstrap Icons
+﻿
 
-|ComponentName|Bootstrap Icon Name|
+## Blazor Components for Bootstrap Icons
+
+Individual components for all of the [Bootstrap Icons](https://icons.getbootstrap.com/) 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="purple" class="bi bi-emoji-sunglasses" viewBox="0 0 16 16">
+  <path d="M4.968 9.75a.5.5 0 1 0-.866.5A4.498 4.498 0 0 0 8 12.5a4.5 4.5 0 0 0 3.898-2.25.5.5 0 1 0-.866-.5A3.498 3.498 0 0 1 8 11.5a3.498 3.498 0 0 1-3.032-1.75zM7 5.116V5a1 1 0 0 0-1-1H3.28a1 1 0 0 0-.97 1.243l.311 1.242A2 2 0 0 0 4.561 8H5a2 2 0 0 0 1.994-1.839A2.99 2.99 0 0 1 8 6c.393 0 .74.064 1.006.161A2 2 0 0 0 11 8h.438a2 2 0 0 0 1.94-1.515l.311-1.242A1 1 0 0 0 12.72 4H10a1 1 0 0 0-1 1v.116A4.22 4.22 0 0 0 8 5c-.35 0-.69.04-1 .116z"/>
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-1 0A7 7 0 1 0 1 8a7 7 0 0 0 14 0z"/>
+</svg>
+
+
+### Usage
+```html
+<EmojiSunglassesIcon />
+```
+
+By default the Icon uses the current text color in your document.
+
+The component has two parameters.
+| Parameter | Info |
+| --- | --- |
+| Size | Size of Icon in pixels. (**Default**: 24) |
+| UncapturedAttributes| Captures html markup attributes and applies them to the `<SVG />` element rendered. (**Defaults**: `class="bi" width=@Size height=@Size fill="currentColor"`. Overriding these may impact functionality.)
+### Examples
+```html
+<EmojiSmileFillIcon style="color: darkorange" />
+<ExclamationCircleIcon Size=96 class="text-danger" />
+```
+### HTML Output
+```html
+<svg class="bi" width="24" height="24" fill="currentColor" style="color: darkorange">
+    <use href="images/bootstrap-icons/bootstrap-icons.svg#emoji-smile-fill"></use>
+</svg>
+
+<svg width="96" height="96" fill="currentColor" class="text-danger">
+    <use href="images/bootstrap-icons/bootstrap-icons.svg#exclamation-circle"></use>
+</svg>
+```
+
+### Other ways to interact with the components
+#### CSS
+```css
+svg.bi {
+    ...
+    fill: purple;
+}
+```
+#### Within a Blazor .css Isolation style sheet
+```css
+::deep svg.bi {
+    ...
+    fill: orange;
+}
+```
+
+### Index
+
+Component Name|Bootstrap Icon Name|
 ---|---|
 |`<OneTwoThreeIcon />`|123|
 |`<AlarmFillIcon />`|alarm-fill|
