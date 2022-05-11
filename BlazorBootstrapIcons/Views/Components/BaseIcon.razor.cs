@@ -8,11 +8,11 @@ using Microsoft.AspNetCore.Components;
 
 namespace BlazorBootstrapIcons.Views.Components;
 
-public partial class BaseIcon
+public abstract partial class BaseIcon
 {
     private string path;
 
-    public BaseIcon(string source) => path = $"images/bootstrap-icons/bootstrap-icons.svg#{source}";
+    protected BaseIcon(string source) => path = $"images/bootstrap-icons/bootstrap-icons.svg#{source}";
 
     [Parameter]
     public int Size { get; set; } = 24;
