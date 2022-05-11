@@ -40,7 +40,7 @@
 <#@ include file="README.Header.ttinclude" once="true"#>
 Component Name|Bootstrap Icon Name|
 ---|---|
-<# foreach(var name in namePairDictionary) {#>
+<# foreach(var name in namePairDictionary.OrderBy(name=>name.Value)) {#>
 |`<<#=name.Key#>Icon />`|<#=name.Value#>|
 <#
 }#>
