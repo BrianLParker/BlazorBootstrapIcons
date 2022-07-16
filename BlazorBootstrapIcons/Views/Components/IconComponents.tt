@@ -33,6 +33,43 @@
         {
             newName = "OneTwoThree";
         }
+
+        if( newName.StartsWith("1" ))
+        {
+            newName = "One" + newName.Substring(1);       
+        }
+        if( newName.StartsWith("2" ))
+        {
+            newName = "Two" + newName.Substring(1);       
+        }
+        if( newName.StartsWith("3" ))
+        {
+            newName = "Three" + newName.Substring(1);       
+        }
+        if( newName.StartsWith("4" ))
+        {
+            newName = "Four" + newName.Substring(1);       
+        }
+        if( newName.StartsWith("5" ))
+        {
+            newName = "Five" + newName.Substring(1);       
+        }
+        if( newName.StartsWith("6" ))
+        {
+            newName = "Six" + newName.Substring(1);       
+        }
+        if( newName.StartsWith("7" ))
+        {
+            newName = "Seven" + newName.Substring(1);       
+        }
+        if( newName.StartsWith("8" ))
+        {
+            newName = "Eight" + newName.Substring(1);       
+        }
+        if( newName.StartsWith("9" ))
+        {
+            newName = "Nine" + newName.Substring(1);       
+        }
         
         namePairDictionary[newName]=name;
     }

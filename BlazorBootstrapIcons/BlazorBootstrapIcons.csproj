@@ -14,14 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Views\Components\IconComponents.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>IconComponents.tt</DependentUpon>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
     <SupportedPlatform Include="browser" />
   </ItemGroup>
 
